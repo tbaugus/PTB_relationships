@@ -19,6 +19,12 @@ notes for why these positions have no task book):
   in this phase.
 - `position_implications` pairs where either endpoint lacks a `positions` row
   (currently: DIVS->OPS3, ICT3->OPS3) are skipped for the same reason.
+
+Added during Phase 5 (forced by gap-analysis.spec.md AC-G8 — see
+specs/schema.spec.md's Changelog): `load_enhanced_position_requirements()`
+loads position_requirements for enhanced_gdoc (FireTech draft) positions
+from their inline `Position.attaches_to` / `extra_fields`, since those
+positions have no PMS 310-1 page for `load_position_requirements()` to read.
 """
 
 from __future__ import annotations
@@ -494,6 +500,80 @@ def load_position_requirements(
     return skipped
 
 
+def load_enhanced_position_requirements(
+    conn: sqlite3.Connection,
+    position_id_by_code: dict[str, int],
+    extracted_dir: Path = EXTRACTED_DIR,
+) -> None:
+    """Load position_requirements for enhanced_gdoc (FireTech draft) positions.
+
+    These positions have no PMS 310-1 qualification-requirements page (they
+    are not NWCG catalog positions), so load_position_requirements() never
+    sees them. Their prerequisite/training/experience/fitness/currency data
+    instead lives inline on each Position object in the enhanced_gdoc
+    ExtractedDocument (`attaches_to`, `extra_fields`) — captured by Phase 2
+    but never loaded into the DB in Phase 3. Discovered as a Phase-5
+    (gap-analysis) blocker: AC-G8 requires UAIS's prerequisites and
+    training/currency/fitness info_requirements to be queryable, which is
+    impossible without this data in position_requirements. See
+    specs/schema.spec.md's Changelog for the forced-fix entry.
+    """
+    source = "enhanced_gdoc Position.attaches_to / extra_fields"
+
+    doc_files = sorted(p for p in extracted_dir.glob("*.json") if p.is_file())
+    for doc_file in doc_files:
+        with open(doc_file, encoding="utf-8") as f:
+            raw = json.load(f)
+        if raw.get("document", {}).get("format") != "enhanced_gdoc":
+            continue
+        doc = ExtractedDocument.model_validate(raw)
+
+        for position in doc.positions:
+            position_id = position_id_by_code.get(position.code)
+            if position_id is None:
+                continue
+
+            seen: set[tuple[str, str]] = set()
+
+            def _insert(kind: str, value: str, detail: dict[str, Any] | None) -> None:
+                key = (kind, value)
+                if key in seen:
+                    return
+                seen.add(key)
+                conn.execute(
+                    """
+                    INSERT INTO position_requirements (position_id, kind, value, detail, source)
+                    VALUES (?, ?, ?, ?, ?)
+                    """,
+                    (position_id, kind, value, json.dumps(detail) if detail is not None else None, source),
+                )
+
+            for prereq_code in position.attaches_to or []:
+                _insert("prerequisite_position", prereq_code, None)
+
+            ef = position.extra_fields or {}
+
+            experience = ef.get("required_experience")
+            if experience:
+                _insert("experience", experience, None)
+
+            fitness = ef.get("physical_fitness")
+            if fitness:
+                _insert("fitness", fitness, None)
+
+            currency = ef.get("currency")
+            if currency:
+                _insert("currency", currency, None)
+
+            for entry in ef.get("required_training") or []:
+                value = entry.get("training") if isinstance(entry, dict) else str(entry)
+                if not value:
+                    continue
+                _insert("training", value, entry if isinstance(entry, dict) else None)
+
+    conn.commit()
+
+
 def load_position_implications(conn: sqlite3.Connection, position_id_by_code: dict[str, int]) -> list[tuple[str, str]]:
     """Load POSITION_IMPLICATIONS, skipping pairs with a missing endpoint.
 
@@ -535,6 +615,7 @@ def build_database(
         init_schema(conn)
         position_id_by_code = load_ptb_documents(conn, extracted_dir)
         skipped_requirements = load_position_requirements(conn, position_id_by_code, requirements_dir)
+        load_enhanced_position_requirements(conn, position_id_by_code, extracted_dir)
         skipped_implications = load_position_implications(conn, position_id_by_code)
         stats = {
             "positions": len(position_id_by_code),

@@ -156,6 +156,21 @@ Future app-phase tables (`candidates`, `candidate_completions`,
 
 ## Changelog
 
+- 2026-07-11 (Phase 5 forced fix): `db.py` gained
+  `load_enhanced_position_requirements()`, loading `position_requirements`
+  rows for enhanced_gdoc (FireTech draft) positions from their inline
+  `Position.attaches_to` (→ kind='prerequisite_position') and `extra_fields`
+  (required_experience → 'experience', physical_fitness → 'fitness',
+  currency → 'currency', required_training entries → 'training'). These
+  positions were never in scope for `load_position_requirements()` (no PMS
+  310-1 qualification-requirements page exists for non-catalog positions),
+  so their Phase-2-extracted requirements data sat unloaded in
+  `extracted/enhanced_ptbs_gdoc.docx.json` — a Phase 3 completeness gap not
+  caught until gap-analysis.spec.md's AC-G8 (UAIS prerequisites/
+  training/currency/fitness) had no data to query. No schema (DDL) change;
+  `position_requirements` rows for these positions use the existing
+  'prerequisite_position'/'experience'/'fitness'/'currency'/'training' kinds
+  with `source = 'enhanced_gdoc Position.attaches_to / extra_fields'`.
 - 2026-07-10: `task_equivalences.relation` gained the value `b_subsumes_a`
   (Phase 4). The `CHECK (task_a_id < task_b_id)` ordering rule makes the
   original single direction `a_subsumes_b` unable to represent a subsumption

@@ -249,7 +249,7 @@ per the rubric, append to `data/adjudications.json`, and rerun; only genuinely
 NEW pairs land on the regenerated checklist for your review. Details:
 specs/matching.spec.md § "Re-running the pipeline".
 
-### Phase 5 — Gap analysis (the product query)
+### Phase 5 — Gap analysis (the product query) — **DONE 2026-07-11, spec-checker: ALL PASS**
 `gap.py`: `closest_positions(profile) -> ranked list of (position, missing_tasks,
 missing_requirements)`, where `profile` is the candidate's full credential set:
 
@@ -281,6 +281,29 @@ them. Include a CLI demo: `python -m ptb.gap --qual ENGB` → "FIRB: 4 tasks +
 S-234 remaining (S-230, FFT1 satisfied — implied by ENGB)".
 **Check:** acceptance examples in gap-analysis.spec.md run as pytest cases,
 including at least one implied-satisfaction and one conferred-qualification case.
+
+`tests/test_gap.py` covers AC-G1–AC-G8 (9 pytest cases); spec-checker: ALL
+PASS. `python -m ptb.gap --qual ENGB` runs as a CLI demo (implemented as
+`py src/ptb/gap.py --qual ENGB` on this machine's `py` launcher); the
+worked example's #11/#13 satisfaction is read live from
+`task_equivalences.status`, so the CLI's exact remaining-count changes as
+your Phase 4 tier-2 review progresses (currently 0 confirmed, so FIRB shows
+7 gaps_tasks; PLAN's original "4 tasks + S-234" example text above was
+illustrative pre-data pseudocode, superseded by the spec's own worked
+example).
+
+**Forced Phase 3 fix, applied and documented in place:** AC-G8 (enhanced
+draft position UAIS surfacing its prerequisites/training/currency/fitness)
+had no data to query — `db.py`'s Phase 3 loader never ingested the
+enhanced_gdoc positions' inline `attaches_to`/`extra_fields`, since those
+11 FireTech positions have no PMS 310-1 catalog page for the existing
+`load_position_requirements()` to read. Added
+`db.py::load_enhanced_position_requirements()` (additive, enhanced_gdoc-only,
+no DDL change, no Phase 1-4 test broken — 87/87 tests still pass) and
+documented it in specs/schema.spec.md's Changelog (2026-07-11 entry) and in
+db.py's own docstring. `data/ptb.sqlite` rebuilt and Phase 4's
+match.py/adjudicate.py rerun on top of it (reproduced identically: 1,352
+rows, 863 probable / 489 rejected / 0 confirmed — unaffected by the fix).
 
 ### Phase 6 — Format-gap evaluation
 `report.py` computes `field_coverage` from the extraction layer and generates
