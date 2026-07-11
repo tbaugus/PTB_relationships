@@ -146,3 +146,56 @@ inventory in format-gaps.spec.md.
       UASP and FIRB; every task has a Level ∈ {Aspirant, Beginner, Journey,
       Expert}; "≥X" placeholders preserved verbatim; the format's own `O`
       code definition captured, distinct from NWCG's.
+
+## Changelog
+
+- 2026-07-11 (Phase 6 forced fix): `extract.py`'s `FIELD_MARKERS` gained
+  ~40 additional marker entries per format (signature-page phases,
+  performance-rating scale, per-assignment/per-task evaluator fields,
+  evaluation-record incident/event fields, code-definitions block,
+  prerequisite-buildup statement), and renamed two existing field names to
+  match format-gaps.spec.md's field inventory verbatim: `fbps_fuel_model` →
+  `fbps_fuel_model_group`, `level_rating` → `task_level_tier`. Also
+  corrected a mislabeled entry: the nwcg_nextgen marker text "Incident
+  Position Standards Reviewed" (a per-evaluation-record Yes/No field) had
+  been filed under `trainee_ips_review_checkbox`; it is now filed under the
+  new, correct field name `ips_reviewed_flag`, and
+  `trainee_ips_review_checkbox` is regrounded in its own marker, "(Box to be
+  checked by trainee.)" — the position-evaluation-table checkbox the
+  field inventory actually describes. Triggered by format-gaps.spec.md's
+  AC-F2/AC-F3: report.py must ground every field_coverage row in direct
+  extraction evidence, and most of the inventory's evaluation-record-level
+  fields had no `fields_observed` entry at all prior to this fix. Every new
+  marker is a literal substring verified present (or, for absences, verified
+  absent) in the ENGB, LOFR, and enhanced_ptbs_gdoc fixtures before being
+  added; see `src/ptb/extract.py`'s `FIELD_MARKERS` comments for the
+  per-format absence rationale. No task/position/document structural field
+  changed; `tasks`/`positions`/`position_tasks` counts are unaffected, only
+  `fields_observed` entries were added/renamed. `tests/test_schema.py`,
+  `test_matching.py`, `test_gap.py` re-run unaffected (fields_observed is
+  not read by db.py, match.py, or gap.py).
+- 2026-07-11 (Phase 6 forced fix, follow-up after spec-checker audit):
+  `find_fields_observed()` was changed to whitespace-normalize both the
+  marker text and each page's text before substring matching (collapsing
+  all runs of whitespace, including `\n`, to a single space). Some marker
+  phrases straddle a pdfplumber line-wrap point in one document but not
+  another (e.g. "codes are defined as:" wraps as "codes\nare defined
+  as:" in some PTBs and "The codes\nare defined as:" in others,
+  depending on that document's own line width) - without normalization,
+  `code_definitions_block` under-matched (42/59 nwcg_legacy documents
+  instead of the true 59/59). This changes matching behavior, not marker
+  content: no marker's required text changed, only how line breaks
+  within that text are tolerated.
+- 2026-07-11 (Phase 6 forced fix, second follow-up): `build_nwcg_document()`
+  now also appends `fields_observed` entries named `edition_date` and
+  `ips_reference` with a real page number (found by re-scanning
+  `pages_text` for `EDITION_DATE_RE`/`IPS_REFERENCE_CITATION_RE`, the same
+  patterns already used to compute the structural `document.edition_date`/
+  `document.ips_reference` values), whenever those values are non-null.
+  Triggered by spec-checker audit AC-F3: `report.py`'s document-level
+  classifiers for these two fields previously cited only a filename, since
+  `DocumentMeta` carries no page number for these document-wide values -
+  format-gaps.spec.md requires every row to cite document + page. No
+  DocumentMeta field changed; `document.edition_date`/`document.ips_reference`
+  values are identical to before, this only adds a page citation alongside
+  them.

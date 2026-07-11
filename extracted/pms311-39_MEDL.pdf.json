@@ -391,7 +391,39 @@
   ],
   "fields_observed": [
     {
+      "field_name": "signature_page_initiation",
+      "page": 1
+    },
+    {
+      "field_name": "signature_page_verification",
+      "page": 1
+    },
+    {
+      "field_name": "signature_page_certification",
+      "page": 1
+    },
+    {
+      "field_name": "trainee_iqcs_number",
+      "page": 1
+    },
+    {
+      "field_name": "code_definitions_block",
+      "page": 3
+    },
+    {
+      "field_name": "performance_rating_scale",
+      "page": 2
+    },
+    {
+      "field_name": "per_assignment_rating_columns",
+      "page": 5
+    },
+    {
       "field_name": "virtual_assignment_flag",
+      "page": 9
+    },
+    {
+      "field_name": "evaluator_position_on_incident",
       "page": 9
     },
     {
@@ -399,8 +431,56 @@
       "page": 9
     },
     {
-      "field_name": "fbps_fuel_model",
+      "field_name": "incident_name",
       "page": 4
+    },
+    {
+      "field_name": "incident_reference_code",
+      "page": 9
+    },
+    {
+      "field_name": "assignment_duration",
+      "page": 4
+    },
+    {
+      "field_name": "incident_kind",
+      "page": 4
+    },
+    {
+      "field_name": "location_geographic_area",
+      "page": 9
+    },
+    {
+      "field_name": "management_type",
+      "page": 9
+    },
+    {
+      "field_name": "rx_complexity_level",
+      "page": 4
+    },
+    {
+      "field_name": "fbps_fuel_model_group",
+      "page": 4
+    },
+    {
+      "field_name": "evaluator_recommendation_block",
+      "page": 9
+    },
+    {
+      "field_name": "remarks_narrative",
+      "page": 4
+    },
+    {
+      "field_name": "evaluator_relevant_qualification",
+      "page": 9
+    },
+    {
+      "field_name": "edition_date",
+      "page": 1
+    },
+    {
+      "field_name": "ips_reference",
+      "page": 2
     }
   ],
   "extra_fields": {}

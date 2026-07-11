@@ -683,8 +683,76 @@
   ],
   "fields_observed": [
     {
+      "field_name": "signature_page_initiation",
+      "page": 1
+    },
+    {
+      "field_name": "signature_page_verification",
+      "page": 2
+    },
+    {
+      "field_name": "signature_page_certification",
+      "page": 2
+    },
+    {
+      "field_name": "code_definitions_block",
+      "page": 3
+    },
+    {
+      "field_name": "per_task_evaluator_initials",
+      "page": 6
+    },
+    {
+      "field_name": "evaluator_position_on_incident",
+      "page": 15
+    },
+    {
+      "field_name": "incident_name",
+      "page": 4
+    },
+    {
+      "field_name": "incident_reference_code",
+      "page": 15
+    },
+    {
+      "field_name": "assignment_duration",
+      "page": 4
+    },
+    {
+      "field_name": "incident_kind",
+      "page": 4
+    },
+    {
+      "field_name": "location_geographic_area",
+      "page": 15
+    },
+    {
+      "field_name": "management_type",
+      "page": 4
+    },
+    {
+      "field_name": "rx_complexity_level",
+      "page": 4
+    },
+    {
+      "field_name": "fbps_fuel_model_group",
+      "page": 5
+    },
+    {
+      "field_name": "evaluator_recommendation_block",
+      "page": 15
+    },
+    {
       "field_name": "per_task_completion_date",
       "page": 6
+    },
+    {
+      "field_name": "evaluator_relevant_qualification",
+      "page": 5
+    },
+    {
+      "field_name": "edition_date",
+      "page": 1
     }
   ],
   "extra_fields": {}

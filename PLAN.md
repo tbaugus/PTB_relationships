@@ -305,12 +305,46 @@ db.py's own docstring. `data/ptb.sqlite` rebuilt and Phase 4's
 match.py/adjudicate.py rerun on top of it (reproduced identically: 1,352
 rows, 863 probable / 489 rejected / 0 confirmed — unaffected by the fix).
 
-### Phase 6 — Format-gap evaluation
-`report.py` computes `field_coverage` from the extraction layer and generates
-`reports/format_gaps.md`: matrix + Claude-written narrative on what each gap means
-and what reconciling formats would take. Regenerable at any time; never hand-edited.
-**Check:** every matrix cell traceable to extraction evidence; report contains no
-imputed values.
+### Phase 6 — Format-gap evaluation — **DONE 2026-07-11, spec-checker: ALL PASS**
+`report.py` computes `field_coverage` from the extraction layer (`extracted/*.json`)
+and generates `reports/format_gaps.md`: a 47-field × 3-format matrix + narrative on
+what each gap means and what reconciling formats would take. Regenerable at any
+time (`py src/ptb/extract.py` then `py src/ptb/report.py`); never hand-edited.
+
+`data/ptb.sqlite`'s `field_coverage` table: 141 rows (80 captured, 61
+absent_from_format, 0 present_but_blank_in_samples — this corpus currently has
+no genuine blank-vs-absent case, since the one candidate, enhanced_gdoc's
+`edition_date`, turned out to be a real structural absence: the draft PDF has
+zero "PMS" occurrences at all).
+
+**Forced Phase 2 fix, applied and documented in place:** most of the field
+inventory's evaluation-record-level fields had no `fields_observed` detector
+at all before this phase (extraction only tracked 6 of 47 fields), which would
+have forced report.py to guess at ~40 field_coverage rows. Instead,
+`extract.py`'s `FIELD_MARKERS` gained ~45 additional marker entries per format,
+each a literal substring verified present (or, for claimed absences, verified
+absent) directly against the ENGB/LOFR/enhanced_ptbs_gdoc fixtures before being
+added, plus a whitespace-normalization fix to `find_fields_observed()` (a
+marker phrase can straddle a pdfplumber line-wrap in one document and not
+another) and two field-name corrections to match format-gaps.spec.md's
+inventory verbatim (`fbps_fuel_model`→`fbps_fuel_model_group`,
+`level_rating`→`task_level_tier`) plus one mislabeling fix
+(`trainee_ips_review_checkbox`'s marker had actually been evidencing a
+different field, `ips_reviewed_flag`). All documented in
+specs/extraction.spec.md's Changelog (2026-07-11, three entries). No
+task/position/document structural field changed — every one of the 99
+regenerated `extracted/*.json` files differs from before in its
+`fields_observed` array only.
+
+`tests/test_report.py` covers AC-F1–AC-F6 (21 pytest cases, including a test
+that copies format-gaps.spec.md's field inventory verbatim and diffs it
+against report.py's own list, added after a spec-checker audit round caught
+`location_geographic_area` silently missing from report.py). Full suite:
+108/108 passing.
+
+**This was the last phase in this PLAN.** No further phases are planned;
+future work is the candidate-facing app layer described in "Future expansion
+hooks" below, which is out of scope for this build.
 
 ## Spec-checker sub-agent (`.claude/agents/spec-checker.md`)
 

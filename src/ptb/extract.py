@@ -34,22 +34,112 @@ LEGACY_MARKER_RE = re.compile(r"NWCG Task Book for the Positions? of:")
 ENHANCED_MARKER = "FireTech Position Task Books"
 
 EDITION_DATE_RE = re.compile(r"PMS\s*[\d-]+\s+([A-Z]+ \d{4})")
+# Mirrors structure/nextgen.py's IPS_REFERENCE_RE; used only to locate which
+# page an already-extracted ips_reference value came from, for a page
+# citation in fields_observed (format-gaps.spec.md's evidence rule).
+IPS_REFERENCE_CITATION_RE = re.compile(r"PMS\s*350-\d+[A-Za-z]?")
 
 FIELD_MARKERS = {
+    # nwcg_nextgen markers grounded in the fixture ENGB (pms311-103_ENGB.pdf):
+    # signature page = page 1; instructions = pages 2-3; position evaluation
+    # table = pages 5-7; position evaluation record form = pages 8+.
     "nwcg_nextgen": [
+        ("signature_page_initiation", "Initiation"),
+        ("signature_page_verification", "Verification"),
+        ("signature_page_certification", "Agency Certification"),
+        ("trainee_iqcs_number", "IQCS/IQS#:"),
+        ("code_definitions_block", "codes are defined as:"),
+        # Position-evaluation-TABLE checkbox ("Box to be checked by trainee.");
+        # distinct from ips_reviewed_flag below, which is a per-record Yes/No
+        # field on the position evaluation RECORD form. CRWB uses a footnote
+        # instead of this checkbox (PLAN.md Phase 0 finding) - intra-format
+        # variance, not a format-absence.
+        ("trainee_ips_review_checkbox", "(Box to be checked by trainee.)"),
+        ("performance_rating_scale", "N/O = No opportunity"),
+        ("per_assignment_rating_columns", "CODE Record Number"),
         ("virtual_assignment_flag", "Virtual Assignment"),
+        ("ips_reviewed_flag", "Incident Position Standards Reviewed"),
+        ("evaluator_position_on_incident", "Evaluator Position on Incident/Event:"),
         ("evaluator_iqcs_number", "IQCS/IQS #"),
-        ("fbps_fuel_model", "FBPS Fuel Model"),
-        ("trainee_ips_review_checkbox", "Incident Position Standards Reviewed"),
+        ("incident_name", "Incident/Event Name:"),
+        ("incident_reference_code", "Reference (Incident Number/Fire Code):"),
+        ("assignment_duration", "Duration:"),
+        ("incident_kind", "Incident Kind:"),
+        ("location_geographic_area", "Location (include Geographic Area"),
+        ("management_type", "Management Type:"),
+        ("rx_complexity_level", "Prescribed Fire Complexity Level"),
+        ("fbps_fuel_model_group", "FBPS Fuel Model"),
+        ("evaluator_recommendation_block", "(Initial only one line as appropriate)"),
+        ("remarks_narrative", "Remarks on Individual Performance"),
+        ("evaluator_relevant_qualification", "Relevant Qualification"),
     ],
+    # nwcg_legacy markers grounded in the fixture LOFR (pms-311-05_LOFR.pdf):
+    # signature/verification/certification = pages 1-2; instructions = pages
+    # 3-5; evaluation record form = pages 18+. Confirmed absent on this
+    # fixture (no marker added, see format-gaps.spec.md narrative):
+    # performance_rating_scale, per_assignment_rating_columns,
+    # virtual_assignment_flag, ips_reviewed_flag, trainee_iqcs_number,
+    # evaluator_iqcs_number (0 "IQCS" occurrences anywhere in this 2010-era
+    # fixture, confirmed on a random sample of other legacy documents too -
+    # legacy identifies the evaluator by name/agency only, no IQCS number
+    # field), remarks_narrative (legacy points to a separate "Individual
+    # Performance Evaluation" attachment instead of an inline remarks field).
     "nwcg_legacy": [
-        ("evaluator_iqcs_number", "IQCS/IQS#"),
-        ("fbps_fuel_model", "FBPS Fuel Model Group"),
+        ("signature_page_initiation", "Task Book Initiated By:"),
+        ("signature_page_verification", "Verification/Certification of Completed Task Book"),
+        ("signature_page_certification", "Agency Certification"),
+        ("prerequisite_buildup_statement", "builds on tasks from previous prerequisite position task books"),
+        ("code_definitions_block", "codes are defined as:"),
+        ("per_task_evaluator_initials", "EVALUATOR:"),
+        ("evaluator_position_on_incident", "Evaluator Position on Incident/Event:"),
+        ("incident_name", "Incident/Event Name:"),
+        ("incident_reference_code", "Reference (Incident Number/Fire Code):"),
+        ("assignment_duration", "Duration:"),
+        ("incident_kind", "Incident Kind:"),
+        ("location_geographic_area", "Location (include Geographic Area"),
+        ("management_type", "Management Type"),
+        ("rx_complexity_level", "Prescribed Fire Complexity Level"),
+        ("fbps_fuel_model_group", "FBPS Fuel Model"),
+        ("evaluator_recommendation_block", "(Initial only one line as appropriate)"),
         ("per_task_completion_date", "Initial & date"),
+        ("evaluator_relevant_qualification", "Relevant Qualification"),
     ],
+    # enhanced_gdoc markers grounded in enhanced_ptbs_gdoc.pdf: page 1 intro;
+    # page 2 shared Evaluation Record template (per-assignment fields); each
+    # position's own section ends with a "Final Evaluator's Verification"
+    # (numbered recommendation options) + "Agency Certification" block - the
+    # verification/certification phases exist, per-position, rather than as
+    # one document-wide signature page. No rating-scale grid, and several
+    # evaluation-record fields the NWCG formats have are simply not asked on
+    # this draft's one shared record template - confirmed absent on this
+    # document (0 occurrences checked across full text), no marker added:
+    # virtual_assignment_flag, ips_reviewed_flag, evaluator_iqcs_number,
+    # trainee_iqcs_number, performance_rating_scale,
+    # per_assignment_rating_columns, incident_kind, location_geographic_area,
+    # assignment_duration, fbps_fuel_model_group,
+    # evaluator_relevant_qualification (0 occurrences; the format's
+    # certification block names no specific qualification field). No separate initiation
+    # phase either (no marker for signature_page_initiation): trainee
+    # identification lives only in the generic per-assignment Evaluation
+    # Record template, not a one-time initiation event. No
+    # prerequisite_buildup_statement marker: the format has its own distinct
+    # per-position "Prerequisite" field instead, captured structurally via
+    # positions.requirements_text.
     "enhanced_gdoc": [
+        ("officiality_disclaimer", "NOT official NWCG standards"),
+        ("code_definitions_block", "Task code definitions"),
         ("per_task_completion_date", "Eval Rec #"),
-        ("level_rating", "Level"),
+        ("per_task_evaluator_initials", "Initials & Date"),
+        ("task_level_tier", "Level"),
+        ("evaluator_position_on_incident", "Evaluator name / position on"),
+        ("incident_name", "Incident / event name"),
+        ("incident_reference_code", "Reference (incident code /"),
+        ("management_type", "Management Type (circle"),
+        ("rx_complexity_level", "Complexity (circle one)"),
+        ("remarks_narrative", "Record of performance /"),
+        ("signature_page_verification", "Final Evaluator"),
+        ("signature_page_certification", "Agency Certification"),
+        ("evaluator_recommendation_block", "performed under my"),
     ],
 }
 
@@ -65,10 +155,18 @@ def detect_format(full_text: str) -> str | None:
 
 
 def find_fields_observed(pages_text: list[str], fmt: str) -> list[FieldObserved]:
+    """Marker match is whitespace-normalized: pdfplumber's line-wrap point for
+    a given sentence varies by document (font/margin differences), so a
+    marker phrase can straddle a '\\n' in one document and not another (e.g.
+    "codes are defined as:" wraps as "codes\\nare defined as:" in some PTBs).
+    Collapsing all whitespace runs to single spaces before matching makes
+    marker detection robust to that layout variance without changing what
+    text must actually be present."""
     observed = []
     for field_name, marker in FIELD_MARKERS.get(fmt, []):
+        marker_norm = re.sub(r"\s+", " ", marker)
         for i, text in enumerate(pages_text, start=1):
-            if marker in text:
+            if marker_norm in re.sub(r"\s+", " ", text):
                 observed.append(FieldObserved(field_name=field_name, page=i))
                 break
     return observed
@@ -77,6 +175,18 @@ def find_fields_observed(pages_text: list[str], fmt: str) -> list[FieldObserved]
 def find_edition_date(full_text: str) -> str | None:
     m = EDITION_DATE_RE.search(full_text)
     return m.group(1) if m else None
+
+
+def find_page_for_pattern(pages_text: list[str], pattern: re.Pattern) -> int | None:
+    """First 1-indexed page whose text matches `pattern` - used to give
+    document-level fields (edition_date, ips_reference) a page citation for
+    format-gaps.spec.md's evidence rule, without adding a new DocumentMeta
+    field. Recorded as a `fields_observed` entry alongside the existing
+    document.edition_date/document.ips_reference structural values."""
+    for i, text in enumerate(pages_text, start=1):
+        if pattern.search(text):
+            return i
+    return None
 
 
 def split_position_titles(doc_title: str, position_codes: list[str]) -> list[str]:
@@ -116,6 +226,15 @@ def build_nwcg_document(entry: dict) -> ExtractedDocument | None:
     ]
     tasks = [TaskModel(**t) for t in raw_tasks]
     fields_observed = find_fields_observed(pages_text, fmt)
+    edition_date = find_edition_date(full_text)
+    if edition_date is not None:
+        page = find_page_for_pattern(pages_text, EDITION_DATE_RE)
+        if page is not None:
+            fields_observed.append(FieldObserved(field_name="edition_date", page=page))
+    if ips_reference is not None:
+        page = find_page_for_pattern(pages_text, IPS_REFERENCE_CITATION_RE)
+        if page is not None:
+            fields_observed.append(FieldObserved(field_name="ips_reference", page=page))
 
     document = DocumentMeta(
         filename=entry["filename"],
@@ -124,7 +243,7 @@ def build_nwcg_document(entry: dict) -> ExtractedDocument | None:
         format=fmt,
         position_codes=position_codes,
         title=entry["title"],
-        edition_date=find_edition_date(full_text),
+        edition_date=edition_date,
         ips_reference=ips_reference,
         official=entry.get("official", True),
         page_count=page_count,
