@@ -219,6 +219,15 @@ implications, per this phase's known-gaps distinction below).
    `py src/ptb/adjudicate.py promote <pair_key> confirm|reject [--note "..."]`
    Decisions land in `data/confirmations.json` (text-keyed, survives rebuilds)
    and re-apply to the DB automatically with `human_reviewed_at` set.
+   **Non-technical reviewer alternative (e.g. an SME in Google Sheets):**
+   `py src/ptb/review_sheet.py export` writes
+   `reports/tier2_review_sheet.xlsx` (Instructions tab + one row per probable
+   pair with a Confirm/Reject/Not-sure dropdown); upload to Google Sheets,
+   have them fill the two yellow columns, download as .xlsx, then
+   `py src/ptb/review_sheet.py ingest <file> --reviewer "Name"` converts
+   their decisions into confirmations and re-applies to the DB. "Not sure"
+   and blank rows stay probable and reappear on the next export; re-ingesting
+   a corrected sheet is safe (newest decision per pair wins).
 **Check:** spec-checker audit vs matching.spec.md: ALL PASS (AC-M1–M8);
 `tests/test_matching.py` (34 pytest cases) locks every acceptance criterion.
 Changelog entries added this phase (see specs/): `b_subsumes_a` relation value
