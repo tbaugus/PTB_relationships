@@ -1,0 +1,527 @@
+{
+  "document": {
+    "filename": "pms311-83_ACAC.pdf",
+    "sha256": "ee45504a61f2948e88f0fd0ca437c2823ba71e407867026f8e85dff482fcd61d",
+    "pms_number": "311-83",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "ACAC"
+    ],
+    "title": "Area Command Aviation Coordinator",
+    "edition_date": "JUNE 2009",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 13
+  },
+  "positions": [
+    {
+      "code": "ACAC",
+      "title": "Area Command Aviation Coordinator",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "ACAC",
+      "task_number": 1,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from Area Commander on expectations, concerns, and constraints.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Area Command issues",
+        "Status of incidents and assigned aviation resources",
+        "Competition for air resources",
+        "Factors affecting resource prioritization"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 2,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefings from Assistant Area Commanders (Logistics and Planning) on expectations, concerns and constraints.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Logistical factors that may affect aviation",
+        "Assistant Area Command, Logistics, issues",
+        "Planning factors that may affect aviation",
+        "Assistant Area Command, Planning, issues"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 3,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships (e.g., Incident Management Teams (IMTs), agencies, cooperators, command and general staff).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 4,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate and communicate potentially hazardous situations.",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 5,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Allocate air and ground-based aviation resources according to area command priorities and objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 6,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Visit aviation bases and locations, provide oversight and resolve issues.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 7,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 8,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with local unit(s).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Aviation managers",
+        "Dispatch centers",
+        "Aviation facility managers"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 9,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with geographic area agency aviation managers and coordination centers.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 10,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure inter-incident movement of aircraft is planned, coordinated and communicated.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 11,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with appropriate aviation personnel to ensure Temporary Flight Restrictions (TFR) are in place, coordinated, and do not overlap.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Air Operations Branch Directors",
+        "Local unit(s) aviation managers",
+        "Dispatch",
+        "Federal Aviation Administration (FAA)",
+        "Department of Defense",
+        "Airspace Coordinator",
+        "Local aviation authorities and administrators"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 12,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with appropriate resources to establish coordinated aviation communication plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Air Operations Branch Directors",
+        "Communications Unit Leaders",
+        "Frequency coordinators",
+        "Coordination centers",
+        "Initial attack dispatch"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 13,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate demobilization of aviation resources based on overall Area Command prioritization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Communicate and update aviation demobilization plans as necessary."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 14,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Give status reports and situation appraisals for aviation assets and resources to incident, dispatch and coordination centers.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 15,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure a process for timely transmittal of incident reports and oversee process to ensure corrective action is taken.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 16,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain a log of strategic decisions and significant events for inclusion in Area Command final package.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 17,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide incidents, local initial attack forces and other interested parties with an area aviation plan outlining area command aviation procedures and specifics of the area aviation operation.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 18,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure flight following procedures, entry/exit routes and corridors, hazards, frequencies, and incident air space are documented and known to those affected.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 19,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop aviation procedural plans as necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Initial attack protocols",
+        "TFR management",
+        "FAA temporary towers",
+        "Frequency management"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 20,
+      "category": "Administer and/or apply agency policy, contracts and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate contract issues with contracting officers, local aviation managers, and vendors.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Fueling",
+        "Contract modifications",
+        "Contract extensions",
+        "Contract interpretation"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 21,
+      "category": "Administer and/or apply agency policy, contracts and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with military officials and agency representatives concerning the assignment, utilization, status, and disposition of military aviation assets.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 22,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor incident(s) aviation cost, efficiency and effectiveness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 23,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine availability and status of committed and uncommitted aviation resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 24,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure a risk management process is established, documented and maintained.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 25,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate and manage aviation program and operations of aviation assets assigned to area command.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 26,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Schedule and move aviation safety assistance teams among incidents.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 27,
+      "category": "Anticipate, recognize and mitigate unsafe situations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure potential risks of operating on, near, or within military training routes and special-use airspace are mitigated.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 28,
+      "category": "Anticipate, recognize and mitigate unsafe situations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure potential risks of aviation operations are mitigated.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 29,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure agency(ies) policy, regulations, and safety procedures are followed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 30,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with local and adjacent initial attack aircraft bases and local dispatch to ensure procedures for transiting incident area and corridors are in place.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 31,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure aviation frequency management.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "ACAC",
+      "task_number": 32,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure aviation safety oversight based on agency policy and procedures and FAA regulations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

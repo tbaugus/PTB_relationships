@@ -1,0 +1,26 @@
+{
+  "position_code": "AREP",
+  "required_training": [
+    "ICS-100, Introduction to the Incident Command System",
+    "ICS-200, ICS for Single Resources and Initial Action Incidents",
+    "IS-700, National Incident Management System, An Introduction",
+    "IS-800, National Response Framework, An Introduction"
+  ],
+  "required_experience": [
+    "Agency established"
+  ],
+  "required_experience_prereq_codes": [],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Incident Commander Complex ( ICCI )",
+    "Liaison Officer ( LOFR )"
+  ],
+  "maintains_currency_for": [
+    "Liaison Officer ( LOFR )"
+  ],
+  "other_training": [
+    "E/L 956, All-Hazards Position Specific Liaison Officer",
+    "L-180, Human Factors in the Wildland Fire Service"
+  ],
+  "note": "This is not a Command or General Staff position."
+}

@@ -1,0 +1,32 @@
+{
+  "position_code": "ORDM",
+  "required_training": [
+    "ICS-100: Introduction to the Incident Command System",
+    "ICS-200, ICS for Single Resources and Initial Action Incidents",
+    "IS-700: National Incident Management System, An Introduction"
+  ],
+  "required_experience": [
+    "Completion and Certification of NWCG Ordering Manager (ORDM) Position Task Book , PMS 311-43"
+  ],
+  "required_experience_prereq_codes": [],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Expanded Dispatch Recorder ( EDRC )",
+    "Logistics Section Chief Complex ( LSCC )",
+    "Logistics Section Chief Type 3 ( LSC3 )",
+    "Receiving/Distribution Manager ( RCDM )",
+    "Supply Unit Leader ( SPUL )"
+  ],
+  "maintains_currency_for": [
+    "Expanded Dispatch Recorder ( EDRC )",
+    "Logistics Section Chief Type 3 ( LSC3 )",
+    "Receiving/Distribution Manager ( RCDM )",
+    "Supply Unit Leader ( SPUL )"
+  ],
+  "other_training": [
+    "Ordering Manager Job Aid , J-252",
+    "S-110, Basic Wildland Fire Orientation",
+    "S-260, Interagency Incident Business Management"
+  ],
+  "note": null
+}

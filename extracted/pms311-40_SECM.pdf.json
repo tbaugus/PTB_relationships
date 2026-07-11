@@ -1,0 +1,691 @@
+{
+  "document": {
+    "filename": "pms311-40_SECM.pdf",
+    "sha256": "03eca8eec442c2568f13190d92b55e1cd7196ffc43a7992742d61335d5e8d7d5",
+    "pms_number": "311-40",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "SECM"
+    ],
+    "title": "Security Manager",
+    "edition_date": "JUNE 2009",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 16
+  },
+  "positions": [
+    {
+      "code": "SECM",
+      "title": "Security Manager",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "SECM",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit. Suggested items:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "PMS 410-1, Fireline Handbook",
+        "ICS 214, Unit Log",
+        "Basic office supplies",
+        "Flagging",
+        "J-259, Security Manager Job Aid",
+        "Incident reporting forms",
+        "Personal protective equipment (PPE)"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Incident order number",
+        "Request number",
+        "Incident phone number",
+        "Reporting time",
+        "Reporting location",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)",
+        "Special instructions"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 3,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive at incident and check in.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Arrive properly equipped at assigned location within acceptable time limits."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Logistics Section Chief and other functional areas to obtain resources to organize work space and keep unit operating.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Order materials and supplies using established procedures.",
+        "Maintain adequate quantities of forms, supplies, and materials to prevent shortage of basic needed items.",
+        "Obtain equipment to complete assignment (e.g., radio, telephones, faxes, computers).",
+        "Coordinate a security frequency with Communications Unit Leader.",
+        "Be familiar with ICS 205, Incident Radio Communication Plan from the Incident Action Plan (IAP) or other relevant plans.",
+        "Ensure appropriate personnel to support unit (e.g., night operational period, increase/reduce staffing).",
+        "Ensure shift tickets and agreements are in place, current, and understood by unit personnel."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 5,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure security personnel know radio operating procedures.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather information to assess the incident assignment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "General",
+        "Mobilization",
+        "Incident activities",
+        "Unit briefings",
+        "Planning meetings",
+        "Demobilization"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 7,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from Logistics Section Chief/ supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Work space",
+        "Work schedule",
+        "Policies and operating procedures",
+        "Current resource commitments",
+        "Current situation",
+        "Expected duration of assignment",
+        "IAP or other relevant plan"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 8,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Contact agency representative to identify special requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Security operations",
+        "Security plan",
+        "Evacuation plan",
+        "Traffic control",
+        "Other conditions"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 9,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct self in a professional manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Respectful and courteous",
+        "Respectful of public and private property"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 10,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 11,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish contacts with local law enforcement agencies as required.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide names and telephone numbers in the incident security plan.",
+        "Clarify authority and jurisdiction."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 12,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize assigned personnel to meet the needs of the assignment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 13,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Maintain appropriate span of control.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 14,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 15,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well- being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 16,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 17,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate and communicate potentially hazardous situations.",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 18,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete daily review of staffing requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 19,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop schedule/assignments based on IAP or relevant plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 20,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure subordinates understand assignment for operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide clear, concise instructions and allow for feedback."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 21,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually evaluate performance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Communicate deficiencies immediately and take corrective action.",
+        "Provide training opportunities where available.",
+        "Complete personnel performance evaluations according to agency guidelines."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 22,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 23,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate security activities with appropriate incident personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide recommendations to Logistics Section Chief through the supervisor.",
+        "Coordinate with appropriate command or general staff."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 24,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with appropriate units and provide a list of excess personnel and facilities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review list daily."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 25,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief and keep subordinates informed and updated.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 26,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 27,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain documentation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "ICS 214, Unit Log",
+        "Investigative package",
+        "Agency specific forms",
+        "Accident forms",
+        "Lost/Damage forms"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 28,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and approve subordinate time reports.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 29,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and implement a security plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate with command, general staff and local agency.",
+        "Write plan early in the incident."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 30,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Modify security plan for personnel and equipment changes and releases.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Adjust to reflect changes in concerns and requirements."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 31,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Implement a risk management process.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 32,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Base actions on Security Plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate with jurisdictional authority(ies).",
+        "Implement appropriate tactics.",
+        "Provide for public and incident personnel safety."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 33,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure established guidelines are followed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Work/rest",
+        "Agency safety standards and procedures"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 34,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Inform subordinate staff and IC.",
+        "Document follow-up action needed and submit to supervisor."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 35,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure investigative packages and chain of evidence are properly transferred to replacement(s) or appropriate agency representative(s).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 36,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify excess resources.",
+        "Prepare schedule for demobilization."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 37,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demobilize and check out.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive demobilization instructions from incident supervisor.",
+        "If required, complete ICS 221, Demobilization Checkout and submit completed form to the appropriate person."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "SECM",
+      "task_number": 38,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief subordinate staff on demobilization procedures and responsibilities.",
+        "Ensure incident and agency demobilization procedures are followed."
+      ],
+      "page": 14
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

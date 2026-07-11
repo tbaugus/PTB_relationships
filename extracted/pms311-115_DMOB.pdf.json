@@ -1,0 +1,273 @@
+{
+  "document": {
+    "filename": "pms311-115_DMOB.pdf",
+    "sha256": "4a5f48382bce5e21e152be21156558099881134135e2c5f74eb9ee496b9c89f2",
+    "pms_number": "311-115",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "DMOB"
+    ],
+    "title": "Demobilization Unit Leader",
+    "edition_date": "JANUARY 2025",
+    "ips_reference": "350-115",
+    "official": true,
+    "page_count": 11
+  },
+  "positions": [
+    {
+      "code": "DMOB",
+      "title": "Demobilization Unit Leader",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "DMOB",
+      "task_number": 1,
+      "category": "Leadership Level 3, Leader of People (Develop Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Leaders of people have increasing challenges. They accept responsibility, not only for their own actions, but for those of their team. Leaders of people act to develop credibility as leaders: placing the team ahead of themselves, demonstrating tru stworthiness, mastering essential technical skills, and instilling the values of the organization in their teams.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "DMOB",
+      "task_number": 2,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assemble and validate the readiness of personnel and equipment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "DMOB",
+      "task_number": 3,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure incident objectives and performance standards are met.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "DMOB",
+      "task_number": 4,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor performance and provide immediate and consistent feedback to assigned personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DMOB",
+      "task_number": 5,
+      "category": "Perform Demobilization Unit Leader-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare the Demobilization Plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DMOB",
+      "task_number": 6,
+      "category": "Perform Demobilization Unit Leader-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Implement the Demobilization Plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DMOB",
+      "task_number": 7,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend incident briefings and meetings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DMOB",
+      "task_number": 8,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain continuity of operations with other sections, units, and dispatch.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DMOB",
+      "task_number": 9,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct and/or participate in After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DMOB",
+      "task_number": 10,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain physical and mental safety of self and assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DMOB",
+      "task_number": 11,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Adhere to established guidelines for work/rest, personal protective equipment (PPE), and communication.",
+      "code_raw": "I/R",
+      "code_alternatives": [
+        "I",
+        "R"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DMOB",
+      "task_number": 12,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources do not exceed length of assignment policy.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DMOB",
+      "task_number": 13,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor for signs and symptoms of fatigue, illness, or injury. Mitigate as appropriate.",
+      "code_raw": "I/R",
+      "code_alternatives": [
+        "I",
+        "R"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DMOB",
+      "task_number": 14,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "File required documents as appropriate for each operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "DMOB",
+      "task_number": 15,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare for transition.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "DMOB",
+      "task_number": 16,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan for demobilization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 8
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 8
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 8
+    }
+  ],
+  "extra_fields": {}
+}

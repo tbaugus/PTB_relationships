@@ -1,0 +1,187 @@
+{
+  "document": {
+    "filename": "pms311-67_ACDP.pdf",
+    "sha256": "f6fb77cc1a2bad28a628c80daa467c5f042c006c371df7cc8eebadd1e3958d2e",
+    "pms_number": "311-67",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "ACDP"
+    ],
+    "title": "Aircraft Dispatcher",
+    "edition_date": "JANUARY 2025",
+    "ips_reference": "350-67",
+    "official": true,
+    "page_count": 10
+  },
+  "positions": [
+    {
+      "code": "ACDP",
+      "title": "Aircraft Dispatcher",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "ACDP",
+      "task_number": 1,
+      "category": "Leadership Level 2, New Leader (Convey Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications. For additional information, review the Level 2 description, expected behaviors and knowledge, suggested development goals, and self-study opportunities.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "ACDP",
+      "task_number": 2,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from supervisor and/or previous shift/assignment position as necessary.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "ACDP",
+      "task_number": 3,
+      "category": "Perform Aircraft Dispatcher-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform daily non-incident tasks.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ACDP",
+      "task_number": 4,
+      "category": "Perform Aircraft Dispatcher-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Dispatch tactical aircraft for incident response.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ACDP",
+      "task_number": 5,
+      "category": "Perform Aircraft Dispatcher-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Receive and process additional aviation resource requests.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ACDP",
+      "task_number": 6,
+      "category": "Perform Aircraft Dispatcher-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Dispatch logistical aircraft.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ACDP",
+      "task_number": 7,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain communication with frequent contacts.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ACDP",
+      "task_number": 8,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in briefings and/or After Action Reviews (AARs).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ACDP",
+      "task_number": 9,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Implement risk management strategies.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ACDP",
+      "task_number": 10,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete all administrative tasks and documentation in an accurate and timely manner.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 7
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 7
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 7
+    }
+  ],
+  "extra_fields": {}
+}

@@ -1,0 +1,769 @@
+{
+  "document": {
+    "filename": "pms311-16_STAM.pdf",
+    "sha256": "959f1d5cad9468d10c9d6b246393bc2cb6a5109e59ef49ae6f53b9fe133bb7ea",
+    "pms_number": "311-16",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "STAM"
+    ],
+    "title": "Staging Area Manager",
+    "edition_date": "JUNE 2009",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 17
+  },
+  "positions": [
+    {
+      "code": "STAM",
+      "title": "Staging Area Manager",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "STAM",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit. Suggested items:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident specific reference materials",
+        "PMS 410-1, Fireline Handbook",
+        "Documentation materials",
+        "PMS 461, Incident Response Pocket Guide (IRPG)",
+        "Local telephone directory"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Incident order number",
+        "Request number",
+        "Incident phone number",
+        "Reporting time",
+        "Reporting location",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 3,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive at incident and check in.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Arrive properly equipped at assigned location within acceptable time limits."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine need for assistance by assessing span of control.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Resources assigned",
+        "Support needs for resources",
+        "Anticipated duration of staging",
+        "Contingency plan objectives",
+        "Number of operational periods per day"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 5,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine and order support needs.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Compile an inventory list of resources on site or en route to site.",
+        "Discuss resource needs with supervisors who are assigned to staging area.",
+        "Evaluate needs for sanitation facilities, food, water, fuel for vehicles and aircraft, maintenance, communications, and other resource requirements.",
+        "Record resource needs on ICS 213, General Message.",
+        "Coordinate and discuss resource needs with Operations Section Chief and determine how orders will be placed.",
+        "Place orders through Operations Section Chief or designated section (logistics).",
+        "Set up a system for tracking resources requested vs. resources actually received."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from Operations Section Chief.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Current resource commitments",
+        "Type of incident",
+        "Expected duration of incident",
+        "Terrain",
+        "Weather",
+        "Number of staging areas"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 7,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain information from Incident Action Plans (IAPs) or relevant plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident strategies.",
+        "Location of staging area.",
+        "Estimated time of arrival for resources.",
+        "Present location of resources.",
+        "Contact information for expected resources.",
+        "Personnel authorized to order resources out of staging.",
+        "Length and number of anticipated operational periods.",
+        "Names and locations of key overhead (to facilitate staging area operation)."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 8,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct self in a professional manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Respectful and courteous.",
+        "Respectful of public and private property."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 9,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 10,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish staging area procedures.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Establish a check-in location with Status Check-in Recorder and provide the necessary facilities and equipment.",
+        "Conduct a briefing with incoming resources (e.g., staging area, restricted areas (helibase, private property), procedures for staging, dispatching and checkout, refueling, feeding).",
+        "Establish a system of accountability for equipment issued at the staging area.",
+        "Verify time of resources assigned to staging area by signing time report.",
+        "Verify radio frequencies with incoming resources."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 11,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Maintain appropriate span of control.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 12,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 13,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well- being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 14,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 15,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare, of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure staging area operations are compliant with Lookouts, Communication, Escape Routes, Safety Zones (LCES), Standard Firefighting Orders and mitigation of applicable Watch Out Situations.",
+        "Recognize, mitigate and communicate potentially hazardous situations.",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources.",
+        "Provide for care of staging area personnel and notify supervisor in event of sickness, injury, or accident."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 16,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete daily review of staffing requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 17,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop schedule/assignments based on IAP or relevant plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 18,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure subordinates understand assignment for operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide clear, concise instructions and allow for feedback."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 19,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually evaluate performance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Communicate deficiencies immediately and take corrective action.",
+        "Provide training opportunities where available.",
+        "Complete personnel performance evaluations according to agency guidelines."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 20,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish crew cohesiveness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 21,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Planning Section.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Determine staging area location.",
+        "Acquire maps.",
+        "Assess current situation.",
+        "Determine availability of Status Check-In Recorder.",
+        "Establish incident demobilization plan.",
+        "Obtain emergency procedures."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 22,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Logistics.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Determine communications needs.",
+        "Determine supplies and equipment available.",
+        "Establish ordering procedures.",
+        "Arrange for medical aid or assistance.",
+        "Plan for personnel needs.",
+        "Provide for sanitation needs.",
+        "Determine needs for security.",
+        "Resolve transportation problems."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 23,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Finance/Administration.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Assure use agreement is in place for staging area.",
+        "Determine procurement procedures.",
+        "Determine timekeeping procedures for personnel and equipment.",
+        "Request Time Unit personnel to assist if necessary."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 24,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief and keep subordinates informed and updated.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure expectations are communicated and understood."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 25,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend briefings and meetings as directed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide information as requested.",
+        "Keep supervisor informed of issues and potential problems."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 26,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 27,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Compile list of resources assigned to staging area.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 28,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete and submit evaluation and documentation forms through supervisor to Documentation Unit as required.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 29,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide a copy of staging area layout map to Planning and Logistics Sections.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 30,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine and report resource deficiencies to Operations Section Chief.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Determine which resources cannot respond to a dispatch request within three minutes (e.g., check with Single Resource Bosses and leaders throughout operational period on condition of resources; determine if mitigating measures can correct problems).",
+        "Report situations to Operations Section Chief; describe problems and include possible solutions.",
+        "Determine corrective action with Operations Section Chief and proceed to meet these objectives."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 31,
+      "category": "Utilize information to produce outputs.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish a layout for staging area.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Evaluate site on foot or in a vehicle.",
+        "Set up signs showing traffic flow for personnel and vehicles, dispatch and check-in areas, location of crews and equipment, and other resources at the site.",
+        "Rope or flag off any special areas or safety hazards."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 32,
+      "category": "Utilize information to produce outputs.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare a map of the staging area.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 33,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process found in the IRPG and Fireline Handbook.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Step 1: Situation Awareness",
+        "Step 2: Hazard Assessment",
+        "Step 3: Hazard Control",
+        "Step 4: Decision Point",
+        "Step 5: Evaluate"
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 34,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Respond to requests for resource assignments.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive requests from Operations Section Chief or designated alternate.",
+        "Brief personnel about dispatch assignments (e.g., location, travel routes, assignments, name of supervisor, radio frequency to contact supervisor)."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 35,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Administer dispatch procedures.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Supervise movement of resources until they leave staging area.",
+        "Notify Operations Section Chief when resources have left staging area.",
+        "Notify Resource Unit Leader of dispatch and destination of resources.",
+        "Assess dispatch procedures, adjust if necessary, and document changes."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 36,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Take appropriate actions to relocate the staging area.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Notify staging area personnel of move.",
+        "Ensure resources are in a state of readiness prior to move or release.",
+        "Designate staged resources to report to new location, new incident, or home unit.",
+        "Inform staged resources of time frames, travel routes.",
+        "Notify and coordinate with Ground Support, Resources, and Facilities Unit Leaders on movement of resources to different location."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 37,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare for weather contingencies or other emergency situations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 38,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure established guidelines are followed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Work/rest",
+        "Agency safety standards and procedures"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 39,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform subordinate staff and IC.",
+        "Document follow-up action needed and submit to supervisor."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 40,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demobilize staging area in timely and orderly manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Confirm and obtain instructions from Operations Section Chief.",
+        "Remove signs and barriers and clean up area.",
+        "Inspect and recommend site rehabilitation.",
+        "Complete and submit evaluation and documentation forms through supervisor to Documentation Unit."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "STAM",
+      "task_number": 41,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demobilize and check out.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Receive demobilization instructions from incident supervisor.",
+        "If required, complete ICS 221, Demobilization Checkout and submit completed form to the appropriate person."
+      ],
+      "page": 15
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

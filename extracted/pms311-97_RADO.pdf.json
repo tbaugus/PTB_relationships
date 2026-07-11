@@ -1,0 +1,201 @@
+{
+  "document": {
+    "filename": "pms311-97_RADO.pdf",
+    "sha256": "9dbc5c1a7f515d8c7b78a754a898aae85e93a9cc281a85d1210d4197181f2676",
+    "pms_number": "311-97",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "RADO"
+    ],
+    "title": "Radio Operator",
+    "edition_date": "JULY 2025",
+    "ips_reference": "350-97",
+    "official": true,
+    "page_count": 10
+  },
+  "positions": [
+    {
+      "code": "RADO",
+      "title": "Radio Operator",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "RADO",
+      "task_number": 1,
+      "category": "Leadership Level 1, Follower (Provide Action)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communications skills.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RADO",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure individual readiness.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RADO",
+      "task_number": 3,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather critical information pertinent to the assignment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RADO",
+      "task_number": 4,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Travel to and check in at assignment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RADO",
+      "task_number": 5,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review the Incident Action Plan (IAP) and obtain briefing, objectives, and intent from supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RADO",
+      "task_number": 6,
+      "category": "Perform Radio Operator-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage communications for general operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RADO",
+      "task_number": 7,
+      "category": "Perform Radio Operator-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Respond to incident emergencies.",
+      "code_raw": "S",
+      "code_alternatives": [
+        "S"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RADO",
+      "task_number": 8,
+      "category": "Perform Radio Operator-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain inventory and track assigned equipment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RADO",
+      "task_number": 9,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure clear understanding of expectations and timely communication within and across Incident Command System (ICS) functional areas and chain of command.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RADO",
+      "task_number": 10,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete all administrative tasks and documentation in an accurate and timely manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RADO",
+      "task_number": 11,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Return equipment and supplies as appropriate.",
+      "code_raw": "S",
+      "code_alternatives": [
+        "S"
+      ],
+      "clarifications": [],
+      "page": 6
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 7
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 7
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 7
+    }
+  ],
+  "extra_fields": {}
+}

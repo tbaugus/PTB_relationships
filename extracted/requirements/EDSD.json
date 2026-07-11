@@ -1,0 +1,30 @@
+{
+  "position_code": "EDSD",
+  "required_training": [
+    "D-310, Expanded Dispatch Support Dispatcher",
+    "ICS-200, ICS for Single Resources and Initial Action Incidents"
+  ],
+  "required_experience": [
+    "Satisfactory performance as an Expanded Dispatch Recorder ( EDRC )",
+    "AND Completion and Certification of NWCG Position Task Book for Expanded Dispatch Support Dispatcher (EDSD) , PMS 311-58"
+  ],
+  "required_experience_prereq_codes": [
+    "EDRC"
+  ],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Aircraft Dispatcher ( ACDP )",
+    "Expanded Dispatch Coordinator ( CORD )",
+    "Expanded Dispatch Recorder ( EDRC )",
+    "Expanded Dispatch Supervisory Dispatcher ( EDSP )"
+  ],
+  "maintains_currency_for": [
+    "Demobilization Unit Leader ( DMOB )",
+    "Expanded Dispatch Recorder ( EDRC )",
+    "Expanded Dispatch Supervisory Dispatcher ( EDSP )"
+  ],
+  "other_training": [
+    "S-260, Interagency Incident Business Management"
+  ],
+  "note": null
+}

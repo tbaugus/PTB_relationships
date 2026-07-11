@@ -1,0 +1,979 @@
+{
+  "document": {
+    "filename": "pms311-101_ICCI.pdf",
+    "sha256": "1bbc7e84dc02cedde91ead2175928b35782885ba8c7f617bdb76f4f0c369cdb4",
+    "pms_number": "311-101",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "ICCI"
+    ],
+    "title": "Incident Commander Complex",
+    "edition_date": "JANUARY 2023",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 15
+  },
+  "positions": [
+    {
+      "code": "ICCI",
+      "title": "Incident Commander Complex",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "ICCI",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete required team management responsibilities.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Team recruitment and selection",
+        "Standard operating procedures",
+        "Team building",
+        "Team roster",
+        "Necessary equipment"
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather necessary information and intelligence.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Contact agency administrator.",
+        "Negotiate in-briefing time and location.",
+        "Negotiate team configurations based on incident needs."
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 3,
+      "category": "Understand and comply with incident safety procedures and practices.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure functional areas integrate safety considerations into all aspects of incident management.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 4,
+      "category": "Understand and comply with incident safety procedures and practices.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure the Risk Management Process is maintained.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 5,
+      "category": "Understand and comply with incident safety procedures and practices.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Base actions on Incident Action Plan Safety Analysis, (ICS 215A).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Implement appropriate tactics.",
+        "Ensure public safety."
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 6,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assess situation to determine immediate resource needs.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Make appropriate decisions about immediate needs and actions.",
+        "Order additional resources through established channel."
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 7,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate staffing needs required to manage the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Organize to meet the needs for management and control of the incident.",
+        "Assure consistency with Incident Command System (ICS) organizational structure.",
+        "Identify training opportunities.",
+        "Ensure established dispatch channels are utilized to order resources.",
+        "Release excess staff.",
+        "Request appropriate technical specialists to cope with special conditions on the incident."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 8,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain information, direction, and authority from Agency Administrator briefing to effectively manage the incident according to agency's requirements.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Information gaps to be resolved",
+        "Limitations",
+        "Priorities",
+        "Logistical concerns",
+        "Considerations (e.g., environmental concerns, safety, fiscal considerations or constraints, values to be protected, evacuation/sheltering, political implications, legal potential, socio-economic issues, media, jurisdiction including adjacent jurisdictions, cooperating and assisting agencies)",
+        "Ordering process",
+        "Points of contact/chain of command/line of authority"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 9,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain necessary documentation.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Pre-plans",
+        "Land management plan(s)",
+        "Wildland fire decision support documentation or other relevant plan",
+        "Directories (phone, notification)",
+        "Written incident status summary",
+        "Authorizations (e.g., cell phones, rental vehicles, computers)"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 10,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from current Incident Commander.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 11,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate special conditions, existing or predicted, which require technical expertise.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Hazardous materials",
+        "Geological hazard",
+        "Land management policies",
+        "Long range planning needs",
+        "Urban interface needs",
+        "Incident accident investigation",
+        "Law enforcement needs"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 12,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create an effective command climate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide commander’s intent and guidance.",
+        "Manage team and its activities effectively.",
+        "Aggressively assume responsibility for the incident and initiate action."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 13,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 14,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Planning process",
+        "Command and general staff oversight",
+        "Briefings",
+        "After Action Reviews (AAR)"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 15,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and coordinate time frames with staff.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Task",
+        "Purpose",
+        "End State"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 16,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Hold staff individually accountable for decisions and actions within their functions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 17,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Hold staff accountable for interactions and coordination with other functional areas.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 18,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate performance of subordinates as required by agency policy.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Complete prior to release from the incident.",
+        "Discuss with the individual.",
+        "Facilitate a process to deal with substandard performance or conduct."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 19,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide training opportunities where available.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 20,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Document personnel performance actions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Adverse",
+        "Exceptional",
+        "Contractor"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 21,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 22,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure interfunctional, interagency coordination and communication.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate with cooperators and stakeholders involved in incident activities."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 23,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate and respond proactively to social, political, and cultural issues and concerns.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Local procurement",
+        "Elected officials",
+        "Private landowners and permittees",
+        "Resource advisors",
+        "Public figures"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 24,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate the need for unified command.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Identify appropriate jurisdictional agencies."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 25,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct initial command and general staff briefing and validate team protocols.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Assess organizational needs.",
+        "Identify additional resource needs.",
+        "Schedule planning cycle.",
+        "Review team expectations of Incident Commander and Agency Administrator(s).",
+        "Identify critical factors to ensure team success.",
+        "Prioritize initial incident objectives."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 26,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure accurate and timely internal information flow occurs at all levels of the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide information as required by the Agency Administrator and agency policy or guidelines.",
+        "Provide accurate, complete information to relevant personnel in a timely manner."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 27,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and establish working relationships with Emergency Operations Center (EOC), communications centers, Multi-Agency Coordination (MAC) group, expanded dispatch or area command as needed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 28,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in briefings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure briefings are accurate, timely, and include appropriate personnel.",
+        "Brief external support organizations."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 29,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and approve information releases.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow established information protocol for information releases.",
+        "Ensure releases are timely and accurate."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 30,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in media interviews.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Present a positive, professional image to the public and the media during interviews."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 31,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in public meetings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Establish external communication protocols with the affected publics.",
+        "Anticipate and respond proactively to public issues and concerns."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 32,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure debriefings occur and participate as necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure incident situation status information is current and complete."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 33,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and implement a plan for transfer of command.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure plan contains accurate assessment of the situation.",
+        "Identify incident needs.",
+        "Identify release priorities.",
+        "Determine date and time of transition and transfer of command.",
+        "Complete transition of functional duties in a timely, smooth, and efficient manner.",
+        "Inform assigned personnel, agencies, and interested parties of transition time.",
+        "Request rescission of Delegation of Authority.",
+        "Ensure a complete, accurate, detailed briefing occurs.",
+        "Ensure respective command and general staff brief their counterparts.",
+        "Ensure no adverse impact on safety or productivity."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 34,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure adequate incident demobilization plan is in place.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Establish realistic release priorities.",
+        "Address agency, cooperating/assisting agency, and incident requirements.",
+        "Minimize contract, transportation, and personnel costs.",
+        "Ensure incident and agency demobilization safety and travel procedures are followed."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 35,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Staff/Incident Management Team (IMT)",
+        "Strengths and weaknesses",
+        "Commendations and recommendations"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 36,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in incident closeout with Agency Administrator according to agency requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident analysis/narrative",
+        "Personal performance evaluation",
+        "Commendations and recommendations"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 37,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and execute Delegation of Authority.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 38,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure agreements are available and are factored into overall incident management operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Financial Agreements",
+        "Mutual Aid Agreements",
+        "Contracts",
+        "Labor relations",
+        "Memorandums of Understanding (MOU)",
+        "Interagency Agreements",
+        "Cost apportionment"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 39,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assess and analyze current and changing situations to determine action.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Prioritize current objectives",
+        "Select strategies",
+        "Identify resource capabilities",
+        "Assign resources"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 40,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review intelligence documents for accuracy, timeliness, and appropriate distribution.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident Status Summary, (ICS 209)",
+        "Area command or MAC priority"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 41,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate future situations and identify appropriate resource(s) and planning needs.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Contingency plans"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 42,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and resolve problems that could affect the outcome of the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Media",
+        "Political issues",
+        "Conflicting objectives"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 43,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually evaluate overall incident response and modify response as necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Revise incident objectives.",
+        "Revise mitigation actions based on Incident Action Plan Safety Analysis, (ICS-215A).",
+        "Manage a critical incident within an incident."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 44,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in the strategic planning process. Provide situational awareness and strategic assessment updates.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 45,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in a strategic analysis to evaluate and present alternatives and rationale to achieve incident objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 46,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Oversee the planning process.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Time and location of meeting.",
+        "Current situation and resource status.",
+        "Validated incident objectives.",
+        "Validated strategy/tactics.",
+        "Resources and support/service required to implement tactical plan.",
+        "Contingency plan.",
+        "Incident safety analysis.",
+        "Logistical support (including aviation)."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 47,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop clear and concise operational period and incident objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Measurable and attainable.",
+        "Meet Agency Administrator's direction."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 48,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and validate strategy and tactics commensurate with available resources, incident objectives, and safety considerations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 49,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Approve completed Incident Action Plans (IAP).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure plan is complete, accurate, realistically attainable, and supports the incident objectives."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 50,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify the sources of incident funding and anticipate daily expenditures.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Manage cost.",
+        "Identify approval authorities.",
+        "Ensure resource commitment is consistent with values to be protected."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 51,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Make appropriate decisions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Based on available information.",
+        "Commensurate with values to be protected.",
+        "Timely.",
+        "Consider staff input.",
+        "Consistent with operational period and incident objectives."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 52,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain personal documentation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Maintain appropriate personal notes.",
+        "Document critical issues occurring on the incident."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 53,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure incident documentation package is complete.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Organized according to agency requirements.",
+        "Retention of appropriate personal documentation.",
+        "Complete incident financial package to agency requirements."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ICCI",
+      "task_number": 54,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure completion of incident analysis/narrative per agency requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Summary of incident actions",
+        "Significant events",
+        "Key decisions made",
+        "Effective outcomes",
+        "Problems",
+        "Recommendations for future action"
+      ],
+      "page": 13
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 5
+    }
+  ],
+  "extra_fields": {}
+}

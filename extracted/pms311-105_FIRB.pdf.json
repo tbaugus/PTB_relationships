@@ -1,0 +1,300 @@
+{
+  "document": {
+    "filename": "pms311-105_FIRB.pdf",
+    "sha256": "9382cd3a51df91010ae56a64c723eaebb91cef3e9d9dc32002d307559261064f",
+    "pms_number": "311-105",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "FIRB"
+    ],
+    "title": "Firing Boss, Single Resource",
+    "edition_date": "MARCH 2025",
+    "ips_reference": "350-105",
+    "official": true,
+    "page_count": 10
+  },
+  "positions": [
+    {
+      "code": "FIRB",
+      "title": "Firing Boss, Single Resource",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "FIRB",
+      "task_number": 1,
+      "category": "Leadership Level 2, New Leader (Convey Content)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FIRB",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather critical information pertinent to the assignment.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FIRB",
+      "task_number": 3,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assemble and validate readiness of crew, equipment, and vehicles.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FIRB",
+      "task_number": 4,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing, objectives, and intent from supervisor.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FIRB",
+      "task_number": 5,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief assigned personnel on situation, mission/execution, communications, service/support, and risk management.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FIRB",
+      "task_number": 6,
+      "category": "Perform Firing Boss, Single Resource-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine the Firing Plan.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FIRB",
+      "task_number": 7,
+      "category": "Perform Firing Boss, Single Resource-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure proper logistics and staging.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FIRB",
+      "task_number": 8,
+      "category": "Perform Firing Boss, Single Resource-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Implement the Firing Plan.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FIRB",
+      "task_number": 9,
+      "category": "Perform Firing Boss, Single Resource-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor and supervise firing operations.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FIRB",
+      "task_number": 10,
+      "category": "Perform Firing Boss, Single Resource-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop, implement, and adjust tactics based on incident objectives, fire behavior, risk assessment, and leader’s intent.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FIRB",
+      "task_number": 11,
+      "category": "Perform Firing Boss, Single Resource-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Scout line in critical areas.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FIRB",
+      "task_number": 12,
+      "category": "Perform Firing Boss, Single Resource-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conclude operations.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FIRB",
+      "task_number": 13,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure effective communication with supervisors and adjacent resources within the established chain of command.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FIRB",
+      "task_number": 14,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FIRB",
+      "task_number": 15,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Account for location, health, safety, and welfare of assigned personnel.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FIRB",
+      "task_number": 16,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and communicate contingency plans and trigger points.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FIRB",
+      "task_number": 17,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan for and manage medical emergencies.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 6
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 7
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 7
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 7
+    }
+  ],
+  "extra_fields": {}
+}

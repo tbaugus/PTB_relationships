@@ -1,0 +1,40 @@
+{
+  "position_code": "RXB2",
+  "required_training": [
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "RX-410, Smoke Management Techniques",
+    "S-390, Introduction to Wildland Fire Behavior Calculations"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Firing Boss, Single Resource ( FIRB )",
+    "AND Satisfactory performance as an Incident Commander Type 4 ( ICT4 )",
+    "AND Completion and Certification of NWCG Position Task Book for Prescribed Fire Burn Boss Type 2 (RXB2) , PMS 311-74"
+  ],
+  "required_experience_prereq_codes": [
+    "FIRB",
+    "ICT4"
+  ],
+  "physical_fitness": "Physical Fitness Level: Moderate",
+  "currency_maintained_by": [
+    "Prescribed Fire Burn Boss Type 1 ( RXB1 )",
+    "Prescribed Fire Manager ( RXMG )",
+    "Strategic Operational Planner ( SOPL )"
+  ],
+  "maintains_currency_for": [
+    "Firefighter Type 1 ( FFT1 )",
+    "Firefighter Type 2 ( FFT2 )",
+    "Incident Commander Type 4 ( ICT4 )",
+    "Prescribed Fire Burn Boss Type 1 ( RXB1 )",
+    "Prescribed Fire Manager ( RXMG )",
+    "Single Resource Boss ( CRWB , ENGB , FELB , FIRB , HEQB )",
+    "Strategic Operational Planner ( SOPL )",
+    "Strike Team Leader \u00a0( STCR , STEN , STEQ )",
+    "Task Force Leader ( TFLD )"
+  ],
+  "other_training": [
+    "L-380, Fireline Leadership",
+    "RX-300, Prescribed Fire Burn Boss",
+    "RX-310, Introduction to Fire Effects"
+  ],
+  "note": null
+}

@@ -1,0 +1,1960 @@
+{
+  "document": {
+    "filename": "enhanced_ptbs_gdoc.docx",
+    "sha256": "acf7640571ac6a49e1ea1b41e213cab7eddbc76c88975e5c5fc4e5da64fd81c2",
+    "pms_number": null,
+    "format": "enhanced_gdoc",
+    "position_codes": [
+      "UAIS",
+      "AIML",
+      "RSEN",
+      "GEOL",
+      "SNTK",
+      "FDSO",
+      "FDMS",
+      "ASOP",
+      "RBFE",
+      "ASWE",
+      "CFMD"
+    ],
+    "title": "FireTech Position Task Books (DOCX export of the same Google Doc; secondary source for structure-aware extraction)",
+    "edition_date": null,
+    "ips_reference": null,
+    "official": false,
+    "page_count": 25
+  },
+  "positions": [
+    {
+      "code": "UAIS",
+      "title": "UAS Aerial Ignition Specialist",
+      "provisional_code": false,
+      "requirements_text": "Unmanned Aircraft System Pilot (UASP), qualified; Firing Boss, Single Resource (FIRB), qualified or trainee.",
+      "attaches_to": [
+        "UASP",
+        "FIRB"
+      ],
+      "extra_fields": {
+        "required_experience": "Satisfactory performance as UASP on ≥X incidents; participation in ≥X ignition operations.",
+        "physical_fitness": "Light to Moderate.",
+        "currency": "RT-373 (triennial); ≥1 aerial ignition mission per 3 years; maintain UASP currency.",
+        "required_training": [
+          {
+            "training": "FAA Part 107 Remote Pilot Certificate",
+            "source_provider": "FAA knowledge test (PSI/CATS centers); prep via Pilot Institute / Drone Pilot Ground School",
+            "approx_cost": "$175 test; prep $100–300; recurrent free"
+          },
+          {
+            "training": "Agency UAS operating authority",
+            "source_provider": "DOI Office of Aviation Services (OAS) / agency",
+            "approx_cost": "No tuition (agency-sponsored)"
+          },
+          {
+            "training": "RT-130 Annual Fireline Safety Refresher",
+            "source_provider": "NWCG via agency / Wildland Fire Learning Portal",
+            "approx_cost": "Free (agency-sponsored)"
+          },
+          {
+            "training": "S-219 Firing Operations",
+            "source_provider": "NWCG via agency / GACC",
+            "approx_cost": "Free (agency-sponsored)"
+          },
+          {
+            "training": "Vendor aerial-ignition system course (IGNIS-class)",
+            "source_provider": "Drone Amplified; USFS UAS Aerial Ignition Academy (agency)",
+            "approx_cost": "Vendor-quoted, often bundled w/ platform; agency academy internal"
+          },
+          {
+            "training": "RT-373 UAS Incident Operations Refresher",
+            "source_provider": "NWCG / NIFC UAS program (uas.nifc.gov)",
+            "approx_cost": "Free (agency-sponsored)"
+          }
+        ],
+        "qualification_stack": {
+          "Aspirant": "Interest in UAS/fire ops; ICS-100; basic fireline & aviation safety awareness.",
+          "Beginner": "FAA Part 107; RT-130; agency UAS authority; UASP trainee.",
+          "Journey": "UASP qualified; FIRB; S-219; vendor ignition course; RT-373 current.",
+          "Expert": "Multi-mission ignition experience; AIML track; instructor/evaluator."
+        },
+        "employers_by_sector": {
+          "Private": "Drone Amplified (IGNIS); UAS service & prescribed-burn contractors; utility vegetation programs.",
+          "Federal": "USFS (UAS Aerial Ignition Academy); DOI bureaus via OAS (BLM, NPS, FWS, BIA); interagency UAS program (NIFC).",
+          "Other public sector": "State forestry/fire agencies (e.g., CAL FIRE, state DNRs); tribal fire programs; prescribed-burn associations."
+        },
+        "workforce_estimate": "Approx. number performing this work in the USA (any title): ~100–300 and growing (rough estimate; a subset of federal/state UAS pilots cross-trained for ignition)."
+      }
+    },
+    {
+      "code": "AIML",
+      "title": "Aerial Ignition Module Lead",
+      "provisional_code": false,
+      "requirements_text": "UAS Aerial Ignition Specialist (UAIS), qualified; Firing Boss (FIRB), qualified; Prescribed Fire Burn Boss Type 2 (RXB2), qualified or trainee.",
+      "attaches_to": [
+        "UAIS",
+        "FIRB",
+        "RXB2"
+      ],
+      "extra_fields": {
+        "required_experience": "Lead role on ≥X aerial ignition operations.",
+        "physical_fitness": "Moderate.",
+        "currency": "Maintain UAIS and FIRB currency; ≥1 lead ignition assignment per 3 years.",
+        "required_training": [
+          {
+            "training": "Firing Boss / S-336-level supervision",
+            "source_provider": "NWCG via agency",
+            "approx_cost": "Free (agency-sponsored)"
+          },
+          {
+            "training": "RT-130 Annual Refresher",
+            "source_provider": "NWCG / Wildland Fire Learning Portal",
+            "approx_cost": "Free"
+          },
+          {
+            "training": "RT-373 UAS Refresher",
+            "source_provider": "NWCG / NIFC UAS program",
+            "approx_cost": "Free"
+          },
+          {
+            "training": "UAIS + FIRB currency (prerequisite)",
+            "source_provider": "Agency / vendor",
+            "approx_cost": "See UAIS; agency-sponsored"
+          }
+        ],
+        "qualification_stack": {
+          "Aspirant": "UAS ignition familiarity; ICS leadership awareness.",
+          "Beginner": "UAIS trainee; FIRB experience; supervision coursework.",
+          "Journey": "UAIS + FIRB qualified; RXB2 trainee; leads a small ignition module.",
+          "Expert": "RXB2 qualified; multi-resource ignition lead; mentors UAIS."
+        },
+        "employers_by_sector": {
+          "Private": "A small number of vendor/contractor ignition leads.",
+          "Federal": "USFS & DOI prescribed-fire and UAS programs.",
+          "Other public sector": "State/tribal burn bosses adopting UAS ignition."
+        },
+        "workforce_estimate": "Approx. number performing this work in the USA (any title): ~25–75 (rough estimate; emerging lead role with few formal holders)."
+      }
+    },
+    {
+      "code": "RSEN",
+      "title": "Remote Sensing Specialist",
+      "provisional_code": false,
+      "requirements_text": "Geographic Information System Specialist (GISS), qualified or trainee.",
+      "attaches_to": [
+        "GISS"
+      ],
+      "extra_fields": {
+        "required_experience": "Production of geospatial products on ≥X incidents.",
+        "physical_fitness": "Light.",
+        "currency": "≥1 product-delivery assignment per 3 years; maintain GISS currency.",
+        "required_training": [
+          {
+            "training": "S-495 Geospatial Fire Analysis",
+            "source_provider": "NWCG (advanced; limited seats) via agency",
+            "approx_cost": "Free (agency-sponsored); competitive seating"
+          },
+          {
+            "training": "Remote-sensing fundamentals",
+            "source_provider": "NASA ARSET (Applied Remote Sensing Training)",
+            "approx_cost": "Free (online)"
+          },
+          {
+            "training": "Photogrammetry / LiDAR software training",
+            "source_provider": "Pix4D / Agisoft vendor webinars; community",
+            "approx_cost": "Software-driven: Agisoft Metashape Pro ~$3,499 perpetual; Pix4Dmapper ~$3,500/yr; QGIS free"
+          },
+          {
+            "training": "GIS fundamentals (ArcGIS / QGIS)",
+            "source_provider": "Esri Academy / QGIS community",
+            "approx_cost": "ArcGIS Pro ~$1,500+/yr commercial; QGIS free"
+          }
+        ],
+        "qualification_stack": {
+          "Aspirant": "Interest in geospatial/RS; intro GIS; ICS-100.",
+          "Beginner": "GISS trainee; QGIS/ArcGIS basics; NASA ARSET fundamentals.",
+          "Journey": "GISS qualified; S-495; photogrammetry/LiDAR proficiency; delivers products.",
+          "Expert": "Advanced sensor fusion; GEOL track; mentors GISS/RSEN."
+        },
+        "employers_by_sector": {
+          "Private": "Technosylva, Overstory; geospatial/mapping firms; UAS mapping contractors; utilities.",
+          "Federal": "USFS Geospatial Technology & Applications Center (GTAC); DOI; USGS; NASA.",
+          "Other public sector": "State agencies; universities; NGOs/consortia."
+        },
+        "workforce_estimate": "Approx. number performing this work in the USA (any title): ~300–800 in wildfire-focused remote sensing (rough estimate; far larger general RS workforce)."
+      }
+    },
+    {
+      "code": "GEOL",
+      "title": "Geospatial Operations Lead",
+      "provisional_code": false,
+      "requirements_text": "Remote Sensing Specialist (RSEN), qualified; GISS, qualified.",
+      "attaches_to": [
+        "RSEN",
+        "GISS"
+      ],
+      "extra_fields": {
+        "required_experience": "Lead geospatial role on ≥X incidents.",
+        "physical_fitness": "Light.",
+        "currency": "≥1 lead geospatial assignment per 3 years; maintain RSEN currency.",
+        "required_training": [
+          {
+            "training": "S-495 Geospatial Fire Analysis",
+            "source_provider": "NWCG via agency",
+            "approx_cost": "Free (agency-sponsored)"
+          },
+          {
+            "training": "Data pipeline / information management",
+            "source_provider": "Vendor / professional development",
+            "approx_cost": "Varies ($0–$2,000 courses)"
+          },
+          {
+            "training": "Supervision / leadership course",
+            "source_provider": "NWCG / agency",
+            "approx_cost": "Free (agency-sponsored)"
+          },
+          {
+            "training": "GISS + RSEN currency (prerequisite)",
+            "source_provider": "Agency",
+            "approx_cost": "See RSEN"
+          }
+        ],
+        "qualification_stack": {
+          "Aspirant": "Geospatial team awareness; ICS-100.",
+          "Beginner": "GISS qualified; RSEN trainee; supervision coursework.",
+          "Journey": "RSEN + GISS qualified; data-pipeline capability; leads geospatial unit.",
+          "Expert": "Multi-source architecture; command advisor; cadre lead/instructor."
+        },
+        "employers_by_sector": {
+          "Private": "Technosylva; geospatial consultancies.",
+          "Federal": "USFS GTAC; GISS cadre leads; NIFC.",
+          "Other public sector": "State GIS leads; university labs."
+        },
+        "workforce_estimate": "Approx. number performing this work in the USA (any title): ~100–250 (rough estimate; small lead cohort)."
+      }
+    },
+    {
+      "code": "SNTK",
+      "title": "Sensor Network Technician",
+      "provisional_code": false,
+      "requirements_text": "None (entry); electronics / IT baseline.",
+      "attaches_to": [],
+      "extra_fields": {
+        "required_experience": "≥X supervised installations.",
+        "physical_fitness": "Moderate (remote site access).",
+        "currency": "≥1 install/maintenance assignment per 3 years.",
+        "required_training": [
+          {
+            "training": "Vendor platform installation / maintenance",
+            "source_provider": "Sensor vendor (Pano, Dryad, Torch, Gridware)",
+            "approx_cost": "Vendor-provided; bundled w/ deployment"
+          },
+          {
+            "training": "RF / communications basics",
+            "source_provider": "Vendor / community / FCC materials",
+            "approx_cost": "Low/no cost ($0–$300)"
+          },
+          {
+            "training": "Electronics / IT fundamentals",
+            "source_provider": "Community college / online (CompTIA-style)",
+            "approx_cost": "$0–$2,000"
+          },
+          {
+            "training": "RT-130 (if fireline-deployed)",
+            "source_provider": "NWCG / Wildland Fire Learning Portal",
+            "approx_cost": "Free"
+          }
+        ],
+        "qualification_stack": {
+          "Aspirant": "Electronics/IT interest; basic safety awareness.",
+          "Beginner": "Vendor platform basics; RF fundamentals; supervised installs.",
+          "Journey": "Independent install, calibration, and maintenance across platforms.",
+          "Expert": "Network design; fault-isolation lead; trains technicians."
+        },
+        "employers_by_sector": {
+          "Private": "Pano AI, Dryad, Torch, Gridware; installation/telecom contractors.",
+          "Federal": "Limited (USFS/DOI sensor deployments).",
+          "Other public sector": "State programs (e.g., ALERTCalifornia / UC San Diego); utilities (quasi-public)."
+        },
+        "workforce_estimate": "Approx. number performing this work in the USA (any title): ~200–600 and growing (rough estimate; camera/sensor deployment & maintenance crews)."
+      }
+    },
+    {
+      "code": "FDSO",
+      "title": "Fire Detection Systems Operator",
+      "provisional_code": false,
+      "requirements_text": "None; situational-awareness baseline.",
+      "attaches_to": [],
+      "extra_fields": {
+        "required_experience": "≥X monitored operational periods.",
+        "physical_fitness": "Light.",
+        "currency": "≥1 operational period per year.",
+        "required_training": [
+          {
+            "training": "Platform operator course",
+            "source_provider": "Detection vendor (Pano AI, ALERTCalifornia)",
+            "approx_cost": "Vendor-provided; bundled w/ subscription"
+          },
+          {
+            "training": "ICS-100 Introduction to ICS",
+            "source_provider": "FEMA Emergency Management Institute (online)",
+            "approx_cost": "Free"
+          },
+          {
+            "training": "Dispatch / IROC familiarization",
+            "source_provider": "NWCG / agency dispatch",
+            "approx_cost": "Free (agency-sponsored)"
+          }
+        ],
+        "qualification_stack": {
+          "Aspirant": "Situational-awareness baseline; ICS-100.",
+          "Beginner": "Platform operator training; dispatch familiarization; supervised monitoring.",
+          "Journey": "Independent triage, confirmation, and dissemination.",
+          "Expert": "Multi-source corroboration lead; shift lead; trains operators."
+        },
+        "employers_by_sector": {
+          "Private": "Pano AI (monitoring center); detection/intel vendors.",
+          "Federal": "USFS/interagency dispatch & detection (legacy lookouts).",
+          "Other public sector": "State dispatch/intel centers (e.g., CAL FIRE); ALERTCalifornia operators; emergency comms centers."
+        },
+        "workforce_estimate": "Approx. number performing this work in the USA (any title): ~500–1,500 (rough estimate; overlaps dispatch/intel staff who triage detections)."
+      }
+    },
+    {
+      "code": "FDMS",
+      "title": "Detection ML Specialist",
+      "provisional_code": false,
+      "requirements_text": "Computer-science / machine-learning background.",
+      "attaches_to": [],
+      "extra_fields": {
+        "required_experience": "≥X models developed and deployed.",
+        "physical_fitness": "Light.",
+        "currency": "Active model ownership within the prior 12 months.",
+        "required_training": [
+          {
+            "training": "Applied machine learning / computer vision",
+            "source_provider": "University, bootcamp, or MOOC (Coursera, fast.ai)",
+            "approx_cost": "Free MOOCs to ~$10k–20k bootcamp; degree higher"
+          },
+          {
+            "training": "Fire / smoke phenomenology familiarization",
+            "source_provider": "Agency / academia / on-the-job",
+            "approx_cost": "Low/no tuition"
+          },
+          {
+            "training": "MLOps / model deployment",
+            "source_provider": "Vendor / online platforms",
+            "approx_cost": "$0–$2,000"
+          }
+        ],
+        "qualification_stack": {
+          "Aspirant": "Programming/stats foundation; interest in CV/ML.",
+          "Beginner": "Applied ML coursework; supervised model contributions.",
+          "Journey": "Independent model development, validation, and deployment.",
+          "Expert": "Model architecture & drift strategy; mentors ML staff; sets standards."
+        },
+        "employers_by_sector": {
+          "Private": "Pano AI, OroraTech, Dryad, Torch, Overstory, Gridware; Earth Fire Alliance/FireSat partners; big tech.",
+          "Federal": "Limited (USFS/NASA research; national labs).",
+          "Other public sector": "Universities (e.g., UC San Diego); research institutes."
+        },
+        "workforce_estimate": "Approx. number performing this work in the USA (any title): ~100–300 working specifically on wildfire detection ML (rough estimate)."
+      }
+    },
+    {
+      "code": "ASOP",
+      "title": "Autonomous Systems Operator",
+      "provisional_code": false,
+      "requirements_text": "UASP or equivalent platform certification; operations background.",
+      "attaches_to": [],
+      "extra_fields": {
+        "required_experience": "≥X supervised autonomous operations.",
+        "physical_fitness": "Light to Moderate.",
+        "currency": "Maintain platform currency; ≥1 supervised autonomous operation per 3 years.",
+        "required_training": [
+          {
+            "training": "Platform autonomy operator course",
+            "source_provider": "Autonomy vendor (e.g., Rain)",
+            "approx_cost": "Vendor-provided"
+          },
+          {
+            "training": "FAA Part 107 / platform certification",
+            "source_provider": "FAA; vendor",
+            "approx_cost": "$175 + prep; vendor cert varies"
+          },
+          {
+            "training": "RT-130 (if fireline-deployed)",
+            "source_provider": "NWCG / Wildland Fire Learning Portal",
+            "approx_cost": "Free"
+          },
+          {
+            "training": "Air/ground-ops integration",
+            "source_provider": "NWCG / agency",
+            "approx_cost": "Free (agency-sponsored)"
+          }
+        ],
+        "qualification_stack": {
+          "Aspirant": "UAS/ops interest; ICS-100; platform familiarization.",
+          "Beginner": "FAA Part 107 / platform cert; supervised autonomous ops.",
+          "Journey": "Independent tasking/supervision with human-on-the-loop authority.",
+          "Expert": "Complex multi-asset ops; contingency lead; trains operators."
+        },
+        "employers_by_sector": {
+          "Private": "Rain; autonomy startups; defense/aerospace contractors.",
+          "Federal": "Emerging (DoD-adjacent programs; USFS pilots in trials).",
+          "Other public sector": "Minimal at present."
+        },
+        "workforce_estimate": "Approx. number performing this work in the USA (any title): ~25–100 (rough estimate; nascent, concentrated at a few firms)."
+      }
+    },
+    {
+      "code": "RBFE",
+      "title": "Robotics Field Engineer",
+      "provisional_code": false,
+      "requirements_text": "Robotics / mechatronics background.",
+      "attaches_to": [],
+      "extra_fields": {
+        "required_experience": "≥X field deployments.",
+        "physical_fitness": "Moderate.",
+        "currency": "≥1 field deployment per year.",
+        "required_training": [
+          {
+            "training": "Platform integration / maintenance",
+            "source_provider": "Robotics vendor (e.g., BurnBot)",
+            "approx_cost": "Vendor-provided"
+          },
+          {
+            "training": "Robotics / mechatronics foundation",
+            "source_provider": "University / technical college",
+            "approx_cost": "Degree/cert varies ($0–$30k+)"
+          },
+          {
+            "training": "Field safety / lockout-tagout",
+            "source_provider": "Employer / OSHA-aligned training",
+            "approx_cost": "Low cost ($0–$500)"
+          },
+          {
+            "training": "RT-130 (if fireline-deployed)",
+            "source_provider": "NWCG / Wildland Fire Learning Portal",
+            "approx_cost": "Free"
+          }
+        ],
+        "qualification_stack": {
+          "Aspirant": "Mechanical/robotics interest; safety awareness.",
+          "Beginner": "Platform basics; supervised field integration.",
+          "Journey": "Independent deploy, integrate, and maintain in field conditions.",
+          "Expert": "Reliability-engineering lead; new-platform bring-up; mentors engineers."
+        },
+        "employers_by_sector": {
+          "Private": "BurnBot; robotics startups; fuels-treatment contractors.",
+          "Federal": "Minimal (R&D / evaluation).",
+          "Other public sector": "University/research robotics groups."
+        },
+        "workforce_estimate": "Approx. number performing this work in the USA (any title): ~50–150 (rough estimate; small, early-stage field-robotics cohort)."
+      }
+    },
+    {
+      "code": "ASWE",
+      "title": "Autonomy Software Engineer",
+      "provisional_code": false,
+      "requirements_text": "Software-engineering background in robotics/UAS or safety-critical systems.",
+      "attaches_to": [],
+      "extra_fields": {
+        "required_experience": "≥X modules delivered to a validated system.",
+        "physical_fitness": "Light.",
+        "currency": "Active development contribution within the prior 12 months.",
+        "required_training": [
+          {
+            "training": "Fire-operations domain familiarization",
+            "source_provider": "Employer / agency SMEs",
+            "approx_cost": "On-the-job (no tuition)"
+          },
+          {
+            "training": "Safety-critical software practices",
+            "source_provider": "Industry training / standards (DO-178C-style)",
+            "approx_cost": "Varies ($500–$3,000 courses)"
+          },
+          {
+            "training": "CS / robotics / aerospace foundation",
+            "source_provider": "University degree",
+            "approx_cost": "Varies ($10k–$30k+/yr)"
+          }
+        ],
+        "qualification_stack": {
+          "Aspirant": "CS/robotics foundation; interest in autonomy.",
+          "Beginner": "Supervised module development; simulation-test contributions.",
+          "Journey": "Independent perception/planning development with V&V.",
+          "Expert": "Safety-critical architecture; flight-test lead; sets engineering standards."
+        },
+        "employers_by_sector": {
+          "Private": "Rain, Drone Amplified, BurnBot; autonomy/aerospace firms.",
+          "Federal": "National labs; NASA (research).",
+          "Other public sector": "University robotics/autonomy labs."
+        },
+        "workforce_estimate": "Approx. number performing this work in the USA (any title): ~100–300 in fire-relevant autonomy (rough estimate; overlaps broader robotics SWE pool)."
+      }
+    },
+    {
+      "code": "CFMD",
+      "title": "Computational Fire Modeler",
+      "provisional_code": false,
+      "requirements_text": "Data-science / computational background; fire-science grounding (FBAN familiarity supports).",
+      "attaches_to": [
+        "FBAN / LTAN"
+      ],
+      "extra_fields": {
+        "required_experience": "≥X validated modeling products delivered.",
+        "physical_fitness": "Light.",
+        "currency": "Active modeling contribution within the prior 12 months.",
+        "required_training": [
+          {
+            "training": "Fire-behavior fundamentals (S-190 / S-290)",
+            "source_provider": "NWCG via agency / academia",
+            "approx_cost": "Free (agency-sponsored)"
+          },
+          {
+            "training": "Model calibration & validation methods",
+            "source_provider": "Academia / professional development",
+            "approx_cost": "Varies ($0–$3,000)"
+          },
+          {
+            "training": "Data science / scientific computing",
+            "source_provider": "University / MOOC / bootcamp",
+            "approx_cost": "Free MOOCs to ~$10k–20k; degree higher"
+          }
+        ],
+        "qualification_stack": {
+          "Aspirant": "Quantitative foundation; interest in fire science.",
+          "Beginner": "Fire-behavior fundamentals; supervised modeling tasks.",
+          "Journey": "Independent model build, calibration, validation, and delivery.",
+          "Expert": "Ensemble/uncertainty leadership; FBAN collaboration; sets modeling standards."
+        },
+        "employers_by_sector": {
+          "Private": "Technosylva, Vibrant Planet; wildfire-analytics & catastrophe-modeling firms (insurers); utilities.",
+          "Federal": "USFS Missoula Fire Sciences Laboratory; USGS; national labs (LANL FIRETEC, LLNL); NOAA.",
+          "Other public sector": "University fire-modeling labs; Pyregence/consortia."
+        },
+        "workforce_estimate": "Approx. number performing this work in the USA (any title): ~200–600 (rough estimate; FBAN cadre plus private computational modelers)."
+      }
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "UAIS",
+      "task_number": 1,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of UAS Aerial Ignition Specialist and initiate position activities at the appropriate time.",
+      "behavior": "Ensure readiness for assignment",
+      "level": "Aspirant",
+      "verbatim_text": "Obtain and review the firing/burn plan and ignition sequence.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 3
+    },
+    {
+      "position_code": "UAIS",
+      "task_number": 2,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of UAS Aerial Ignition Specialist and initiate position activities at the appropriate time.",
+      "behavior": "Ensure readiness for assignment",
+      "level": "Beginner",
+      "verbatim_text": "Verify aircraft, ignition payload, and kit are mission-ready.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 3
+    },
+    {
+      "position_code": "UAIS",
+      "task_number": 3,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of UAS Aerial Ignition Specialist and initiate position activities at the appropriate time.",
+      "behavior": "Gather, update, and apply situational information relevant to the assignment",
+      "level": "Beginner",
+      "verbatim_text": "Verify airspace status, TFR boundaries, and aerial supervision.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 3
+    },
+    {
+      "position_code": "UAIS",
+      "task_number": 4,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of UAS Aerial Ignition Specialist and initiate position activities at the appropriate time.",
+      "behavior": "Gather, update, and apply situational information relevant to the assignment",
+      "level": "Beginner",
+      "verbatim_text": "Confirm positions of ground firing and holding resources.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 4
+    },
+    {
+      "position_code": "UAIS",
+      "task_number": 5,
+      "category": "COMPETENCY: Conduct aerial ignition operations safely. Execute uncrewed aerial ignition while managing payload hazards and observed fire behavior.",
+      "behavior": "Manage ignition payload hazards",
+      "level": "Journey",
+      "verbatim_text": "Conduct a pre-mission risk assessment that addresses ignition-payload hazards.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 4
+    },
+    {
+      "position_code": "UAIS",
+      "task_number": 6,
+      "category": "COMPETENCY: Conduct aerial ignition operations safely. Execute uncrewed aerial ignition while managing payload hazards and observed fire behavior.",
+      "behavior": "Manage ignition payload hazards",
+      "level": "Journey",
+      "verbatim_text": "Load, arm, and verify the PSD/ignition payload per procedure.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 4
+    },
+    {
+      "position_code": "UAIS",
+      "task_number": 7,
+      "category": "COMPETENCY: Conduct aerial ignition operations safely. Execute uncrewed aerial ignition while managing payload hazards and observed fire behavior.",
+      "behavior": "Execute the firing plan",
+      "level": "Journey",
+      "verbatim_text": "Set and adjust the dispensing rate to the firing plan and holding capacity.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 4
+    },
+    {
+      "position_code": "UAIS",
+      "task_number": 8,
+      "category": "COMPETENCY: Conduct aerial ignition operations safely. Execute uncrewed aerial ignition while managing payload hazards and observed fire behavior.",
+      "behavior": "Execute the firing plan",
+      "level": "Journey",
+      "verbatim_text": "Execute strip, spot, and ring ignition patterns to stated intent.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 4
+    },
+    {
+      "position_code": "UAIS",
+      "task_number": 9,
+      "category": "COMPETENCY: Conduct aerial ignition operations safely. Execute uncrewed aerial ignition while managing payload hazards and observed fire behavior.",
+      "behavior": "Execute the firing plan",
+      "level": "Journey",
+      "verbatim_text": "Adjust ignition rate and pattern in response to observed fire behavior.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 4
+    },
+    {
+      "position_code": "UAIS",
+      "task_number": 10,
+      "category": "COMPETENCY: Conduct aerial ignition operations safely. Execute uncrewed aerial ignition while managing payload hazards and observed fire behavior.",
+      "behavior": "Respond to abnormal conditions",
+      "level": "Expert",
+      "verbatim_text": "Respond to a payload malfunction or misfire by safing the system and executing the contingency plan.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 4
+    },
+    {
+      "position_code": "UAIS",
+      "task_number": 11,
+      "category": "COMPETENCY: Communicate effectively. Share relevant information with appropriate personnel on a timely basis.",
+      "behavior": "Ensure relevant information is exchanged during briefings and debriefings",
+      "level": "Expert",
+      "verbatim_text": "Brief ground firing crews on UAS ignition timing, pattern, and abort signals.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 4
+    },
+    {
+      "position_code": "UAIS",
+      "task_number": 12,
+      "category": "COMPETENCY: Communicate effectively. Share relevant information with appropriate personnel on a timely basis.",
+      "behavior": "Ensure relevant information is exchanged during briefings and debriefings",
+      "level": "Expert",
+      "verbatim_text": "Deconflict with crewed aviation and other UAS and report progress to FIRB / burn boss.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 4
+    },
+    {
+      "position_code": "UAIS",
+      "task_number": 13,
+      "category": "COMPETENCY: Communicate effectively. Share relevant information with appropriate personnel on a timely basis.",
+      "behavior": "Ensure documentation is complete and disposition is appropriate",
+      "level": "Beginner",
+      "verbatim_text": "Complete the ignition record and account for payload and equipment.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 4
+    },
+    {
+      "position_code": "UAIS",
+      "task_number": 14,
+      "category": "COMPETENCY: Communicate effectively. Share relevant information with appropriate personnel on a timely basis.",
+      "behavior": "Ensure documentation is complete and disposition is appropriate",
+      "level": "Beginner",
+      "verbatim_text": "Participate in the after-action review.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 4
+    },
+    {
+      "position_code": "AIML",
+      "task_number": 1,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Aerial Ignition Module Lead and initiate position activities at the appropriate time.",
+      "behavior": "Ensure readiness for assignment",
+      "level": "Beginner",
+      "verbatim_text": "Develop an ignition plan integrating crewed and uncrewed assets, holding resources, and contingencies.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "AIML",
+      "task_number": 2,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Aerial Ignition Module Lead and initiate position activities at the appropriate time.",
+      "behavior": "Ensure readiness for assignment",
+      "level": "Beginner",
+      "verbatim_text": "Order the UAS ignition module and required support through the dispatch process.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "AIML",
+      "task_number": 3,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Aerial Ignition Module Lead and initiate position activities at the appropriate time.",
+      "behavior": "Gather, update, and apply situational information",
+      "level": "Expert",
+      "verbatim_text": "Assess holding capability and define contingency trigger points.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "AIML",
+      "task_number": 4,
+      "category": "COMPETENCY: Lead assigned personnel. Influence, guide, and direct assigned personnel to accomplish objectives in a rapidly changing, high-risk environment.",
+      "behavior": "Ensure the safety, welfare, and accountability of assigned personnel",
+      "level": "Journey",
+      "verbatim_text": "Brief and supervise mixed crewed/uncrewed ignition resources.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "AIML",
+      "task_number": 5,
+      "category": "COMPETENCY: Lead assigned personnel. Influence, guide, and direct assigned personnel to accomplish objectives in a rapidly changing, high-risk environment.",
+      "behavior": "Ensure the safety, welfare, and accountability of assigned personnel",
+      "level": "Expert",
+      "verbatim_text": "Ensure accountability of all ignition personnel and aircraft.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "AIML",
+      "task_number": 6,
+      "category": "COMPETENCY: Lead assigned personnel. Influence, guide, and direct assigned personnel to accomplish objectives in a rapidly changing, high-risk environment.",
+      "behavior": "Make appropriate decisions based on analysis of gathered information",
+      "level": "Expert",
+      "verbatim_text": "Manage crewed/uncrewed deconfliction within the firing airspace.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "AIML",
+      "task_number": 7,
+      "category": "COMPETENCY: Lead assigned personnel. Influence, guide, and direct assigned personnel to accomplish objectives in a rapidly changing, high-risk environment.",
+      "behavior": "Make appropriate decisions based on analysis of gathered information",
+      "level": "Expert",
+      "verbatim_text": "Recognize trigger points and execute the contingency/abort plan.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "AIML",
+      "task_number": 8,
+      "category": "COMPETENCY: Communicate effectively. Share relevant information with appropriate personnel on a timely basis.",
+      "behavior": "Ensure relevant information is exchanged during briefings and debriefings",
+      "level": "Expert",
+      "verbatim_text": "Conduct the ignition briefing and integrate ignition into the incident air operations plan.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "AIML",
+      "task_number": 9,
+      "category": "COMPETENCY: Communicate effectively. Share relevant information with appropriate personnel on a timely basis.",
+      "behavior": "Ensure relevant information is exchanged during briefings and debriefings",
+      "level": "Journey",
+      "verbatim_text": "Lead the after-action review and document outcomes against the plan.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RSEN",
+      "task_number": 1,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Remote Sensing Specialist and initiate position activities at the appropriate time.",
+      "behavior": "Ensure readiness for assignment",
+      "level": "Aspirant",
+      "verbatim_text": "Obtain the product requirement and briefing from the Situation Unit / command.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "RSEN",
+      "task_number": 2,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Remote Sensing Specialist and initiate position activities at the appropriate time.",
+      "behavior": "Ensure readiness for assignment",
+      "level": "Beginner",
+      "verbatim_text": "Verify sensor and platform readiness for the required product.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "RSEN",
+      "task_number": 3,
+      "category": "COMPETENCY: Acquire and process remotely sensed data. Collect and process imagery to support incident products.",
+      "behavior": "Plan and conduct acquisition",
+      "level": "Journey",
+      "verbatim_text": "Plan an acquisition mission (platform, sensor, altitude, overlap) for the stated product.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "RSEN",
+      "task_number": 4,
+      "category": "COMPETENCY: Acquire and process remotely sensed data. Collect and process imagery to support incident products.",
+      "behavior": "Plan and conduct acquisition",
+      "level": "Journey",
+      "verbatim_text": "Select the appropriate sensor and platform for the product.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "RSEN",
+      "task_number": 5,
+      "category": "COMPETENCY: Acquire and process remotely sensed data. Collect and process imagery to support incident products.",
+      "behavior": "Process to a deliverable product",
+      "level": "Journey",
+      "verbatim_text": "Produce an orthomosaic and/or classified point cloud through the processing pipeline.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "RSEN",
+      "task_number": 6,
+      "category": "COMPETENCY: Acquire and process remotely sensed data. Collect and process imagery to support incident products.",
+      "behavior": "Process to a deliverable product",
+      "level": "Journey",
+      "verbatim_text": "Apply quality control and document product accuracy and limitations.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "RSEN",
+      "task_number": 7,
+      "category": "COMPETENCY: Interpret and deliver products. Translate processed imagery into decision-ready products.",
+      "behavior": "Interpret and deliver",
+      "level": "Journey",
+      "verbatim_text": "Interpret imagery for fuels condition, burn severity, or active perimeter.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "RSEN",
+      "task_number": 8,
+      "category": "COMPETENCY: Interpret and deliver products. Translate processed imagery into decision-ready products.",
+      "behavior": "Interpret and deliver",
+      "level": "Journey",
+      "verbatim_text": "Deliver products to the Situation Unit / command in the required format and projection.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "RSEN",
+      "task_number": 9,
+      "category": "COMPETENCY: Communicate effectively. Share relevant information with appropriate personnel on a timely basis.",
+      "behavior": "Brief and document",
+      "level": "Journey",
+      "verbatim_text": "Brief command on product capabilities and limitations.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "RSEN",
+      "task_number": 10,
+      "category": "COMPETENCY: Communicate effectively. Share relevant information with appropriate personnel on a timely basis.",
+      "behavior": "Brief and document",
+      "level": "Beginner",
+      "verbatim_text": "Archive data per records-management requirements.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "GEOL",
+      "task_number": 1,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Geospatial Operations Lead and initiate position activities at the appropriate time.",
+      "behavior": "Ensure readiness for assignment",
+      "level": "Aspirant",
+      "verbatim_text": "Obtain the briefing and command product priorities.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "GEOL",
+      "task_number": 2,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Geospatial Operations Lead and initiate position activities at the appropriate time.",
+      "behavior": "Ensure readiness for assignment",
+      "level": "Beginner",
+      "verbatim_text": "Establish data standards, projections, and versioning for the incident.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "GEOL",
+      "task_number": 3,
+      "category": "COMPETENCY: Lead assigned personnel. Direct geospatial personnel to accomplish command objectives.",
+      "behavior": "Supervise and account for personnel and data",
+      "level": "Expert",
+      "verbatim_text": "Supervise and task GISS and RSEN personnel against command priorities.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "GEOL",
+      "task_number": 4,
+      "category": "COMPETENCY: Lead assigned personnel. Direct geospatial personnel to accomplish command objectives.",
+      "behavior": "Supervise and account for personnel and data",
+      "level": "Expert",
+      "verbatim_text": "Ensure data security and accountability across the incident.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "GEOL",
+      "task_number": 5,
+      "category": "COMPETENCY: Direct geospatial operations. Architect and assure the geospatial data products.",
+      "behavior": "Build and assure the pipeline",
+      "level": "Expert",
+      "verbatim_text": "Design a data pipeline fusing multiple geospatial and sensor sources.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "GEOL",
+      "task_number": 6,
+      "category": "COMPETENCY: Direct geospatial operations. Architect and assure the geospatial data products.",
+      "behavior": "Build and assure the pipeline",
+      "level": "Expert",
+      "verbatim_text": "Quality-assure integrated products before command use.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "GEOL",
+      "task_number": 7,
+      "category": "COMPETENCY: Communicate effectively. Share relevant information with appropriate personnel on a timely basis.",
+      "behavior": "Brief and debrief",
+      "level": "Journey",
+      "verbatim_text": "Brief command on geospatial capabilities and limitations.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "GEOL",
+      "task_number": 8,
+      "category": "COMPETENCY: Communicate effectively. Share relevant information with appropriate personnel on a timely basis.",
+      "behavior": "Brief and debrief",
+      "level": "Beginner",
+      "verbatim_text": "Conduct the after-action review and ensure data disposition.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SNTK",
+      "task_number": 1,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Sensor Network Technician and initiate position activities at the appropriate time.",
+      "behavior": "Ensure readiness for assignment",
+      "level": "Aspirant",
+      "verbatim_text": "Obtain the work order and site list.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "SNTK",
+      "task_number": 2,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Sensor Network Technician and initiate position activities at the appropriate time.",
+      "behavior": "Ensure readiness for assignment",
+      "level": "Beginner",
+      "verbatim_text": "Verify tools, hardware, and communications equipment.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "SNTK",
+      "task_number": 3,
+      "category": "COMPETENCY: Install and commission detection hardware. Place and bring online field detection devices.",
+      "behavior": "Install and calibrate",
+      "level": "Journey",
+      "verbatim_text": "Select and prepare a site (vantage, power, line-of-sight, connectivity).",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "SNTK",
+      "task_number": 4,
+      "category": "COMPETENCY: Install and commission detection hardware. Place and bring online field detection devices.",
+      "behavior": "Install and calibrate",
+      "level": "Journey",
+      "verbatim_text": "Install and commission the sensor, power, and communications hardware.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "SNTK",
+      "task_number": 5,
+      "category": "COMPETENCY: Install and commission detection hardware. Place and bring online field detection devices.",
+      "behavior": "Install and calibrate",
+      "level": "Journey",
+      "verbatim_text": "Calibrate the sensor and verify the data link to the platform.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "SNTK",
+      "task_number": 6,
+      "category": "COMPETENCY: Maintain and troubleshoot. Keep the network operational.",
+      "behavior": "Maintain and repair",
+      "level": "Journey",
+      "verbatim_text": "Perform preventive maintenance on field hardware.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "SNTK",
+      "task_number": 7,
+      "category": "COMPETENCY: Maintain and troubleshoot. Keep the network operational.",
+      "behavior": "Maintain and repair",
+      "level": "Journey",
+      "verbatim_text": "Diagnose and resolve a field fault and document the corrective action.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "SNTK",
+      "task_number": 8,
+      "category": "COMPETENCY: Communicate effectively. Share relevant information with appropriate personnel on a timely basis.",
+      "behavior": "Document and report",
+      "level": "Beginner",
+      "verbatim_text": "Document the install/maintenance and report network status.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "FDSO",
+      "task_number": 1,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Fire Detection Systems Operator and initiate position activities at the appropriate time.",
+      "behavior": "Ensure readiness for assignment",
+      "level": "Aspirant",
+      "verbatim_text": "Obtain the platform briefing and area of responsibility.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "FDSO",
+      "task_number": 2,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Fire Detection Systems Operator and initiate position activities at the appropriate time.",
+      "behavior": "Ensure readiness for assignment",
+      "level": "Beginner",
+      "verbatim_text": "Verify the platform and communications are operational.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "FDSO",
+      "task_number": 3,
+      "category": "COMPETENCY: Monitor and triage detections. Identify and confirm genuine fire detections.",
+      "behavior": "Triage and confirm",
+      "level": "Journey",
+      "verbatim_text": "Discriminate true detections from false positives (fog, dust, industrial smoke, heat reflection).",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "FDSO",
+      "task_number": 4,
+      "category": "COMPETENCY: Monitor and triage detections. Identify and confirm genuine fire detections.",
+      "behavior": "Triage and confirm",
+      "level": "Journey",
+      "verbatim_text": "Corroborate a detection across multiple sources.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "FDSO",
+      "task_number": 5,
+      "category": "COMPETENCY: Monitor and triage detections. Identify and confirm genuine fire detections.",
+      "behavior": "Triage and confirm",
+      "level": "Journey",
+      "verbatim_text": "Geolocate and confirm a detection to the required positional accuracy.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "FDSO",
+      "task_number": 6,
+      "category": "COMPETENCY: Disseminate confirmed detections. Get confirmed detections to the right people quickly.",
+      "behavior": "Escalate and document",
+      "level": "Journey",
+      "verbatim_text": "Execute the escalation and dissemination workflow to dispatch/command.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "FDSO",
+      "task_number": 7,
+      "category": "COMPETENCY: Disseminate confirmed detections. Get confirmed detections to the right people quickly.",
+      "behavior": "Escalate and document",
+      "level": "Journey",
+      "verbatim_text": "Document the detection and its disposition.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "FDSO",
+      "task_number": 8,
+      "category": "COMPETENCY: Communicate effectively. Share relevant information with appropriate personnel on a timely basis.",
+      "behavior": "Brief and hand off",
+      "level": "Beginner",
+      "verbatim_text": "Brief the oncoming operator at shift change.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "FDMS",
+      "task_number": 1,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Detection ML Specialist and initiate development activities.",
+      "behavior": "Establish the development baseline",
+      "level": "Aspirant",
+      "verbatim_text": "Obtain the model requirement and performance targets.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "FDMS",
+      "task_number": 2,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Detection ML Specialist and initiate development activities.",
+      "behavior": "Establish the development baseline",
+      "level": "Beginner",
+      "verbatim_text": "Verify the data and compute environment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "FDMS",
+      "task_number": 3,
+      "category": "COMPETENCY: Develop and validate detection models. Build models that meet operational detection requirements.",
+      "behavior": "Train and evaluate",
+      "level": "Journey",
+      "verbatim_text": "Curate and label a representative dataset; document provenance and bias.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "FDMS",
+      "task_number": 4,
+      "category": "COMPETENCY: Develop and validate detection models. Build models that meet operational detection requirements.",
+      "behavior": "Train and evaluate",
+      "level": "Journey",
+      "verbatim_text": "Train and evaluate a detection model against a held-out set.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "FDMS",
+      "task_number": 5,
+      "category": "COMPETENCY: Develop and validate detection models. Build models that meet operational detection requirements.",
+      "behavior": "Train and evaluate",
+      "level": "Expert",
+      "verbatim_text": "Manage the recall / false-positive tradeoff to the operational requirement.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "FDMS",
+      "task_number": 6,
+      "category": "COMPETENCY: Deploy and maintain. Sustain model performance in production.",
+      "behavior": "Deploy and monitor",
+      "level": "Journey",
+      "verbatim_text": "Deploy and monitor a production model; detect drift.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "FDMS",
+      "task_number": 7,
+      "category": "COMPETENCY: Deploy and maintain. Sustain model performance in production.",
+      "behavior": "Deploy and monitor",
+      "level": "Journey",
+      "verbatim_text": "Document model changes and versioning.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "FDMS",
+      "task_number": 8,
+      "category": "COMPETENCY: Communicate effectively. Share relevant information with appropriate stakeholders on a timely basis.",
+      "behavior": "Brief stakeholders",
+      "level": "Beginner",
+      "verbatim_text": "Brief stakeholders on model performance and limitations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "ASOP",
+      "task_number": 1,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Autonomous Systems Operator and initiate position activities at the appropriate time.",
+      "behavior": "Ensure readiness for assignment",
+      "level": "Aspirant",
+      "verbatim_text": "Obtain the mission objective and briefing.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "ASOP",
+      "task_number": 2,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Autonomous Systems Operator and initiate position activities at the appropriate time.",
+      "behavior": "Ensure readiness for assignment",
+      "level": "Beginner",
+      "verbatim_text": "Verify platform/autonomy readiness and complete pre-mission checks.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "ASOP",
+      "task_number": 3,
+      "category": "COMPETENCY: Task and supervise autonomous operations. Direct autonomous assets while retaining human-on-the-loop authority.",
+      "behavior": "Task, monitor, and approve",
+      "level": "Journey",
+      "verbatim_text": "Task the autonomous mission to the objective and verify the plan before launch.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "ASOP",
+      "task_number": 4,
+      "category": "COMPETENCY: Task and supervise autonomous operations. Direct autonomous assets while retaining human-on-the-loop authority.",
+      "behavior": "Task, monitor, and approve",
+      "level": "Journey",
+      "verbatim_text": "Monitor autonomy state and approve or intervene at decision points.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "ASOP",
+      "task_number": 5,
+      "category": "COMPETENCY: Task and supervise autonomous operations. Direct autonomous assets while retaining human-on-the-loop authority.",
+      "behavior": "Task, monitor, and approve",
+      "level": "Expert",
+      "verbatim_text": "Maintain human-on-the-loop approval authority throughout the operation.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "ASOP",
+      "task_number": 6,
+      "category": "COMPETENCY: Manage contingencies. Respond to abnormal conditions safely.",
+      "behavior": "Execute contingencies and deconflict",
+      "level": "Expert",
+      "verbatim_text": "Execute lost-link and contingency procedures.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "ASOP",
+      "task_number": 7,
+      "category": "COMPETENCY: Manage contingencies. Respond to abnormal conditions safely.",
+      "behavior": "Execute contingencies and deconflict",
+      "level": "Expert",
+      "verbatim_text": "Deconflict autonomous assets from crewed aviation and ground resources.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "ASOP",
+      "task_number": 8,
+      "category": "COMPETENCY: Communicate effectively. Share relevant information with appropriate personnel on a timely basis.",
+      "behavior": "Report and debrief",
+      "level": "Beginner",
+      "verbatim_text": "Report mission progress and debrief outcomes.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 19
+    },
+    {
+      "position_code": "RBFE",
+      "task_number": 1,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Robotics Field Engineer and initiate position activities at the appropriate time.",
+      "behavior": "Ensure readiness for assignment",
+      "level": "Aspirant",
+      "verbatim_text": "Obtain the deployment plan and site brief.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "RBFE",
+      "task_number": 2,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Robotics Field Engineer and initiate position activities at the appropriate time.",
+      "behavior": "Ensure readiness for assignment",
+      "level": "Beginner",
+      "verbatim_text": "Verify the platform, tools, and spares.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "RBFE",
+      "task_number": 3,
+      "category": "COMPETENCY: Deploy and integrate platforms. Bring robotic platforms online in field conditions.",
+      "behavior": "Integrate and test",
+      "level": "Journey",
+      "verbatim_text": "Integrate and field-commission the robotic platform.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "RBFE",
+      "task_number": 4,
+      "category": "COMPETENCY: Deploy and integrate platforms. Bring robotic platforms online in field conditions.",
+      "behavior": "Integrate and test",
+      "level": "Journey",
+      "verbatim_text": "Execute hardware-in-the-loop / software-in-the-loop checks before operation.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "RBFE",
+      "task_number": 5,
+      "category": "COMPETENCY: Maintain and ensure safety. Sustain platform reliability and safe operation.",
+      "behavior": "Maintain and report",
+      "level": "Journey",
+      "verbatim_text": "Perform maintenance and repair and apply safety lockout procedures.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "RBFE",
+      "task_number": 6,
+      "category": "COMPETENCY: Maintain and ensure safety. Sustain platform reliability and safe operation.",
+      "behavior": "Maintain and report",
+      "level": "Journey",
+      "verbatim_text": "Capture operational data and report reliability findings.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "RBFE",
+      "task_number": 7,
+      "category": "COMPETENCY: Communicate effectively. Share relevant information with appropriate personnel on a timely basis.",
+      "behavior": "Brief operators",
+      "level": "Beginner",
+      "verbatim_text": "Brief operators on platform status and limitations.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "ASWE",
+      "task_number": 1,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Autonomy Software Engineer and initiate development activities.",
+      "behavior": "Establish requirements baseline",
+      "level": "Aspirant",
+      "verbatim_text": "Obtain the requirement and safety constraints.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 22
+    },
+    {
+      "position_code": "ASWE",
+      "task_number": 2,
+      "category": "COMPETENCY: Develop autonomy software. Build perception, planning, or mission-autonomy software to requirement.",
+      "behavior": "Specify and build",
+      "level": "Journey",
+      "verbatim_text": "Derive and validate requirements with operational SMEs (firefighters, pilots).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 22
+    },
+    {
+      "position_code": "ASWE",
+      "task_number": 3,
+      "category": "COMPETENCY: Develop autonomy software. Build perception, planning, or mission-autonomy software to requirement.",
+      "behavior": "Specify and build",
+      "level": "Journey",
+      "verbatim_text": "Develop a perception or planning module to the requirement.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 22
+    },
+    {
+      "position_code": "ASWE",
+      "task_number": 4,
+      "category": "COMPETENCY: Develop autonomy software. Build perception, planning, or mission-autonomy software to requirement.",
+      "behavior": "Specify and build",
+      "level": "Expert",
+      "verbatim_text": "Apply safety-critical software practices.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 22
+    },
+    {
+      "position_code": "ASWE",
+      "task_number": 5,
+      "category": "COMPETENCY: Validate. Demonstrate correct behavior before field reliance.",
+      "behavior": "Test and verify",
+      "level": "Expert",
+      "verbatim_text": "Validate behavior in simulation across representative conditions.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 22
+    },
+    {
+      "position_code": "ASWE",
+      "task_number": 6,
+      "category": "COMPETENCY: Validate. Demonstrate correct behavior before field reliance.",
+      "behavior": "Test and verify",
+      "level": "Journey",
+      "verbatim_text": "Support flight/field testing.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 22
+    },
+    {
+      "position_code": "ASWE",
+      "task_number": 7,
+      "category": "COMPETENCY: Validate. Demonstrate correct behavior before field reliance.",
+      "behavior": "Test and verify",
+      "level": "Journey",
+      "verbatim_text": "Complete verification-and-validation documentation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 22
+    },
+    {
+      "position_code": "ASWE",
+      "task_number": 8,
+      "category": "COMPETENCY: Communicate effectively. Share relevant information with appropriate stakeholders on a timely basis.",
+      "behavior": "Brief and document",
+      "level": "Beginner",
+      "verbatim_text": "Brief stakeholders and document design decisions.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 23
+    },
+    {
+      "position_code": "CFMD",
+      "task_number": 1,
+      "category": "COMPETENCY: Assume position responsibilities. Successfully assume the role of Computational Fire Modeler and initiate modeling activities.",
+      "behavior": "Establish the modeling baseline",
+      "level": "Aspirant",
+      "verbatim_text": "Obtain the modeling objective and data inventory.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 24
+    },
+    {
+      "position_code": "CFMD",
+      "task_number": 2,
+      "category": "COMPETENCY: Build and calibrate models. Construct calibrated fire-spread / risk models.",
+      "behavior": "Configure and ingest",
+      "level": "Expert",
+      "verbatim_text": "Select and configure models and calibrate an ensemble to local conditions.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 24
+    },
+    {
+      "position_code": "CFMD",
+      "task_number": 3,
+      "category": "COMPETENCY: Build and calibrate models. Construct calibrated fire-spread / risk models.",
+      "behavior": "Configure and ingest",
+      "level": "Journey",
+      "verbatim_text": "Ingest and condition weather, fuels, and satellite inputs.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 24
+    },
+    {
+      "position_code": "CFMD",
+      "task_number": 4,
+      "category": "COMPETENCY: Validate and deliver. Produce decision-ready, uncertainty-aware products.",
+      "behavior": "Validate and deliver",
+      "level": "Expert",
+      "verbatim_text": "Validate output against observed fire progression and quantify error/uncertainty.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 24
+    },
+    {
+      "position_code": "CFMD",
+      "task_number": 5,
+      "category": "COMPETENCY: Validate and deliver. Produce decision-ready, uncertainty-aware products.",
+      "behavior": "Validate and deliver",
+      "level": "Journey",
+      "verbatim_text": "Deliver decision-ready products to command.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 24
+    },
+    {
+      "position_code": "CFMD",
+      "task_number": 6,
+      "category": "COMPETENCY: Validate and deliver. Produce decision-ready, uncertainty-aware products.",
+      "behavior": "Validate and deliver",
+      "level": "Journey",
+      "verbatim_text": "Collaborate with FBAN/LTAN on interpretation.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 24
+    },
+    {
+      "position_code": "CFMD",
+      "task_number": 7,
+      "category": "COMPETENCY: Communicate effectively. Share relevant information with appropriate personnel on a timely basis.",
+      "behavior": "Brief assumptions and uncertainty",
+      "level": "Journey",
+      "verbatim_text": "Brief command and analysts on model assumptions and uncertainty.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 24
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 1
+    },
+    {
+      "field_name": "level_rating",
+      "page": 1
+    }
+  ],
+  "extra_fields": {
+    "code_definitions": {
+      "W": "Wildfire incident",
+      "RX": "Prescribed fire",
+      "W/RX": "Wildfire or prescribed fire",
+      "R": "Rare event — may be evaluated through a simulation or exercise",
+      "O": "Developmental / non-incident setting (engineering & development roles) — framework extension"
+    }
+  }
+}

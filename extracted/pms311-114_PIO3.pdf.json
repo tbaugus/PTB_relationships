@@ -1,0 +1,1133 @@
+{
+  "document": {
+    "filename": "pms311-114_PIO3.pdf",
+    "sha256": "d0be8f8ecddfb4c694051642d2dc7d6fad4ca4b563c414731b0409547bcb3e98",
+    "pms_number": "311-114",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "PIO3"
+    ],
+    "title": "Public Information Officer Type 3",
+    "edition_date": "DECEMBER 2024",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 20
+  },
+  "positions": [
+    {
+      "code": "PIO3",
+      "title": "Public Information Officer Type 3",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "PIO3",
+      "task_number": 1,
+      "category": "Ensure Individual readiness.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble materials needed for an Information kit. Suggested items:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "NWCG Incident Response Pocket Guide (IRPG),",
+        "Documents needed to perform duties (e.g.,",
+        "Equipment and supplies for posting or providing",
+        "Maintain current access to applicable modern"
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 2,
+      "category": "Ensure Individual readiness.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch and incident supervisor prior to mobilization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Incident order number",
+        "Request number",
+        "Incident phone number",
+        "Reporting time",
+        "Reporting location",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel",
+        "Name and location of Incident Commander or",
+        "Weather, terrain and living",
+        "Ensure items needed to perform"
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 3,
+      "category": "Ensure Individual readiness.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure physical and mental preparedness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Personal or home life prepared.",
+        "Prepare for personal dietary or medical needs.",
+        "Mentally prepare for working long hours in a",
+        "Ensure home unit/work allows for your absence.",
+        "Communicate barriers that can jeopardize your"
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 4,
+      "category": "Ensure Individual readiness.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive at incident and check in.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Arrive properly equipped at assigned location",
+        "Notify supervisor of any time delays.",
+        "Follow appropriate check in procedures outlined"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 5,
+      "category": "Gather critical information pertinent to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from local unit personnel, Incident Commander, or Public Information Officer.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 6,
+      "category": "Gather critical information pertinent to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review available documents and obtain briefing, objectives, and intent from supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident Action Plan (IAP)",
+        "Incident Status Summary (ICS 209)",
+        "Delegation of Authority",
+        "Wildland Fire Decision Support Document",
+        "Leader’s Intent",
+        "Maps",
+        "Official incident information websites (InciWeb)",
+        "Host unit communication plans and guidance"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 7,
+      "category": "Gather critical information pertinent to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine Incident Commander/Agency Administrator, and Supervisory PIO (if applicable) expectations regarding the dissemination of information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Determine location for information center, media",
+        "Determine expectation and access for electronic",
+        "Determine needs for accessibility and translation.",
+        "Coordination with local public information staff."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 8,
+      "category": "Gather critical information pertinent to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish procedures to obtain current and on-going incident intelligence.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Obtain or access incident documents [e.g.,",
+        "Communication with dispatch.",
+        "Follow-up briefings from Incident Commander",
+        "Update maps and other visuals.",
+        "Attend planning meetings and briefings."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 9,
+      "category": "Assemble and validate readiness of assigned personnel and equipment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assess needs and maintain appropriate staffing level for successful performance and transition.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify assigned resources and maintain",
+        "Assess the ability of assigned resources and place"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 10,
+      "category": "Assemble and validate readiness of assigned personnel and equipment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish a common operating picture with supervisor and subordinates.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Establish and communicate chain of command, reporting procedures, and risk management processes."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 11,
+      "category": "Establish/follow standard operating procedures",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish/follow Standard Operating Procedures",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Check in/check out protocols",
+        "Product review and dissemination procedures",
+        "Social media protocols and procedures"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 12,
+      "category": "Establish/follow standard operating procedures",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Submit orders to meet immediate and long-term needs.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Staffing",
+        "Equipment",
+        "Supplies"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 13,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command",
+        "Maintain appropriate span of control",
+        "Use appropriate ICS forms",
+        "Use appropriate ICS terminology"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 14,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised, and",
+        "Develop your subordinates for the future."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 15,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 16,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility",
+        "Set the example."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 17,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Emphasize Teamwork.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Establish and maintain positive interpersonal and",
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 18,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate, and communicate potentially",
+        "Monitor condition of assigned resources and take",
+        "Account for assigned resources."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 19,
+      "category": "Supervise effectively, establish work assignments and performance",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Supervise Effectively.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Perform supervisory tasks in accordance with",
+        "Address human resource concerns and issues in a",
+        "Provide clear and direct leader’s intent.",
+        "Adjust actions based on changing information",
+        "Implement contingency plans as directed.",
+        "Ensure completion of assigned actions to meet"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 20,
+      "category": "Supervise effectively, establish work assignments and performance",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Mentor and Train Assigned Resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide training opportunities for self and others"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 21,
+      "category": "Supervise effectively, establish work assignments and performance",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish Work Assignments and Set Performance Expectations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify functional unit tasks.",
+        "Establish roles and responsibilities for",
+        "Establish time frames and deadlines for",
+        "Establish a work schedule and ensure accurate",
+        "Delegate duties to staff as needed."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 22,
+      "category": "Supervise effectively, establish work assignments and performance",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide Feedback and Monitor Performance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide ongoing feedback to support staff during",
+        "Monitor performance and provide immediate and",
+        "Complete incident performance evaluations and",
+        "Provide immediate and regular feedback to"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 23,
+      "category": "Communicate and assure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness within ICS/Command and General Staff (C&G) personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Represent the information function at C&G,",
+        "Report any changes in information",
+        "Work with C&G staff to determine",
+        "Establish, plan for, and coordinate Incident"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 24,
+      "category": "Communicate and assure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate that you understand IWI protocols.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Attend specialized training (for example, You",
+        "Review IWI processes in documents such as the",
+        "Discuss IWI procedures with incident personnel."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 25,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recognize jurisdictional boundaries and which authorities/agencies should be involved. Coordinate activities appropriately.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Determine roles and responsibilities with agency",
+        "Coordinate with other information functions"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 26,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare, plan, coordinate or assist with logistic needs and/or briefing materials for special events, visits, or meetings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "VIP visits",
+        "Community meetings",
+        "Stakeholder meetings"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 27,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in briefings and meetings as assigned.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Develop information updates based on",
+        "Brief Incident Commander of sensitive",
+        "Participate in After Action Reviews (AARs)"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 28,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish protocols for incident documentation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 29,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain and/or assist in maintaining incident documentation specific to the Information Section of the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know and use procedures for electronic"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 30,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete and route as required:",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Activity Log (ICS 214)",
+        "Crew Time Report (CTR), SF-261",
+        "Incident Personnel Performance Rating",
+        "General Message (ICS 213)"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 31,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish a central point of contact for incident information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Establish information center/contact location.",
+        "Email and telephone lines for external and",
+        "Websites (InciWeb or other official source).",
+        "Social media channels."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 32,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare updates/fact sheets for the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Location (proximity to well-known locations or",
+        "Size of affected area",
+        "Time and date of origin",
+        "Cause (when determined)",
+        "Values to be protected",
+        "Approximate costs to date",
+        "Number of structures destroyed",
+        "Current and expected weather conditions",
+        "Expected duration of incident (e.g., containment,",
+        "Agencies, jurisdictions, and cooperators",
+        "Equipment and resources committed and",
+        "Special messages",
+        "Incident objectives"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 33,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide current, accurate, and timely information to external audiences (e.g., fact sheets, news release, talking points).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Produce information resources in a timely",
+        "Use effective written and verbal communication",
+        "InciWeb or other internet resources posted in"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 34,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop a communication strategy (audiences, key messages, tactics) and implement accordingly.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Establish, evaluate, and adjust outreach",
+        "Determine supervisor’s expectations regarding"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 35,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Stay apprised of advancements in, and use of, appropriate tools, communication devices, and equipment to complete job duties.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Access and knowledge of appropriate platforms",
+        "Knowledge of appropriate platforms, software,"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 36,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Use social media platforms appropriate to meet the communication needs of the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate with host unit for social media",
+        "Ensure 508 accessibility on each platform.",
+        "Abide by agency social media standards."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 37,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Use InciWeb or relevant website to share incident information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Format and post relevant incident summary and",
+        "Format and post documents, links, images, and",
+        "Ensure 508 accessibility."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 38,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Issue appropriate communications based on emerging situations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Evacuations",
+        "Road closures",
+        "Smoke conditions",
+        "IWI"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 39,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify, analyze, and use relevant situational information to make informed decisions and take appropriate actions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Adjust actions based on changing information",
+        "Implement contingency plans as directed.",
+        "Communicate changing conditions."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 40,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare and disseminate information to incident personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Establish and maintain bulletin board(s) at",
+        "Use designated protocols for communicating with"
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 41,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Incorporate approved special messages/information into routine incident information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Safety",
+        "Prevention",
+        "Resource benefits",
+        "Environmental protection measures",
+        "Interagency cooperation",
+        "Rehabilitation and resource recovery programs",
+        "Recognition of local community and volunteer"
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 42,
+      "category": "Develop appropriate information releases and conduct interviews according to",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Give interviews that are concise, accurate, timely, well planned, and consistent with key messages.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Anticipate interview questions and practice",
+        "Review updated talking points."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 43,
+      "category": "Develop appropriate information releases and conduct interviews according to",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Facilitate positive relationships with media.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Publicize information center, phone numbers,",
+        "Maintain log of media names, organization,",
+        "Follow up on media requests for",
+        "Coordinate and plan press conferences"
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 44,
+      "category": "Develop appropriate information releases and conduct interviews according to",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with incident personnel to schedule interviews and provide media escort as needed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide personal protective equipment",
+        "Ensure designated escorts are qualified",
+        "Arrange and schedule phone, virtual,"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 45,
+      "category": "Develop appropriate information releases and conduct interviews according to",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain appropriate community contacts as needed (trapline).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Deliver or post information at trapline locations.",
+        "Facilitate digital notifications (e.g., phone and"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 46,
+      "category": "Develop appropriate information releases and conduct interviews according to",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist with effective community relations in coordination with local unit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide updates for community leaders",
+        "Prepare for information meetings."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 47,
+      "category": "Use effective written and verbal communication skills for a variety of audiences.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate effective verbal communication skills.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Speak to community members and stakeholders.",
+        "Facilitate and/or present at community meetings",
+        "Give media interviews.",
+        "Provide briefings."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 48,
+      "category": "Use effective written and verbal communication skills for a variety of audiences.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate writing skills appropriate to the audience in a variety of formats.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Talking points",
+        "News releases",
+        "Thank you notes"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 49,
+      "category": "Use effective written and verbal communication skills for a variety of audiences.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare appropriate communication for diverse audience.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know, understand, and plan for the needs of the",
+        "Provide translation services as needed."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 50,
+      "category": "Take appropriate action based on assessed risks (Manage Risk).",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Know your skill level and limitations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Apply the Risk Management Process as stated in"
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 51,
+      "category": "Take appropriate action based on assessed risks (Manage Risk).",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure compliance with all safety practices and procedures and report all accidents or injuries to supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 52,
+      "category": "Take appropriate action based on assessed risks (Manage Risk).",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Investigate rumors and take appropriate action.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Monitoring news coverage, social media, and",
+        "Listening to feedback and questions from",
+        "Adjust messaging and strategy accordingly to"
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 53,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow safety procedures and be aware of incident- specific hazards.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "PPE.",
+        "Lookouts, Communications, Escape Routes,",
+        "Hazards (inform others).",
+        "Transportation and aviation procedures.",
+        "Work/rest guidelines.",
+        "Apply the Standard Firefighting Orders and",
+        "Use Look Up, Down and Around in the IRPG to"
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 54,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow safety procedures specific to the information function.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Maintain accountability (travel safety, check-",
+        "Work within your skill level and limitations."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 55,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing [e.g., incoming Incident Management Team (IMT), host agency].",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform subordinate staff and IC.",
+        "Document follow-up action needed and",
+        "Submit a transition plan and/or other close-out"
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 56,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure continuity of duties when changing roles, including potential resource needs and incident complexities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 57,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan for demobilization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Prepare demobilization schedule.",
+        "Communicate with supervisor and subordinates"
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 58,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure proper close-out procedures and needs are met with local unit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Breakdown and return equipment and supplies to",
+        "Dismantle trapline, if necessary.",
+        "Ensure contacts are informed of change in",
+        "Provide follow up contact information.",
+        "Provide appropriate documentation."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 59,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demobilize and check out.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive demobilization instructions from",
+        "Complete demobilization checkout",
+        "If required, complete Demobilization",
+        "Ensure proper refurbishing and"
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "PIO3",
+      "task_number": 60,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Report status to home unit including reassignment or estimated time of arrival (ETA) to home unit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 18
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 5
+    }
+  ],
+  "extra_fields": {}
+}

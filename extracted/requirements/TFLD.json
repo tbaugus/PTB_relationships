@@ -1,0 +1,48 @@
+{
+  "position_code": "TFLD",
+  "required_training": [
+    "ICS-300, Intermediate ICS for Expanding Incidents",
+    "IS-800, National Response Framework, An Introduction",
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-215, Fire Operations in the Wildland/Urban Interface",
+    "S-330, Task Force/Strike Team Leader"
+  ],
+  "required_experience": [
+    "Satisfactory performance as Strike Team Leader ( STCR , STEN , STEQ ) (see note)",
+    "AND Completion and Certification of NWCG Task Force Leader (TFLD) Position Task Book , PMS 311-10"
+  ],
+  "required_experience_prereq_codes": [
+    "STEQ"
+  ],
+  "physical_fitness": "Physical Fitness Level: Arduous",
+  "currency_maintained_by": [
+    "Division/Group Supervisor ( DIVS )",
+    "Helicopter Coordinator ( HLCO )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Incident Commander Type 4 ( ICT4 )",
+    "Operation Section Chief Complex ( OSCC )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )",
+    "Prescribed Fire Burn Boss Type 1 ( RXB1 )",
+    "Prescribed Fire Burn Boss Type 2 ( RXB2 )",
+    "Safety Officer Type 3 ( SOF3 )",
+    "Strike Team Leader ( STCR , STEN , STEQ )",
+    "Structure Protection Specialist ( STPS )"
+  ],
+  "maintains_currency_for": [
+    "Crew Representative ( CREP )",
+    "Division/Group Supervisor ( DIVS )",
+    "Firefighter Type 1 ( FFT1 )",
+    "Firefighter Type 2 ( FFT2 )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Incident Commander Type 4 ( ICT4 )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )",
+    "Safety Officer, Field ( SOFF )",
+    "Safety Officer Type 3 ( SOF3 )",
+    "Single Resource Boss ( CRWB , ENGB , FELB , FIRB , HEQB )",
+    "Strike Team Leader ( STCR , STEN , STEQ )"
+  ],
+  "other_training": [
+    "L-380, Fireline Leadership"
+  ],
+  "note": "The Task Force Leader (TFLD) and Strike Team Leader ( STCR , STEN , STEQ ) PTBs are combined. However, the positions are not combined. Strike Team Leader tasks are completed only once. The required experience for TFLD must be met before completing additional TFLD tasks. Exception: Once qualified as a Strike Team Leader ( STCR , STEN , or STEQ ), any additional Strike Team Leader qualification will also qualify the individual as Task Force Leader\u2014without having to complete the Task Force Leader PTB. If a TFLD meets the prerequisite experience and qualifications of a STL, the appropriate STL qualification may be granted by the certifying official. Certification must be documented on a \u2018verification/certification\u2019 page of the TFLD PTB.\u201d"
+}

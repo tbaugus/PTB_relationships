@@ -1,0 +1,30 @@
+{
+  "position_code": "FBAN",
+  "required_training": [
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-490, Advanced Wildland Fire Behavior Calculations",
+    "S-491, Intermediate National Fire Danger Rating System",
+    "S-590, Advanced Fire Behavior Interpretation"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Division/Group Supervisor ( DIVS )",
+    "AND Completion and Certification of NWCG Fire Behavior Analyst Position Task Book (FBAN) , PMS 311-29"
+  ],
+  "required_experience_prereq_codes": [
+    "DIVS"
+  ],
+  "physical_fitness": "Physical Fitness Level: Moderate",
+  "currency_maintained_by": [],
+  "maintains_currency_for": [
+    "Fire Effects Monitor ( FEMO )",
+    "Long Term Fire Analyst ( LTAN )"
+  ],
+  "other_training": [
+    "N-9035, Remote Automated Weather Stations",
+    "M-410, Facilitative Instructor",
+    "RX-300, Prescribed Fire Burn Boss",
+    "RX-410, Smoke Management Techniques",
+    "S-495, Geospatial Fire Analysis, Interpretation, and Application"
+  ],
+  "note": "If an LTAN meets the prerequisite experience and qualifications of an FBAN, the certifying official may grant the FBAN qualification. Certification must be documented on a \u201cverification/certification\u201d page."
+}

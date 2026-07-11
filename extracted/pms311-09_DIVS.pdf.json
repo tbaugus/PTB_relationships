@@ -1,0 +1,701 @@
+{
+  "document": {
+    "filename": "pms311-09_DIVS.pdf",
+    "sha256": "5b54162c27edab0182ab61d57ba982b6053cb55f51006e494436630b09dca349",
+    "pms_number": "311-09",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "DIVS"
+    ],
+    "title": "Division or Group Supervisor",
+    "edition_date": "JUNE 2009",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 16
+  },
+  "positions": [
+    {
+      "code": "DIVS",
+      "title": "Division or Group Supervisor",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "DIVS",
+      "task_number": 1,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review division/group assignment from Incident Action Plan (IAP) or relevant plans to identify resources assigned to division/group by type and quantity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Determine location and status.",
+        "Verify resources have completed check-in process."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 2,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from Branch Director, Operations Section Chief, or Incident Commander.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Obtain current IAP or relevant plan."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 3,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 4,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize assigned resources into configurations which will meet incident/tactical objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 5,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with functional areas within the ICS structure.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 6,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 7,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well-being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 8,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 9,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources are following safety guidelines appropriately.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 10,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine assigned resources ability to complete assignment within time frame.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 11,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assign responsibilities for segments within division.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 12,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 13,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate activities with adjacent division/groups.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review division/group assignments to determine specific areas or tasks involving coordination.",
+        "Maintain communications with adjoining divisions/groups."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 14,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate activities with air operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure air support protocol is established and communications are maintained (e.g., brief resources on procedures for ordering air support on division; brief resources on procedures for air medical transport vs. medevac as defined in IAP or relevant plan)."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 15,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from previous shift supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 16,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide subordinates tactical briefings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Discuss alternate plan based on strategies, control objectives, and type of resources available.",
+        "Follow the IRPG briefing format."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 17,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain periodic reports from subordinates and adjacent resources on progress.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 18,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Inform Branch Director or Operations Section Chief as appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Conditions affecting division/group operations.",
+        "Hazardous conditions.",
+        "Situation status in assigned work area.",
+        "Unresolved conflicts with adjacent divisions/groups.",
+        "Effectiveness of air operations within division/group area."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 19,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief relief forces.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Current status/conditions/concerns regarding assignment."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 20,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 21,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Report and document special occurrences or events (e.g., accidents, structure/improved property loss or damage, sickness) to immediate supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive reports of events from subordinates or personal observation of events (e.g., nature of event, location, magnitude, personnel involved, action taken).",
+        "Request assistance as established in response protocol outlined in the IAP or relevant plan."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 22,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Submit demobilization documentation as requested.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 23,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate across functional areas.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Safety Officer",
+        "Field Observers",
+        "Resource Advisors",
+        "Resources Unit Leader",
+        "Situation Unit Leader",
+        "Law Enforcement Officers"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 24,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide timely feedback in response to requests from other ICS sections.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 25,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in the development of the IAP or relevant plan for the next operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Submit situation and resources status to Branch Director or Operations Section Chief (e.g., summary of resource utilization, work progress, changes from assignment, conditions affecting division/group operations, hazards, unresolved conflicts with adjacent divisions/groups, effectiveness of air operations within division/group area).",
+        "Place orders for resources and logistical needs.",
+        "Recommend objectives for next operational period."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 26,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and evaluate improved properties and develop a structure protection plan.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Hazards",
+        "Access",
+        "Water supply",
+        "Trigger points",
+        "Evacuation plan",
+        "Logistical needs",
+        "Resource requirements",
+        "Contact information (internal/external)",
+        "Map",
+        "Triage structure/improvements",
+        "Appropriate tactics (perimeter control vs. structure defense)"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 27,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify kind, type, and number of resources required to achieve control objectives.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Consider weather, fuels, terrain, fire behavior, kinds and types of resources, resource availability, and safety factors.",
+        "Calculate control forces (e.g., intuitive method, line production tables in the IRPG or Fireline Handbook)."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 28,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Implement control objectives and special instructions for division/group.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Monitor work progress and evaluate incident situation.",
+        "Evaluate different uses of single and combined resources based on tactical needs within division/group (e.g., structure protection, perimeter control).",
+        "Compare accomplishments to division ICS 204, Assignment List.",
+        "Develop recommendations for next operational period."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 29,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine need for assistance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify need for additional assistance by monitoring work progress or based on reports from subordinates.",
+        "Coordinate with Operations Section Chief or Branch Director and request assistance according to procedures discussed in briefing.",
+        "Notify Operations Section Chief when resources are moved or shared between divisions/groups, or excess to operational needs."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 30,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process found in the IRPG and Fireline Handbook.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Step 1: Situation Awareness",
+        "Step 2: Hazard Assessment",
+        "Step 3: Hazard Control",
+        "Step 4: Decision Point",
+        "Step 5: Evaluate"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 31,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Execute a structure protection plan.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Determine appropriate tactics (perimeter control vs. structure defense).",
+        "Make resource assignments."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 32,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare for and conduct burnout/ignition operations.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 33,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Direct a firing/ignition plan using aerial ignition resources.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 34,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage an incident within an incident and take appropriate action based on established procedure.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Notify your supervisor of situation.",
+        "Document actions taken."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 35,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assess fire behavior and adjust tactics appropriately.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 36,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Adjust tactical plan in response to opportunities or problems encountered.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 37,
+      "category": "Provide logistical support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and plan for logistical support needs.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Review logistics elements of plan to determine if they meet operational needs.",
+        "Maintain documentation of accountable property assigned to the division/group.",
+        "Anticipate and resolve logistical needs."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 38,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform subordinate staff and IC.",
+        "Document follow-up action needed and submit to supervisor."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 39,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify excess resources.",
+        "Prepare schedule for demobilization."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "DIVS",
+      "task_number": 40,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief subordinate staff on demobilization procedures and responsibilities.",
+        "Ensure incident and agency demobilization procedures are followed."
+      ],
+      "page": 14
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

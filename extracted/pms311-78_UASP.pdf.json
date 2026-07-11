@@ -1,0 +1,512 @@
+{
+  "document": {
+    "filename": "pms311-78_UASP.pdf",
+    "sha256": "02ab8ec3124e5f87025457811a0efe370363cf3247c10be2e847d2825f3d080a",
+    "pms_number": "311-78",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "UASP"
+    ],
+    "title": "Unmanned Aircraft Systems Pilot",
+    "edition_date": "JULY 2025",
+    "ips_reference": "350-78",
+    "official": true,
+    "page_count": 12
+  },
+  "positions": [
+    {
+      "code": "UASP",
+      "title": "Unmanned Aircraft Systems Pilot",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "UASP",
+      "task_number": 1,
+      "category": "Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure individual readiness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 3,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 4,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather critical information pertinent to the assignment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 5,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and communicate chain of command, reporting procedures, risk management processes, radio frequency management, and aviation operational strategy.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 6,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish a common operating picture with supervisor and subordinates.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 7,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish team cohesiveness and accountability utilizing effective Crew Resource Management (CRM).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 8,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend incident briefings, coordinate with other aviation units, and obtain Incident Action Plans (IAPs), relevant plans, and incident maps for the duration of the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 9,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and communicate objectives, priorities, work assignments, and performance expectations. Identify, analyze, and use relevant situational information to make informed decisions and take appropriate actions. Perform Unmanned Aircraft Systems Pilot-",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 10,
+      "category": "Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Adjust actions based on changing information and evolving situational awareness, develop and implement contingency plans, and communicate changing conditions to assigned resources and the supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 11,
+      "category": "Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure the UAS aircraft and payload are mission-appropriate and the UASP is qualified, current, and proficient for the system and mission.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 12,
+      "category": "Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate travel to and from fireline (e.g., travel routes, check- in with the Division/Group Supervisor [DIVS], communications procedures, accountability).",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 13,
+      "category": "Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Survey the area of responsibility to assess the feasibility of assigned objectives, locate potential landing and recovery zones (LRZs), and identify flight hazards.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 14,
+      "category": "Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure UAS flight crew mission, pre-flight, and pre-takeoff responsibilities are completed as outlined by policy, system checklists, and any mission-specific directives and adhere to NWCG Standards for Fire Unmanned Aircraft Systems Operations, PMS 515.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 15,
+      "category": "Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan for data collection and processing according to the mission requirements and agency data management policies.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 16,
+      "category": "Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform post-mission duties and plan for the needs of the next operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 17,
+      "category": "Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and anticipate operational and logistical needs, and request additional resources and/or replacements as needed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 18,
+      "category": "Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Execute UAS operations based on incident objectives, leader’s intent, and fire behavior in observance of Federal Aviation Administration (FAA), interagency, and agency policy and adhere to NWCG Standards for Fire Unmanned Aircraft Systems Operations, PMS 515.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 19,
+      "category": "Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow UAS emergency procedures per agency policy and NWCG Standards for Fire Unmanned Aircraft Systems Operations, PMS 515.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 20,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure a clear understanding of expectations and timely communication within and across Incident Command System (ICS) functional areas and chain of command.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 21,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate effectively using multichannel radios, prepare and program radios for assignment, ensure effective radio communications when assigned resources are using multiple frequencies during incident operations, and use plain language and Incident Command System (ICS) terminology.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 22,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Utilize common terminology and brevity with dispatch, ground resources, and other aircraft.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 23,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish communications and exchange necessary briefings/information with appropriate personnel based on incident complexity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 24,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure remote pilot, visual observer (VO), and mission-pertinent personnel are briefed on the mission.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 25,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish positive contact with on-scene aircraft and/or aerial supervision prior to takeoff, ensure operational and airspace clearance for the UAS mission, and comply with all instructions to safely operate UAS in an incident airspace (fire traffic area and temporary flight restriction, if applicable).",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 26,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process as stated in the NWCG Incident Response Pocket Guide (IRPG), PMS 461: identify hazards, assess hazards, develop controls and make risk decisions, implement controls, and supervise and evaluate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 27,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure Lookouts, Communications, Escape Routes, and Safety Zones (LCES) are in place.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 28,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Use Look Up, Down, and Around in the NWCG Incident Response Pocket Guide (IRPG), PMS 461 to help maintain situational awareness and adjust actions accordingly.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 29,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan for medical emergencies, ensure assigned resources are prepared to execute the Medical Plan and Medical Incident Report (ICS 206 WF), and ensure familiarity with medical responders, communication procedures, and transportation plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 30,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Account for the location, health, safety, and welfare of assigned personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 31,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify hazardous situations and respond appropriately.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 32,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Submit accident/incident reports through established chain of command.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "UASP",
+      "task_number": 33,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "During transfer of command, ensure continuity of operations, exchange critical safety information, and communicate transfer of authority through established chain of command.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 9
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 9
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 9
+    }
+  ],
+  "extra_fields": {}
+}

@@ -1,0 +1,4158 @@
+{
+  "document": {
+    "filename": "pms311-18_HLCO-ATGS.pdf",
+    "sha256": "8ff5353e5cee208cbc612bd6374a9bf4fa23e7006eaf04fb759b81ee0c59169e",
+    "pms_number": "311-18",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "HLCO",
+      "ATGS"
+    ],
+    "title": "Helicopter Coordinator or Air Tactical Group Supervisor",
+    "edition_date": "APRIL 2022",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 43
+  },
+  "positions": [
+    {
+      "code": "HLCO",
+      "title": "Helicopter Coordinator",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    },
+    {
+      "code": "ATGS",
+      "title": "Air Tactical Group Supervisor",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "HLCO",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "HLCO/ATGS"
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 2,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Incident/order number",
+        "Request number",
+        "Incident/GACC Aircraft Coordinator phone number",
+        "Reporting time",
+        "Reporting location",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)",
+        "Frequencies, contacts, hazards, other aircraft, special use air space",
+        "Flight following procedures"
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 3,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Check in at assigned base of operations and with supervisor.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Secure ground transportation for ATGS and pilot.",
+        "Secure lodging for ATGS and pilot.",
+        "If base of operations is at a Tanker Base obtain a briefing from Aviation Manager/Tanker Base Manager on base operations.",
+        "HLCO, Helibase, ASGS, etc."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate aircraft capabilities and pilot qualifications per agency standards.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Appropriate platform for the mission.",
+        "Proper carding of aircraft and pilot.",
+        "Avionics typing appropriate to the mission.",
+        "Verify aircraft has sufficient time remaining before next scheduled maintenance.",
+        "Determine pilot’s flight and duty limitations including duty day, 36 and 6, and last day/days off."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 5,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure aircraft preparation – pilot pre-flight responsibilities are completed.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Confirm aircraft pre-flight inspection.",
+        "Confirm weight and balance of passengers and equipment.",
+        "Discuss takeoff and landing performance calculation, including single engine performance if applicable, with pilot.",
+        "Discuss fuel requirements and limitations for mission with Aerial Supervisor. Ensure proper fueling.",
+        "Possess and wear proper personal protective equipment (PPE)."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure aircraft preparation – Aerial Supervisor pre- flight responsibilities are completed.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Program VHF-FM tactical frequencies into radios. Coordinate with pilot.",
+        "Perform a radio check.",
+        "Load air tactical equipment.",
+        "Ensure GPS programming is known and Crew Resource Management (CRM) duties are coordinated with pilot.",
+        "Assist pilot as requested with crew duties."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 7,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure aerial supervisor and pilot are familiar with the basic terms of the procurement agreement/contract and payment documents.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 8,
+      "category": "Ensure ability to use tools necessary to complete assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain a mission briefing for an initial attack incident and record the information on a mission record or similar form.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Ensure a completed Aircraft Dispatch Form is provided by the Dispatch Center.",
+        "Incident name or number.",
+        "Agency responsible if known.",
+        "Incident Location – at a minimum a descriptive location, latitude and longitude, and bearing and distance from departing location.",
+        "Tactical Frequencies – at a minimum a tactical aircraft frequency (FM-AirTactics or AM-Victor), an air-to-ground, and a local command frequency that can contact dispatch.",
+        "Flight following procedures and frequencies.",
+        "Air-to-air frequencies for fixed and rotor-wing (FM/AM).",
+        "Contacts: ground and air.",
+        "Air resource assigned and en route, ETEs, types, and identifiers.",
+        "Other resources dispatched (as practical).",
+        "Approximate incident size and fire behavior (if known).",
+        "Other potentially available air resources.",
+        "Aerial and ground hazards.",
+        "Special information (urban interface, fuels treatment areas, retardant avoidance areas).",
+        "Airtanker reload base options."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 9,
+      "category": "Ensure ability to use tools necessary to complete assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain a mission briefing for an extended attack incident and compile an appropriate cockpit kit of pertinent documents and identify the key components.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Obtain Incident Action Plan daily.",
+        "Incident objectives by division/group.",
+        "Organization Assignment List (ICS 203) or list",
+        "Air Operations Summary (ICS 220) or list of",
+        "List of all aircraft by make/model and",
+        "Incident Radio Communications Plan (ICS",
+        "Incident maps (hard copy/electronic).",
+        "Fire Behavior Report and local weather.",
+        "Identify potentially available air resources not",
+        "Medical Plan (ICS 206) and medivac helicopter"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 10,
+      "category": "Establish organization structure, reporting procedures, and chain of",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct a mission safety briefing for pilot.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "General scope of the mission.",
+        "Incident location: Descriptive location, latitude and longitude, bearing and distance.",
+        "Aerial resources assigned including other aerial supervision.",
+        "Radio frequencies (tactical and flight following).",
+        "Special information (hazards, military operations, TFRs.)",
+        "Expected duration of and fuel requirements of mission."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 11,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure pre-takeoff responsibilities – pilot responsibilities are completed.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Complete the pre-flight portion of the Mission Checklist (SAS Supplement C)"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 12,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct pre-takeoff responsibilities – Aerial Supervisor responsibilities.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Obtain, record, and set local altimeter setting (from pilot or airport advisory) and confirm with pilot as CRM duties dictate.",
+        "Program GPS to incident as CRM duties dictate.",
+        "Program radios (AM/FM) as CRM duties dictate.",
+        "Verify pre-flight portion of the Mission Checklist in the Interagency (SAS supplement C) with pilot (Mission Fuel, weather en route/destination, resource order/mission brief, standard aircraft brief).",
+        "Check with dispatch regarding status of military aviation operations (restricted, Military Operation Areas (MOA), Military Training Routes (MTR) and Temporary Flight Restrictions (TFRs)."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 13,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate navigational tasks by plotting coordinates.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Topographic maps",
+        "Sectional/World Aeronautical Charts (WACS)",
+        "GPS",
+        "Table"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 14,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate the after-takeoff duties.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Record the takeoff time for payment.",
+        "Observe sterile cockpit protocol as previously agreed to with pilot.",
+        "Establish Flight Following using standard flight following script (SAS PMS 505e).",
+        "Vocalize the after-takeoff/en route portion of the Mission Checklist (SAS PMS 505e) with pilot (GPS, communication/radios, other aircraft on scene/en route, level of supervision on scene, alternate airports, time on station/time to depart mission, and crew brief).",
+        "Notify pilot of any information or situation affecting the flight (hazards including other aircraft, diverts, change in mission).",
+        "Assist pilot as requested (confirming Air Traffic Control communications, identifying other aircraft, gathering intelligence on airports/runways/flight paths).",
+        "Demonstrate effective CRM."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 15,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate the appropriate en route communications using common terminology and brevity with dispatch, ground resources, and other aircraft.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident air resource updates.",
+        "Status of special use airspace (TFR, restricted areas, etc.)",
+        "Coordinate with responding air resources on the assigned air-to-air frequency as appropriate.",
+        "Coordinate with responding ground resources on the assigned air-to-ground frequencies as appropriate.",
+        "Maintain appropriate flight following communications with dispatch and monitor appropriate frequencies.",
+        "Monitor fire frequencies to enhance situational awareness."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 16,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Vocalize the Prior to FTA Entry portion of the Mission Checklist (SAS PMS 505e) with pilot.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Altimeter(s) is set.",
+        "Pulse/landing lights are on.",
+        "Transponder is on/ALT."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 17,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Enter the Fire Traffic Area (FTA) when Aerial Supervision is on scene.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Notify the dispatch center of your position.",
+        "Change to incident frequencies.",
+        "Give 12-mile radio call to aerial supervision. Give your location and altitude.",
+        "Obtain clearance into FTA by getting: (1) Altimeter setting (2) FTA Entry Altitude (3) Altitude of aerial supervision (4) Altitudes of other aircraft (5) Enter the incident airspace, as briefed.",
+        "Watch for other aircraft and call out a distance and clock reference when you spot the on scene aerial supervision.",
+        "Receive transition briefing and confirm positive handoff of aerial supervision responsibilities.",
+        "Outgoing aerial supervision will notify dispatch and incoming aerial supervision will notify Incident Commander (IC)/ground personnel and confirm objectives and priorities."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 18,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Enter the Fire Traffic Area (FTA) when Aerial Supervision is not on scene, but other aircraft are.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Notify dispatch of your position.",
+        "Change to incident frequencies.",
+        "Give 12-mile radio call on assigned air-to-air frequency. Give your location, altitude, intentions and frequency. An on scene aircraft should respond on the designated air-to-air or air tactics frequency.",
+        "Obtain clearance into FTA by getting:",
+        "Watch for other aircraft and call out a distance and clock reference when you spot the on scene aircraft.",
+        "Get status of all on scene aircraft (location, mission type, etc.)",
+        "Call IC and get objectives and priorities.",
+        "Notify dispatch when you are on scene and are the incident aerial supervision."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 19,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Enter the Fire Traffic Area (FTA) when there are no aircraft on scene.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Give 12-mile blind radio call on assigned air-to- air frequency. Give your location, altitude, and intentions.",
+        "Call the IC/ground personnel on the assigned FM",
+        "Proceed to the incident and watch for other",
+        "Get center point and record size up information.",
+        "Call dispatch, notify you are the on scene aerial",
+        "Call the IC/ground forces and establish objectives"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 20,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Enter Incident Airspace.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "ATGS fixed wing enter the airspace in a right"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 21,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive on scene and perform initial responsibilities:",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Watch and listen for aircraft and make",
+        "Determine ground elevation to establish FTA",
+        "Determine flight hazards – Power lines, antennas,",
+        "Confirm incident objectives and priorities with the"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 22,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform Initial Briefing to all incoming helicopters when aircraft make initial contact (12 nm ring).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Standard Initial Briefing Sequence per SAS PMS"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 23,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform Tactical Briefings to tactical mission helicopters when the drop/mission area is in sight.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Standard Tactical Briefing Sequence per SAS"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 24,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform Departure Briefings to helicopters upon completion of mission/fuel cycle.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Standard Departure Briefing Sequence per SAS"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 25,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Direct helicopters (Target Description) to mission areas and targets using fire anatomy, common terminology, and brevity in communications.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Standard Departure Briefing Sequence per SAS"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 26,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic using pilot and aerial supervision.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Pilots maintain aircraft separation by: (a) Using standard aviation ‘see and avoid’ (b) Having access to the appropriate air-to-air (c) Adhering to Fire Traffic Area (FTA)",
+        "Aerial Supervisors Ensure Aircraft Separation by: (a) Structuring the incident airspace and briefing (b) Monitoring radio communications for pilot- (c) Visually tracking aircraft as needed. (d) Giving specific directions to pilots as needed. (e) Advising pilots on the location and heading of"
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 27,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic using vertical separation principles.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "500 feet is the minimum vertical separation for missions in the same airspace. 1,000 feet is preferred and should be used whenever possible.",
+        "Assigning block altitudes is preferred in windy or active thermal conditions.",
+        "Assign helicopters a hard ceiling (i.e., 4,500’ and below). Do not assign them 500’ AGL.",
+        "It’s common practice to put media helicopters above the ATGS in order to keep them away from firefighting aircraft.",
+        "Assign standard operational altitudes and patterns as identified in IASG."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 28,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic using Horizontal Separation Principles.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Aerial supervision must ensure there is adequate",
+        "Flight patterns must be adequate, i.e., not"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 29,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic using incident entry and exit corridors.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Aerial supervision shall determine incident"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 30,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic using holding areas and routes.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Helicopters can be held on the ground or in the"
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 31,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic using sequencing.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Aircraft may be sequenced into the same area",
+        "Helicopters can be held at a safe distance from"
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 32,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic using checkpoints and virtual fences.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Effective for maintaining air traffic control with",
+        "Pilots are instructed to report their location and",
+        "Pilots may be required to report arrival at a"
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 33,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic using helicopter routes.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Established for repetitive missions from helibase",
+        "For safety, efficiency and monitoring, the"
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 34,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic using helicopter daisy-chains.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Two or more helicopters can be assigned to the",
+        "The HLCO/ATGS, in consultation with helicopter"
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 35,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter recon flights maintaining safe separation of aircraft.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Schedule recon flights during slow periods, i.e.,",
+        "Assign a specific route for the recon, example,",
+        "Establish check points, i.e., division breaks,"
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 36,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic with intersecting routes.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Intersecting aircraft routes shall be clearly",
+        "Intersections shall have a minimum of 500 feet"
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 37,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic requiring nonstandard patterns.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Occasionally terrain, visibility, wind direction or",
+        "The mission pilot shall advise HLCO/ATGS of",
+        "The HLCO/ATGS will advise other aircraft before"
+      ],
+      "page": 18
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 38,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage helicopter air tactics to provide continuity.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Good planning will ensure continuity.",
+        "Use HLCO and ATGS to fill gaps in coverage and manage air/ground operations in designated areas on complex incidents.",
+        "Stagger aircraft refueling so all aircraft are not down simultaneously.",
+        "Monitor flight times. Anticipate the need for a relief pilot, or other air resource. Notify dispatcher or IC/AOBD in a timely manner.",
+        "Anticipate fuel needs and facilitate obtaining fueling facilities near the incident.",
+        "Coordinate refuel and relief needs between aerial supervisors to ensure continuity of airspace management/supervision."
+      ],
+      "page": 18
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 39,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage HLCO/ATGS relief staffing using relief guidelines addressing fatigue, effectiveness, and safety.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "If the aerial supervisor will fly more than 4 hours on any one flight, order a relief.",
+        "On multi-day incidents, assign a second aerial supervisor and rotate about every 3 hours."
+      ],
+      "page": 18
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 40,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and provide fire information and size up for tactical planning.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Utilize standard size up briefing tools.",
+        "Make initial assessment and communicate critical safety, strategy, and tactics inputs to Operations, AOBD, DIVS, and line resources.",
+        "Cardinal directions.",
+        "Landmarks: Roads, streams, lakes, mountains, improvements, etc.",
+        "Fire flanks, head, etc.",
+        "Visible work accomplished: dozer lines, handline, retardant line, etc.",
+        "Record GPS coordinates to identify reference points."
+      ],
+      "page": 19
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 41,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and assign air resources per Operations/IC strategy, tactics, and mission priorities.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 19
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 42,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and determine TFR requirements and per SAS PMS 505",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Vertical and horizontal dimensions.",
+        "If needed, order through dispatcher or Air Operations Director."
+      ],
+      "page": 19
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 43,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine airspace conflicts.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "MOAs, MTRs, UAS operations airports, etc."
+      ],
+      "page": 19
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 44,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel to evaluate values at risk.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Life, property/structures, resources",
+        "Current fire size and potential size estimate",
+        "Fuel models and rates of spread",
+        "Fire behavior elements (wind, terrain, aspect, etc.)"
+      ],
+      "page": 19
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 45,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and recommend strategies, tactics, and resources needed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Determine a general probability of success.",
+        "Direct, indirect, or parallel strategies.",
+        "Target locations and priorities",
+        "Access",
+        "Anchor points",
+        "Water sources",
+        "Potential helispots",
+        "Location of spot fires",
+        "Number and types of aircraft required",
+        "Use of specialized resources (helitack, rappellers, smokejumpers, and paracargo.)",
+        "Determine and implement if necessary contingency plan if primary plan does not meet objectives."
+      ],
+      "page": 20
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 46,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and provide air drop information to ground crews.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Advise personnel of impending airtanker, bucket, or paracargo drops in their work area and the need to clear the area.",
+        "If drops are near power lines, determine status of lines (live or de-energized); advise ground personnel of danger of being near power lines during drops.",
+        "Confirm with ground if run is to be a dry or live.",
+        "Notify ground when drop is complete and personnel can return to work area.",
+        "Solicit feedback from ground crews relating to drop effectiveness."
+      ],
+      "page": 20
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 47,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and provide safety oversight to ground resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Monitor personnel locations relative to fire perimeter, blowup areas, etc.",
+        "Assist with locating safety zones and escape routes. Final determination must be made from ground.",
+        "Monitor weather – advises personnel of approaching fronts or thunderstorms.",
+        "Advise personnel on adverse changes in fire behavior.",
+        "Direct air resources, as top priority, to protect and aid in evacuation of endangered personnel."
+      ],
+      "page": 20
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 48,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and determine the procedures for ordering tactical aerial resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "The procedure to order retardant and helicopter support varies between dispatch centers, land status, and incident complexity. Determine the procedure before the mission begins and confirm with the IC.",
+        "On extended attack incidents, Division Supervisors are typically delegated the authority. However, consult with AOBD/OSC. Ensure the procedure is stated clearly in the IAP."
+      ],
+      "page": 21
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 49,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with dispatch in a timely manner and demonstrate communication with brevity and common terminology regarding appropriate information.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Evaluate/assess incident frequencies.",
+        "A fire size up including a center point.",
+        "Horizontal and vertical dimensions of a TFR if needed. Remember that TFRs are based on degrees, minutes, and seconds. Not decimal minutes.",
+        "Airspace conflicts with civilian or military aircraft.",
+        "The need for airtankers to load and return or hold.",
+        "Aircraft incidents/accidents.",
+        "Project needs for next day – number of aircraft by type, time requested, etc.",
+        "Aerial supervision flight/duty hours used and projected needs to complete the mission.",
+        "Request where airtankers should return over night (RON) when day’s operations are completed.",
+        "Advise on need for aircraft maintenance and projected availability for next day.",
+        "Advise if airtanker has in-flight difficulty, must abort load, and return to base.",
+        "Advise on need for aerial supervision relief at least 2 hours before you need it."
+      ],
+      "page": 21
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 50,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with incident ground personnel, dispatch, and other aerial supervision resources to ensure continuity of aerial supervision before leaving the incident.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Notify Operations of ETD, and who will supervise air operations.",
+        "Notify air resources of ETD and whom they will report to.",
+        "Notify the IC, Operations/Air Operations, DIVS, helibase, Lead, ASM, and HLCO when departing.",
+        "Notify dispatch of ETE to base.",
+        "If you are on the last shift of the day: (1)Plan your release to allow for return within (2)Update Operations personnel on fire status. (3)Remind remaining resources of daylight (4)Confirm with dispatch status of air resources –"
+      ],
+      "page": 22
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 51,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform post-mission procedures upon returning to base.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Confirm need for aerial supervision aircraft for next day and notify pilot of time, etc.",
+        "Debrief with available air resources (ATGS pilot, airtanker pilots, HLCO, Leadplane pilot, ASM, and helicopter pilots).",
+        "Debrief with AOBD and dispatch.",
+        "Attend or provide input to incident planning meeting for next day’s operations.",
+        "Request and review Incident Action Plan and map for next day’s operation.",
+        "Complete payment documents.",
+        "Submit SAFECOMs as required.",
+        "Update logbook."
+      ],
+      "page": 22
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 52,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage flight emergency using appropriate procedures. Emergency is highest priority until aircraft lands safely.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Determine pilot’s intentions for managing situation.",
+        "Clear the airspace for the pilot as needed.",
+        "Dedicate and clear a frequency for the emergency.",
+        "Direct the aircraft to depart mission area and climb to a safe altitude.",
+        "Jettison load in remote areas (or specified jettison areas) if feasible.",
+        "If problem persists, instruct aircraft to return to base or alternate landing site.",
+        "Alert incident medivac units.",
+        "Prepare for suppression of a fire associated with an aircraft crash.",
+        "Notify dispatch or airport tower for necessary crash/rescue protocol."
+      ],
+      "page": 23
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 53,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage a missing aircraft/aircraft mishap situation using the appropriate procedures.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Assign aircraft as needed to conduct search.",
+        "Determine location. Monitor emergency frequency (121.5) if crash site is not known or if the aircraft is missing and its status is unknown.",
+        "Assign remaining aircraft to holding areas or return to base.",
+        "Activate incident medivac plan through medical unit.",
+        "Assign on-site aircraft and personnel to control aircraft fire and initiate life saving measures if they can do so without jeopardizing their own safety.",
+        "Advise IC/Operations – be discreet about aircraft and flight crew identity.",
+        "Consider suspending non-essential aircraft operations.",
+        "Direct ground resources to crash site.",
+        "Direct air support operations."
+      ],
+      "page": 23
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 54,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage an Incident Within an Incident (IWI) situation using appropriate procedures.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Consider adding additional aerial supervision.",
+        "Serve as a relay between accident site, helibase and medical personnel.",
+        "Determine accident site location – latitude and longitude.",
+        "Obtain Medivac helicopter frequency – may be listed in Medivac Plan.",
+        "Assist rescue personnel with helispot location, etc.",
+        "Provide helispot dust abatement with helicopter buckets as needed.",
+        "Guide Medivac helicopter to accident site.",
+        "Incident Management Teams (IMTs) typically have an established procedure for IWI. Obtain a briefing from Air Operations."
+      ],
+      "page": 24
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 55,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well- being.",
+        "Keep your subordinates informed.",
+        "Build the team. •Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 24
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 56,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for",
+        "Set the example."
+      ],
+      "page": 24
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 57,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate, and communicate potentially",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources."
+      ],
+      "page": 25
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 58,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 25
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 59,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Debrief with appropriate supervisor, personnel and pilots (e.g., Operations Section Chief/Air Operations Branch Director, Helibase personnel).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Summarize and evaluate day’s operation.",
+        "Make recommendations for succeeding"
+      ],
+      "page": 25
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 60,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 25
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 61,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Compile daily statistics and provide to appropriate supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 25
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 62,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete appropriate payment documents daily.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 25
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 63,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor compliance with agency aviation regulations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Sunrise and sunset limitations.",
+        "Initiation and completion of incident reports.",
+        "Personal protective equipment.",
+        "Completion of financial records.",
+        "Flight and duty hour limitations."
+      ],
+      "page": 26
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 64,
+      "category": "Utilize information to produce outputs.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and map incident topography and landmarks in operating area.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Fire perimeter",
+        "Spot fires",
+        "Roads",
+        "Hazards"
+      ],
+      "page": 26
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 65,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure the Risk Management Process is established and maintained.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 26
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 66,
+      "category": "Anticipate, recognize and mitigate unsafe situations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and appropriately act on hazardous situations to incident aircraft.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Violation of FTA procedures.",
+        "Inadequate communications.",
+        "Hazards (e.g., towers, power lines, wires, snags).",
+        "Potential for or changes in weather (e.g., thunderstorms, frontal systems).",
+        "Aircraft near miss, crossing established fence, etc."
+      ],
+      "page": 26
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 67,
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and appropriately act on hazardous situations to ground forces.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Potential for or extreme fire behavior.",
+        "Spot fires.",
+        "Potential for or changes in weather (e.g.,"
+      ],
+      "page": 27
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 68,
+      "category": "Provide logistical support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and plan for logistical support needs.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Manage the FTA/TFR to support the logistical"
+      ],
+      "page": 27
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 69,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate/alter/shutdown aviation operations when appropriate.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Excessive winds or turbulence",
+        "Limited visibility",
+        "Shadows",
+        "Unsafe drop heights",
+        "Severe weather"
+      ],
+      "page": 27
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 70,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform subordinate staff and IC.",
+        "Document follow-up action needed and submit to supervisor."
+      ],
+      "page": 27
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 71,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate and recommend demobilization/release of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify excess resources.",
+        "Prepare schedule for demobilization."
+      ],
+      "page": 27
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 72,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure familiarity and compliance with relevant helicopter administration policy. Conduct or obtain pre-use inspection of aircraft.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Conduct or obtain pre-use inspection of aircraft.",
+        "Ensure required documents are on board the aircraft (Flight Manual, Hazmat Guide, DOT exemption, Contract).",
+        "Complete Daily Diary, Cost summary and Agency flight use summary.",
+        "Ensure turbine power assurance check are completed and documented, report irregularities.",
+        "Track pilot/mechanic/fuel truck driver flight time and duty logs.",
+        "Ensure pilot accurately completes and approves a daily load calculation for representative temperatures and altitudes.",
+        "Passenger manifests with accurate names and weights for each flight."
+      ],
+      "page": 28
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 73,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate an understanding of the relationship between Span of Control/Incident Complexity and the need for additional command and control aircraft (i.e. second HLCO, ATGS, MLCO)",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify communication limitations in low-",
+        "Identify ground contacts and establish",
+        "Coordinate tactical helicopter operations",
+        "Order additional aircraft as needed."
+      ],
+      "page": 28
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 74,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate ability to sequence helicopters with fixed wing operations",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Routing",
+        "Fencing",
+        "Sequencing",
+        "Checkpoints"
+      ],
+      "page": 28
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 75,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish helicopter priorities to meet incident tactical objectives",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 29
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 76,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate staying within the HLCO profile",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 29
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 77,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor effectiveness of operations and adjust as necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 29
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 78,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish communications with HEBM/ASGS/ATGS/AOBD to ensure appropriate frequency allocation, utilization, and naming convention",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 29
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 79,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure positive control of helicopters in operating areas",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 30
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 80,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Share information with HEMB/ATGS/ASGS/AOBD to be added to flight map to ensure NWCG standards for map symbology are used",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 30
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 81,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist the helibase manager with Pilot break out briefing to promote a safe flying environment, with pilot input",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 30
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 82,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On a moderate complexity fire, conduct HLCO operations supervising rotor-wing tactical aircraft, and pass an evaluation flight in accordance with the evaluation requirements on the Aerial Supervision Mission Evaluation form",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 30
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 83,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and assign air resources per Operations/IC strategy, tactics, and mission priorities.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 31
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 84,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate fixed wing water-scooper operations with helicopter operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Can be coordinated with ATGS and mixed in with helicopters."
+      ],
+      "page": 31
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 85,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and determine TFR requirements.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Vertical and horizontal dimensions.",
+        "If needed, order through dispatcher or Air Operations Director."
+      ],
+      "page": 31
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 86,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel to evaluate values at risk.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Life, property/structures, resources",
+        "Current fire size and potential size estimate",
+        "Fuel models and rates of spread",
+        "Fire behavior elements (wind, terrain, aspect, etc.)"
+      ],
+      "page": 31
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 87,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and recommend strategies, tactics, and resources needed.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Determine a general probability of success.",
+        "Direct, indirect, or parallel strategies.",
+        "Target locations and priorities.",
+        "Access",
+        "Anchor points",
+        "Water sources",
+        "Potential helispots",
+        "Location of spot fires",
+        "Number and types of aircraft required.",
+        "Use of specialized resources (helitack, rappellers, smokejumpers, and paracargo.)",
+        "Determine and implement if necessary contingency plan if primary plan does not meet objectives."
+      ],
+      "page": 32
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 88,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and provide air drop information to ground crews.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Advise personnel of impending airtanker, bucket, or paracargo drops in their work area and the need to clear the area.",
+        "If drops are near power lines, determine status of lines (live or de-energized); advise ground personnel of danger of being near power lines during drops.",
+        "Confirm with ground personnel if run is to be a dry or live.",
+        "Notify ground personnel when drop is complete and personnel can return to work area.",
+        "Solicit feedback from ground crews relating to drop effectiveness."
+      ],
+      "page": 32
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 89,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and provide safety oversight to ground resources.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Monitor weather and advises personnel of approaching fronts or thunderstorms.",
+        "Advise personnel on adverse changes in fire behavior.",
+        "Direct air resources, as top priority, to protect and aid in evacuation of endangered personnel."
+      ],
+      "page": 32
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 90,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an initial attack incident, coordinate with ground personnel and determine the procedures and authority for ordering tactical aerial resources.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "The authority to order retardant and helicopter support varies between dispatch centers, land status, and incident complexity. Determine the procedure before the mission begins and confirm with the IC.",
+        "On initial attack incidents, the IC makes aircraft orders. The IC may choose to delegate this to the aerial supervisor. Confirm it before ordering."
+      ],
+      "page": 33
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 91,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine need for Helicopter Coordinator, lead plane, ASM or other aerial supervision resources based on span of control.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 33
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 92,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform aircraft appropriate initial briefing to all incoming aircraft when aircraft make initial contact (12 nm ring).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Standard Initial Briefing Sequence script per SAS PMS 505e"
+      ],
+      "page": 33
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 93,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform aircraft appropriate tactical briefings when the drop/mission area is in sight per SAS PMS 505e",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 33
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 94,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform departure briefings to airtankers upon completion of drop per SAS script PMS 505e",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 33
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 95,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Direct airtankers (Target Description) to mission areas and targets using fire anatomy, common terminology, and brevity in communications per SAS script PMS 505e",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 34
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 96,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Pilots maintain aircraft separation by: (a) Using standard aviation ‘see and avoid’ (b) Having access to the appropriate air-to-air (c) Adhering to Fire Traffic Area (FTA)",
+        "Aerial Supervisors Ensure Aircraft Separation by: (a) Structuring the incident airspace and briefing (b) Monitoring radio communications for pilot-to- (c) Visually tracking aircraft as needed. (d) Giving specific directions to pilots as needed. (e) Advising pilots on the location and heading of"
+      ],
+      "page": 34
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 97,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Behavior: Follow established procedures and/or safety procedures relevant to given assignment. Coordinate mixed (fixed and rotor) air traffic using vertical separation principles.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "500 feet is the minimum vertical separation for missions in the same airspace. 1,000 feet is preferred and should be used whenever possible.",
+        "Assigning block altitudes (with vertical range up to 500 feet) to orbiting fixed-wing is preferred in windy or active thermal conditions.",
+        "Assign helicopters a hard ceiling (i.e., 4,500’ and below). Do not assign them 500’ AGL.",
+        "Vertical stacking airtankers is discouraged. Utilize a racetrack pattern if multiple airtankers (of any type) are on scene.",
+        "It’s common practice to put media helicopters above the ATGS in order to keep them away from firefighting aircraft.",
+        "Assign standard operational altitudes and patterns as identified in IASG."
+      ],
+      "page": 35
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 98,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using horizontal separation principles.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Aerial supervision must ensure there is adequate visibility to conduct operations safely regardless of the airspace classification.",
+        "Flight patterns must be adequate, i.e., not hindered by terrain. (b) Advise pilots on location of other aircraft if (c) Air-to-air frequency must be accessible for"
+      ],
+      "page": 36
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 99,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using incident entry and exit corridors.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Aerial supervision shall determine incident entry/exit corridors as needed. All aircraft must be notified of corridors."
+      ],
+      "page": 36
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 100,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using holding areas and initial points.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Airtankers can be held near an incident, two or three at a time, in the same holding area. More than one holding area may be used. Considerations include: (c) Holding area must be clearly defined – by a",
+        "Helicopters can be held on the ground or in the air as needed to maintain adequate separation. Considerations include:"
+      ],
+      "page": 37
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 101,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using sequencing.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Aircraft may be sequenced into the same area provided each aircraft can complete its mission and exit the area before the next aircraft enters the area. Sequencing requires close supervision. Caution: Consider wake turbulence when sequencing any type of aircraft.",
+        "Sequencing airtankers and helicopters – Helicopters can be held at a safe distance from drop site until an airtanker has completed its drop.",
+        "Sequencing airtankers and paracargo – Stage aircraft 180 degrees apart in the same flight pattern so flights over the target area are controlled by position in orbit."
+      ],
+      "page": 37
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 102,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using interval dispatching.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "To reduce the problem of too many airtankers over an incident at the same time, ask dispatch or the ATB to launch airtankers at intervals (usually 10 to 15 minutes)."
+      ],
+      "page": 38
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 103,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using checkpoints and virtual fences.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Effective for maintaining air traffic control with minimal radio traffic on the air-to-air frequency.",
+        "Pilots are instructed to report their location and destination “in the blind” when crossing check points.",
+        "Pilots may be required to report arrival at a virtual fence and wait for clearance from ATGS before proceeding. Known geographic locations make effective check points and virtual fences."
+      ],
+      "page": 38
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 104,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using helicopter routes.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Established for repetitive missions from helibase to helispots or sling points, from dipsites to targets, etc.",
+        "For safety, efficiency and monitoring, the HLCO/ATGS, in consultation with the helibase manager and/or helicopter pilots, will ensure flight routes and communications procedures have been established and are known."
+      ],
+      "page": 38
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 105,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using helicopter daisy-chains.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Two or more helicopters can be assigned to the same targets and dipsites for repeated water drops.",
+        "The HLCO/ATGS, in consultation with helicopter pilots, will establish a “daisy- chain” flight route for these operations."
+      ],
+      "page": 38
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 106,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) airspace and supervise a helicopter recon flight maintaining safe separation of aircraft.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Schedule recon flights during slow periods, i.e., when airtankers are loading.",
+        "Assign a specific route for the recon, example: clockwise around and 100 yards outside the incident perimeter.",
+        "Establish check points, i.e., division breaks, helispots, drainages, etc."
+      ],
+      "page": 39
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 107,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic with Intersecting Routes.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Intersecting aircraft routes shall be clearly identifiable geographically.",
+        "Intersections shall have a minimum of 500 feet vertical separation."
+      ],
+      "page": 39
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 108,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic requiring nonstandard patterns.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Occasionally terrain, visibility, wind direction or other factors require flight patterns are modified or reversed.",
+        "The mission pilot shall advise HLCO/ATGS of situation and request a deviation from standard procedures.",
+        "The HLCO/ATGS will advise other aircraft before granting the request."
+      ],
+      "page": 39
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 109,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate work with Lead/ASM.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Provide clear incident objectives and leaders intent.",
+        "Provide project area and positive handoff of assigned aircraft to Lead/ASM crew.",
+        "Monitor progress of project status."
+      ],
+      "page": 39
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 110,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage mixed (fixed and rotor) air tactics to provide continuity.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Good planning will ensure continuity.",
+        "Use ASM to fill gaps in coverage and manage air/ground operations in designated areas on complex incidents.",
+        "Stagger aircraft refueling so all aircraft are not down simultaneously.",
+        "Stagger airtankers to maintain continuous coverage.",
+        "Monitor flight times. Anticipate the need for a relief pilot, or other air resource. Notify dispatcher or incident in a timely manner.",
+        "Anticipate fuel needs and facilitate obtaining fueling facilities near the incident.",
+        "Recommend activation of portable reload bases to reduce turn-around time.",
+        "Coordinate refuel and relief needs between aerial supervisors to ensure continuity of airspace management/supervision."
+      ],
+      "page": 40
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 111,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage aerial supervision relief staffing using relief guidelines addressing fatigue, effectiveness, and safety.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "If the aerial supervisor will fly more than 4 hours on any one flight, order a relief.",
+        "On multi-day incidents, assign a second aerial supervisor and rotate about every 3 hours.",
+        "Utilize appropriate ASM/HLCO/Lead/ATGS positions to provide coverage. Behavior: Plan for demobilization and ensure demobilization procedures are followed."
+      ],
+      "page": 40
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 112,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage the diversion of aerial resources to higher priority fires.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Higher priority incidents require diversion of air resources.",
+        "A reassignment may be given through dispatch or through IC/Operations.",
+        "Aerial supervision may also be diverted to manage the new incident.",
+        "Upon receiving a divert notice, the aerial supervisor must release and brief the requested resources on the following: (a) Incident location (b) Air and ground contacts (c) Radio frequencies",
+        "Aerial supervisor should be advised by dispatch and modify incident tactics for due to loss of aerial resources.",
+        "IC can request through dispatch that no aerial resources be diverted to other incidents when an imminent threat to life of a firefighter or civilian exists."
+      ],
+      "page": 41
+    },
+    {
+      "position_code": "HLCO",
+      "task_number": 113,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On a moderate complexity fire, conduct ATGS operations supervising fixed and rotor-wing tactical aircraft, and pass an evaluation flight in accordance with the evaluation requirements on the Aerial Supervision Mission Evaluation form.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 41
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "HLCO/ATGS"
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 2,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Incident/order number",
+        "Request number",
+        "Incident/GACC Aircraft Coordinator phone number",
+        "Reporting time",
+        "Reporting location",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)",
+        "Frequencies, contacts, hazards, other aircraft, special use air space",
+        "Flight following procedures"
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 3,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Check in at assigned base of operations and with supervisor.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Secure ground transportation for ATGS and pilot.",
+        "Secure lodging for ATGS and pilot.",
+        "If base of operations is at a Tanker Base obtain a briefing from Aviation Manager/Tanker Base Manager on base operations.",
+        "HLCO, Helibase, ASGS, etc."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate aircraft capabilities and pilot qualifications per agency standards.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Appropriate platform for the mission.",
+        "Proper carding of aircraft and pilot.",
+        "Avionics typing appropriate to the mission.",
+        "Verify aircraft has sufficient time remaining before next scheduled maintenance.",
+        "Determine pilot’s flight and duty limitations including duty day, 36 and 6, and last day/days off."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 5,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure aircraft preparation – pilot pre-flight responsibilities are completed.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Confirm aircraft pre-flight inspection.",
+        "Confirm weight and balance of passengers and equipment.",
+        "Discuss takeoff and landing performance calculation, including single engine performance if applicable, with pilot.",
+        "Discuss fuel requirements and limitations for mission with Aerial Supervisor. Ensure proper fueling.",
+        "Possess and wear proper personal protective equipment (PPE)."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure aircraft preparation – Aerial Supervisor pre- flight responsibilities are completed.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Program VHF-FM tactical frequencies into radios. Coordinate with pilot.",
+        "Perform a radio check.",
+        "Load air tactical equipment.",
+        "Ensure GPS programming is known and Crew Resource Management (CRM) duties are coordinated with pilot.",
+        "Assist pilot as requested with crew duties."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 7,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure aerial supervisor and pilot are familiar with the basic terms of the procurement agreement/contract and payment documents.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 8,
+      "category": "Ensure ability to use tools necessary to complete assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain a mission briefing for an initial attack incident and record the information on a mission record or similar form.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Ensure a completed Aircraft Dispatch Form is provided by the Dispatch Center.",
+        "Incident name or number.",
+        "Agency responsible if known.",
+        "Incident Location – at a minimum a descriptive location, latitude and longitude, and bearing and distance from departing location.",
+        "Tactical Frequencies – at a minimum a tactical aircraft frequency (FM-AirTactics or AM-Victor), an air-to-ground, and a local command frequency that can contact dispatch.",
+        "Flight following procedures and frequencies.",
+        "Air-to-air frequencies for fixed and rotor-wing (FM/AM).",
+        "Contacts: ground and air.",
+        "Air resource assigned and en route, ETEs, types, and identifiers.",
+        "Other resources dispatched (as practical).",
+        "Approximate incident size and fire behavior (if known).",
+        "Other potentially available air resources.",
+        "Aerial and ground hazards.",
+        "Special information (urban interface, fuels treatment areas, retardant avoidance areas).",
+        "Airtanker reload base options."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 9,
+      "category": "Ensure ability to use tools necessary to complete assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain a mission briefing for an extended attack incident and compile an appropriate cockpit kit of pertinent documents and identify the key components.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Obtain Incident Action Plan daily.",
+        "Incident objectives by division/group.",
+        "Organization Assignment List (ICS 203) or list",
+        "Air Operations Summary (ICS 220) or list of",
+        "List of all aircraft by make/model and",
+        "Incident Radio Communications Plan (ICS",
+        "Incident maps (hard copy/electronic).",
+        "Fire Behavior Report and local weather.",
+        "Identify potentially available air resources not",
+        "Medical Plan (ICS 206) and medivac helicopter"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 10,
+      "category": "Establish organization structure, reporting procedures, and chain of",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct a mission safety briefing for pilot.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "General scope of the mission.",
+        "Incident location: Descriptive location, latitude and longitude, bearing and distance.",
+        "Aerial resources assigned including other aerial supervision.",
+        "Radio frequencies (tactical and flight following).",
+        "Special information (hazards, military operations, TFRs.)",
+        "Expected duration of and fuel requirements of mission."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 11,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure pre-takeoff responsibilities – pilot responsibilities are completed.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Complete the pre-flight portion of the Mission Checklist (SAS Supplement C)"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 12,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct pre-takeoff responsibilities – Aerial Supervisor responsibilities.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Obtain, record, and set local altimeter setting (from pilot or airport advisory) and confirm with pilot as CRM duties dictate.",
+        "Program GPS to incident as CRM duties dictate.",
+        "Program radios (AM/FM) as CRM duties dictate.",
+        "Verify pre-flight portion of the Mission Checklist in the Interagency (SAS supplement C) with pilot (Mission Fuel, weather en route/destination, resource order/mission brief, standard aircraft brief).",
+        "Check with dispatch regarding status of military aviation operations (restricted, Military Operation Areas (MOA), Military Training Routes (MTR) and Temporary Flight Restrictions (TFRs)."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 13,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate navigational tasks by plotting coordinates.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Topographic maps",
+        "Sectional/World Aeronautical Charts (WACS)",
+        "GPS",
+        "Table"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 14,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate the after-takeoff duties.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Record the takeoff time for payment.",
+        "Observe sterile cockpit protocol as previously agreed to with pilot.",
+        "Establish Flight Following using standard flight following script (SAS PMS 505e).",
+        "Vocalize the after-takeoff/en route portion of the Mission Checklist (SAS PMS 505e) with pilot (GPS, communication/radios, other aircraft on scene/en route, level of supervision on scene, alternate airports, time on station/time to depart mission, and crew brief).",
+        "Notify pilot of any information or situation affecting the flight (hazards including other aircraft, diverts, change in mission).",
+        "Assist pilot as requested (confirming Air Traffic Control communications, identifying other aircraft, gathering intelligence on airports/runways/flight paths).",
+        "Demonstrate effective CRM."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 15,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate the appropriate en route communications using common terminology and brevity with dispatch, ground resources, and other aircraft.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident air resource updates.",
+        "Status of special use airspace (TFR, restricted areas, etc.)",
+        "Coordinate with responding air resources on the assigned air-to-air frequency as appropriate.",
+        "Coordinate with responding ground resources on the assigned air-to-ground frequencies as appropriate.",
+        "Maintain appropriate flight following communications with dispatch and monitor appropriate frequencies.",
+        "Monitor fire frequencies to enhance situational awareness."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 16,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Vocalize the Prior to FTA Entry portion of the Mission Checklist (SAS PMS 505e) with pilot.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Altimeter(s) is set.",
+        "Pulse/landing lights are on.",
+        "Transponder is on/ALT."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 17,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Enter the Fire Traffic Area (FTA) when Aerial Supervision is on scene.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Notify the dispatch center of your position.",
+        "Change to incident frequencies.",
+        "Give 12-mile radio call to aerial supervision. Give your location and altitude.",
+        "Obtain clearance into FTA by getting: (1) Altimeter setting (2) FTA Entry Altitude (3) Altitude of aerial supervision (4) Altitudes of other aircraft (5) Enter the incident airspace, as briefed.",
+        "Watch for other aircraft and call out a distance and clock reference when you spot the on scene aerial supervision.",
+        "Receive transition briefing and confirm positive handoff of aerial supervision responsibilities.",
+        "Outgoing aerial supervision will notify dispatch and incoming aerial supervision will notify Incident Commander (IC)/ground personnel and confirm objectives and priorities."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 18,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Enter the Fire Traffic Area (FTA) when Aerial Supervision is not on scene, but other aircraft are.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Notify dispatch of your position.",
+        "Change to incident frequencies.",
+        "Give 12-mile radio call on assigned air-to-air frequency. Give your location, altitude, intentions and frequency. An on scene aircraft should respond on the designated air-to-air or air tactics frequency.",
+        "Obtain clearance into FTA by getting:",
+        "Watch for other aircraft and call out a distance and clock reference when you spot the on scene aircraft.",
+        "Get status of all on scene aircraft (location, mission type, etc.)",
+        "Call IC and get objectives and priorities.",
+        "Notify dispatch when you are on scene and are the incident aerial supervision."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 19,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Enter the Fire Traffic Area (FTA) when there are no aircraft on scene.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Give 12-mile blind radio call on assigned air-to- air frequency. Give your location, altitude, and intentions.",
+        "Call the IC/ground personnel on the assigned FM",
+        "Proceed to the incident and watch for other",
+        "Get center point and record size up information.",
+        "Call dispatch, notify you are the on scene aerial",
+        "Call the IC/ground forces and establish objectives"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 20,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Enter Incident Airspace.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "ATGS fixed wing enter the airspace in a right"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 21,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive on scene and perform initial responsibilities:",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Watch and listen for aircraft and make",
+        "Determine ground elevation to establish FTA",
+        "Determine flight hazards – Power lines, antennas,",
+        "Confirm incident objectives and priorities with the"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 22,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform Initial Briefing to all incoming helicopters when aircraft make initial contact (12 nm ring).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Standard Initial Briefing Sequence per SAS PMS"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 23,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform Tactical Briefings to tactical mission helicopters when the drop/mission area is in sight.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Standard Tactical Briefing Sequence per SAS"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 24,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform Departure Briefings to helicopters upon completion of mission/fuel cycle.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Standard Departure Briefing Sequence per SAS"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 25,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Direct helicopters (Target Description) to mission areas and targets using fire anatomy, common terminology, and brevity in communications.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Standard Departure Briefing Sequence per SAS"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 26,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic using pilot and aerial supervision.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Pilots maintain aircraft separation by: (a) Using standard aviation ‘see and avoid’ (b) Having access to the appropriate air-to-air (c) Adhering to Fire Traffic Area (FTA)",
+        "Aerial Supervisors Ensure Aircraft Separation by: (a) Structuring the incident airspace and briefing (b) Monitoring radio communications for pilot- (c) Visually tracking aircraft as needed. (d) Giving specific directions to pilots as needed. (e) Advising pilots on the location and heading of"
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 27,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic using vertical separation principles.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "500 feet is the minimum vertical separation for missions in the same airspace. 1,000 feet is preferred and should be used whenever possible.",
+        "Assigning block altitudes is preferred in windy or active thermal conditions.",
+        "Assign helicopters a hard ceiling (i.e., 4,500’ and below). Do not assign them 500’ AGL.",
+        "It’s common practice to put media helicopters above the ATGS in order to keep them away from firefighting aircraft.",
+        "Assign standard operational altitudes and patterns as identified in IASG."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 28,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic using Horizontal Separation Principles.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Aerial supervision must ensure there is adequate",
+        "Flight patterns must be adequate, i.e., not"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 29,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic using incident entry and exit corridors.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Aerial supervision shall determine incident"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 30,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic using holding areas and routes.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Helicopters can be held on the ground or in the"
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 31,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic using sequencing.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Aircraft may be sequenced into the same area",
+        "Helicopters can be held at a safe distance from"
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 32,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic using checkpoints and virtual fences.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Effective for maintaining air traffic control with",
+        "Pilots are instructed to report their location and",
+        "Pilots may be required to report arrival at a"
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 33,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic using helicopter routes.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Established for repetitive missions from helibase",
+        "For safety, efficiency and monitoring, the"
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 34,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic using helicopter daisy-chains.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Two or more helicopters can be assigned to the",
+        "The HLCO/ATGS, in consultation with helicopter"
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 35,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter recon flights maintaining safe separation of aircraft.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Schedule recon flights during slow periods, i.e.,",
+        "Assign a specific route for the recon, example,",
+        "Establish check points, i.e., division breaks,"
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 36,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic with intersecting routes.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Intersecting aircraft routes shall be clearly",
+        "Intersections shall have a minimum of 500 feet"
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 37,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate helicopter air traffic requiring nonstandard patterns.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Occasionally terrain, visibility, wind direction or",
+        "The mission pilot shall advise HLCO/ATGS of",
+        "The HLCO/ATGS will advise other aircraft before"
+      ],
+      "page": 18
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 38,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage helicopter air tactics to provide continuity.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Good planning will ensure continuity.",
+        "Use HLCO and ATGS to fill gaps in coverage and manage air/ground operations in designated areas on complex incidents.",
+        "Stagger aircraft refueling so all aircraft are not down simultaneously.",
+        "Monitor flight times. Anticipate the need for a relief pilot, or other air resource. Notify dispatcher or IC/AOBD in a timely manner.",
+        "Anticipate fuel needs and facilitate obtaining fueling facilities near the incident.",
+        "Coordinate refuel and relief needs between aerial supervisors to ensure continuity of airspace management/supervision."
+      ],
+      "page": 18
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 39,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage HLCO/ATGS relief staffing using relief guidelines addressing fatigue, effectiveness, and safety.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "If the aerial supervisor will fly more than 4 hours on any one flight, order a relief.",
+        "On multi-day incidents, assign a second aerial supervisor and rotate about every 3 hours."
+      ],
+      "page": 18
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 40,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and provide fire information and size up for tactical planning.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Utilize standard size up briefing tools.",
+        "Make initial assessment and communicate critical safety, strategy, and tactics inputs to Operations, AOBD, DIVS, and line resources.",
+        "Cardinal directions.",
+        "Landmarks: Roads, streams, lakes, mountains, improvements, etc.",
+        "Fire flanks, head, etc.",
+        "Visible work accomplished: dozer lines, handline, retardant line, etc.",
+        "Record GPS coordinates to identify reference points."
+      ],
+      "page": 19
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 41,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and assign air resources per Operations/IC strategy, tactics, and mission priorities.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 19
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 42,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and determine TFR requirements and per SAS PMS 505",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Vertical and horizontal dimensions.",
+        "If needed, order through dispatcher or Air Operations Director."
+      ],
+      "page": 19
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 43,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine airspace conflicts.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "MOAs, MTRs, UAS operations airports, etc."
+      ],
+      "page": 19
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 44,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel to evaluate values at risk.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Life, property/structures, resources",
+        "Current fire size and potential size estimate",
+        "Fuel models and rates of spread",
+        "Fire behavior elements (wind, terrain, aspect, etc.)"
+      ],
+      "page": 19
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 45,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and recommend strategies, tactics, and resources needed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Determine a general probability of success.",
+        "Direct, indirect, or parallel strategies.",
+        "Target locations and priorities",
+        "Access",
+        "Anchor points",
+        "Water sources",
+        "Potential helispots",
+        "Location of spot fires",
+        "Number and types of aircraft required",
+        "Use of specialized resources (helitack, rappellers, smokejumpers, and paracargo.)",
+        "Determine and implement if necessary contingency plan if primary plan does not meet objectives."
+      ],
+      "page": 20
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 46,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and provide air drop information to ground crews.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Advise personnel of impending airtanker, bucket, or paracargo drops in their work area and the need to clear the area.",
+        "If drops are near power lines, determine status of lines (live or de-energized); advise ground personnel of danger of being near power lines during drops.",
+        "Confirm with ground if run is to be a dry or live.",
+        "Notify ground when drop is complete and personnel can return to work area.",
+        "Solicit feedback from ground crews relating to drop effectiveness."
+      ],
+      "page": 20
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 47,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and provide safety oversight to ground resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Monitor personnel locations relative to fire perimeter, blowup areas, etc.",
+        "Assist with locating safety zones and escape routes. Final determination must be made from ground.",
+        "Monitor weather – advises personnel of approaching fronts or thunderstorms.",
+        "Advise personnel on adverse changes in fire behavior.",
+        "Direct air resources, as top priority, to protect and aid in evacuation of endangered personnel."
+      ],
+      "page": 20
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 48,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and determine the procedures for ordering tactical aerial resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "The procedure to order retardant and helicopter support varies between dispatch centers, land status, and incident complexity. Determine the procedure before the mission begins and confirm with the IC.",
+        "On extended attack incidents, Division Supervisors are typically delegated the authority. However, consult with AOBD/OSC. Ensure the procedure is stated clearly in the IAP."
+      ],
+      "page": 21
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 49,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with dispatch in a timely manner and demonstrate communication with brevity and common terminology regarding appropriate information.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Evaluate/assess incident frequencies.",
+        "A fire size up including a center point.",
+        "Horizontal and vertical dimensions of a TFR if needed. Remember that TFRs are based on degrees, minutes, and seconds. Not decimal minutes.",
+        "Airspace conflicts with civilian or military aircraft.",
+        "The need for airtankers to load and return or hold.",
+        "Aircraft incidents/accidents.",
+        "Project needs for next day – number of aircraft by type, time requested, etc.",
+        "Aerial supervision flight/duty hours used and projected needs to complete the mission.",
+        "Request where airtankers should return over night (RON) when day’s operations are completed.",
+        "Advise on need for aircraft maintenance and projected availability for next day.",
+        "Advise if airtanker has in-flight difficulty, must abort load, and return to base.",
+        "Advise on need for aerial supervision relief at least 2 hours before you need it."
+      ],
+      "page": 21
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 50,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with incident ground personnel, dispatch, and other aerial supervision resources to ensure continuity of aerial supervision before leaving the incident.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Notify Operations of ETD, and who will supervise air operations.",
+        "Notify air resources of ETD and whom they will report to.",
+        "Notify the IC, Operations/Air Operations, DIVS, helibase, Lead, ASM, and HLCO when departing.",
+        "Notify dispatch of ETE to base.",
+        "If you are on the last shift of the day: (1)Plan your release to allow for return within (2)Update Operations personnel on fire status. (3)Remind remaining resources of daylight (4)Confirm with dispatch status of air resources –"
+      ],
+      "page": 22
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 51,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform post-mission procedures upon returning to base.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Confirm need for aerial supervision aircraft for next day and notify pilot of time, etc.",
+        "Debrief with available air resources (ATGS pilot, airtanker pilots, HLCO, Leadplane pilot, ASM, and helicopter pilots).",
+        "Debrief with AOBD and dispatch.",
+        "Attend or provide input to incident planning meeting for next day’s operations.",
+        "Request and review Incident Action Plan and map for next day’s operation.",
+        "Complete payment documents.",
+        "Submit SAFECOMs as required.",
+        "Update logbook."
+      ],
+      "page": 22
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 52,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage flight emergency using appropriate procedures. Emergency is highest priority until aircraft lands safely.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Determine pilot’s intentions for managing situation.",
+        "Clear the airspace for the pilot as needed.",
+        "Dedicate and clear a frequency for the emergency.",
+        "Direct the aircraft to depart mission area and climb to a safe altitude.",
+        "Jettison load in remote areas (or specified jettison areas) if feasible.",
+        "If problem persists, instruct aircraft to return to base or alternate landing site.",
+        "Alert incident medivac units.",
+        "Prepare for suppression of a fire associated with an aircraft crash.",
+        "Notify dispatch or airport tower for necessary crash/rescue protocol."
+      ],
+      "page": 23
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 53,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage a missing aircraft/aircraft mishap situation using the appropriate procedures.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Assign aircraft as needed to conduct search.",
+        "Determine location. Monitor emergency frequency (121.5) if crash site is not known or if the aircraft is missing and its status is unknown.",
+        "Assign remaining aircraft to holding areas or return to base.",
+        "Activate incident medivac plan through medical unit.",
+        "Assign on-site aircraft and personnel to control aircraft fire and initiate life saving measures if they can do so without jeopardizing their own safety.",
+        "Advise IC/Operations – be discreet about aircraft and flight crew identity.",
+        "Consider suspending non-essential aircraft operations.",
+        "Direct ground resources to crash site.",
+        "Direct air support operations."
+      ],
+      "page": 23
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 54,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage an Incident Within an Incident (IWI) situation using appropriate procedures.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Consider adding additional aerial supervision.",
+        "Serve as a relay between accident site, helibase and medical personnel.",
+        "Determine accident site location – latitude and longitude.",
+        "Obtain Medivac helicopter frequency – may be listed in Medivac Plan.",
+        "Assist rescue personnel with helispot location, etc.",
+        "Provide helispot dust abatement with helicopter buckets as needed.",
+        "Guide Medivac helicopter to accident site.",
+        "Incident Management Teams (IMTs) typically have an established procedure for IWI. Obtain a briefing from Air Operations."
+      ],
+      "page": 24
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 55,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well- being.",
+        "Keep your subordinates informed.",
+        "Build the team. •Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 24
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 56,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for",
+        "Set the example."
+      ],
+      "page": 24
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 57,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate, and communicate potentially",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources."
+      ],
+      "page": 25
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 58,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 25
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 59,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Debrief with appropriate supervisor, personnel and pilots (e.g., Operations Section Chief/Air Operations Branch Director, Helibase personnel).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Summarize and evaluate day’s operation.",
+        "Make recommendations for succeeding"
+      ],
+      "page": 25
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 60,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 25
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 61,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Compile daily statistics and provide to appropriate supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 25
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 62,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete appropriate payment documents daily.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 25
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 63,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor compliance with agency aviation regulations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Sunrise and sunset limitations.",
+        "Initiation and completion of incident reports.",
+        "Personal protective equipment.",
+        "Completion of financial records.",
+        "Flight and duty hour limitations."
+      ],
+      "page": 26
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 64,
+      "category": "Utilize information to produce outputs.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and map incident topography and landmarks in operating area.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Fire perimeter",
+        "Spot fires",
+        "Roads",
+        "Hazards"
+      ],
+      "page": 26
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 65,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure the Risk Management Process is established and maintained.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 26
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 66,
+      "category": "Anticipate, recognize and mitigate unsafe situations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and appropriately act on hazardous situations to incident aircraft.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Violation of FTA procedures.",
+        "Inadequate communications.",
+        "Hazards (e.g., towers, power lines, wires, snags).",
+        "Potential for or changes in weather (e.g., thunderstorms, frontal systems).",
+        "Aircraft near miss, crossing established fence, etc."
+      ],
+      "page": 26
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 67,
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and appropriately act on hazardous situations to ground forces.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Potential for or extreme fire behavior.",
+        "Spot fires.",
+        "Potential for or changes in weather (e.g.,"
+      ],
+      "page": 27
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 68,
+      "category": "Provide logistical support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and plan for logistical support needs.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Manage the FTA/TFR to support the logistical"
+      ],
+      "page": 27
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 69,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate/alter/shutdown aviation operations when appropriate.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Excessive winds or turbulence",
+        "Limited visibility",
+        "Shadows",
+        "Unsafe drop heights",
+        "Severe weather"
+      ],
+      "page": 27
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 70,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform subordinate staff and IC.",
+        "Document follow-up action needed and submit to supervisor."
+      ],
+      "page": 27
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 71,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate and recommend demobilization/release of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify excess resources.",
+        "Prepare schedule for demobilization."
+      ],
+      "page": 27
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 72,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure familiarity and compliance with relevant helicopter administration policy. Conduct or obtain pre-use inspection of aircraft.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Conduct or obtain pre-use inspection of aircraft.",
+        "Ensure required documents are on board the aircraft (Flight Manual, Hazmat Guide, DOT exemption, Contract).",
+        "Complete Daily Diary, Cost summary and Agency flight use summary.",
+        "Ensure turbine power assurance check are completed and documented, report irregularities.",
+        "Track pilot/mechanic/fuel truck driver flight time and duty logs.",
+        "Ensure pilot accurately completes and approves a daily load calculation for representative temperatures and altitudes.",
+        "Passenger manifests with accurate names and weights for each flight."
+      ],
+      "page": 28
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 73,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate an understanding of the relationship between Span of Control/Incident Complexity and the need for additional command and control aircraft (i.e. second HLCO, ATGS, MLCO)",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify communication limitations in low-",
+        "Identify ground contacts and establish",
+        "Coordinate tactical helicopter operations",
+        "Order additional aircraft as needed."
+      ],
+      "page": 28
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 74,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate ability to sequence helicopters with fixed wing operations",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Routing",
+        "Fencing",
+        "Sequencing",
+        "Checkpoints"
+      ],
+      "page": 28
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 75,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish helicopter priorities to meet incident tactical objectives",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 29
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 76,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate staying within the HLCO profile",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 29
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 77,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor effectiveness of operations and adjust as necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 29
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 78,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish communications with HEBM/ASGS/ATGS/AOBD to ensure appropriate frequency allocation, utilization, and naming convention",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 29
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 79,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure positive control of helicopters in operating areas",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 30
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 80,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Share information with HEMB/ATGS/ASGS/AOBD to be added to flight map to ensure NWCG standards for map symbology are used",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 30
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 81,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist the helibase manager with Pilot break out briefing to promote a safe flying environment, with pilot input",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 30
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 82,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On a moderate complexity fire, conduct HLCO operations supervising rotor-wing tactical aircraft, and pass an evaluation flight in accordance with the evaluation requirements on the Aerial Supervision Mission Evaluation form",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 30
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 83,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and assign air resources per Operations/IC strategy, tactics, and mission priorities.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 31
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 84,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate fixed wing water-scooper operations with helicopter operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Can be coordinated with ATGS and mixed in with helicopters."
+      ],
+      "page": 31
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 85,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and determine TFR requirements.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Vertical and horizontal dimensions.",
+        "If needed, order through dispatcher or Air Operations Director."
+      ],
+      "page": 31
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 86,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel to evaluate values at risk.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Life, property/structures, resources",
+        "Current fire size and potential size estimate",
+        "Fuel models and rates of spread",
+        "Fire behavior elements (wind, terrain, aspect, etc.)"
+      ],
+      "page": 31
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 87,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and recommend strategies, tactics, and resources needed.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Determine a general probability of success.",
+        "Direct, indirect, or parallel strategies.",
+        "Target locations and priorities.",
+        "Access",
+        "Anchor points",
+        "Water sources",
+        "Potential helispots",
+        "Location of spot fires",
+        "Number and types of aircraft required.",
+        "Use of specialized resources (helitack, rappellers, smokejumpers, and paracargo.)",
+        "Determine and implement if necessary contingency plan if primary plan does not meet objectives."
+      ],
+      "page": 32
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 88,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and provide air drop information to ground crews.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Advise personnel of impending airtanker, bucket, or paracargo drops in their work area and the need to clear the area.",
+        "If drops are near power lines, determine status of lines (live or de-energized); advise ground personnel of danger of being near power lines during drops.",
+        "Confirm with ground personnel if run is to be a dry or live.",
+        "Notify ground personnel when drop is complete and personnel can return to work area.",
+        "Solicit feedback from ground crews relating to drop effectiveness."
+      ],
+      "page": 32
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 89,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and provide safety oversight to ground resources.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Monitor weather and advises personnel of approaching fronts or thunderstorms.",
+        "Advise personnel on adverse changes in fire behavior.",
+        "Direct air resources, as top priority, to protect and aid in evacuation of endangered personnel."
+      ],
+      "page": 32
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 90,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On an initial attack incident, coordinate with ground personnel and determine the procedures and authority for ordering tactical aerial resources.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "The authority to order retardant and helicopter support varies between dispatch centers, land status, and incident complexity. Determine the procedure before the mission begins and confirm with the IC.",
+        "On initial attack incidents, the IC makes aircraft orders. The IC may choose to delegate this to the aerial supervisor. Confirm it before ordering."
+      ],
+      "page": 33
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 91,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine need for Helicopter Coordinator, lead plane, ASM or other aerial supervision resources based on span of control.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 33
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 92,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform aircraft appropriate initial briefing to all incoming aircraft when aircraft make initial contact (12 nm ring).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Standard Initial Briefing Sequence script per SAS PMS 505e"
+      ],
+      "page": 33
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 93,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform aircraft appropriate tactical briefings when the drop/mission area is in sight per SAS PMS 505e",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 33
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 94,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform departure briefings to airtankers upon completion of drop per SAS script PMS 505e",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 33
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 95,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Direct airtankers (Target Description) to mission areas and targets using fire anatomy, common terminology, and brevity in communications per SAS script PMS 505e",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 34
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 96,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Pilots maintain aircraft separation by: (a) Using standard aviation ‘see and avoid’ (b) Having access to the appropriate air-to-air (c) Adhering to Fire Traffic Area (FTA)",
+        "Aerial Supervisors Ensure Aircraft Separation by: (a) Structuring the incident airspace and briefing (b) Monitoring radio communications for pilot-to- (c) Visually tracking aircraft as needed. (d) Giving specific directions to pilots as needed. (e) Advising pilots on the location and heading of"
+      ],
+      "page": 34
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 97,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Behavior: Follow established procedures and/or safety procedures relevant to given assignment. Coordinate mixed (fixed and rotor) air traffic using vertical separation principles.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "500 feet is the minimum vertical separation for missions in the same airspace. 1,000 feet is preferred and should be used whenever possible.",
+        "Assigning block altitudes (with vertical range up to 500 feet) to orbiting fixed-wing is preferred in windy or active thermal conditions.",
+        "Assign helicopters a hard ceiling (i.e., 4,500’ and below). Do not assign them 500’ AGL.",
+        "Vertical stacking airtankers is discouraged. Utilize a racetrack pattern if multiple airtankers (of any type) are on scene.",
+        "It’s common practice to put media helicopters above the ATGS in order to keep them away from firefighting aircraft.",
+        "Assign standard operational altitudes and patterns as identified in IASG."
+      ],
+      "page": 35
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 98,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using horizontal separation principles.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Aerial supervision must ensure there is adequate visibility to conduct operations safely regardless of the airspace classification.",
+        "Flight patterns must be adequate, i.e., not hindered by terrain. (b) Advise pilots on location of other aircraft if (c) Air-to-air frequency must be accessible for"
+      ],
+      "page": 36
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 99,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using incident entry and exit corridors.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Aerial supervision shall determine incident entry/exit corridors as needed. All aircraft must be notified of corridors."
+      ],
+      "page": 36
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 100,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using holding areas and initial points.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Airtankers can be held near an incident, two or three at a time, in the same holding area. More than one holding area may be used. Considerations include: (c) Holding area must be clearly defined – by a",
+        "Helicopters can be held on the ground or in the air as needed to maintain adequate separation. Considerations include:"
+      ],
+      "page": 37
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 101,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using sequencing.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Aircraft may be sequenced into the same area provided each aircraft can complete its mission and exit the area before the next aircraft enters the area. Sequencing requires close supervision. Caution: Consider wake turbulence when sequencing any type of aircraft.",
+        "Sequencing airtankers and helicopters – Helicopters can be held at a safe distance from drop site until an airtanker has completed its drop.",
+        "Sequencing airtankers and paracargo – Stage aircraft 180 degrees apart in the same flight pattern so flights over the target area are controlled by position in orbit."
+      ],
+      "page": 37
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 102,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using interval dispatching.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "To reduce the problem of too many airtankers over an incident at the same time, ask dispatch or the ATB to launch airtankers at intervals (usually 10 to 15 minutes)."
+      ],
+      "page": 38
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 103,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using checkpoints and virtual fences.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Effective for maintaining air traffic control with minimal radio traffic on the air-to-air frequency.",
+        "Pilots are instructed to report their location and destination “in the blind” when crossing check points.",
+        "Pilots may be required to report arrival at a virtual fence and wait for clearance from ATGS before proceeding. Known geographic locations make effective check points and virtual fences."
+      ],
+      "page": 38
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 104,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using helicopter routes.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Established for repetitive missions from helibase to helispots or sling points, from dipsites to targets, etc.",
+        "For safety, efficiency and monitoring, the HLCO/ATGS, in consultation with the helibase manager and/or helicopter pilots, will ensure flight routes and communications procedures have been established and are known."
+      ],
+      "page": 38
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 105,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using helicopter daisy-chains.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Two or more helicopters can be assigned to the same targets and dipsites for repeated water drops.",
+        "The HLCO/ATGS, in consultation with helicopter pilots, will establish a “daisy- chain” flight route for these operations."
+      ],
+      "page": 38
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 106,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) airspace and supervise a helicopter recon flight maintaining safe separation of aircraft.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Schedule recon flights during slow periods, i.e., when airtankers are loading.",
+        "Assign a specific route for the recon, example: clockwise around and 100 yards outside the incident perimeter.",
+        "Establish check points, i.e., division breaks, helispots, drainages, etc."
+      ],
+      "page": 39
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 107,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic with Intersecting Routes.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Intersecting aircraft routes shall be clearly identifiable geographically.",
+        "Intersections shall have a minimum of 500 feet vertical separation."
+      ],
+      "page": 39
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 108,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic requiring nonstandard patterns.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Occasionally terrain, visibility, wind direction or other factors require flight patterns are modified or reversed.",
+        "The mission pilot shall advise HLCO/ATGS of situation and request a deviation from standard procedures.",
+        "The HLCO/ATGS will advise other aircraft before granting the request."
+      ],
+      "page": 39
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 109,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate work with Lead/ASM.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Provide clear incident objectives and leaders intent.",
+        "Provide project area and positive handoff of assigned aircraft to Lead/ASM crew.",
+        "Monitor progress of project status."
+      ],
+      "page": 39
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 110,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage mixed (fixed and rotor) air tactics to provide continuity.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Good planning will ensure continuity.",
+        "Use ASM to fill gaps in coverage and manage air/ground operations in designated areas on complex incidents.",
+        "Stagger aircraft refueling so all aircraft are not down simultaneously.",
+        "Stagger airtankers to maintain continuous coverage.",
+        "Monitor flight times. Anticipate the need for a relief pilot, or other air resource. Notify dispatcher or incident in a timely manner.",
+        "Anticipate fuel needs and facilitate obtaining fueling facilities near the incident.",
+        "Recommend activation of portable reload bases to reduce turn-around time.",
+        "Coordinate refuel and relief needs between aerial supervisors to ensure continuity of airspace management/supervision."
+      ],
+      "page": 40
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 111,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage aerial supervision relief staffing using relief guidelines addressing fatigue, effectiveness, and safety.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "If the aerial supervisor will fly more than 4 hours on any one flight, order a relief.",
+        "On multi-day incidents, assign a second aerial supervisor and rotate about every 3 hours.",
+        "Utilize appropriate ASM/HLCO/Lead/ATGS positions to provide coverage. Behavior: Plan for demobilization and ensure demobilization procedures are followed."
+      ],
+      "page": 40
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 112,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage the diversion of aerial resources to higher priority fires.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Higher priority incidents require diversion of air resources.",
+        "A reassignment may be given through dispatch or through IC/Operations.",
+        "Aerial supervision may also be diverted to manage the new incident.",
+        "Upon receiving a divert notice, the aerial supervisor must release and brief the requested resources on the following: (a) Incident location (b) Air and ground contacts (c) Radio frequencies",
+        "Aerial supervisor should be advised by dispatch and modify incident tactics for due to loss of aerial resources.",
+        "IC can request through dispatch that no aerial resources be diverted to other incidents when an imminent threat to life of a firefighter or civilian exists."
+      ],
+      "page": 41
+    },
+    {
+      "position_code": "ATGS",
+      "task_number": 113,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "On a moderate complexity fire, conduct ATGS operations supervising fixed and rotor-wing tactical aircraft, and pass an evaluation flight in accordance with the evaluation requirements on the Aerial Supervision Mission Evaluation form.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 41
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 5
+    }
+  ],
+  "extra_fields": {}
+}

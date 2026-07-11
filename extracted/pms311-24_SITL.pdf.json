@@ -1,0 +1,712 @@
+{
+  "document": {
+    "filename": "pms311-24_SITL.pdf",
+    "sha256": "5c756a4fe6e0213ff46b153b9f64706a1bdad7644951967e95397be7f77e2578",
+    "pms_number": "311-24",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "SITL"
+    ],
+    "title": "Situation Unit Leader",
+    "edition_date": "FEBRUARY 2025",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 17
+  },
+  "positions": [
+    {
+      "code": "SITL",
+      "title": "Situation Unit Leader",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "SITL",
+      "task_number": 1,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Planning Section Chief and other functional areas to obtain resources to organize workspace and keep unit operating.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Order materials and supplies using procedures established by the section chief.",
+        "Maintain quantities of forms, supplies, and materials at a level to prevent shortage of any basic needed items.",
+        "Acquire equipment (e.g., radio, telephones, faxes, computers).",
+        "Ensure appropriate number of personnel to support unit (e.g., night operational period, increase/reduce staffing).",
+        "Ensure adequate signage for work locations (e.g. check-in/demob/resource)."
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 2,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing and information from Planning Section Chief.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Policies and operating procedures (e.g., ordering resources and supplies, work schedule, timelines, and priorities).",
+        "Operational work period.",
+        "Current unit staffing levels.",
+        "General orientation to the Incident Command Post and/or incident base.",
+        "Incident briefing (ICS 201), Incident Status Summary (ICS 209), Incident Action Plan (IAP) or other relevant plan.",
+        "Expectations for attending meetings/briefings.",
+        "Safety concerns/hazards."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 3,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish situation awareness pertinent to unit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Organizational contacts (e.g., counterparts, host unit personnel).",
+        "Supporting documentation (e.g., maps; digital information; Resource Order [ICS 260])."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 4,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 5,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize assigned personnel to meet the needs of the unit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 6,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with functional areas within the ICS structure.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 7,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised, and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 8,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well-being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 9,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 10,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources.",
+        "Provide for care of assigned personnel and notify supervisor in event of sickness, injury, or accident."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 11,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete daily review of staffing requirements and ensure adequate personnel to meet needs.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 12,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop/schedule assignments based on IAP or relevant plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 13,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure subordinates understand assignment for operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 14,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually evaluate performance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Communicate deficiencies immediately and take corrective action.",
+        "Provide training opportunities where available.",
+        "Complete personnel performance evaluations according to agency guidelines."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 15,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 16,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with other units and sections for completion of work assignments.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Assist other sections to meet priorities and time frames.",
+        "Receive and transmit needed information."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 17,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief and keep subordinates informed and updated.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensue unit leader expectations are communicated and understood."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 18,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend incident operational briefings and meetings as directed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Record corrections to documents (e.g., IAP, maps).",
+        "Provide information as requested."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 19,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and conduct unit After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 20,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and approve subordinate time reports.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 21,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Submit completed original documents at appropriate time.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "General Message (ICS 213)",
+        "Activity Log (ICS 214)"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 22,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Compile unit documentation for final incident package.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 23,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare information for preplanning/strategy meeting.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Display appropriate information for next operational period."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 24,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare input to final narrative and transition plan as requested.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 25,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate across functional areas.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide timely feedback in response to requests."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 26,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish time frames and protocols for information exchange to complete work assignments.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident Status Summary (ICS 209)."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 27,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop contingency plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Equipment breakdown",
+        "Power outages",
+        "Unexpected staffing shortages"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 28,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate available information and make recommendations to support the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Workload priorities.",
+        "Staff assignments.",
+        "Information requests."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 29,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine and monitor current status of unit activities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Changing needs.",
+        "Staffing levels."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 30,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Make independent decisions based on available information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Decisions result in incident efficiency."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 31,
+      "category": "Follow established procedures and/or safety procedures relevant to a given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure established guidelines are followed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Work/Rest.",
+        "Personal protective equipment (PPE) when required for field assignments.",
+        "Communication (e.g., radio, cell phone)."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 32,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g. incoming Incident Management Team [IMT], host agency).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Determine time of transfer with replacement.",
+        "Inform subordinate staff and IC.",
+        "Document follow-up action needed and submit to supervisor."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 33,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate demobilization resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify excess resources.",
+        "Prepare schedule for demobilization."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 34,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief subordinate staff on demobilization procedures and responsibilities.",
+        "Ensure incident and agency demobilization procedures are followed."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 35,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain maps and data (paper or digital).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure maps are high quality and suitable for copying.",
+        "Ensure data is in a format that can be utilized.",
+        "Ensure maps and data provide adequate detail and cover the area that can potentially be involved in the incident.",
+        "Collect existing maps and data from prior operational periods."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 36,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Submit documentation to Documentation Unit Leader within established time frames.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident Status Summary (ICS 209) (original).",
+        "Maps and overlays.",
+        "Electronic media (photos, electronic presentations, maps, videos).",
+        "Unit narrative."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 37,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare, update, and distribute incident maps and map data.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Collect, analyze, and evaluate incident information.",
+        "Balance the need for accuracy with the need for timeliness.",
+        "Adhere to agency or specific incident standard symbols.",
+        "Maintain incident maps (e.g., Situation Unit, IAP, Operational Briefing, Transportation, Facilities, Progression) in a neat and orderly manner.",
+        "Coordinate with Information Officer to establish and maintain displays.",
+        "Protect working maps."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 38,
+      "category": "Utilize information to produce outputs.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete and submit Incident Status Summary (ICS 209).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Collect and evaluate incident information from appropriate sections.",
+        "Balance need for accuracy with the need for timeliness.",
+        "Obtain final approval by Incident Commander.",
+        "Determine appropriate method for timely submission to Agency dispatch.",
+        "Distribute to appropriate incident staff."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 39,
+      "category": "Utilize information to produce outputs.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure required IAP inputs are provided within established timeframes.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Weather forecast",
+        "Fire behavior forecast",
+        "Maps"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "SITL",
+      "task_number": 40,
+      "category": "Utilize information to produce outputs.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Present infrared data to the Operations Section in a useable format.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Order infrared services using established procedures."
+      ],
+      "page": 15
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 5
+    }
+  ],
+  "extra_fields": {}
+}

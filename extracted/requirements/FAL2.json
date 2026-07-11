@@ -1,0 +1,28 @@
+{
+  "position_code": "FAL2",
+  "required_training": [
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Basic Faller ( FAL3 )",
+    "AND Completion and Certification of NWCG Intermediate Faller (FAL2) Position Task Book , PMS 311-91 (see note)"
+  ],
+  "required_experience_prereq_codes": [
+    "FAL3"
+  ],
+  "physical_fitness": "Physical Fitness Level: Arduous",
+  "currency_maintained_by": [
+    "Advanced Faller ( FAL1 )"
+  ],
+  "maintains_currency_for": [
+    "Basic Faller ( FAL3 )",
+    "Firefighter Type 2 ( FFT2 )"
+  ],
+  "other_training": [
+    "M-410, Facilitative Instructor",
+    "S-131, Firefighter Type 1",
+    "S-211, Portable Pumps and Water Use",
+    "S-219, Firing Operations"
+  ],
+  "note": "The use of the approved NWCG PTB for the FAL2 position is highly encouraged. However, agency-specific evaluation processes that document Completion and Certification of PTB can be used in lieu of the PTB if they meet or exceed the standard identified in the associated position task book."
+}

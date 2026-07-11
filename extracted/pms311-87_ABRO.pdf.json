@@ -1,0 +1,211 @@
+{
+  "document": {
+    "filename": "pms311-87_ABRO.pdf",
+    "sha256": "dc78f8a55ed74b9d3e422f5dd518a65ad46564ee57c635d86ea3b3cee2249500",
+    "pms_number": "311-87",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "ABRO"
+    ],
+    "title": "Aircraft Base Radio Operator",
+    "edition_date": "JUNE 2024",
+    "ips_reference": "350-87",
+    "official": true,
+    "page_count": 10
+  },
+  "positions": [
+    {
+      "code": "ABRO",
+      "title": "Aircraft Base Radio Operator",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "ABRO",
+      "task_number": 1,
+      "category": "Leadership Level 1, Follower [Provide Action]",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communications skills.",
+      "code_raw": "ALL",
+      "code_alternatives": [
+        "ALL"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "ABRO",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from previous shift/assignment position as necessary.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "ABRO",
+      "task_number": 3,
+      "category": "Perform Aircraft Base Radio Operator-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide aircraft advisories and mission information prior to aircraft takeoff/landing.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "ABRO",
+      "task_number": 4,
+      "category": "Perform Aircraft Base Radio Operator-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Flight follow aircraft at the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "ABRO",
+      "task_number": 5,
+      "category": "Perform Aircraft Base Radio Operator-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage communication with various aircraft and incident positions using multiple radios and frequencies.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ABRO",
+      "task_number": 6,
+      "category": "Perform Aircraft Base Radio Operator-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Use appropriate NWCG Standards for Helicopter Operations (NSHO), PMS 510 forms to document relevant flight and mission related information.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ABRO",
+      "task_number": 7,
+      "category": "Perform Aircraft Base Radio Operator-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan for and respond to medical and aircraft emergencies as stated in the Incident Action Plan (IAP)/Helibase Mishap Response Plan.",
+      "code_raw": "S",
+      "code_alternatives": [
+        "S"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ABRO",
+      "task_number": 8,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate strong verbal communication skills.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ABRO",
+      "task_number": 9,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure proper use of radios.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ABRO",
+      "task_number": 10,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate and coordinate with assigned aviation resources and other incident personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ABRO",
+      "task_number": 11,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in helibase operational briefings, debriefs, and/or After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ABRO",
+      "task_number": 12,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 7
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 7
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    }
+  ],
+  "extra_fields": {}
+}

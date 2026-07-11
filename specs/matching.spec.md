@@ -1,0 +1,179 @@
+# Spec: Task Matching & Equivalence
+
+**Implements:** `src/ptb/match.py`, `src/ptb/adjudicate.py` (Phase 4)
+**Principle:** every equivalence claim is auditable (method + score + note +
+provenance). The most dangerous error is a false equivalence shown to a
+candidate; the design errs toward false negatives.
+
+## Normalization (defines `tasks.normalized_text`)
+
+Applied in order:
+1. Unicode NFKC; replace smart quotes/apostrophes with ASCII.
+2. Repair extraction whitespace artifacts: collapse runs of whitespace to one
+   space; rejoin mid-word splits only when the raw PDF line-flow caused them
+   (e.g. "an d" → "and").
+3. Lowercase; strip trailing period.
+4. Canonicalize known abbreviation variants from a maintained table, e.g.
+   "(aars)" ≡ "(aar)". The table starts with exactly this pair and grows only
+   with human sign-off (recorded in this spec's changelog).
+5. Strip bracketed IPS cross-references matching the strict pattern
+   `[See the NWCG Incident Position Standards for <position title>, PMS
+   350-<n>, for ...]`. Justification: the bracket names the source DOCUMENT
+   of the reading position, not the behavior being evaluated — leadership
+   tasks are otherwise word-identical across positions at the same
+   leadership level (grounded: ENGB #1 vs FIRB #1 differ only in
+   "Engine Boss ... PMS 350-103" vs "Firing Boss ... PMS 350-105" inside the
+   bracket; found by spec-checker audit 2026-07-09). The stripped reference
+   is preserved in `verbatim_text` and available as provenance.
+
+NOT normalization: removing words (step 5's strict-pattern bracket is the
+single sanctioned exception), stemming, reordering, synonym substitution.
+"Ensure effective communication with adjacent resources and supervisors" vs
+"...with supervisors and adjacent resources" (ENGB 16 / FIRB 13) is NOT
+tier-1; reordering goes through tier 2.
+
+## Tiers
+
+**Tier 1 — identical (auto-confirmed).** Same normalized_text → same
+`tasks.task_id` (INV-3); the sharing itself is the match. Grounded examples
+that MUST land tier-1 across fixtures:
+- "Gather critical information pertinent to the assignment." — FFT1 #2, ENGB #4, FIRB #2
+- "Assemble and validate readiness of crew, equipment, and vehicles." — FFT1 #4, ENGB #5, FIRB #3
+- "Apply the Risk Management Process." — FFT1 #22, ENGB #19, FIRB #14
+- "Develop and communicate contingency plans and trigger points." — ENGB #21, CRWB #31, FIRB #16
+- "Plan for and manage medical emergencies." — ENGB #22, FIRB #17
+- "Conduct and/or participate in After Action Reviews (AARs)." — FFT1 #21, ENGB #18, CRWB #29 (via the AAR/AARs abbreviation table)
+- Leadership Level 2, New Leader body — ENGB #1, CRWB #1, FIRB #1 (via
+  normalization step 5, which strips each book's own bracketed IPS
+  reference; the "(Convey Content)"/"(Convey Intent)" variance lives in the
+  CATEGORY header, not the task body). FFT1 #1 is Leadership Level 1
+  (Follower) with different body text and MUST NOT join this task_id.
+
+**Tier 2 — semantic candidates (embedding → adjudication → human review).**
+- Model: `sentence-transformers/all-MiniLM-L6-v2`, local CPU, versioned in output.
+- Candidate cut: cosine ≥ 0.80 between normalized texts of different task_ids.
+  (Initial value; tune only via spec changelog after inspecting the score
+  distribution on the full corpus.)
+- Claude adjudicates each candidate pair against the rubric below, assigning
+  `relation` ∈ {equivalent, a_subsumes_b, b_subsumes_a,
+  related_not_equivalent} + a note. Subsumption direction is relative to the
+  stored (task_a_id < task_b_id) row ordering; adjudication verdicts record
+  the SUBSUMER'S NORMALIZED TEXT (id-independent), and the loader derives
+  a_subsumes_b vs b_subsumes_a from it at write time.
+- equivalent/subsumption verdicts get `status='probable'` until human review
+  promotes to `confirmed` (sets `human_reviewed_at`) or demotes to `rejected`
+  (also sets `human_reviewed_at`; the row keeps tier 2 and the adjudicator's
+  relation for audit).
+- **Grounded seed pairs:** the rubric-grounded pairs pinned in
+  `match.py GROUNDED_SEED_PAIRS` (FFT1#10/ENGB#9 and the two
+  firing-operations-triple pairs involving CRWB#14) are ALWAYS adjudicated
+  and recorded with their true cosine score, even though they fall below the
+  candidate cut — the spec requires their verdicts to exist in the table
+  (AC-M3, rubric case 4). Seeds are keyed by normalized text, never task id.
+
+**Tier 3 — rejected candidates.** Adjudicated `related_not_equivalent` →
+tier 3, `status='rejected'`. Kept with score + note for audit. Never
+surfaced to candidates. (Human demotion of a tier-2 probable stays tier 2
+with `status='rejected'` — see above.)
+
+## Re-running the pipeline (new position added / objective changed)
+
+The whole tier-2 layer is rebuilt from three durable, text-keyed inputs, so
+task-id churn from DB rebuilds never invalidates past work:
+
+1. `data/adjudications.json` — one verdict per candidate pair, keyed by
+   `pair_key` (hash of the two normalized texts). Authored by Claude
+   in-session against this spec's rubric; append-only.
+2. `data/confirmations.json` — the human review record (promote/demote),
+   same keying. Append-only; written via `py src/ptb/adjudicate.py promote`.
+3. `match.py`'s pinned model constants + `GROUNDED_SEED_PAIRS`.
+
+Procedure after any corpus change (details in PLAN.md Phase 4):
+
+```
+py src/ptb/db.py           # rebuild data/ptb.sqlite from extracted/
+py src/ptb/match.py        # regenerate data/tier2_candidates.json
+py src/ptb/adjudicate.py   # apply verdicts -> task_equivalences + checklist
+```
+
+If `adjudicate.py` finds candidate pairs with no verdict, it writes
+`data/pending_adjudication.json`, loads nothing new to the DB, and exits
+non-zero. Give that file to Claude to adjudicate (rubric below), append the
+verdicts to `data/adjudications.json`, and rerun. Newly probable pairs land
+on the regenerated checklist for one-time human review; previously reviewed
+pairs keep their recorded outcome automatically.
+
+## Adjudication rubric (the prompt contract for Claude)
+
+Judge only from the two task texts + their categories + position titles:
+1. **Action level must match.** perform/execute ≠ supervise/direct/lead ≠
+   ensure/monitor. A performer task never equals a supervisory task.
+   Grounded: FFT1 #10 "Act as a lookout" vs ENGB #9 "Scout line in critical
+   areas and patrol fireline" → related_not_equivalent.
+2. **Object and scope must match.** Same action on a narrower scope is
+   subsumption, not equivalence. Grounded: FIRB #11 "Scout line in critical
+   areas." vs ENGB #9 "Scout line in critical areas and patrol fireline."
+   → a_subsumes_b (ENGB subsumes FIRB).
+3. **Equivalence tolerates only phrasing differences.** Grounded: ENGB #8
+   "Develop, implement, and adjust tactics based on incident objectives, fire
+   behavior, risk assessment, and leader's intent" vs CRWB #19 "Develop and
+   implement tactics based on..." → adjudicator must weigh "adjust": expected
+   verdict a_subsumes_b (ENGB subsumes CRWB), acceptable verdict equivalent —
+   the note must address "adjust" either way.
+4. **Firing-operations triple (hard case, expected related_not_equivalent or
+   subsumption chain, never blanket equivalence):** ENGB #13 "Supervise and
+   participate in firing operations" / FIRB #9 "Monitor and supervise firing
+   operations" / CRWB #14 "...Plan, direct, and supervise firing operations."
+5. Doubt → related_not_equivalent. The system prefers a missed shortcut over
+   a false qualification claim.
+
+## Context codes are NOT part of equivalence — they gate satisfaction
+
+Identical text with different codes is still one canonical task (grounded:
+"Gather critical information..." is O in FFT1, I in ENGB, W/RX in FIRB), but a
+candidate's completion CONTEXT must satisfy the target position's code.
+Compatibility (evaluation context → codes it satisfies):
+- wildfire → W, I, O   • prescribed fire → RX, I, O
+- other ICS incident → I, O   • simulation → S, O
+- rare-event/interview → R, O   • any/classroom/daily job → O
+`W/RX` (alternatives) is satisfied by any listed alternative. Gap analysis
+(gap-analysis.spec.md) applies this matrix; matching only stores codes.
+Caution: the enhanced_gdoc format redefines `O` (developmental/non-incident);
+the matrix row for `O` applies per the owning format's definition — see
+gap-analysis.spec.md for the split handling.
+
+## Acceptance criteria
+
+- [ ] AC-M1: All six grounded tier-1 examples share task_ids after the run.
+- [ ] AC-M2: ENGB #16 / FIRB #13 (reordered wording) appears as a tier-2
+      candidate, not tier-1.
+- [ ] AC-M3: FFT1 #10 vs ENGB #9 ends related_not_equivalent; FIRB #11 vs
+      ENGB #9 ends a_subsumes_b with ENGB as subsumer.
+- [ ] AC-M4: Zero tier-2 rows reach `confirmed` without `human_reviewed_at`.
+- [ ] AC-M5: Every equivalence row has method, and tier-2 rows have score +
+      adjudication_note.
+- [ ] AC-M6: Run is reproducible: rerunning on unchanged corpus produces an
+      identical task_equivalences table (embedding model + version pinned).
+- [ ] AC-M7: A generated human-review checklist (Markdown) lists every
+      'probable' pair with both verbatim texts, positions, categories, score,
+      and the adjudication note.
+- [ ] AC-M8: ENGB #1, CRWB #1, FIRB #1 share one task_id after normalization
+      step 5; FFT1 #1 does not share it.
+
+## Changelog
+
+- 2026-07-10 (Phase 4 build): (1) relation set gained `b_subsumes_a` —
+  the schema's `task_a_id < task_b_id` ordering cannot otherwise represent a
+  subsumer holding the larger id, and this spec's own rubric case 3 (ENGB #8
+  subsumes CRWB #19) is exactly that case in the current build (task ids
+  339 > 162); see schema.spec.md changelog same date. (2) Added the grounded
+  seed-pair mechanism: FFT1#10/ENGB#9 measures cosine 0.244 and the
+  CRWB#14 firing-triple pairs measure 0.651/0.549 — all below the 0.80 cut —
+  yet AC-M3 and rubric case 4 require their verdicts recorded, so these
+  spec-named pairs are always adjudicated regardless of score. The 0.80
+  threshold itself is unchanged. (3) Documented the re-run pipeline and the
+  text-keyed (task-id-independent) verdict/confirmation stores.
+- 2026-07-09: Initial version. Normalization step 5 (IPS cross-reference
+  stripping) added same day after spec-checker audit found ENGB#1/FIRB#1
+  tier-1 claim unsatisfiable without it. Abbreviation table seeded with
+  (aars)≡(aar).

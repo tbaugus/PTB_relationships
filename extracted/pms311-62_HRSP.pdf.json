@@ -1,0 +1,506 @@
+{
+  "document": {
+    "filename": "pms311-62_HRSP.pdf",
+    "sha256": "a5a0e66a7c2e95c33785df1460dceeae25e099001eb5c4c98a251699d1cc27b0",
+    "pms_number": "311-62",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "HRSP"
+    ],
+    "title": "Human Resource Specialist",
+    "edition_date": "JUNE 2009",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 14
+  },
+  "positions": [
+    {
+      "code": "HRSP",
+      "title": "Human Resource Specialist",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "HRSP",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit. Suggested items:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "ICS 213, General Message",
+        "ICS 214, Unit Log",
+        "Agency specific forms/materials appropriate to the Human Resource Specialist function",
+        "PMS 410-1, Fireline Handbook",
+        "Human Resource Specialist manuals/guides",
+        "Human Resource Specialist individual checklists/reminders",
+        "Office supplies appropriate to the function",
+        "Geographic Area Coordinator List"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Incident order number",
+        "Request number",
+        "Incident phone number",
+        "Reporting time",
+        "Reporting location",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 3,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive at incident and check in.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Arrive properly equipped at assigned location within acceptable time limits."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Install a workstation within the first operational period following check-in.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Visible/accessible",
+        "Identifiable with Human Resource Specialist sign and availability information.",
+        "Adequate space for two or more persons."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 5,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain phone/radio from Communications Unit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 6,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Order additional Human Resource Specialists if needed.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Ensure prompt advice and assistance to managers/supervisors with resolution of issues."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 7,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather information necessary to assess incident assignment and determine immediate needs and actions.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident Commander’s/supervisor’s name and location; make contact.",
+        "Current resource commitments.",
+        "Current incident situation.",
+        "Expected duration of assignment."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 8,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble cooperating and assisting agency information for use in answering requests and resolving problems.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Contact persons (e.g., Interagency Resource Representative, Contracting Officer’s Technical Representative, Crew Representatives).",
+        "Policies on civil rights, Equal Employment Opportunity (EEO), sexual harassment, appropriate behavior.",
+        "Contact/post local union information.",
+        "Phone number.",
+        "Number and types of contracts, contractors, and contractor representatives.",
+        "Number of personnel.",
+        "Copy of Incident Action Plan (IAP) or other relevant plan.",
+        "Conditions of personnel (physical, mental, emotional).",
+        "Agency constraints.",
+        "Interagency and Tribal Agreements/liaison contact."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 9,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct self in a professional manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Respectful and courteous.",
+        "Respectful of public and private property."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 10,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 11,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Contact personnel relevant to assignment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Geographic Area Human Resource Specialist Coordinator.",
+        "Host unit contacts for Human Resources, Employee Relations, and Contracting."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 12,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Maintain appropriate span of control.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 13,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from immediate supervisor and Incident Commander within the first operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Information on situations from current/previous Human Resource Specialist assigned.",
+        "Update incident information by the beginning of each operational period."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 14,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct appropriate periodic briefings at predetermined times and location to keep cooperating agencies informed of problems, concerns, and issues.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Actions taken involving the cooperating agency.",
+        "Copies of information gathered and supplied to the agency representative."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 15,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Present pertinent human resource messages.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Morning and/or night shift briefings.",
+        "IAP or other relevant plan, daily."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 16,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain ICS 214, Unit Log and file with the Documentation Unit at the end of each operational period.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 17,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete contact information sheet for contacts involving civil rights or requiring fact-finding or conflict/problem resolution.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Send Contact Information Report to the Geographic Area Human Resource Specialist Coordinator at the end of an assignment."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 18,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide appropriate documentation for the Incident Management Team (IMT) as well as home and host units.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 19,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish a bulletin board for messages and current information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Check with Information Officer."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 20,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend incident planning and command staff meetings as required.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 21,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Interact and coordinate with command and general staff.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide accurate and timely advice assistance.",
+        "Maintain personal visibility and presence."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 22,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide input on demobilization priorities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Obtain assisting and cooperating agency input to the demobilization process.",
+        "Communicate demobilization information to cooperating and assisting agencies at least one operational period prior to demobilization."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 23,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure oral and written human resources messages are consistent with relevant federal/local laws, regulations, and policies.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Mutual respect and fair treatment",
+        "Personnel practices",
+        "Civil rights"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 24,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Communicate potential hazardous or inappropriate work situations.",
+        "Account for assigned resources.",
+        "Ensure special precautions are taken and work rest guidelines are followed.",
+        "Council subordinates immediately if deficient performance occurs."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 25,
+      "category": "Effectively advise and assist in resolving human resource issues that occur",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide accurate and timely advice and assistance to successfully resolve conflicts between parties.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Fulfill requests for information or refer requester to appropriate source for information, within the work period request was made."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 26,
+      "category": "Effectively advise and assist in resolving human resource issues that occur",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Take steps through appropriate lines of authority to resolve problems within the first operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform parties of intent to ascertain facts surrounding the situation or problem.",
+        "Interview parties involved to gather and document facts.",
+        "Follow-up with managers/supervisors within the operational period to ensure their expectations were met.",
+        "If problems or requests remain unsolved or incomplete after follow-up, advise management they should be addressed with the cooperating agency and agency representative, and provide supporting documentation.",
+        "Advise immediate supervisor of concerns related to multi-agency involvement.",
+        "Use diplomacy in the resolution of concerns."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "HRSP",
+      "task_number": 27,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demobilize and check out.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive demobilization instructions from incident supervisor.",
+        "If required, complete ICS 221, Demobilization Checkout and submit completed form to the appropriate person."
+      ],
+      "page": 12
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

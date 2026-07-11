@@ -1,0 +1,480 @@
+{
+  "document": {
+    "filename": "pms311-28_TNSP.pdf",
+    "sha256": "877855324240e5160f81ffd670d05a1db60f6c19acf682e89345c523246b2a24",
+    "pms_number": "311-28",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "TNSP"
+    ],
+    "title": "Training Specialist",
+    "edition_date": "JUNE 2009",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 14
+  },
+  "positions": [
+    {
+      "code": "TNSP",
+      "title": "Training Specialist",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "TNSP",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit. Suggested items:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Training Specialist Forms",
+        "PMS 310-1, Wildland Fire Qualification System Guide",
+        "Other agency/geographic specific forms"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Incident order number",
+        "Request number",
+        "Incident phone number",
+        "Reporting time",
+        "Reporting location",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 3,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive at incident and check in.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Arrive properly equipped at assigned location within acceptable time limits."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain work area, supplies and communications equipment necessary to complete assignment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 5,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with the Ground Support Unit for transportation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 6,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify trainees, coaches, and evaluators who are qualified and available to participate in the training program.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate with the Resources Unit Leader and the Demobilization Unit Leader.",
+        "Check with the Status Check-in Recorder.",
+        "Check with the Command and general staff.",
+        "Check with Agency Representatives and the Home Unit Administrator.",
+        "Initiate the Training Assignments List Form."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 7,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Order additional Training Specialists if needed.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 8,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from Planning Section Chief.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Established chain of command.",
+        "Work schedule.",
+        "General layout of camp/base/Incident Command Post (ICP).",
+        "Work expectations and standards.",
+        "Complexity and potential duration of the incident.",
+        "Incident Management Team’s (IMT) training guidelines, priorities, and objectives."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 9,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct self in a professional manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Respectful and courteous.",
+        "Respectful of public and private property."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 10,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 11,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Maintain appropriate span of control.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 12,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend operational period briefings and present program status.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review the Incident Action Plan (IAP) for information affecting utilization of trainees."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 13,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct progress reviews with trainees, coaches, and evaluators.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 14,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and section After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 15,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete ICS 214, Unit Logs.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 16,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare and maintain the Incident Training Summary Form.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 17,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct the final incident trainee interview and complete the Incident Trainee Exit Interview Form.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Ensure completion of the ICS 226, Individual Performance Rating.",
+        "Provide a copy of documentation to the trainee.",
+        "Confer with the evaluator and trainee and prepare documentation for a recommendation to the home agency.",
+        "Ensure task book is updated and signed by the evaluator."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 18,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare documentation for trainees’ home units.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Home Unit letter",
+        "ICS 226, Individual Performance Rating"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 19,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Update the Training Assignments List Form to show status of trainee assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 20,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Compile documentation for final incident package.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Documentation of individual trainee assignments",
+        "Incident Trainee Summary Form"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 21,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend Planning Section meetings as appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 22,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with sections and units involved with the training program.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 23,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Facilitate individual trainee interviews.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Interview trainees, coaches, and evaluators; first individually, then together.",
+        "Verify trainee qualifications, prepare trainee data forms, and write goals and tasks.",
+        "Schedule progress reviews."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 24,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify trainees from various sources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Team-assigned",
+        "Host agency",
+        "Geographic areas"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 25,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor the quality of the training assignments.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify potential conflicts and resolve within the same operational period, if possible.",
+        "Redefine and upgrade training assignments as necessary.",
+        "Assess training effectiveness.",
+        "Schedule time for problem solving."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 26,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Document follow-up action needed and submit to supervisor."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "TNSP",
+      "task_number": 27,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demobilize and check out.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive demobilization instructions from incident supervisor.",
+        "If required, complete ICS 221, Demobilization Checkout and submit completed form to the appropriate person."
+      ],
+      "page": 12
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

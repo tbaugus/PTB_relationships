@@ -1,0 +1,29 @@
+{
+  "position_code": "FEMO",
+  "required_training": [
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-290, Intermediate Wildland Fire Behavior"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Firefighter Type 2 ( FFT2 )",
+    "AND Completion and Certification of NWCG Fire Effects Monitor (FEMO) Position Task Book , PMS 311-30"
+  ],
+  "required_experience_prereq_codes": [
+    "FFT2"
+  ],
+  "physical_fitness": "Physical Fitness Level: Moderate",
+  "currency_maintained_by": [
+    "Field Observer ( FOBS )",
+    "Fire Behavior Analyst ( FBAN )",
+    "Long Term Fire Analyst ( LTAN )"
+  ],
+  "maintains_currency_for": [
+    "Field Observer ( FOBS )",
+    "Firefighter Type 2 ( FFT2 )"
+  ],
+  "other_training": [
+    "RX-310, Introduction to Fire Effects",
+    "S-244, Field Observer"
+  ],
+  "note": null
+}

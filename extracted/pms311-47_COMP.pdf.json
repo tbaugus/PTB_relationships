@@ -1,0 +1,710 @@
+{
+  "document": {
+    "filename": "pms311-47_COMP.pdf",
+    "sha256": "07b84bbcc34fb1d6845818a7ca319146fc4fb961f7fd2be35303953c1d8ca0b6",
+    "pms_number": "311-47",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "COMP"
+    ],
+    "title": "Compensation/Claims Unit Leader",
+    "edition_date": "JUNE 2025",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 17
+  },
+  "positions": [
+    {
+      "code": "COMP",
+      "title": "Compensation/Claims Unit Leader",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "COMP",
+      "task_number": 1,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Finance/Administration Section Chief and other functional areas to obtain resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Order materials and supplies using procedures established by the section chief.",
+        "Maintain quantities of forms, supplies, and materials at a level to prevent shortage of any basic needed items.",
+        "Acquire equipment (e.g., radio, telephones, faxes, computers).",
+        "Ensure appropriate number of personnel to support unit (e.g., night operational period, increase/reduce staffing).",
+        "Ensure adequate signage for work locations (e.g., check-in/demobilization/resource)."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 2,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize work area to facilitate unit operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Establish filing system.",
+        "Establish area to receive documents.",
+        "Establish message center (e.g., bulletin board)."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 3,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from Finance Section Chief or supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Names, contact number, and positions/functions of host unit administrative personnel and cooperating/assisting agencies.",
+        "Local administrative guidelines.",
+        "Resources assigned and ordered for the incident and the unit.",
+        "Logistical information (e.g., eating, sleeping, shower hours).",
+        "Expectations and section operating procedures.",
+        "Copy of Incident Action Plan (IAP) or other relevant plan.",
+        "Unit-specific information."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 4,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 5,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize assigned personnel to meet the needs of the unit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 6,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with functional areas within the ICS structure.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 7,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised, and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 8,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well-being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 9,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 10,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources.",
+        "Provide for care of assigned resources and notify supervisor in event of sickness, injury, or accident."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 11,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete daily review of staffing requirements and ensure adequate personnel to meet needs.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 12,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop schedule/assignments based on Incident Action Plan (IAP) or relevant plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 13,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure subordinates understand assignment for operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 14,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually evaluate performance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Communicate deficiencies immediately and take corrective action.",
+        "Provide training opportunities where available.",
+        "Complete personnel performance evaluations according to agency guidelines."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 15,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 16,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with other units and sections for completion of work assignments.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Assist other sections to meet priorities and timeframes.",
+        "Receive and transmit needed information."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 17,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief and keep subordinates informed and updated.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure unit leader expectations are communicated and understood."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 18,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend incident operational briefings and meetings as directed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide information as requested.",
+        "Keep supervisor informed of issues and potential problems."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 19,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and conduct After Action Reviews (AARs), as appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 20,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and approve subordinate time reports.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure reports are accurate and submitted in a timely manner.",
+        "Include justifications and authorizations as needed."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 21,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Submit completed original documents at appropriate time (e.g., each operational period, final package).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "ICS 213, General Message",
+        "ICS 214, Unit Log"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 22,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Compile unit documentation for final incident package.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 23,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare information for preplanning/strategy meeting.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Display information appropriate for next operational period."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 24,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare input to final narrative and transition plan as requested.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 25,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate available information and make recommendations to support incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Workload priorities",
+        "Staff assignments",
+        "Information requests",
+        "Cost-effective utilization of resources"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 26,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure established guidelines are followed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Work/rest",
+        "Agency safety standards and procedures"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 27,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate and efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team [IMT], host agency).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform subordinate staff and IC.",
+        "Document follow-up action needed and submit to supervisor."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 28,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure financial documentation packages are submitted to the processing agency.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 29,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify excess resources.",
+        "Prepare schedule for demobilization."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 30,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief subordinate staff on demobilization procedures and responsibilities.",
+        "Ensure incident and agency demobilization procedures are followed."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 31,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit. Suggested items:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "PMS 902, Interagency Incident Business Management Handbook",
+        "Agency-specific guidelines",
+        "Geographic Area supplements",
+        "CA-1, Report of Traumatic Injury and Claim for Continuation of Pay/Compensation",
+        "CA-2, Notice of Occupational Disease and Claim for Compensation",
+        "CA-16, Request for Examination and Treatment or equivalent",
+        "CA-17, Duty Status Report",
+        "FS-6100-16, Agency Provided Medical Care (APMC) Authorization and Medical Report",
+        "Injury Case File envelope",
+        "Injury/Illness Log",
+        "APMC Treatment Log",
+        "SF-95, Claim for Damage, Injury, or Death",
+        "DI-520 or AD-382, Employee Claim for Loss or Damage to Personal Property",
+        "Incident Claims and Accident Log",
+        "Incident Claims Case File Envelope",
+        "Agency-specific forms"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 32,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide relevant information to the Time, Cost, and Procurement Units for posting.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 33,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide input for the ICS 209, Incident Status Summary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 34,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Safety Officer and Medical Unit on injury/accident trends.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 35,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and communicate issues of concern to supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Injury/illness trends",
+        "Time loss",
+        "Claims trends",
+        "Missing documentation"
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 36,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish system for documenting and processing injury/illness claims.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Medical and claim logs",
+        "Agency property damage or replacement forms",
+        "Secure claims documentation and evidence."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 37,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review paperwork for accuracy and ensure case files are completed and transmitted to the appropriate administrative processing agency.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 38,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide information to personnel on injury/illness documentation requirements and procedures.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 39,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with incident/agency units and medical facilities to obtain and exchange information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Time Unit Leader",
+        "Planning Section",
+        "Medical Unit",
+        "Safety Officer",
+        "Agency crew coordinators",
+        "Incident Agency Compensation Specialist",
+        "Hospitals, clinics, and pharmacies",
+        "Law enforcement",
+        "Ground Support Unit Leader",
+        "Investigation Team"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "COMP",
+      "task_number": 40,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide information to claimant on claim filing requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 15
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

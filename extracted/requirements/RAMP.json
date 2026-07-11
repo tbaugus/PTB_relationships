@@ -1,0 +1,32 @@
+{
+  "position_code": "RAMP",
+  "required_training": [
+    "A-100, Basic Aviation Safety",
+    "ICS-100, Introduction to ICS",
+    "IS-700, National Incident Management System, An Introduction",
+    "S-270, Basic Air Operations"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Fixed Wing Parking Tender ( FWPT )",
+    "AND Completion and Certification of NWCG Position Task Book for Ramp Manager (RAMP), PMS 311-117"
+  ],
+  "required_experience_prereq_codes": [
+    "FWPT"
+  ],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Airtanker Base Manager ( ATBM )",
+    "Fixed Wing Base Manger ( FWBM )",
+    "Fixed Wing Parking Tender ( FWPT )",
+    "Single Engine Airtanker Manager ( SEMG )"
+  ],
+  "maintains_currency_for": [
+    "Fixed Wing Parking Tender ( FWPT )",
+    "Single Engine Airtanker Manager ( SEMG )"
+  ],
+  "other_training": [
+    "A-110, Aviation Transport of Hazardous Materials",
+    "A-204, Crew Aircraft Capabilities and Limitations"
+  ],
+  "note": null
+}

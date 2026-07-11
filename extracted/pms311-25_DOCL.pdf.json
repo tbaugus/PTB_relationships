@@ -1,0 +1,197 @@
+{
+  "document": {
+    "filename": "pms311-25_DOCL.pdf",
+    "sha256": "030ce27047006958291a77c62771e84087038cb04d8636cab3d81c4f0abf78db",
+    "pms_number": "311-25",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "DOCL"
+    ],
+    "title": "Documentation Unit Leader",
+    "edition_date": "NOVEMBER 2024",
+    "ips_reference": "350-25",
+    "official": true,
+    "page_count": 10
+  },
+  "positions": [
+    {
+      "code": "DOCL",
+      "title": "Documentation Unit Leader",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "DOCL",
+      "task_number": 1,
+      "category": "Leadership Level 3, Leader of People (Develop Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Leaders of people have increasing challenges. They accept responsibility, not only for their own actions, but for those of their team. Leaders of people act to develop credibility as leaders: placing the team ahead of themselves, demonstrating trustworthiness, mastering essential technical skills, and instilling the values of the organization in their teams.",
+      "code_raw": "ALL",
+      "code_alternatives": [
+        "ALL"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "DOCL",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure individual readiness.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "DOCL",
+      "task_number": 3,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Travel to and check in at assignment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "DOCL",
+      "task_number": 4,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Orient yourself to the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DOCL",
+      "task_number": 5,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize and staff the unit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DOCL",
+      "task_number": 6,
+      "category": "Perform Documentation Unit Leader-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide and/or support scanning services.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DOCL",
+      "task_number": 7,
+      "category": "Perform Documentation Unit Leader-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Facilitate the collection of incident documentation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DOCL",
+      "task_number": 8,
+      "category": "Perform Documentation Unit Leader-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review, organize, and file incident documentation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DOCL",
+      "task_number": 9,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish communications and exchange information with other sections/units and incident agency personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DOCL",
+      "task_number": 10,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Hand off the documentation package.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "DOCL",
+      "task_number": 11,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare for and implement demobilization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 7
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 7
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    }
+  ],
+  "extra_fields": {}
+}

@@ -1,0 +1,42 @@
+{
+  "position_code": "LSCC",
+  "required_training": [
+    "ICS-400, Advanced ICS for Command and General Staff",
+    "S-420, Command and General Staff OR L-481, Advanced Leadership for Command and General Staff OR O-305, Type 3 All-Hazard Incident Management Team",
+    "S-520, Advanced Incident Management OR Complex Incident Management Course (CIMC)"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Facilities Unit Leader ( FACL )",
+    "AND Completion and Certification of NWCG Logistic Section Chief Complex (LSCC) Position Task Book , PMS 311-133"
+  ],
+  "required_experience_prereq_codes": [
+    "FACL"
+  ],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Assistant Area Commander, Logistics ( ACLC )",
+    "Facilities Unit Leader ( FACL )",
+    "Ground Support Unit Leader ( GSUL )",
+    "Incident Commander Complex ( ICCI )",
+    "Logistics Section Chief Type 3 ( LSC3 )",
+    "Supply Unit Leader ( SPUL )"
+  ],
+  "maintains_currency_for": [
+    "Assistant Area Commander, Logistics ( ACLC )",
+    "Base/Camp Manager ( BCMG )",
+    "Equipment Manager ( EQPM )",
+    "Facilities Unit Leader ( FACL )",
+    "Ground Support Unit Leader ( GSUL )",
+    "Incident Commander Complex ( ICCI )",
+    "Logistics Section Chief Type 3 ( LSC3 )",
+    "Ordering Manager ( ORDM )",
+    "Receiving/Distribution Manager ( RCDM )",
+    "Supply Unit Leader ( SPUL )"
+  ],
+  "other_training": [
+    "E/L 967, All-Hazards Position Specific Logistics Section Chief",
+    "L-480, Organizational Leadership in the Fire Service",
+    "L-580, Leadership is Action"
+  ],
+  "note": "Individuals utilizing this pathway must complete the Logistics Section Chief Course ( E/L 967 ) prior to position qualification."
+}

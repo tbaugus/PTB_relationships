@@ -1,0 +1,40 @@
+{
+  "position_code": "FFT1",
+  "required_training": [
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-131, Firefighter Type 1"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Firefighter Type 2 ( FFT2 )",
+    "AND Completion and Certification of NWCG Position Task Book for Firefighter Type 1 (Squad Boss) (FFT1) , PMS 311-14"
+  ],
+  "required_experience_prereq_codes": [
+    "FFT2"
+  ],
+  "physical_fitness": "Physical Fitness Level: Arduous",
+  "currency_maintained_by": [
+    "Division/Group Supervisor ( DIVS )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Incident Commander Type 4 ( ICT4 )",
+    "Incident Commander Type 5 ( ICT5 )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )",
+    "Prescribed Fire Burn Boss Type 1 ( RXB1 )",
+    "Prescribed Fire Burn Boss Type 2 ( RXB2 )",
+    "Single Resource Boss ( CRWB , ENGB , FELB , FIRB , HEQB , HMGB )",
+    "Strike Team Leader ( STCR , STEN , STEQ )",
+    "Structure Protection Specialist ( STPS )",
+    "Task Force Leader ( TFLD )"
+  ],
+  "maintains_currency_for": [
+    "Firefighter Type 2 ( FFT2 )",
+    "Incident Commander Type 5 ( ICT5 )",
+    "Staging Area Manager ( STAM )"
+  ],
+  "other_training": [
+    "S-112, Introduction to Chainsaw Operations",
+    "S-211, Portable Pumps and Water Use",
+    "S-215, Fire Operations in the Wildland Urban Interface",
+    "S-219, Firing Operations"
+  ],
+  "note": null
+}

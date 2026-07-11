@@ -1,0 +1,23 @@
+{
+  "position_code": "DECK",
+  "required_training": [
+    "ICS-200, ICS for Single Resources and Initial Action Incidents"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Helicopter Crewmember ( HECM )",
+    "AND Completion and Certification of NWCG Deck Coordinator (DECK) Position Task Book , PMS 311-85"
+  ],
+  "required_experience_prereq_codes": [
+    "HECM"
+  ],
+  "physical_fitness": "Physical Fitness Level: Light",
+  "currency_maintained_by": [
+    "Helibase Manager ( HEBM )"
+  ],
+  "maintains_currency_for": [
+    "Aircraft Base Radio Operator ( ABRO )",
+    "Helicopter Crewmember ( HECM )"
+  ],
+  "other_training": [],
+  "note": null
+}

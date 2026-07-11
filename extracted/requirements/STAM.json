@@ -1,0 +1,25 @@
+{
+  "position_code": "STAM",
+  "required_training": [
+    "ICS-100, Introduction to ICS",
+    "ICS-200, ICS for Single Resources and Initial Action Incidents",
+    "IS-700, NIMS: An Introduction",
+    "L-180, Human Factors in the Wildland Fire Service",
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-130, Firefighter Training",
+    "S-190, Introduction to Wildland Fire Behavior"
+  ],
+  "required_experience": [
+    "Completion and Certification of NWCG Staging Area Manager (STAM) Position Task Book , PMS 311-16"
+  ],
+  "required_experience_prereq_codes": [],
+  "physical_fitness": "Physical Fitness Level: Light",
+  "currency_maintained_by": [
+    "Firefighter Type 1 ( FFT1 )"
+  ],
+  "maintains_currency_for": [],
+  "other_training": [
+    "Staging Area Manager Job Aid , J-236"
+  ],
+  "note": null
+}

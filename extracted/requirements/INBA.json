@@ -1,0 +1,23 @@
+{
+  "position_code": "INBA",
+  "required_training": [
+    "ICS-200, ICS for Single Resources and Initial Action Incidents",
+    "ICS-300, Intermediate ICS for Expanding Incidents",
+    "IS-700, NIMS: An Introduction",
+    "IS-800, NRF: An Introduction"
+  ],
+  "required_experience": [
+    "Completion and Certification of NWCG Incident Business Advisor (INBA) Position Task Book , PMS 311-65"
+  ],
+  "required_experience_prereq_codes": [],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [],
+  "maintains_currency_for": [],
+  "other_training": [
+    "E/L 975, Finance/Administration Unit Leaders",
+    "ICS-400, Advanced ICS",
+    "S-420, Command and General Staff or L-481, Advanced Leadership for Command and General Staff",
+    "S-481, Incident Business Advisor"
+  ],
+  "note": null
+}

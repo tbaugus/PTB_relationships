@@ -1,0 +1,3282 @@
+{
+  "document": {
+    "filename": "pms311-10_STCR-STEQ-STEN-TFLD.pdf",
+    "sha256": "029f1516f2d625ff3cbc03a3c91c18e41ef51f6ff3d3994d3afcedba0449c9b0",
+    "pms_number": "311-10",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "STCR",
+      "STEQ",
+      "STEN",
+      "TFLD"
+    ],
+    "title": "Strike Team Leader Crew or Strike Team Leader Heavy Equipment or Strike Team Leader Engine or Task Force Leader",
+    "edition_date": "DECEMBER 2013",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 19
+  },
+  "positions": [
+    {
+      "code": "STCR",
+      "title": "Strike Team Leader Crew",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    },
+    {
+      "code": "STEQ",
+      "title": "Strike Team Leader Heavy Equipment",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    },
+    {
+      "code": "STEN",
+      "title": "Strike Team Leader Engine",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    },
+    {
+      "code": "TFLD",
+      "title": "Task Force Leader",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "STCR",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather and organize multiple resources for the assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 2,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Inspect assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure qualifications of personnel.",
+        "Ensure personal protective equipment (PPE).",
+        "Establish and maintain personnel accountability.",
+        "Ensure type(s) of equipment/tools and operating condition.",
+        "Establish common communications and frequency capability.",
+        "Survey assigned resources for radio frequencies and ID numbers."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 3,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources are within contract compliance.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Ensure Crew Boss and Squad Boss’s comply with English language comprehension requirements.",
+        "Ensure contract required tools, supplies, and communications are in compliance.",
+        "Ensure Ground Support Unit Leader inspects equipment when applicable.",
+        "Ensure a copy of the resource’s contract is provided to the Finance/Administration Section or local unit at check-in."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Request additional resources, logistical support, and/or replacements through supervisors based on Incident Action Plan (IAP), briefings, and discussions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 5,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Report assigned resource status to agency dispatcher or supervisor (include any units that fail to arrive or fail readiness inspection).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief assigned resources and determine route of travel, en route logistical needs (fuel, food, etc.). Determine proper formation, communications, and en route checkpoints.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 7,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain IAPs or other relevant plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 8,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 9,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize assigned resources into configurations which will meet incident/tactical objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 10,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop the organization structure necessary to manage the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Maintain appropriate span of control."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 11,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 12,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 13,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well-being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 14,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 15,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate and communicate potentially hazardous situations.",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources.",
+        "Provide for care of assigned resources and notify supervisor in event of sickness, injury, or accident."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 16,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources are following safety guidelines appropriately.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 17,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate ability to coordinate and use multiple frequencies.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 18,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assign tasks to resources based on IAP or relevant operational plans, division/group assignments, and resource capabilities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 19,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine and provide for assistance or corrections to assigned work task(s) during operational period.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Contact supervisor to review tactical effectiveness.",
+        "Identify need for additional assistance, logistical support and replacements due to slow progress or unexpected events (e.g., types of resources).",
+        "Evaluate recommendations from subordinate supervisors (e.g., split assignment with another division).",
+        "Identify need for alternative firing/ignition devices and techniques."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 20,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 21,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish communication with supervisors and adjoining resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 22,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure transportation needs are met as specified in the IAP or relevant plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate any additional transportation needs through Ground Support Unit.",
+        "Inform supervisor if transportation needs cannot be met.",
+        "Ensure assigned resources arrive at assignment location."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 23,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate activities with adjacent Strike Team Leaders/Task Force Leaders and single resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Contact adjoining resources.",
+        "Make list of supervisors of adjoining resources.",
+        "Inform adjoining resources of status.",
+        "Receive status of adjoining resources.",
+        "Determine communication channels with adjoining resources from IAP or relevant plans.",
+        "Maintain communication with assigned resources."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 24,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief and keep subordinates informed and updated.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure expectations are communicated and understood."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 25,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend operational briefings and meetings as directed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide information as requested.",
+        "Keep supervisor informed of issues and potential problems."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 26,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief assigned resources using information from IAP or relevant plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Planned objectives and supervisor control assignments.",
+        "Work standards and expectations.",
+        "Weather",
+        "Communication",
+        "Expected fire behavior.",
+        "Prescribed fire briefing checklist.",
+        "Safety Message",
+        "ICS 206, Medical Plan"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 27,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief relief forces.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Current status/conditions/concerns regarding assignment."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 28,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish contact or communication procedures for incident camp.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure resources arrive at camp at end of shift."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 29,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Debrief with supervisor after operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide updated status and location of assigned resources."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 30,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and conduct unit After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 31,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure ICS 214, Unit Logs are completed and submitted by assigned resources.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 32,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Authorize personnel and equipment time.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 33,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure understanding of work expectations by multiple resources within the chain of command.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 34,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor progress/work during operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive reports from subordinate supervisors.",
+        "Conduct personal observations.",
+        "Inspect and locate line in advance of line construction.",
+        "Assess values to be protected."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 35,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan tactical action on assigned area based on objectives, supervisor assignments, and fire behavior.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Identify impacts of modified objectives on resource assignments.",
+        "Determine situations that might modify tactics."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 36,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process found in the IRPG and Fireline Handbook.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Step 1: Situation Awareness",
+        "Step 2: Hazard Assessment",
+        "Step 3: Hazard Control",
+        "Step 4: Decision Point",
+        "Step 5: Evaluate"
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 37,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources apply appropriate tactics for assignment.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 38,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify, evaluate and take action on improved properties during a wildland/urban interface incident.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Apply the Wildland/Urban Interface Guidelines in the IRPG",
+        "Ingress and egress",
+        "Review map if available",
+        "Logistical needs",
+        "Resource requirements",
+        "Appropriate tactics (perimeter control vs. structure defense) used",
+        "Contact information (internal/external)"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 39,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare for and direct a firing operation.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Review and refine the ignition/firing plan (verbal or written) utilizing predicted fuel and weather conditions and expected fire behavior.",
+        "Where alternatives exist, determine appropriate ignition devices and resources.",
+        "Brief ignition crew members of ignition operations and potential/impending safety hazards and appropriate mitigation actions (e.g., posting look- outs, identifying safety zones and escape routes).",
+        "Consult with supervisor on “Go/No-Go” decision.",
+        "Implement a test fire or evaluate current fire behavior and coordinate with supervisor to ensure objectives can be met.",
+        "Evaluate ignition/firing activities and modify as needed.",
+        "Maintain communications with operational supervisor, ignition crew members, and any adjacent personnel."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 40,
+      "category": "Anticipate, recognize, and mitigate unsafe situations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources identify and correct unsafe actions or conditions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review LCES and Safety Message."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 41,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources follow appropriate safety procedures.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 42,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Verify that escape routes and safety zones are identified for all resources.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Flag routes to ensure awareness."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 43,
+      "category": "Provide logistical support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources have adequate supplies/equipment to meet identified tactical objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Food",
+        "Water",
+        "Radios",
+        "Transportation"
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 44,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief subordinate staff on demobilization procedures and responsibilities.",
+        "Ensure incident and agency demobilization procedures are followed.",
+        "Inspect assigned resources to ensure they are ready to leave (e.g., rest, repairs, tools, fuel).",
+        "Determine travel routes and en route logistical needs.",
+        "Determine travel information, communication, and checkpoints.",
+        "Establish communication with home unit dispatch."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 45,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify tactical capabilities and limitations of task force resources.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Match resource capabilities with needed tasks.",
+        "Determine resource limitations and make adjustments."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 46,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief task force members on the capabilities and limitations of each component of the task force.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Typical uses of equipment/crews.",
+        "Safety considerations associated with each resource."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 47,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Compare objectives with accomplishments; adjust use of combinations of resources as conditions warrant to maximize effectiveness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "STCR",
+      "task_number": 48,
+      "category": "Provide logistical support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and plan for logistical needs associated with mixed resources.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather and organize multiple resources for the assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 2,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Inspect assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure qualifications of personnel.",
+        "Ensure personal protective equipment (PPE).",
+        "Establish and maintain personnel accountability.",
+        "Ensure type(s) of equipment/tools and operating condition.",
+        "Establish common communications and frequency capability.",
+        "Survey assigned resources for radio frequencies and ID numbers."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 3,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources are within contract compliance.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Ensure Crew Boss and Squad Boss’s comply with English language comprehension requirements.",
+        "Ensure contract required tools, supplies, and communications are in compliance.",
+        "Ensure Ground Support Unit Leader inspects equipment when applicable.",
+        "Ensure a copy of the resource’s contract is provided to the Finance/Administration Section or local unit at check-in."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Request additional resources, logistical support, and/or replacements through supervisors based on Incident Action Plan (IAP), briefings, and discussions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 5,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Report assigned resource status to agency dispatcher or supervisor (include any units that fail to arrive or fail readiness inspection).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief assigned resources and determine route of travel, en route logistical needs (fuel, food, etc.). Determine proper formation, communications, and en route checkpoints.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 7,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain IAPs or other relevant plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 8,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 9,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize assigned resources into configurations which will meet incident/tactical objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 10,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop the organization structure necessary to manage the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Maintain appropriate span of control."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 11,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 12,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 13,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well-being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 14,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 15,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate and communicate potentially hazardous situations.",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources.",
+        "Provide for care of assigned resources and notify supervisor in event of sickness, injury, or accident."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 16,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources are following safety guidelines appropriately.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 17,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate ability to coordinate and use multiple frequencies.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 18,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assign tasks to resources based on IAP or relevant operational plans, division/group assignments, and resource capabilities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 19,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine and provide for assistance or corrections to assigned work task(s) during operational period.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Contact supervisor to review tactical effectiveness.",
+        "Identify need for additional assistance, logistical support and replacements due to slow progress or unexpected events (e.g., types of resources).",
+        "Evaluate recommendations from subordinate supervisors (e.g., split assignment with another division).",
+        "Identify need for alternative firing/ignition devices and techniques."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 20,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 21,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish communication with supervisors and adjoining resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 22,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure transportation needs are met as specified in the IAP or relevant plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate any additional transportation needs through Ground Support Unit.",
+        "Inform supervisor if transportation needs cannot be met.",
+        "Ensure assigned resources arrive at assignment location."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 23,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate activities with adjacent Strike Team Leaders/Task Force Leaders and single resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Contact adjoining resources.",
+        "Make list of supervisors of adjoining resources.",
+        "Inform adjoining resources of status.",
+        "Receive status of adjoining resources.",
+        "Determine communication channels with adjoining resources from IAP or relevant plans.",
+        "Maintain communication with assigned resources."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 24,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief and keep subordinates informed and updated.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure expectations are communicated and understood."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 25,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend operational briefings and meetings as directed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide information as requested.",
+        "Keep supervisor informed of issues and potential problems."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 26,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief assigned resources using information from IAP or relevant plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Planned objectives and supervisor control assignments.",
+        "Work standards and expectations.",
+        "Weather",
+        "Communication",
+        "Expected fire behavior.",
+        "Prescribed fire briefing checklist.",
+        "Safety Message",
+        "ICS 206, Medical Plan"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 27,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief relief forces.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Current status/conditions/concerns regarding assignment."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 28,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish contact or communication procedures for incident camp.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure resources arrive at camp at end of shift."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 29,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Debrief with supervisor after operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide updated status and location of assigned resources."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 30,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and conduct unit After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 31,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure ICS 214, Unit Logs are completed and submitted by assigned resources.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 32,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Authorize personnel and equipment time.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 33,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure understanding of work expectations by multiple resources within the chain of command.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 34,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor progress/work during operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive reports from subordinate supervisors.",
+        "Conduct personal observations.",
+        "Inspect and locate line in advance of line construction.",
+        "Assess values to be protected."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 35,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan tactical action on assigned area based on objectives, supervisor assignments, and fire behavior.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Identify impacts of modified objectives on resource assignments.",
+        "Determine situations that might modify tactics."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 36,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process found in the IRPG and Fireline Handbook.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Step 1: Situation Awareness",
+        "Step 2: Hazard Assessment",
+        "Step 3: Hazard Control",
+        "Step 4: Decision Point",
+        "Step 5: Evaluate"
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 37,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources apply appropriate tactics for assignment.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 38,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify, evaluate and take action on improved properties during a wildland/urban interface incident.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Apply the Wildland/Urban Interface Guidelines in the IRPG",
+        "Ingress and egress",
+        "Review map if available",
+        "Logistical needs",
+        "Resource requirements",
+        "Appropriate tactics (perimeter control vs. structure defense) used",
+        "Contact information (internal/external)"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 39,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare for and direct a firing operation.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Review and refine the ignition/firing plan (verbal or written) utilizing predicted fuel and weather conditions and expected fire behavior.",
+        "Where alternatives exist, determine appropriate ignition devices and resources.",
+        "Brief ignition crew members of ignition operations and potential/impending safety hazards and appropriate mitigation actions (e.g., posting look- outs, identifying safety zones and escape routes).",
+        "Consult with supervisor on “Go/No-Go” decision.",
+        "Implement a test fire or evaluate current fire behavior and coordinate with supervisor to ensure objectives can be met.",
+        "Evaluate ignition/firing activities and modify as needed.",
+        "Maintain communications with operational supervisor, ignition crew members, and any adjacent personnel."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 40,
+      "category": "Anticipate, recognize, and mitigate unsafe situations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources identify and correct unsafe actions or conditions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review LCES and Safety Message."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 41,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources follow appropriate safety procedures.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 42,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Verify that escape routes and safety zones are identified for all resources.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Flag routes to ensure awareness."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 43,
+      "category": "Provide logistical support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources have adequate supplies/equipment to meet identified tactical objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Food",
+        "Water",
+        "Radios",
+        "Transportation"
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 44,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief subordinate staff on demobilization procedures and responsibilities.",
+        "Ensure incident and agency demobilization procedures are followed.",
+        "Inspect assigned resources to ensure they are ready to leave (e.g., rest, repairs, tools, fuel).",
+        "Determine travel routes and en route logistical needs.",
+        "Determine travel information, communication, and checkpoints.",
+        "Establish communication with home unit dispatch."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 45,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify tactical capabilities and limitations of task force resources.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Match resource capabilities with needed tasks.",
+        "Determine resource limitations and make adjustments."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 46,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief task force members on the capabilities and limitations of each component of the task force.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Typical uses of equipment/crews.",
+        "Safety considerations associated with each resource."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 47,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Compare objectives with accomplishments; adjust use of combinations of resources as conditions warrant to maximize effectiveness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "STEQ",
+      "task_number": 48,
+      "category": "Provide logistical support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and plan for logistical needs associated with mixed resources.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather and organize multiple resources for the assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 2,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Inspect assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure qualifications of personnel.",
+        "Ensure personal protective equipment (PPE).",
+        "Establish and maintain personnel accountability.",
+        "Ensure type(s) of equipment/tools and operating condition.",
+        "Establish common communications and frequency capability.",
+        "Survey assigned resources for radio frequencies and ID numbers."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 3,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources are within contract compliance.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Ensure Crew Boss and Squad Boss’s comply with English language comprehension requirements.",
+        "Ensure contract required tools, supplies, and communications are in compliance.",
+        "Ensure Ground Support Unit Leader inspects equipment when applicable.",
+        "Ensure a copy of the resource’s contract is provided to the Finance/Administration Section or local unit at check-in."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Request additional resources, logistical support, and/or replacements through supervisors based on Incident Action Plan (IAP), briefings, and discussions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 5,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Report assigned resource status to agency dispatcher or supervisor (include any units that fail to arrive or fail readiness inspection).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief assigned resources and determine route of travel, en route logistical needs (fuel, food, etc.). Determine proper formation, communications, and en route checkpoints.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 7,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain IAPs or other relevant plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 8,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 9,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize assigned resources into configurations which will meet incident/tactical objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 10,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop the organization structure necessary to manage the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Maintain appropriate span of control."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 11,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 12,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 13,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well-being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 14,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 15,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate and communicate potentially hazardous situations.",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources.",
+        "Provide for care of assigned resources and notify supervisor in event of sickness, injury, or accident."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 16,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources are following safety guidelines appropriately.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 17,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate ability to coordinate and use multiple frequencies.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 18,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assign tasks to resources based on IAP or relevant operational plans, division/group assignments, and resource capabilities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 19,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine and provide for assistance or corrections to assigned work task(s) during operational period.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Contact supervisor to review tactical effectiveness.",
+        "Identify need for additional assistance, logistical support and replacements due to slow progress or unexpected events (e.g., types of resources).",
+        "Evaluate recommendations from subordinate supervisors (e.g., split assignment with another division).",
+        "Identify need for alternative firing/ignition devices and techniques."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 20,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 21,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish communication with supervisors and adjoining resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 22,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure transportation needs are met as specified in the IAP or relevant plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate any additional transportation needs through Ground Support Unit.",
+        "Inform supervisor if transportation needs cannot be met.",
+        "Ensure assigned resources arrive at assignment location."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 23,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate activities with adjacent Strike Team Leaders/Task Force Leaders and single resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Contact adjoining resources.",
+        "Make list of supervisors of adjoining resources.",
+        "Inform adjoining resources of status.",
+        "Receive status of adjoining resources.",
+        "Determine communication channels with adjoining resources from IAP or relevant plans.",
+        "Maintain communication with assigned resources."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 24,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief and keep subordinates informed and updated.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure expectations are communicated and understood."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 25,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend operational briefings and meetings as directed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide information as requested.",
+        "Keep supervisor informed of issues and potential problems."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 26,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief assigned resources using information from IAP or relevant plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Planned objectives and supervisor control assignments.",
+        "Work standards and expectations.",
+        "Weather",
+        "Communication",
+        "Expected fire behavior.",
+        "Prescribed fire briefing checklist.",
+        "Safety Message",
+        "ICS 206, Medical Plan"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 27,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief relief forces.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Current status/conditions/concerns regarding assignment."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 28,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish contact or communication procedures for incident camp.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure resources arrive at camp at end of shift."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 29,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Debrief with supervisor after operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide updated status and location of assigned resources."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 30,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and conduct unit After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 31,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure ICS 214, Unit Logs are completed and submitted by assigned resources.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 32,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Authorize personnel and equipment time.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 33,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure understanding of work expectations by multiple resources within the chain of command.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 34,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor progress/work during operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive reports from subordinate supervisors.",
+        "Conduct personal observations.",
+        "Inspect and locate line in advance of line construction.",
+        "Assess values to be protected."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 35,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan tactical action on assigned area based on objectives, supervisor assignments, and fire behavior.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Identify impacts of modified objectives on resource assignments.",
+        "Determine situations that might modify tactics."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 36,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process found in the IRPG and Fireline Handbook.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Step 1: Situation Awareness",
+        "Step 2: Hazard Assessment",
+        "Step 3: Hazard Control",
+        "Step 4: Decision Point",
+        "Step 5: Evaluate"
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 37,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources apply appropriate tactics for assignment.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 38,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify, evaluate and take action on improved properties during a wildland/urban interface incident.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Apply the Wildland/Urban Interface Guidelines in the IRPG",
+        "Ingress and egress",
+        "Review map if available",
+        "Logistical needs",
+        "Resource requirements",
+        "Appropriate tactics (perimeter control vs. structure defense) used",
+        "Contact information (internal/external)"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 39,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare for and direct a firing operation.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Review and refine the ignition/firing plan (verbal or written) utilizing predicted fuel and weather conditions and expected fire behavior.",
+        "Where alternatives exist, determine appropriate ignition devices and resources.",
+        "Brief ignition crew members of ignition operations and potential/impending safety hazards and appropriate mitigation actions (e.g., posting look- outs, identifying safety zones and escape routes).",
+        "Consult with supervisor on “Go/No-Go” decision.",
+        "Implement a test fire or evaluate current fire behavior and coordinate with supervisor to ensure objectives can be met.",
+        "Evaluate ignition/firing activities and modify as needed.",
+        "Maintain communications with operational supervisor, ignition crew members, and any adjacent personnel."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 40,
+      "category": "Anticipate, recognize, and mitigate unsafe situations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources identify and correct unsafe actions or conditions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review LCES and Safety Message."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 41,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources follow appropriate safety procedures.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 42,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Verify that escape routes and safety zones are identified for all resources.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Flag routes to ensure awareness."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 43,
+      "category": "Provide logistical support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources have adequate supplies/equipment to meet identified tactical objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Food",
+        "Water",
+        "Radios",
+        "Transportation"
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 44,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief subordinate staff on demobilization procedures and responsibilities.",
+        "Ensure incident and agency demobilization procedures are followed.",
+        "Inspect assigned resources to ensure they are ready to leave (e.g., rest, repairs, tools, fuel).",
+        "Determine travel routes and en route logistical needs.",
+        "Determine travel information, communication, and checkpoints.",
+        "Establish communication with home unit dispatch."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 45,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify tactical capabilities and limitations of task force resources.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Match resource capabilities with needed tasks.",
+        "Determine resource limitations and make adjustments."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 46,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief task force members on the capabilities and limitations of each component of the task force.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Typical uses of equipment/crews.",
+        "Safety considerations associated with each resource."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 47,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Compare objectives with accomplishments; adjust use of combinations of resources as conditions warrant to maximize effectiveness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "STEN",
+      "task_number": 48,
+      "category": "Provide logistical support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and plan for logistical needs associated with mixed resources.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather and organize multiple resources for the assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 2,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Inspect assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure qualifications of personnel.",
+        "Ensure personal protective equipment (PPE).",
+        "Establish and maintain personnel accountability.",
+        "Ensure type(s) of equipment/tools and operating condition.",
+        "Establish common communications and frequency capability.",
+        "Survey assigned resources for radio frequencies and ID numbers."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 3,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources are within contract compliance.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Ensure Crew Boss and Squad Boss’s comply with English language comprehension requirements.",
+        "Ensure contract required tools, supplies, and communications are in compliance.",
+        "Ensure Ground Support Unit Leader inspects equipment when applicable.",
+        "Ensure a copy of the resource’s contract is provided to the Finance/Administration Section or local unit at check-in."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Request additional resources, logistical support, and/or replacements through supervisors based on Incident Action Plan (IAP), briefings, and discussions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 5,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Report assigned resource status to agency dispatcher or supervisor (include any units that fail to arrive or fail readiness inspection).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief assigned resources and determine route of travel, en route logistical needs (fuel, food, etc.). Determine proper formation, communications, and en route checkpoints.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 7,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain IAPs or other relevant plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 8,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 9,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize assigned resources into configurations which will meet incident/tactical objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 10,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop the organization structure necessary to manage the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Maintain appropriate span of control."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 11,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 12,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 13,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well-being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 14,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 15,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate and communicate potentially hazardous situations.",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources.",
+        "Provide for care of assigned resources and notify supervisor in event of sickness, injury, or accident."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 16,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources are following safety guidelines appropriately.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 17,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate ability to coordinate and use multiple frequencies.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 18,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assign tasks to resources based on IAP or relevant operational plans, division/group assignments, and resource capabilities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 19,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine and provide for assistance or corrections to assigned work task(s) during operational period.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Contact supervisor to review tactical effectiveness.",
+        "Identify need for additional assistance, logistical support and replacements due to slow progress or unexpected events (e.g., types of resources).",
+        "Evaluate recommendations from subordinate supervisors (e.g., split assignment with another division).",
+        "Identify need for alternative firing/ignition devices and techniques."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 20,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 21,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish communication with supervisors and adjoining resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 22,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure transportation needs are met as specified in the IAP or relevant plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate any additional transportation needs through Ground Support Unit.",
+        "Inform supervisor if transportation needs cannot be met.",
+        "Ensure assigned resources arrive at assignment location."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 23,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate activities with adjacent Strike Team Leaders/Task Force Leaders and single resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Contact adjoining resources.",
+        "Make list of supervisors of adjoining resources.",
+        "Inform adjoining resources of status.",
+        "Receive status of adjoining resources.",
+        "Determine communication channels with adjoining resources from IAP or relevant plans.",
+        "Maintain communication with assigned resources."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 24,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief and keep subordinates informed and updated.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure expectations are communicated and understood."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 25,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend operational briefings and meetings as directed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide information as requested.",
+        "Keep supervisor informed of issues and potential problems."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 26,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief assigned resources using information from IAP or relevant plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Planned objectives and supervisor control assignments.",
+        "Work standards and expectations.",
+        "Weather",
+        "Communication",
+        "Expected fire behavior.",
+        "Prescribed fire briefing checklist.",
+        "Safety Message",
+        "ICS 206, Medical Plan"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 27,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief relief forces.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Current status/conditions/concerns regarding assignment."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 28,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish contact or communication procedures for incident camp.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure resources arrive at camp at end of shift."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 29,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Debrief with supervisor after operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide updated status and location of assigned resources."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 30,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and conduct unit After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 31,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure ICS 214, Unit Logs are completed and submitted by assigned resources.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 32,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Authorize personnel and equipment time.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 33,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure understanding of work expectations by multiple resources within the chain of command.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 34,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor progress/work during operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive reports from subordinate supervisors.",
+        "Conduct personal observations.",
+        "Inspect and locate line in advance of line construction.",
+        "Assess values to be protected."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 35,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan tactical action on assigned area based on objectives, supervisor assignments, and fire behavior.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Identify impacts of modified objectives on resource assignments.",
+        "Determine situations that might modify tactics."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 36,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process found in the IRPG and Fireline Handbook.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Step 1: Situation Awareness",
+        "Step 2: Hazard Assessment",
+        "Step 3: Hazard Control",
+        "Step 4: Decision Point",
+        "Step 5: Evaluate"
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 37,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources apply appropriate tactics for assignment.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 38,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify, evaluate and take action on improved properties during a wildland/urban interface incident.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Apply the Wildland/Urban Interface Guidelines in the IRPG",
+        "Ingress and egress",
+        "Review map if available",
+        "Logistical needs",
+        "Resource requirements",
+        "Appropriate tactics (perimeter control vs. structure defense) used",
+        "Contact information (internal/external)"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 39,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare for and direct a firing operation.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Review and refine the ignition/firing plan (verbal or written) utilizing predicted fuel and weather conditions and expected fire behavior.",
+        "Where alternatives exist, determine appropriate ignition devices and resources.",
+        "Brief ignition crew members of ignition operations and potential/impending safety hazards and appropriate mitigation actions (e.g., posting look- outs, identifying safety zones and escape routes).",
+        "Consult with supervisor on “Go/No-Go” decision.",
+        "Implement a test fire or evaluate current fire behavior and coordinate with supervisor to ensure objectives can be met.",
+        "Evaluate ignition/firing activities and modify as needed.",
+        "Maintain communications with operational supervisor, ignition crew members, and any adjacent personnel."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 40,
+      "category": "Anticipate, recognize, and mitigate unsafe situations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources identify and correct unsafe actions or conditions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review LCES and Safety Message."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 41,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources follow appropriate safety procedures.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 42,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Verify that escape routes and safety zones are identified for all resources.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Flag routes to ensure awareness."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 43,
+      "category": "Provide logistical support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources have adequate supplies/equipment to meet identified tactical objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Food",
+        "Water",
+        "Radios",
+        "Transportation"
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 44,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief subordinate staff on demobilization procedures and responsibilities.",
+        "Ensure incident and agency demobilization procedures are followed.",
+        "Inspect assigned resources to ensure they are ready to leave (e.g., rest, repairs, tools, fuel).",
+        "Determine travel routes and en route logistical needs.",
+        "Determine travel information, communication, and checkpoints.",
+        "Establish communication with home unit dispatch."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 45,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify tactical capabilities and limitations of task force resources.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Match resource capabilities with needed tasks.",
+        "Determine resource limitations and make adjustments."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 46,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief task force members on the capabilities and limitations of each component of the task force.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Typical uses of equipment/crews.",
+        "Safety considerations associated with each resource."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 47,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Compare objectives with accomplishments; adjust use of combinations of resources as conditions warrant to maximize effectiveness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "TFLD",
+      "task_number": 48,
+      "category": "Provide logistical support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and plan for logistical needs associated with mixed resources.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 17
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

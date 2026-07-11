@@ -1,0 +1,155 @@
+{
+  "document": {
+    "filename": "pms311-107_FELB.pdf",
+    "sha256": "53bda653f3c192944680b7a1d16696b0b658dff89cd65ea61b873e71afaf98f6",
+    "pms_number": "311-107",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "FELB"
+    ],
+    "title": "Felling Boss, Single Resource",
+    "edition_date": "JUNE 2024",
+    "ips_reference": "350-107",
+    "official": true,
+    "page_count": 10
+  },
+  "positions": [
+    {
+      "code": "FELB",
+      "title": "Felling Boss, Single Resource",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "FELB",
+      "task_number": 1,
+      "category": "LLeeaaddeerrsshhiipp LLeevveell 22,, NNeeww LLeeaaddeerr ((CCoonnvveeyy Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications.",
+      "code_raw": "ALL",
+      "code_alternatives": [
+        "ALL"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FELB",
+      "task_number": 2,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in briefing and obtain objectives and intent from supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FELB",
+      "task_number": 3,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Familiarize yourself with assigned resources and establish a common operating picture.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FELB",
+      "task_number": 4,
+      "category": "Perform Felling Boss, Single Resource-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with assigned resources and travel to the work area.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FELB",
+      "task_number": 5,
+      "category": "Perform Felling Boss, Single Resource-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assess and manage work area.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FELB",
+      "task_number": 6,
+      "category": "Perform Felling Boss, Single Resource-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Effectively lead and manage felling/bucking operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FELB",
+      "task_number": 7,
+      "category": "Perform Felling Boss, Single Resource-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Debrief assigned resources and supervisor at the end of each shift.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FELB",
+      "task_number": 8,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete all administrative tasks and documentation in an accurate and timely manner.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 7
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 7
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    }
+  ],
+  "extra_fields": {}
+}

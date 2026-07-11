@@ -1,0 +1,313 @@
+{
+  "document": {
+    "filename": "pms311-122_FWBM.pdf",
+    "sha256": "8aa9f1742a8eb2c3c400b3cab5c0b9344c8bf95857e6b35423969fada4c3fe73",
+    "pms_number": "311-122",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "FWBM"
+    ],
+    "title": "Fixed Wing Base Manager",
+    "edition_date": "JUNE 2025",
+    "ips_reference": "350-122",
+    "official": true,
+    "page_count": 11
+  },
+  "positions": [
+    {
+      "code": "FWBM",
+      "title": "Fixed Wing Base Manager",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "FWBM",
+      "task_number": 1,
+      "category": "Leadership Level 3, Leader of People",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Leaders of people have increasing challenges. They accept responsibility, not only for their own actions, but for those of their team. Leaders of people act to develop credibility as leaders: placing the team ahead of themselves, demonstrating trustworthiness, mastering essential technical skills, and instilling the values of the organization in their teams.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FWBM",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from previous shift/assignment as necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FWBM",
+      "task_number": 3,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief assigned personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FWBM",
+      "task_number": 4,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and communicate objectives, priorities, work assignments, and performance expectations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FWBM",
+      "task_number": 5,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor performance and provide immediate and regular feedback to assigned personnel. Perform Fixed Wing Base Manager-Specific",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FWBM",
+      "task_number": 6,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure adequate base staffing.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FWBM",
+      "task_number": 7,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Receive and coordinate aircraft dispatch orders.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FWBM",
+      "task_number": 8,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Supervise and coordinate passenger and cargo flights.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FWBM",
+      "task_number": 9,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor aircraft fueling operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FWBM",
+      "task_number": 10,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure adequate space for ramp operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FWBM",
+      "task_number": 11,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide contract administration and contractor oversight.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FWBM",
+      "task_number": 12,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for all logistical needs of the base, personnel, and contractors.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FWBM",
+      "task_number": 13,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure completion of end-of-day closure for base facilities.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FWBM",
+      "task_number": 14,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish communications and exchange necessary information with the following: support resources, adjacent resources, supervisor, other Incident Command System (ICS) functional areas.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FWBM",
+      "task_number": 15,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Submit aviation incident/accident reports with the pertinent forms (e.g., SAFECOM, agency-specific forms) through established chain of command.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FWBM",
+      "task_number": 16,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FWBM",
+      "task_number": 17,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure base security and manage risk.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FWBM",
+      "task_number": 18,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Account for location, health, safety, and welfare of assigned personnel.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FWBM",
+      "task_number": 19,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Mange administrative tasks and documentation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 8
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 8
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 8
+    }
+  ],
+  "extra_fields": {}
+}

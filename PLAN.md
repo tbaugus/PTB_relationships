@@ -1,0 +1,329 @@
+# PTB Relationships System — Build Plan
+
+**Goal:** A repeatable system that (1) reveals which objectives/tasks are shared across
+firefighter positions from NWCG Position Task Books, so a candidate who completes
+position X can be shown "do tasks A, B, C (+ course/prereq requirements) and you also
+qualify for position Y," and (2) produces an evaluative report of which fields each
+document format captures and which it lacks (no imputation).
+
+**Decisions made (2026-07-09):**
+
+| Decision | Choice |
+|---|---|
+| Corpus | All PDFs linked from the NWCG PTB catalog page (following embedded links) + Google Doc of enhanced PTBs |
+| Database | SQLite now; schema written in portable SQL for Postgres later |
+| Extraction | Hybrid: pdfplumber raw extraction → Claude structures to schema-validated JSON → spec-checker audits vs. source before DB load |
+| Equivalence policy | 3 tiers: exact (auto), semantic+adjudicated (needs one-time human sign-off), rejected (audit only) |
+| Qualification scope | PTB task overlap core + thin `position_requirements` layer from PMS 310-1 (courses, prerequisite positions) |
+| Format-gap output | `field_coverage` matrix in SQLite + regenerable Claude-written Markdown assessment |
+
+**Method:** Spec-driven development. No implementation step begins until its spec has
+acceptance criteria; a read-only **spec-checker sub-agent** audits every step's output
+against the spec before it counts as done.
+
+---
+
+## Repository layout
+
+```
+PTB relationships/
+├── PLAN.md                      # this file
+├── specs/
+│   ├── acquisition.spec.md      # corpus download: sources, completeness, provenance
+│   ├── extraction.spec.md       # per-format field contracts, JSON schema, validation rules
+│   ├── schema.spec.md           # SQL schema + invariants (FKs, uniqueness, provenance)
+│   ├── matching.spec.md         # equivalence tiers, thresholds, adjudication rubric
+│   ├── gap-analysis.spec.md     # the "closest positions" query contract + examples
+│   └── format-gaps.spec.md      # field-coverage matrix rules; absent-from-format vs blank
+├── .claude/agents/
+│   └── spec-checker.md          # read-only audit sub-agent (definition below)
+├── corpus/
+│   ├── raw/                     # downloaded PDFs + exported Google Doc (never edited)
+│   └── manifest.json            # url, sha256, download date, format tag per file
+├── src/ptb/
+│   ├── acquire.py               # scrape catalog page, download PDFs, build manifest
+│   ├── extract.py               # pdfplumber raw text/tables per document
+│   ├── structure/               # Claude-assisted structuring → pydantic models → JSON
+│   ├── models.py                # pydantic schemas (the extraction contract in code)
+│   ├── db.py                    # schema DDL, loaders (parameterized, portable SQL)
+│   ├── match.py                 # tier-1 exact matching + embedding candidate generation
+│   ├── adjudicate.py            # prepares candidate pairs for Claude review; records verdicts
+│   ├── gap.py                   # closest-positions query functions (pure, app-callable)
+│   └── report.py                # field_coverage matrix + Markdown gap report generation
+├── data/ptb.sqlite
+├── extracted/                   # one validated JSON per document (audit trail)
+├── reports/format_gaps.md       # generated, never hand-edited
+└── tests/                       # pytest: each spec's acceptance criteria as tests
+```
+
+## Database schema (core)
+
+```sql
+source_documents(id, filename, url, sha256, format,        -- 'nwcg_nextgen' | 'nwcg_legacy' | 'enhanced_gdoc'
+                 ptb_pms_number, downloaded_at)
+positions(id, code, title, source_document_id)              -- e.g. ENGB, FFT1
+tasks(id, canonical_text, normalized_text)                  -- one row per distinct task
+position_tasks(id, position_id, task_id, task_number,       -- number as printed in the PTB
+               verbatim_text, page, behaviors_json,         -- provenance back to source
+               evaluation_context)                          -- e.g. required setting (wildfire/RX/simulation)
+task_equivalences(id, task_a_id, task_b_id, tier,           -- 1 exact | 2 adjudicated | 3 rejected
+                  method, similarity_score, adjudication_note,
+                  human_reviewed_at, status)                 -- 'confirmed' | 'probable' | 'rejected'
+position_requirements(id, position_id, kind,                 -- 'course' | 'prerequisite_position' | 'other'
+                      value, source)                         -- sourced from PMS 310-1
+position_implications(id, holding_position_id,               -- PMS 310-1 "qualified as X also qualifies as Y"
+                      implied_position_id, source)
+field_coverage(id, format, field_name, status)               -- 'captured' | 'absent_from_format' | 'present_but_blank_in_samples'
+-- future (app phase): candidates,
+--   candidate_completions(candidate_id, position_task_id, completed_at, evaluator),
+--   candidate_qualifications(candidate_id, position_id, qualified_at),
+--   candidate_courses(candidate_id, course_code, completed_at)
+```
+
+Invariants (enforced in schema.spec.md and tests):
+- Every `position_tasks` row has page-level provenance to a file in `corpus/raw/`.
+- `task_equivalences` is symmetric-deduplicated (a<b), and no tier-2 row reaches
+  `status='confirmed'` without `human_reviewed_at`.
+- `field_coverage` never conflates absent-from-format with present-but-blank.
+
+## Phases
+
+### Phase 0 — Specs (before any code) — **DONE 2026-07-09, pending your review**
+Six specs written in `specs/` with acceptance criteria and worked examples grounded
+in 5 downloaded fixtures (FFT1, ENGB, CRWB, FIRB = Next Gen format; LOFR = legacy
+2010 format). Spec-checker agent defined in `.claude/agents/spec-checker.md`.
+Key findings that shaped the specs:
+- The corpus has two NWCG formats: **Next Gen** (position evaluation table,
+  N/O-D-M-E ratings per assignment, external Incident Position Standards PMS 350-x
+  for task detail) and **legacy** (Behavior-grouped tasks, per-task evaluator
+  initials + date, inline clarification bullets, no rating scale). Plus the
+  enhanced Google Doc format (third format, pending access).
+- Identical task text recurs across positions with DIFFERENT evaluation-context
+  codes (O/I/W/RX/R/S/ALL) — equivalence and context-satisfaction are separate
+  concerns (matching.spec.md vs gap-analysis.spec.md).
+- Google Doc unblocked and exported 2026-07-09 (PDF + DOCX in corpus/raw/):
+  11 draft "FireTech" positions (UAS ignition, geospatial, detection ML,
+  robotics, autonomy, fire modeling) that chain into official NWCG positions
+  via prerequisites/attaches-to. The enhanced format contributes fields no
+  NWCG format has (per-task Level tiers, training + cost, qualification
+  stacks, currency, fitness, workforce estimates) — now in the format-gaps
+  field inventory — and self-describes as NOT official NWCG standards, so
+  `official=0` provenance and draft labeling run through schema, gap output,
+  and app surfaces. It also redefines code `O`; handled in matching/gap specs.
+**Exit:** specs reviewed by you; fixture documents chosen. ✅ downloads + specs done.
+
+### Phase 1 — Acquisition — **DONE 2026-07-09, spec-checker: ALL PASS**
+`acquire.py` scrapes the catalog page with requests + beautifulsoup4, follows embedded
+links, downloads every PDF into `corpus/raw/`, records manifest entries. Google Doc
+exported (File → Download → PDF and DOCX) into the same corpus with manifest entries.
+**Check:** spec-checker verifies manifest completeness against the live catalog page
+link list, no zero-byte files, hashes recorded.
+
+136 documents acquired: 98 NWCG catalog PTBs, 11 FireTech PTBs (enhanced Google Doc,
+PDF + DOCX), 36 companion PMS 350-xxx Incident Position Standards. Plus, added
+2026-07-09 via `acquire_requirements.py`: 116 per-position PMS 310-1 qualification
+requirements pages (see below) — 252 source documents total.
+
+**Known gaps (tracked in `corpus/manifest.json` → `pending[]`, regenerated fresh on
+every `acquire.py`/`acquire_requirements.py` run — rerun to reconfirm current state):**
+- **PMS 310-1 (qualification requirements) — resolved 2026-07-09.** The PMS 310-1
+  document itself turned out to be a general policy narrative with no per-position
+  data and no single PDF — the actual per-position requirements (required training,
+  required experience, physical fitness, currency relationships) live on each
+  position's own `nwcg.gov/positions/<slug>/qualification-requirements` page,
+  reachable from the Position Catalog (116 positions). `src/ptb/acquire_requirements.py`
+  scrapes the catalog and each position's page, saving raw HTML to
+  `corpus/raw/requirements/<code>.html` and structured JSON to
+  `extracted/requirements/<code>.json`, ready for Phase 3 to load into
+  `position_requirements`. Spec-checker: AC-A8/AC-A9 ALL PASS. One caveat carried
+  into specs/acquisition.spec.md: these pages embed a rotating announcements widget
+  unrelated to the requirements content, so the raw HTML's hash (unlike every other
+  acquisition source) is not stable across reruns — the structured JSON output is
+  the stable, idempotent artifact instead.
+- **PMS 311-91 (FAL2, Intermediate Faller) and PMS 311-119 (FAL3, Basic Faller) —
+  resolved, no action needed.** Verified manually 2026-07-09: neither PTB's text
+  contains any reference to a PMS 350-xxx standard, and NWCG's publication pages for
+  `pms350-91` and `pms350-119` both 404. These two positions genuinely have no
+  companion Incident Position Standards document; this is a confirmed absence, not
+  an acquisition miss.
+
+### Phase 2 — Extraction & structuring — **DONE 2026-07-09, spec-checker: ALL PASS**
+Per document: pdfplumber raw text/word-position extraction → deterministic
+format-specific Python parsers (`src/ptb/structure/nextgen.py`, `legacy.py`,
+`enhanced.py`) → pydantic validation (`src/ptb/models.py`) → `extracted/<doc>.json`.
+Format detection tags each document. (Note: implemented as deterministic positional
+parsers rather than LLM-assisted structuring per PLAN.md's original hybrid-method
+description — this scaled better across 98 real documents with per-document layout
+quirks; the output contract and spec-checker gate are unchanged.)
+**Check:** spec-checker compares each JSON against raw text: task counts match,
+random verbatim spot-checks are exact substrings of source text, every task has a page.
+Failures block DB load.
+
+99 extracted JSON files (98 NWCG PDFs + 1 combined enhanced_gdoc), 4,160 tasks total.
+**Known gaps (4 tasks out of 4,160, verified via source-PDF character inspection as
+genuinely blank code cells, not parser bugs):** PSC3 tasks 17 and 39, PSCC task 39,
+FSCC task 26.
+
+### Phase 3 — Database load — **DONE 2026-07-09, spec-checker: ALL PASS**
+`src/ptb/db.py`: DDL from schema.spec.md (verbatim); loader ingests validated
+JSONs from `extracted/*.json` into `source_documents`/`positions`/`tasks`/
+`position_tasks` (tier-1 dedup via `normalize_text()`, per matching.spec.md's
+steps 1-5), and `extracted/requirements/*.json` into `position_requirements`
+(course/prerequisite_position/experience/fitness/currency kinds) and
+`position_implications` (11 rows, hand-audited against each source file's
+"note" field for an explicit grant-of-qualification statement — currency
+network fields `currency_maintained_by`/`maintains_currency_for` are loaded
+into `position_requirements(kind='currency')` and never treated as
+implications, per this phase's known-gaps distinction below).
+`tests/test_schema.py` covers AC-S1-S4 and INV-1-8 (44 pytest cases).
+
+`data/ptb.sqlite`: 99 source_documents, 120 positions, 2,503 distinct tasks,
+4,160 position_tasks, 2,029 position_requirements, 11 position_implications.
+
+**Known gaps (documented, not bugs):**
+- **Seven qualification-requirements-only codes have no PTB** (AREP, EDRC,
+  FFT2, IARR, OPS3, PIOT, REAF): `positions` requires a `source_document_id`,
+  so these never get a `positions` row and their
+  `extracted/requirements/<code>.json` isn't loaded this phase.
+- **Two curated position_implications pairs skipped** (DIVS->OPS3,
+  ICT3->OPS3) for the same reason: OPS3 has no `positions` row.
+- **INV-7 exception, added to schema.spec.md's Changelog this phase:** PSC3
+  (missing task #17, #39), PSCC (missing #39), FSCC (missing #26) — source
+  PDFs where the evaluation-code cell is genuinely blank in print for that
+  task (Phase 2 known gap, confirmed by direct PDF inspection); extraction
+  correctly omitted the task rather than invent a code, so these three
+  positions' task numbering has real, documented gaps. Locked down by
+  `test_inv7_full_corpus_matches_documented_exceptions_exactly` so any other
+  or additional gap fails the suite.
+
+### Phase 4 — Matching — **DONE 2026-07-10, pending your one-time human review**
+1. Tier 1: join on normalized text / shared task identifiers → auto-confirmed.
+   (Done at DB-load time via `tasks.normalized_text`, INV-3 — no equivalence rows.)
+2. Tier 2 candidates: `src/ptb/match.py` — sentence-transformers
+   `all-MiniLM-L6-v2` (model + exact HF revision hash pinned in the module),
+   local CPU, cosine ≥ 0.80 between normalized texts of different task_ids.
+   Full corpus: 2,503 distinct tasks → 1,349 candidate pairs + 3 spec-grounded
+   seed pairs (below-threshold rubric pairs the spec requires recorded) = 1,352.
+3. Claude adjudicated all 1,352 pairs against matching.spec.md's rubric
+   (verdicts in `data/adjudications.json`, keyed by normalized-text hash, so
+   they survive DB rebuilds): 445 equivalent + 418 subsumption → tier 2
+   `status='probable'`; 489 related_not_equivalent → tier 3 `status='rejected'`.
+   (44 briefing-source verdicts were demoted to related_not_equivalent across
+   two spec-checker audit rounds, which flagged an unsanctioned
+   source-abstraction — pairs whose texts name briefing sources with no
+   common role are NOT equivalent.)
+   Zero rows confirmed — that is exclusively yours.
+4. **Your one-time review: work through `reports/tier2_review_checklist.md`**
+   (863 probable pairs, highest score first — the near-duplicates at the top
+   review fastest). For each pair:
+   `py src/ptb/adjudicate.py promote <pair_key> confirm|reject [--note "..."]`
+   Decisions land in `data/confirmations.json` (text-keyed, survives rebuilds)
+   and re-apply to the DB automatically with `human_reviewed_at` set.
+**Check:** spec-checker audit vs matching.spec.md: ALL PASS (AC-M1–M8);
+`tests/test_matching.py` (34 pytest cases) locks every acceptance criterion.
+Changelog entries added this phase (see specs/): `b_subsumes_a` relation value
+(subsumption direction is carried by the relation value; the a<b row ordering
+is dedup only) and the grounded seed-pair mechanism.
+
+**Re-running matching after a corpus change (new position / changed objective):**
+```
+py src/ptb/acquire.py        # if the change comes from NWCG (refresh corpus)
+py src/ptb/extract.py ...    # Phase 2 extraction for changed documents
+py src/ptb/db.py             # rebuild data/ptb.sqlite from extracted/
+py src/ptb/match.py          # regenerate data/tier2_candidates.json
+py src/ptb/adjudicate.py     # apply verdicts -> task_equivalences + checklist
+```
+Existing verdicts and your confirmations are keyed by task TEXT, not task id,
+so they re-apply automatically. If `adjudicate.py` reports pending pairs
+(exit code 2), give `data/pending_adjudication.json` to Claude to adjudicate
+per the rubric, append to `data/adjudications.json`, and rerun; only genuinely
+NEW pairs land on the regenerated checklist for your review. Details:
+specs/matching.spec.md § "Re-running the pipeline".
+
+### Phase 5 — Gap analysis (the product query)
+`gap.py`: `closest_positions(profile) -> ranked list of (position, missing_tasks,
+missing_requirements)`, where `profile` is the candidate's full credential set:
+
+```python
+CandidateProfile(
+    held_qualifications=[...],   # positions already qualified (e.g. ENGB)
+    completed_courses=[...],     # courses explicitly on record (e.g. S-230)
+    completed_task_ids=[...],    # individual signed-off tasks from open PTBs
+)
+```
+
+**Requirement-satisfaction rules** (the "never re-demand what they already have" rules):
+1. *Direct:* a requirement is satisfied if it appears in the profile
+   (course on record, prerequisite position held, task signed off — including
+   via a tier-1/confirmed-tier-2 equivalent task).
+2. *Implied:* a requirement is satisfied if it appears anywhere in the
+   requirement chain of a held qualification, resolved recursively — holding
+   ENGB proves S-230 and FFT1 were met even if the profile never lists them.
+3. *Conferred:* a position counts as held if `position_implications` says a
+   held qualification confers it (PMS 310-1 "also qualifies as" rules).
+
+Every satisfied requirement is returned with its derivation
+(`direct` | `implied_by: <position>` | `conferred_by: <position>`) so the app
+can display *why* something is waived and a reviewer can override it. Only
+requirements satisfied by none of the three rules appear as gaps.
+
+Pure functions over SQLite so any future app backend (FastAPI, etc.) can call
+them. Include a CLI demo: `python -m ptb.gap --qual ENGB` → "FIRB: 4 tasks +
+S-234 remaining (S-230, FFT1 satisfied — implied by ENGB)".
+**Check:** acceptance examples in gap-analysis.spec.md run as pytest cases,
+including at least one implied-satisfaction and one conferred-qualification case.
+
+### Phase 6 — Format-gap evaluation
+`report.py` computes `field_coverage` from the extraction layer and generates
+`reports/format_gaps.md`: matrix + Claude-written narrative on what each gap means
+and what reconciling formats would take. Regenerable at any time; never hand-edited.
+**Check:** every matrix cell traceable to extraction evidence; report contains no
+imputed values.
+
+## Spec-checker sub-agent (`.claude/agents/spec-checker.md`)
+
+```markdown
+---
+name: spec-checker
+description: Read-only auditor. Verifies a build step's output against its spec.
+tools: Read, Grep, Glob, Bash   # Bash for read-only queries (sqlite3, wc) only
+---
+You are a read-only auditor. You are given a spec file and the artifacts a build
+step produced. You never modify files. Verify each acceptance criterion in the
+spec against the artifacts, using direct evidence (counts, verbatim comparisons,
+SQL invariant queries). Output: PASS/FAIL per criterion with evidence, and an
+overall verdict. A single FAIL means the step is not done.
+```
+
+Invoked after every phase; a phase is complete only on an all-PASS audit.
+
+## Tools & models (all free / already available)
+
+| Part | Tool | Cost |
+|---|---|---|
+| Language | Python 3.12 + stdlib sqlite3 | free |
+| Scraping | requests, beautifulsoup4 | free |
+| PDF extraction | pdfplumber (PyMuPDF fallback for stubborn layouts) | free |
+| Validation | pydantic v2 | free |
+| Embeddings | sentence-transformers `all-MiniLM-L6-v2`, local CPU | free |
+| Structuring/adjudication/reports | Claude in VSCode (this assistant) | your existing plan |
+| Testing | pytest | free |
+| DB later | Postgres (local or Neon/Supabase free tier) | free tier |
+
+## What NOT to do
+
+- **Don't impute missing fields** — the format-gap output evaluates and reports; it never fills.
+- **Don't trust similarity scores as equivalence** — every semantic match passes adjudication + one-time human review before candidates could ever see it.
+- **Don't equate task-book completion with qualification** — gap output always includes course/prerequisite requirements from the requirements layer.
+- **Don't re-demand satisfied requirements** — anything the candidate holds directly, or that is implied by a held qualification's requirement chain, or conferred by PMS 310-1 implication rules, is reported as satisfied (with its derivation), never as a gap.
+- **Don't use a graph database or hosted DB now** — joins on SQLite answer everything at this scale; migrate to Postgres only when the app needs concurrent writes.
+- **Don't let LLM output enter the database unvalidated** — pydantic + spec-checker gate every load.
+- **Don't run semantic matching at app runtime** — equivalences are precomputed; runtime is plain SQL.
+- **Don't hand-edit generated artifacts** (extracted JSON, reports, manifest) — fix the pipeline and regenerate.
+- **Don't build the candidate-facing app layer yet** — expose pure Python query functions; the future app wraps them.
+
+## Future expansion hooks (designed-in, not built now)
+
+- `candidates` / `candidate_completions` tables join against `position_tasks` with no schema changes elsewhere.
+- Portable SQL → Postgres migration is mechanical; `pgvector`/`sqlite-vec` available if live semantic search is ever wanted.
+- Corpus refresh = rerun acquisition; manifest hashes detect changed PTB revisions and scope re-extraction.

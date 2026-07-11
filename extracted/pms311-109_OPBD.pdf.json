@@ -1,0 +1,843 @@
+{
+  "document": {
+    "filename": "pms311-109_OPBD.pdf",
+    "sha256": "f3c99c5cd068b56533c3d94beea2b09a44cf4ae5d541b3431fc13049796f2e7c",
+    "pms_number": "311-109",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "OPBD"
+    ],
+    "title": "Operations Branch Director",
+    "edition_date": "JUNE 2024",
+    "ips_reference": "350-08",
+    "official": true,
+    "page_count": 14
+  },
+  "positions": [
+    {
+      "code": "OPBD",
+      "title": "Operations Branch Director",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "OPBD",
+      "task_number": 1,
+      "category": "Leadership Level 4, Leader of Leaders (Provide Direction)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "The distance between the leader and the led increases the challenges of leading. Subordinate leaders frequently work in other locations, so face-to-face communication is not always possible. As a result, the circumstances for building trust are more complex: even so, the trust must withstand the pressures of time and distance, enabling leaders to confidently communicate intent and delegate responsibility. These leaders act as the conduit between the organization and the people on the ground, interpreting the vision into mission and translating abstract ideas so subordinate leasers can take definitive action.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 2,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Receive an in-brief of the current incident status and review established Incident Management Team (IMT) guidelines.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 3,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate pertinent parts of the delegation of authority, leader’s intent, Wildland Fire Decision Support System (WFDSS), or other incident decision documents as directed by the Operations Section Chief (OSC).",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 4,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Facilitate and coordinate the ordering of operational resources.",
+      "code_raw": "I/S",
+      "code_alternatives": [
+        "I",
+        "S"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 5,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and communicate a common operating picture with supervisors and subordinates.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 6,
+      "category": "Lead, Supervise, Direct",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Model leadership values and principles. Provide a positive influence. Emphasize teamwork.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 7,
+      "category": "Lead, Supervise, Direct",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and communicate objectives, priorities, work assignments, and performance expectations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 8,
+      "category": "Lead, Supervise, Direct",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Formulate and communicate strategic plans and alternatives to OSC for approval.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 9,
+      "category": "Lead, Supervise, Direct",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Adjust actions based on changing information and evolving situational awareness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 10,
+      "category": "Lead, Supervise, Direct",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate changing conditions to supervisors and subordinates.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 11,
+      "category": "Lead, Supervise, Direct",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor performance and provide immediate and regular feedback to subordinates.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 12,
+      "category": "Lead, Supervise, Direct",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and propagate consistent leader’s intent up and down the chain of command.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 13,
+      "category": "Lead, Supervise, Direct",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply knowledge of leadership styles and methods to diffuse conflict.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 14,
+      "category": "Lead, Supervise, Direct",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide field leadership, while making sound and timely decisions in complex and high stress environments.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 15,
+      "category": "Lead, Supervise, Direct",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate the ability to develop and deliver appropriate messages to diverse audiences.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 16,
+      "category": "Lead, Supervise, Direct",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and provide training opportunities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 17,
+      "category": "Perform Operations Branch Director-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize branch, divisions/groups, and/or staging areas.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 18,
+      "category": "Perform Operations Branch Director-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recommend daily briefing/debriefing schedule for branch to OSC.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 19,
+      "category": "Perform Operations Branch Director-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in operational period briefing and provide key information to branch leadership and personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 20,
+      "category": "Perform Operations Branch Director-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure host unit direction and policies are applied to daily operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 21,
+      "category": "Perform Operations Branch Director-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage operational periods to achieve objectives (e.g., swing shift, night shift, holding).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 22,
+      "category": "Perform Operations Branch Director-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ground truth proposed operational strategies.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 23,
+      "category": "Perform Operations Branch Director-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan strategically to estimate immediate and long-range operational resource and logistical requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 24,
+      "category": "Perform Operations Branch Director-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually evaluate resource status and tactical needs to determine if resource assignments are effective and efficient.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 25,
+      "category": "Perform Operations Branch Director-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate structure protection and wildland urban interface (WUI) needs as appropriate.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 26,
+      "category": "Perform Operations Branch Director-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate current situation and determine if current strategy and tactics will meet incident objectives and advise OSC.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 27,
+      "category": "Perform Operations Branch Director-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Use fire behavior prediction information to plan and organize tactical/strategic operations.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 28,
+      "category": "Perform Operations Branch Director-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain appropriate span of control.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 29,
+      "category": "Perform Operations Branch Director-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned Division/Group Supervisor (DIVS) receive Fire W eather Watches/Warnings, Spot Weather Forecasts, and Fire Weather Forecasts.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 30,
+      "category": "Perform Operations Branch Director-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure accuracy of Division Group Assignment List (ICS 204 W F) resource information, work assignments (task, purpose, end state), special instructions, and communication summary.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 31,
+      "category": "Perform Operations Branch Director-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate firing and holding operations in conjunction with DIVS, aerial supervision, and OSC.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 32,
+      "category": "Perform Operations Branch Director-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate tactical operations between DIVS, aerial supervision, and OSC.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 33,
+      "category": "Perform Operations Branch Director-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with assigned DIVS and provide OSC a list of excess resources according to established IMT guidelines.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 34,
+      "category": "Perform Operations Branch Director-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate WUI operations with local law enforcement, local fire departments, and other agencies authorized to implement public evacuation, perform structure protection, control traffic, and road closures.",
+      "code_raw": "W/S",
+      "code_alternatives": [
+        "W",
+        "S"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 35,
+      "category": "Planning Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide OSC with resource needs within specified timeframe. Notify OSC when resources are moved or shared between divisions/groups to ensure coordination with other functional areas.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 36,
+      "category": "Planning Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Validate strategic plans and/or provide recommendations for alternative control line locations.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 37,
+      "category": "Planning Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate relevant information for planning meetings following IMT guidelines.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 38,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate with the OSC and other functional areas to coordinate support for operational needs (e.g., land use agreements, Emergency Equipment Rental Agreement [EERA], meals).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 39,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish communications and exchange necessary information w ith other functional areas (e.g., logistics, finance, public information).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 40,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure strategies, tactics, priorities, and changes are communicated and understood throughout the branch.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 41,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with OSC and DIVS to recommend priorities for Safety Officers, Line Medics, Resource Advisors (READs), Resource Advisors, Fireline (REAFs), Archaeologists (ARCHs), and Field Observers (FOBS).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 42,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Work with responsible land management agency and/or assigned Re source Advisor Coordinator (REAC)/READ/REAF/ARCH to mitigate impacts to natural, cultural, social, and other resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 43,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct and/or participate in After Action Reviews (AAR).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 44,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure the Risk Management Process is established and applied throughout the branch.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 45,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure operational safety measures are in place prior to en gagement (e.g., IRPG, 10 and 18, LCES, Look Up, Down, and Around).",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 46,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure contingency plans and trigger points are developed and communicated.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 47,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Consider resource effectiveness and modify tactics to balance probability of success and acceptable risk.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 48,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor and address air quality/smoke impacts to personnel, the pu blic, and operations (e.g., roads, communities, incident facilities).",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 49,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Validate aviation use and effectiveness and ensure coordination between aviation and ground resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 50,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor and update aerial supervision regarding effectiveness of aviation tactics and adjust accordingly as necessary.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 51,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Safety Officers (SOF) to assist with the Risk M anagement Process and provide input into the safety of operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 52,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure all branch personnel understand assigned medical re source capabilities, communication procedures, and transportation plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 53,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide oversight of medical emergencies based on procedures st ated in the Medical Plan (ICS 206 WF), the Medical Incident Report, and IMT guidelines.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 54,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor resources for signs and symptoms of smoke exposure, fa tigue, illness, injury, and work/rest ratios, and communicate mitigation needs.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 55,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow IMT guidelines for the tracking and documentation of accountable property.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 56,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete all administrative tasks and documentation in an accurate and timely manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OPBD",
+      "task_number": 57,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "During transfer of command ensure continuity of operations, exchange critical information (e.g., safety, contacts, cooperators), and communicate transfer of authority through established chain of command.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 11
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 11
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    }
+  ],
+  "extra_fields": {}
+}

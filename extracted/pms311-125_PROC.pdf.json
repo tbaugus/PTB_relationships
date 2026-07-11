@@ -1,0 +1,215 @@
+{
+  "document": {
+    "filename": "pms311-125_PROC.pdf",
+    "sha256": "f504410106621c465fa0c74612da21dbdf529df3a4bdeb57b71bce48e2a3966a",
+    "pms_number": "311-125",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "PROC"
+    ],
+    "title": "Procurement Unit Leader",
+    "edition_date": "JUNE 2025",
+    "ips_reference": "350-125",
+    "official": true,
+    "page_count": 10
+  },
+  "positions": [
+    {
+      "code": "PROC",
+      "title": "Procurement Unit Leader",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "PROC",
+      "task_number": 1,
+      "category": "Leadership Level 3, Leader of People (Develop Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Leaders of people have increasing challenges. They accept responsibility, not only for their own actions, but for those of their team. Leaders of people act to develop credibility as leaders: placing the team ahead of themselves, demonstrating trustworthiness, mastering essential technical skills, and instilling the values of the organization in their teams. For additional information, review the Level 3 description, expected behaviors and knowledge, suggested development goals, and self-study opportunities.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "PROC",
+      "task_number": 2,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from incident supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "PROC",
+      "task_number": 3,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assemble and validate readiness of assigned personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "PROC",
+      "task_number": 4,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and monitor objectives, priorities, work assignments, and performance expectations. Perform Procurement Unit Leader-Specific",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PROC",
+      "task_number": 5,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish finance workflows.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PROC",
+      "task_number": 6,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Administer the terms and conditions of agreements/contracts.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PROC",
+      "task_number": 7,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather, analyze, and validate information pertinent to the Procurement Unit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PROC",
+      "task_number": 8,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare and submit invoices for payment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PROC",
+      "task_number": 9,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Finalize resource folders for records retention.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PROC",
+      "task_number": 10,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate and coordinate with assigned resources and pertinent Incident Management Team (IMT) functional areas.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PROC",
+      "task_number": 11,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure compliance with all safety practices and procedures for yourself and those around you.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PROC",
+      "task_number": 12,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan for incident demobilization and transition.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 7
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 7
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 7
+    }
+  ],
+  "extra_fields": {}
+}

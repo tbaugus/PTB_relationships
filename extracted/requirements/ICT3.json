@@ -1,0 +1,50 @@
+{
+  "position_code": "ICT3",
+  "required_training": [
+    "ICS-400, Advanced ICS for Command and General Staff",
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-300, Extended Attack Incident Commander",
+    "S-390, Introduction to Wildland Fire Behavior Calculations"
+  ],
+  "required_experience": [
+    "Satisfactory performance as an Incident Commander Type 4 ( ICT4 )",
+    "AND Satisfactory performance as a Task Force Leader ( TFLD )",
+    "AND Completion and Certification of NWCG Incident Commander Type 3 (ICT3) Position Task Book , PMS 311-02"
+  ],
+  "required_experience_prereq_codes": [
+    "ICT4",
+    "TFLD"
+  ],
+  "physical_fitness": "Physical Fitness Level: Arduous",
+  "currency_maintained_by": [
+    "Air Tactical Group Supervisor ( ATGS )",
+    "Division/Group Supervisor ( DIVS )",
+    "Incident Commander Complex ( ICCI )",
+    "Operations Branch Director ( OPBD )",
+    "Operation Section Chief Complex ( OSCC )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )",
+    "Prescribed Fire Burn Boss Type 1 ( RXB1 )",
+    "Strike Team Leader ( STCR , STEN , STEQ )",
+    "Task Force Leader ( TFLD )"
+  ],
+  "maintains_currency_for": [
+    "Division/Group Supervisor ( DIVS )",
+    "Firefighter Type 1 ( FFT1 )",
+    "Firefighter Type 2 ( FFT2 )",
+    "Incident Commander Type 4 ( ICT4 )",
+    "Operations Branch Director ( OPBD )",
+    "Operation Section Chief Complex ( OSCC )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )",
+    "Single Resource Boss ( CRWB , ENGB , FELB , FIRB , HEQB )",
+    "Strategic Operational Planner ( SOPL )",
+    "Strike Team Leader ( STCR , STEN , STEQ )",
+    "Structure Protection Specialist ( STPS )",
+    "Task Force Leader ( TFLD )"
+  ],
+  "other_training": [
+    "L-381, Incident Leadership",
+    "0-305, Type 3 All-Hazard Incident Management Team",
+    "S-320, Introduction to Incident Management Teams"
+  ],
+  "note": "Once qualified as a ICT3, the OPS3 , PSC3 , LSC3 and FSC3 qualifications may be granted by the certifying official. Certification must be documented on a \u201cverification/certification\u201d page of the applicable PTB."
+}

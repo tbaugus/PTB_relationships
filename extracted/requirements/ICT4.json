@@ -1,0 +1,41 @@
+{
+  "position_code": "ICT4",
+  "required_training": [
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-200, Initial Attack Incident Commander"
+  ],
+  "required_experience": [
+    "Satisfactory performance in any Single Resource Boss position ( CRWB , ENGB , FELB , FIRB , HEQB , HMGB )",
+    "AND Completion and Certification of NWCG Incident Commander Type 4 (ICT4) Position Task Book , PMS 311-03"
+  ],
+  "required_experience_prereq_codes": [
+    "HMGB"
+  ],
+  "physical_fitness": "Physical Fitness Level: Arduous",
+  "currency_maintained_by": [
+    "Air Tactical Group Supervisor ( ATGS )",
+    "Division/Group Supervisor ( DIVS )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Operation Section Chief Complex ( OSCC )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )",
+    "Prescribed Fire Burn Boss Type 2 ( RXB2 )",
+    "Safety Officer Type 3 ( SOF3 )",
+    "Single Resource Boss ( CRWB , ENGB , FELB , FIRB , HEQB )",
+    "Strike Team Leader ( STCR , STEN , STEQ )",
+    "Task Force Leader ( TFLD )"
+  ],
+  "maintains_currency_for": [
+    "Firefighter Type 1 ( FFT1 )",
+    "Firefighter Type 2 ( FFT2 )",
+    "Incident Commander Type 5 ( ICT5 )",
+    "Safety Officer, Field ( SOFF )",
+    "Safety Officer Type 3 ( SOF3 )",
+    "Single Resource Boss ( CRWB , ENGB , FELB , FIRB , HEQB )",
+    "Task Force Leader ( TFLD )"
+  ],
+  "other_training": [
+    "S-215, Fire Operations in the Wildland/Urban Interface",
+    "S-219, Firing Operations"
+  ],
+  "note": null
+}

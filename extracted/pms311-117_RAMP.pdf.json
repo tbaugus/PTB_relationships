@@ -1,0 +1,327 @@
+{
+  "document": {
+    "filename": "pms311-117_RAMP.pdf",
+    "sha256": "7e842a8198b05db0d0025154efe0d79335826aca6a639457647c44f7df99a053",
+    "pms_number": "311-117",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "RAMP"
+    ],
+    "title": "RAMP Manager",
+    "edition_date": "MAY 2026",
+    "ips_reference": "350-117",
+    "official": true,
+    "page_count": 11
+  },
+  "positions": [
+    {
+      "code": "RAMP",
+      "title": "RAMP Manager",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "RAMP",
+      "task_number": 1,
+      "category": "Leadership Level 2, New Leader (Convey Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from previous shift/assignment position as necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 3,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assemble and validate readiness of assigned personnel and equipment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 4,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and communicate objectives, priorities, work assignments, and performance expectations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 5,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure daily operational objectives and performance standards are met.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 6,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop, implement, and adjust actions based on situational awareness, changing information, and evolving priorities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 7,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor performance and provide immediate and regular feedback to assigned personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 8,
+      "category": "Perform Ramp Manager-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Train and mentor personnel in ramp operations as needed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 9,
+      "category": "Perform Ramp Manager-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate movement of aircraft, vehicles, equipment, and personnel in operational areas.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 10,
+      "category": "Perform Ramp Manager-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor ramp operations and communicate needs to the base manager.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 11,
+      "category": "Perform Ramp Manager-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain equipment readiness.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 12,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in and/or conduct operational briefings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 13,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish communications and exchange necessary information with other resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 14,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct and/or participate in After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 15,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply aviation safety and risk management systems.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 16,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Account for health, safety, location, and welfare of assigned personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 17,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure cleanliness of the ramp.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 18,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain the safety and security of ramp operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 19,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete all administrative tasks and documentation in an accurate and timely manner.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RAMP",
+      "task_number": 20,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare for and implement demobilization.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 8
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 8
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 8
+    }
+  ],
+  "extra_fields": {}
+}

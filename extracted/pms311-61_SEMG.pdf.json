@@ -1,0 +1,1449 @@
+{
+  "document": {
+    "filename": "pms311-61_SEMG.pdf",
+    "sha256": "ab2c4b57803644ebf318938ecc090f5f74b3e038f619e28005ba19365e717ce6",
+    "pms_number": "311-61",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "SEMG"
+    ],
+    "title": "Single Engine Airtanker Manager",
+    "edition_date": "OCTOBER 2018",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 22
+  },
+  "positions": [
+    {
+      "code": "SEMG",
+      "title": "Single Engine Airtanker Manager",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "SEMG",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Check in on arrival with appropriate agency or incident personnel and receive in-briefing.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 2,
+      "category": "Establish effective working relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish contacts and develop good working relationships with local agency/aircrew/contractor personnel in order to provide safe and efficient base operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 3,
+      "category": "Establish effective working relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish agency contacts and identify chain of command that includes Fire Management Officer, Aviation Manager, Dispatch, Incident contact or Air Support Group Supervisor, and procurement person.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 4,
+      "category": "Establish effective working relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establishes contacts and dialogue with airport personnel that includes airport management, fixed base operator, airport tenants, and tower personnel if applicable.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 5,
+      "category": "Establish effective working relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with appropriate personnel (Dispatch/Aviation Operations Staff/IMT) to establish duty day start/off times, and cost reporting.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 6,
+      "category": "Ensure relevant information is exchanged with all contract and government",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Accurately maintain the base activity daily log.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 7,
+      "category": "Ensure relevant information is exchanged with all contract and government",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct daily briefing with all contract and government personnel assigned to the base that includes mission priorities, operations and adjustments in current operations, communications, weather forecasts, current and predicted fire weather forecasts, and temporary flight restrictions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 8,
+      "category": "Ensure relevant information is exchanged with all contract and government",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss pre-flight safety concerns.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 9,
+      "category": "Ensure relevant information is exchanged with all contract and government",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide mission briefing to aircrew and base personnel, verify information with the local dispatch center utilizing aircraft dispatch form/resource order and discuss proper turn-down protocol.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 10,
+      "category": "Ensure relevant information is exchanged with all contract and government",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure communications are established and there is information flow between the base, aircraft, and dispatch office.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 11,
+      "category": "Ensure relevant information is exchanged with all contract and government",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure important operational information such as roll times, aircraft availability, days off, and rotation is communicated with base personnel, local management, dispatch, and other bases as appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 12,
+      "category": "Ensure relevant information is exchanged with all contract and government",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Facilitate After Action Reviews (AAR’s) or debriefings and discuss improvement opportunities including adjustments in operations with appropriate personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 13,
+      "category": "Maintain required security procedures for base of operations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Describe agency policy and guidance as it relates to the security of the base facility.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 14,
+      "category": "Maintain required security procedures for base of operations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Train and brief personnel regarding base facility and airport security protocols.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 15,
+      "category": "Maintain required security procedures for base of operations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure only authorized personnel and activities are allowed on the ramp.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 16,
+      "category": "Maintain required security procedures for base of operations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain or complete facilities security assessment for hosting agency base of operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 17,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine if the aircraft is on an exclusive use, call when needed, or on call contract.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 18,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide related information on daily aircraft status or changes; maintain contact with Contracting Officer Representative (COR) or Project Inspector (PI) for the aircraft.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 19,
+      "category": "Ensure flight and duty day hours are not exceeded.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Schedule and manage work to ensure flight and/or duty hours of pilots, mechanics, and fuel truck drivers are not exceeded.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 20,
+      "category": "Ensure flight and duty day hours are not exceeded.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure start and stop times are being recorded accurately by base personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 21,
+      "category": "Ensure contract compliance.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor compliance with contract specifications and take corrective actions, if necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 22,
+      "category": "Ensure contract compliance.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Display skill and ability to work closely with contractors to ensure that contract requirements are met and a high level of cooperation and integrity is achieved between the contractors and the agency.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 23,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss pre-flight safety concerns.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 24,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss with pilot capabilities and limitations due to density altitude or runway length.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 25,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Describe personal safety considerations and attitudes of personnel in regard to risk management when conducting base operations. This may include but is not limited to fatigue, dehydration, distractions, qualifications, and training.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 26,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review local Unit Aviation Operations Plan and other applicable plans that may provide information on the management of the base, (i.e., Ramp Management Plan, Smokejumper Operations Plan, etc.)",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 27,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure adequate supply of required personal protective equipment (PPE) is available and is utilized by base personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 28,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop, update, or review, a mishap response plan; ensure plan is posted.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 29,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief personnel on crash rescue and mishap response procedures for the base operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 30,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate the ability to implement the Crash Rescue/Mishap Response Plan in a simulation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 31,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure personnel are trained in the maintenance and use of fire extinguishers and procedures to be followed in the event of a fire emergency on the ramp.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 32,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate understanding of the Aviation Safety Communique (SAFECOM) system and complete/submit SAFECOM(s) in a timely manner through identified channels, and provide on the spot correction of safety concerns and issues.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 33,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss reporting processes for all fuel and retardant spills and clean up according to established environmental and/or hazardous materials procedures, referencing Safety Data Sheets (SDS).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 34,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss the regulations and procedures for fueling operations, review applicable National Fire Protection Association (NFPA) standards.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 35,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure base personnel are adhering to agency policy and guidance pertaining to retardant and fuel spills on the ramp.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 36,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate and manage a safe flight environment that includes sterile cockpit compliance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 37,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with local unit on appropriate charge coding, and incident cost summary reporting.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 38,
+      "category": "Provide logistics support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for all logistical needs of the base and provide for welfare of base personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 39,
+      "category": "Provide logistics support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish contact and process for ordering and procurement of needed base items that includes macro purchasing including retardant.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 40,
+      "category": "Provide logistics support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure base is staffed with trained and qualified personnel as appropriate for the level of activity or complexity on a daily basis.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 41,
+      "category": "Provide logistics support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assists aircrews in arranging for transportation and lodging as appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 42,
+      "category": "Make appropriate decision based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor ground operations for safety during loading, taxi, and fueling operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 43,
+      "category": "Make appropriate decision based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate skill and ability in planning and managing movement of all aircraft and motor vehicles on the operations ramp.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 44,
+      "category": "Make appropriate decision based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Effectively manage base support personnel e.g., Ramp Manager, Fixed Wing Parking Tender, Aircraft Time Keeper, and contractors.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 45,
+      "category": "Make appropriate decision based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure base facilities and equipment are properly maintained and in good working order.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 46,
+      "category": "Ensure ability to use tools necessary to complete assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate ability to utilize computer for daily contract documentation, spreadsheets, various websites, payment procedures, data input, and Automated Flight Following (AFF).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 47,
+      "category": "Ensure ability to use tools necessary to complete assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop or acquire relevant maps such as response area, known aerial hazards, and jettison area/s.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 48,
+      "category": "Ensure ability to use tools necessary to complete assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish layout of base operations area that includes loading pit, fueling area, aircraft parking, vehicle parking, pilot/crew rest area, storage, and applicable expansion space.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 49,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss how to restore base areas to pre-incident or pre- season condition.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 50,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Check out with appropriate agency or incident personnel prior to departure and complete closeout/debriefing.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 51,
+      "category": "Ensure readiness for assignment:",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit as referenced in the NWCG Standards for Single Engine Airtanker Operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 52,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief pilots on local area retardant avoidance areas, waterways, and misapplication reporting requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 53,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct initial pilot/loader in-briefing with contractor personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 54,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and discuss the National Long-Term Fire Retardant Contract and differences in services for a type A base, type B base and fixed operating base (FOB) origin, and identify payment procedures.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 55,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and discuss the National Mobile Retardant Base Contract and payment procedures.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 56,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate familiarity with NWCG Standards for Airtanker Base Operations, and NWCG Standards for Single Engine Airtanker Operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 57,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct initial contractor inspection. Validate pilot and aircraft cards, complete pre-use inspection of aircraft and support/service equipment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 58,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Initiate and maintain required administrative forms such as Single Engine Airtanker (SEAT) daily operations worksheet, cumulative pilot-duty day log, cost summary or identified items outlined in the NWCG Standards for Single Engine Airtanker Operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 59,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Accurately complete AMD 23e document with proper charge code format, task order number, and related availability, flight time, service miles, special charges, etc.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 60,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss additional payment procedures that may be encountered (i.e., State).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 61,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete Contractor performance evaluation (CPARS AQD-136A).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 62,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrates familiarity with NWCG Standards for Single Engine Airtanker Operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 63,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop or update SEAT Base Operations Plan (SBOP) and brief base personnel on changes.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 64,
+      "category": "Effectively manage retardant operations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Describe the retardant product type and mixing characteristics for the base of operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 65,
+      "category": "Effectively manage retardant operations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain lot acceptance and quality control standards during retardant delivery and mixing operations of retardant/suppressant products, and ensure product is mixed appropriately.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 66,
+      "category": "Effectively manage retardant operations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss retardant metering systems (e.g., Mass Flow Meter) and the importance of product density and weight in relation to product specifications and aircraft safety.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 67,
+      "category": "Effectively manage retardant operations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Describe how to operate retardant mixing, pumping and recirculation systems at the base of operation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 68,
+      "category": "Effectively manage retardant operations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate the ability to execute a retardant quality assurance check using a refractometer to ensure the mixed product meets required specifications.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 69,
+      "category": "Effectively manage retardant operations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage retardant mixing and loading operations, and base personnel acting in the positions of RTCM, MXMS, and/or contractor personnel.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 70,
+      "category": "Effectively manage retardant operations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure retardant use summary is accurately maintained.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 71,
+      "category": "Effectively manage retardant operations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and brief personnel on the appropriate management and mitigations of retardant spills, wash-down, and drainage. Identify appropriate contact/contacts to report hazardous material spills and cleanup, review Storm Water Pollution and Prevention Plan (SWPPP), if in place.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 72,
+      "category": "Anticipate, recognize, and mitigate unsafe situations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify risks or hazards utilizing the safety management system (SMS) and hazard assessment tools for SEAT operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 73,
+      "category": "Anticipate, recognize, and mitigate unsafe situations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct safety briefing that utilizes risk assessment and hazard analysis for SEAT operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 74,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate ability to coordinate National rotation policy as it pertains to airtankers and/or SEATs.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 75,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with dispatch, aerial supervision and aircrews to ensure proper rotation and spacing of airtankers (or SEATs) arrive over the incident.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 76,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit as referenced in the NWCG Standards for Airtanker Operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 77,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify risks or hazards utilizing the SMS and hazard assessment tools for large airtanker operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 78,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct safety briefing that utilizes risk assessments and hazard analysis for large airtanker operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 79,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure proper procedures for hot loading and simultaneous fueling and loading are adhered to by base personnel and contractors.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 80,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate ability to manage airtanker base operations with mixed and varying aircraft types, capabilities, limitations, and safety considerations.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 81,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate ability to manage complex ramp operations involving personnel, aircraft, logistics, and safety.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 82,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate familiarity with NWCG Standards for Airtanker Base Operations, and NWCG Standards for Single Engine Airtanker Operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 83,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate familiarity with large airtanker contracts and can effectively administer these contracts.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 84,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate familiarity with Modular Airborne Firefighting System (MAFFS) Operating Plan.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 85,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss payment procedures for large airtankers as outlined by contracting agency.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 86,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Initiate and maintain required administrative forms such as Daily Operations Worksheet, Incident Cost Summary, Retardant Use Summary, or identified items outlined in the NWCG Standards for Airtanker Base Operations, or as requested by appropriate aviation personnel.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 87,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop or update Airtanker Base Operations Plan (ABOP) and brief base personnel on changes.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 88,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for FWBM kit.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 19
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 89,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure passengers have received a briefing from the pilot.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 19
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 90,
+      "category": "Gather, produce, and distribute information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Accurately completes or obtains aircraft schedule/flight request for all flights",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 19
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 91,
+      "category": "Provide logistics support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish facilities, designate areas for cargo, personnel and vehicles for operations supporting large transport aircraft, providing crew transport.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 19
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 92,
+      "category": "Provide logistics support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assists dispatch office in providing appropriate aircraft to meet mission requirement.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 19
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 93,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure that a manifest is prepared for passengers and cargo distribute to appropriate personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 94,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate ability and knowledge to designate parking areas accommodating light fixed wing or large transport aircraft.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 95,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure a flight manager is assigned to each flight transporting government personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 96,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assign a loadmaster to provide for safe loading and unloading of passengers and cargo.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 97,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify risks or hazards utilizing the SMS and hazard assessment tools for Fixed Wing Base Operations, and base support positions.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 98,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct safety briefing that include risk assessment and hazard analysis for Fixed Wing Base Operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 99,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure hazardous materials are transported in accordance with the Interagency Transport of Hazardous Materials Guide. Discuss responsibilities for hazmat transport.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 100,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate familiarity with fixed-wing rental agreements and Call When Needed (CWN) contracts. Understand the scope of the contract and is able to successfully administer these contracts.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "SEMG",
+      "task_number": 101,
+      "category": "Administer/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure proper payment document is completed as per contracting agency.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 20
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

@@ -1,0 +1,579 @@
+{
+  "document": {
+    "filename": "pms311-72_SOPL.pdf",
+    "sha256": "b9564bb1041d50dca308f01816d7a701f94b85de68c95fad2924b60777b3ada9",
+    "pms_number": "311-72",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "SOPL"
+    ],
+    "title": "Strategic Operational Planner",
+    "edition_date": "JUNE 2011",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 16
+  },
+  "positions": [
+    {
+      "code": "SOPL",
+      "title": "Strategic Operational Planner",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "SOPL",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review agency procedures, policies, and regulations for managing wildland fire to achieve land use objectives as related to the position.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Assigned Incident Commander’s name/location",
+        "Agency Administrator’s in-briefing time & location",
+        "Incident name/number"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 3,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assess situation to determine immediate support needs.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Assess skills and qualifications of support personnel."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain roles and permissions in the Wildland Fire Decision Support System (WFDSS) necessary to review relevant decision components for a wildfire incident as requested by the host unit.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Owner/group ownership",
+        "Appropriate permissions for support staff",
+        "Editing/review privileges as necessary"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 5,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain information from supervisor, duty officer, Agency Administrator, dispatch or Incident Commander.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Review incident in WFDSS to assess situation and assist in determining support needs.",
+        "Review Strategic Objectives and Management Requirements as provided in WFDSS",
+        "Jurisdiction",
+        "Agency’s intent/objectives",
+        "Natural resource and cultural concerns",
+        "Local policy, standards and guidelines for fire management",
+        "Risk management considerations",
+        "Cost management considerations"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 6,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Fire Management Officer",
+        "Agency Administrator",
+        "Incident Management Team",
+        "Multi-Agency Coordination Group",
+        "Cooperators"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 7,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish the organizational role of the Strategic Operational Planner in relation to assigned personnel, local fire management organization, Incident Commander and/or Agency Administrator.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Organization structure (ICS 203, Organization Assignment List)",
+        "Information and product flow"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 8,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Adhere to local policies for ordering, use and release of resources.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 9,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in initial briefing and validate protocols for support personnel.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Assess organizational needs.",
+        "Identify additional resource needs.",
+        "Review expectations of Strategic Operational Planner with Incident Commander and/or Agency Administrator(s).",
+        "Identify critical factors to ensure planning module success.",
+        "Establish communication methods for relaying information."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 10,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in briefings as necessary.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Brief external support organizations.",
+        "Attend pre-planning and Plans Strategy meetings.",
+        "Attend debriefings."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 11,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify strengths and weaknesses.",
+        "Document opportunities recognized and improvements for future events."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 12,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in incident close-out.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure participation meets host unit requirements.",
+        "Obtain personal performance evaluation.",
+        "Provide commendations and recommendations."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 13,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure required documentation is completed, maintained and approved.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Assigned Wildland Fire Decision Support System elements",
+        "Incident documentation file",
+        "Support personnel performance evaluations",
+        "Unit logs"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 14,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify jurisdictional boundaries and which authorities/agencies should be involved.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Strategic objectives and management requirements for relevant Fire Management Units within Planning Area."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 15,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate short- and long-term fire behavior predictions, fire weather and fire behavior assessments and interpret results to support decision making.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Brief Incident Commander(s), Agency Administrator(s) or Multi-Agency Coordination Group.",
+        "Prepare briefing materials incorporating fire behavior outputs, maps, Predictive Services products as necessary."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 16,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain on-going communication on the incident as necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Advise on situational assessment, possible alternatives with developed contingency actions, values to be protected and management action points.",
+        "Review recommended actions and implementation to ensure it is consistent with agency direction; recommend corrective actions if necessary.",
+        "Brief Incident Commander, Command & General Staff, and/or Agency Administrator as necessary."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 17,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop the Course of Action for a long-term wildfire incident.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Review Strategic Objectives and Management Requirements prior to course of action implementation to ensure plan requirements are met.",
+        "Develop and evaluate appropriate Planning Area.",
+        "Evaluate identified threats to life, property and other values at risk in terms of recommended management actions, resources needed, production rates, placement requirements, contingency actions, emergency stabilization and rehabilitation needs to ensure the Course of Action adequately addresses concerns and any necessary mitigation is feasible.",
+        "Discuss and establish recommended management actions with Incident Commander, Agency Administrator and designated Resource Advisors.",
+        "Obtain long term assessments of weather and fire behavior to develop strategy and tactics associated with the Course of Action. Consider impacts of smoke in course of action."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 18,
+      "category": "Administer and/or apply agency policy, contracts and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with local Resource Advisor or other designated agency representative and identify issues regarding regulatory environmental compliance and mitigation to ensure concerns are adequately addressed in the Course of Action.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Smoke",
+        "Threatened and endangered species",
+        "Heritage resources",
+        "Wilderness plans",
+        "Wetland",
+        "Watershed"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 19,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate consistency between strategic objectives and management requirements as stated in the Wildland Fire Decision Support System, and objectives and requirements for the incident.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 20,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Utilize risk assessment information in developing Course of Action.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Values to be protected",
+        "Fire spread projections",
+        "Pertinent information on current size, observed fire behavior, fire effects, and forecasted weather elements",
+        "Fuel characteristics likely to affect fire behavior and fire effects.",
+        "Impacts resulting from projected smoke production.",
+        "Resource availability"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 21,
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop risk assessments for the incident based on values, hazards and probability.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Relative Risk Assessment chart",
+        "Long-term Risk Assessment",
+        "Fire probabilities using FSPro",
+        "Values at risk"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 22,
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Consider and document hazards and mitigations in the development of Course of Action.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 23,
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow the Risk Management Process in the development of the Management Actions within the Course of Action.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Base proposed actions on appropriate risk analysis.",
+        "Plan appropriate tactics.",
+        "Assess public safety issues."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 24,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate existing Course of Action to determine if identified resource and protection objectives can be met through plan implementation.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Review IAP’s or other relevant plans for accurate implementation of Course of Action and provide input.",
+        "Identify potential changes over time for long duration events that could affect successful implementation of strategic directions and management action points.",
+        "Evaluate potential changes in fuels which could affect fire behavior and future management actions."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 25,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recommend modifications to Course of Action.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Evaluate success in meeting incident objectives and requirements.",
+        "Utilize field observations on fire behavior and fire effects to recommend modifications to Course of Action. Advise Incident Commander, FMO, and/or Agency Administrator of findings and recommendations.",
+        "Evaluate the impacts of additional wildfire starts in adjacent areas.",
+        "Evaluate impact of extreme weather events."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 26,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure the Course of Action is consistent with the risk assessment and addresses safety concerns.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Work with the safety officer to ensure elements are addressed in the 215A.",
+        "Develop actions that adequately address safety concerns."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 27,
+      "category": "Ensure operations consider socio-economic, political and cultural aspects.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify special areas of concern and describe management actions to address concerns.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Socio-economic impacts",
+        "Public safety",
+        "Local special events"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 28,
+      "category": "Ensure operations consider socio-economic, political and cultural aspects.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop recommended management actions consistent with the wilderness, natural, and cultural resource values in the agency policy and local Land Management Plan(s).",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 29,
+      "category": "Ensure operations consider socio-economic, political and cultural aspects.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop cost estimates for individual Management Action Points within the proposed Course of Action.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "SOPL",
+      "task_number": 30,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and implement a plan for transfer of duties.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Contains accurate assessment of the situation.",
+        "Complete transition of functional duties in a timely, smooth, and efficient manner.",
+        "Develop appropriate material for Transfer of Command plan as required.",
+        "Ensure no adverse impact on safety or productivity."
+      ],
+      "page": 14
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

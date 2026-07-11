@@ -1,0 +1,240 @@
+{
+  "document": {
+    "filename": "pms311-88_ACPC.pdf",
+    "sha256": "b0c926a20a909633b7c5e551f8ffaae573071a181cda845f9a2a00d7479109d0",
+    "pms_number": "311-88",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "ACPC"
+    ],
+    "title": "Assistant Area Commander, Planning",
+    "edition_date": "JUNE 2009",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 11
+  },
+  "positions": [
+    {
+      "code": "ACPC",
+      "title": "Assistant Area Commander, Planning",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "ACPC",
+      "task_number": 1,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from Area Commander.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Area command issues.",
+        "Status of incidents and assigned resources.",
+        "Competition for resources.",
+        "Factors affecting resource prioritization."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ACPC",
+      "task_number": 2,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assemble information on individual incident strategies and objectives and determine potential conflicts.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Wildland fire decision support documentation",
+        "Delegations of Authority",
+        "Objectives from Incident Action Plan (IAP)",
+        "List of Incident Management Team (IMT) critical resources",
+        "Maps",
+        "Incident Status Summaries",
+        "Agency Administrator direction"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ACPC",
+      "task_number": 3,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships (e.g., IMTs, agencies, cooperators, command and general staff).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ACPC",
+      "task_number": 4,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate and communicate potentially hazardous situations.",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ACPC",
+      "task_number": 5,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ACPC",
+      "task_number": 6,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare and facilitate area command briefings as requested.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "ACPC",
+      "task_number": 7,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain an Area Command Incident Status Summary including critical resources by operational period by incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "ACPC",
+      "task_number": 8,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain a log of strategic decisions and significant events for inclusion in area command final package.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Area command briefing agenda(s) and schedules.",
+        "Phone lists/organization charts.",
+        "Area command Delegations of Authority, roles, performance and other written Agency Administrator direction.",
+        "IMT performance ratings.",
+        "Dated priority/critical resources."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ACPC",
+      "task_number": 9,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare and distribute area command team decisions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "ACPC",
+      "task_number": 10,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine availability, status and condition of committed and uncommitted resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "ACPC",
+      "task_number": 11,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare recommendations for allocation and/or reassignment of critical resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "ACPC",
+      "task_number": 12,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish direction for demobilization of critical resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "ACPC",
+      "task_number": 13,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure demobilization plans are coordinated between IMTs and dispatches.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

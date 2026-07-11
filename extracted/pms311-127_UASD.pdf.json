@@ -1,0 +1,429 @@
+{
+  "document": {
+    "filename": "pms311-127_UASD.pdf",
+    "sha256": "70030c43615bc1f041e4016a64023dad1d0f3c2c679966aa84d35cbfccb2534c",
+    "pms_number": "311-127",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "UASD"
+    ],
+    "title": "Unmanned Aircraft Systems, Data Specialist",
+    "edition_date": "JULY 2025",
+    "ips_reference": "350-127",
+    "official": true,
+    "page_count": 11
+  },
+  "positions": [
+    {
+      "code": "UASD",
+      "title": "Unmanned Aircraft Systems, Data Specialist",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "UASD",
+      "task_number": 1,
+      "category": "Leadership Level 1, Follower (Provide Action)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communications skills.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure individual readiness.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 3,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather critical information pertinent to the assignment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 4,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble incident materials needed for assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 5,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Travel to and check in at the assignment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 6,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from incident supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 7,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish a common operating picture. Perform Unmanned Aircraft Systems, Data",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 8,
+      "category": "Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine final data product(s), delivery location, and delivery time/method.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 9,
+      "category": "Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate travel to and from the fireline.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 10,
+      "category": "Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Locate the Launch and Recovery Zone (LRZ).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 11,
+      "category": "Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish work area.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 12,
+      "category": "Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist with UAS pre-mission-related activities.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 13,
+      "category": "Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist with UAS pre-flight preparation as needed.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 14,
+      "category": "Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Acquire, store, and manage data, and maintain metadata necessary to facilitate incident UAS operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 15,
+      "category": "Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create intelligence deliverable(s).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 16,
+      "category": "Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Disseminate intelligence products, data, and imagery to incident personnel per established protocols or as necessary for the situation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 17,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate effectively using multichannel radios.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 18,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 19,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish communications and exchange necessary briefings/information with relevant team members.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 20,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process as stated in the NWCG Incident Response Pocket Guide (IRPG), PMS 461: identify hazards, assess hazards, develop controls and make risk decisions, implement controls, and supervise and evaluate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 21,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure Lookouts, Communications, Escape Routes, and Safety Zones (LCES) are in place.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 22,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Use Look Up, Down, and Around in the NWCG Incident Response Pocket Guide (IRPG), PMS 461 to help maintain situational awareness and adjust actions accordingly.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 23,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan for medical emergencies.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 24,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and appropriately act on hazardous situations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 25,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in and respond to mishaps as directed.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 26,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage and provide intelligence deliverables for incident documentation history.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASD",
+      "task_number": 27,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "During transfer of command, ensure continuity of operations, exchange critical safety information, and communicate transfer of authority through established chain of command.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 8
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 8
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 8
+    }
+  ],
+  "extra_fields": {}
+}

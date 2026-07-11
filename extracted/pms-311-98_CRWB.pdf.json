@@ -1,0 +1,557 @@
+{
+  "document": {
+    "filename": "pms-311-98_CRWB.pdf",
+    "sha256": "2d55c139e7dcb3c2ee749926d740f3a3156c6ecf5462a15add3275e2cdfb33b1",
+    "pms_number": "311-98",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "CRWB"
+    ],
+    "title": "Crew Boss, Single Resource",
+    "edition_date": "MAY 2024",
+    "ips_reference": "350-98",
+    "official": true,
+    "page_count": 12
+  },
+  "positions": [
+    {
+      "code": "CRWB",
+      "title": "Crew Boss, Single Resource",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "CRWB",
+      "task_number": 1,
+      "category": "Leadership Level 2, New Leader (Convey Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications.",
+      "code_raw": "ALL",
+      "code_alternatives": [
+        "ALL"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 2,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief assigned personnel using Incident Action Plan (IAP) and/or NWCG Incident Response Pocket Guide (IRPG), PMS 461, Briefing Checklist.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 3,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and communicate chain of command, reporting procedures, risk management processes, and radio frequency management.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 4,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish a common operating picture with supervisors and subordinates.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 5,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and communicate performance expectations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 6,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure incident objectives and leader’s intent (task, purpose, end state) are met.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 7,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify, analyze, and use relevant situational information to make informed decisions and take appropriate actions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 8,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Base actions on evolving situational awareness and communicate changes to appropriate personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 9,
+      "category": "Perform Crew Boss-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Effectively lead crew operations: Determine appropriate fireline tactics, including indirect and direct attack strategies.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 10,
+      "category": "Perform Crew Boss-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Effectively lead crew operations: Properly locate fireline and determine appropriate fireline construction methods necessary to stop fire spread. Ensure completion to acceptable standards.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 11,
+      "category": "Perform Crew Boss-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Effectively lead crew operations: Supervise water handling logistics and operations for crew (e.g., portable pumps, hoses, fold-a-tanks).",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 12,
+      "category": "Perform Crew Boss-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Effectively lead crew operations: Supervise felling operations, including appropriate snag mitigation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 13,
+      "category": "Perform Crew Boss-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Effectively lead crew operations: Prepare control lines for burnout operations.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 14,
+      "category": "Perform Crew Boss-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Effectively lead crew operations: Plan, direct, and supervise firing operations.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 15,
+      "category": "Perform Crew Boss-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Effectively lead crew operations: Scout line in critical areas and patrol fireline for spot fires and slopovers. Coordinate and communicate issues with fireline supervisor and adjoining resources.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 16,
+      "category": "Perform Crew Boss-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Effectively lead crew operations: Supervise mop-up and suppression repair efforts on assigned portion of line.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 17,
+      "category": "Perform Crew Boss-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure proper refurbishing and resupply of tools, vehicles, food, water, and supplies.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 18,
+      "category": "Perform Crew Boss-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assess work area to meet assigned objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 19,
+      "category": "Perform Crew Boss-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and implement tactics based on incident objectives, fire behavior, risk assessment and leader's intent.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 20,
+      "category": "Perform Crew Boss-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize and deploy crew based on current objectives and resource capabilities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 21,
+      "category": "Perform Crew Boss-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Request, direct, and provide feedback to aerial resources through established chain of command.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 22,
+      "category": "Perform Crew Boss-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide status updates on conditions affecting operations, hazardous conditions, unresolved conflicts, air operations, etc., to supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 23,
+      "category": "Perform Crew Boss-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Equip crew with appropriate short and long-term logistical needs for assignment and utilize correct procedures to obtain additional supplies.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 24,
+      "category": "Perform Crew Boss-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather and/or disseminate information using maps, compass, Global Position System (GPS), and other tools and applications.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 25,
+      "category": "Perform Crew Boss-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide timely updates of accurate information and recommendations using the chain of command to assist with the planning process.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 26,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow established processes and chain of command for collecting, producing, and distributing information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 27,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure clear understanding of expectations and timely communication within and across Incident Command System (ICS) functional areas and chain of command.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 28,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish communications and exchange necessary briefings/information with the following: support resources, adjacent resources, and supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 29,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct and/or participate in After Action Reviews (AAR).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 30,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Use Look Up, Down, and Around in IRPG to help maintain situational awareness. Adjust actions accordingly.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 31,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and communicate contingency plans and trigger points.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 32,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide input into the risk management process to ensure safety of operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 33,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process as stated in the IRPG. Identify hazards, assess hazards, develop controls and make risk decisions, implement controls, supervise, and evaluate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 34,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure Lookouts, Communications, Escape Routes, and Safety Zones (LCES) are in place.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 35,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan for medical emergencies. Ensure that assigned resources are prepared to execute the Medical Plan (ICS 206 WF). Ensure familiarity with medical responders, communication procedures, and transportation plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "CRWB",
+      "task_number": 36,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete all administrative tasks and documentation in an accurate and timely manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 9
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 9
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    }
+  ],
+  "extra_fields": {}
+}

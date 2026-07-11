@@ -1,0 +1,281 @@
+{
+  "document": {
+    "filename": "pms311-22_HECM.pdf",
+    "sha256": "f92e02c4a977318768dcb1a0740b676388422b64084e96a5499d9d77fd22053b",
+    "pms_number": "311-22",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "HECM"
+    ],
+    "title": "Helicopter Crew Member",
+    "edition_date": "MARCH 2025",
+    "ips_reference": "350-22",
+    "official": true,
+    "page_count": 10
+  },
+  "positions": [
+    {
+      "code": "HECM",
+      "title": "Helicopter Crew Member",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "HECM",
+      "task_number": 1,
+      "category": "Leadership Level 1, Follower (Provide Action)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communications skills.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "HECM",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Travel to and check in at assignment. Perform Helicopter Crewmember-Specific",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "HECM",
+      "task_number": 3,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Use personal protective equipment (PPE) properly.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "HECM",
+      "task_number": 4,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and appropriately apply load calculations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "HECM",
+      "task_number": 5,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare and manage cargo.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "HECM",
+      "task_number": 6,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare manifests.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "HECM",
+      "task_number": 7,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief and direct personnel for passenger transport.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "HECM",
+      "task_number": 8,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify in-flight helicopter emergency procedures and demonstrate proper crash rescue actions.",
+      "code_raw": "S",
+      "code_alternatives": [
+        "S"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "HECM",
+      "task_number": 9,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure familiarity with helicopter configurations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "HECM",
+      "task_number": 10,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Construct and/or manage a helispot.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "HECM",
+      "task_number": 11,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage a dipsite.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "HECM",
+      "task_number": 12,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate with helicopters.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "HECM",
+      "task_number": 13,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate strong verbal communication skills.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "HECM",
+      "task_number": 14,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure proper use of radios.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "HECM",
+      "task_number": 15,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "HECM",
+      "task_number": 16,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure Lookouts, Communications, Escape Routes, and Safety Zones (LCES) are established and known as stated in the NWCG Incident Response Pocket Guide (IRPG), PMS 461.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "HECM",
+      "task_number": 17,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare for and implement demobilization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 7
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 7
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    }
+  ],
+  "extra_fields": {}
+}

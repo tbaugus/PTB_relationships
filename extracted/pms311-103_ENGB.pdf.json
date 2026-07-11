@@ -1,0 +1,389 @@
+{
+  "document": {
+    "filename": "pms311-103_ENGB.pdf",
+    "sha256": "2a55990446a79664a755b1be5a068003410e93e3c0dc45dc1f4b67a1f1d4d92a",
+    "pms_number": "311-103",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "ENGB"
+    ],
+    "title": "Engine Boss, Single Resource",
+    "edition_date": "JANUARY 2026",
+    "ips_reference": "350-103",
+    "official": true,
+    "page_count": 11
+  },
+  "positions": [
+    {
+      "code": "ENGB",
+      "title": "Engine Boss, Single Resource",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "ENGB",
+      "task_number": 1,
+      "category": "Leadership Level 2, New Leader (Convey Content)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, an d apply effective communications.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure individual readiness.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 3,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Travel to and check in at assignment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 4,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather critical information pertinent to the assignment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 5,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assemble and validate readiness of crew, equipment, and vehicles.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 6,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing, objectives, and intent from supervisor.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 7,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief assigned personnel on situation, mission/execution, communications, service/support, and risk management.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 8,
+      "category": "Perform Engine Boss, Single Resource-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop, implement, and adjust tactics based on incident objectives, fire behavior, risk assessment, and leader’s intent.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 9,
+      "category": "Perform Engine Boss, Single Resource-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Scout line in critical areas and patrol fireline.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 10,
+      "category": "Perform Engine Boss, Single Resource-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure proper water delivery system design and implementation.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 11,
+      "category": "Perform Engine Boss, Single Resource-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Supervise, direct, and lead direct attack operations.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 12,
+      "category": "Perform Engine Boss, Single Resource-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Supervise, direct, and lead indirect attack operations.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 13,
+      "category": "Perform Engine Boss, Single Resource-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Supervise and participate in firing operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 14,
+      "category": "Perform Engine Boss, Single Resource-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure proper refurbishing and resupply of vehicles, equipment, and supplies.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 15,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure personnel can effectively use multichannel radios.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 16,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure effective communication with adjacent resources and supervisors within the established chain of command.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 17,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in operational briefings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 18,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct and/or participate in After Action Reviews (AARs).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 19,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 20,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Account for location, health, safety, and welfare of assigned personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 21,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and communicate contingency plans and trigger points.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 22,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan for and manage medical emergencies.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 23,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete all administrative tasks and documentation in an accurate and timely manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ENGB",
+      "task_number": 24,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare for and implement demobilization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 8
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 8
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 8
+    }
+  ],
+  "extra_fields": {}
+}

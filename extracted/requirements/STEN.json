@@ -1,0 +1,49 @@
+{
+  "position_code": "STEN",
+  "required_training": [
+    "ICS-300, Intermediate ICS for Expanding Incidents",
+    "IS-800, National Response Framework, An Introduction",
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-215, Fire Operations in the Wildland/Urban Interface",
+    "S-330, Task Force/Strike Team Leader"
+  ],
+  "required_experience": [
+    "Satisfactory performance as an Engine Boss, Single Resource ( ENGB )",
+    "AND Completion and Certification of NWCG Strike Team Leader Engine (STEN) Position Task Book , PMS 311-10 (see note)"
+  ],
+  "required_experience_prereq_codes": [
+    "ENGB"
+  ],
+  "physical_fitness": "Physical Fitness Level: Moderate",
+  "currency_maintained_by": [
+    "Division/Group Supervisor ( DIVS )",
+    "Engine Boss, Single Resource ( ENGB )",
+    "Helicopter Coordinator ( HLCO )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Operation Section Chief Complex ( OSCC )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )",
+    "Prescribed Fire Burn Boss Type 1 ( RXB1 )",
+    "Prescribed Fire Burn Boss Type 2 ( RXB2 )",
+    "Safety Officer Type 3 ( SOF3 )",
+    "Strike Team Leader ( STCR , STEQ )",
+    "Structure Protection Specialist ( STPS )",
+    "Task Force Leader ( TFLD )"
+  ],
+  "maintains_currency_for": [
+    "Division/Group Supervisor ( DIVS )",
+    "Engine Boss, Single Resource ( ENGB )",
+    "Firefighter Type 1 ( FFT1 )",
+    "Firefighter Type 2 ( FFT2 )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Incident Commander Type 4 ( ICT4 )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )",
+    "Safety Officer, Field ( SOFF )",
+    "Safety Officer Type 3 ( SOF3 )",
+    "Strike Team Leader ( STCR , STEQ )",
+    "Task Force Leader ( TFLD )"
+  ],
+  "other_training": [
+    "L-380, Fireline Leadership"
+  ],
+  "note": "The Task Force Leader ( TFLD ) and Strike Team Leader ( STCR , STEN, STEQ ,) PTBs are combined. However, the positions are not combined. Strike Team Leader tasks are completed only once. The required experience for TFLD must be met before completing additional TFLD tasks. Upon satisfactory performance in the prerequisite Single Resource Boss position, the specific Strike Team Leader PTB may be initiated. Once qualified as a Strike Team Leader, any additional Single Resource Boss qualifications will also qualify the individual in that corresponding Strike Team Leader position\u2014without having to complete the Strike Team Leader PTB for the new position\u2014once agency certification is documented on the PTB \u201cverification/certification\u201d page."
+}

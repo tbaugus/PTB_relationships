@@ -1,0 +1,391 @@
+{
+  "document": {
+    "filename": "pms311-92_FWPT.pdf",
+    "sha256": "4d4f87d3369608b818d3e28d569e1d8d94830871de7261a9f7451ce2827b8c38",
+    "pms_number": "311-92",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "FWPT"
+    ],
+    "title": "Fixed Wing Parking Tender",
+    "edition_date": null,
+    "ips_reference": null,
+    "official": true,
+    "page_count": 13
+  },
+  "positions": [
+    {
+      "code": "FWPT",
+      "title": "Fixed Wing Parking Tender",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "FWPT",
+      "task_number": 1,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit (can be electronic or hard copies). Suggested items:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Interagency Airtanker Base Operations Guide",
+        "Local Aviation Management Plan",
+        "Interagency Airtanker Base Directory",
+        "Interagency Aviation Technical Assistance Directory",
+        "National and Regional Mobilization Guides",
+        "Current Interagency Standards for Fire and Fire Aviation Operations",
+        "Personal protective equipment (eye and ear protection, safety vest, gloves, light wands, etc.)"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 2,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Travel for assignment",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Obtain information from dispatch upon assignment. o o o o o o o o",
+        "Authorization for use of equipment (radio, headset, laptop, cell phone, rental vehicle)"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 3,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from Airtanker/Fixed Wing Base Manager or supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Local administrative guidelines",
+        "Resources assigned and ordered for the incident",
+        "Expectations",
+        "Copy of the local base supplement and other relevant plans o o o o o o",
+        "Unit specific information"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 4,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate professionalism.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Integrate in a diverse work environment",
+        "Respectful and courteous",
+        "Respectful of public and private property"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 5,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Agency and contract personnel",
+        "Fixed Base Operators (FBO)",
+        "Airport Management",
+        "Airport Fire Department",
+        "Pilot and maintenance personnel"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 6,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate knowledge of agency policy and appropriate behavior while on assignment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 7,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 8,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow safety guidelines.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Familiarize on local safety supplements, procedures and protocols, known hazards, etc.",
+        "Enforce established safety guidelines",
+        "Identify and corrects unsafe actions or conditions",
+        "Mitigate or correct hazards and safety concerns at the lowest level",
+        "Comply with Personal Protective Equipment (PPE) requirement"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 9,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Aircraft and/or airtanker operations",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Demonstrate knowledge of: o o o o o o",
+        "Monitor and ensure the safety of all fueling operations",
+        "Enforce agency policy on retardant hot loading and simultaneous loading fueling operations, simultaneous fueling and passenger/cargo loading operations"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 10,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Security Demonstrate knowledge of and enforces security protocols and proper identification of personnel on the aircraft ramp",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 11,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Decision Making",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Demonstrate sound decision making in complex situations and under stress"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 12,
+      "category": "Model leadership values and principles",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement",
+        "Seek responsibility and accept responsibility for your actions",
+        "Set the example"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 13,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Monitor condition of assigned resources",
+        "Account for assigned resources",
+        "Provide for care of assigned personnel and notify supervisor in event of sickness, injury, or accident"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 14,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Ramp Manager",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure assigned area of responsibility is maintained and monitored for duration of operational period",
+        "Acquire necessary radio equipment and ensures function",
+        "Review base emergency and accident response plans and understands responsibilities"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 15,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Aircraft and/or airtanker operations",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide communication and direction to aircraft for separation and safety during aircraft movement",
+        "If needed relay aircrew needs (retardant, fuel, maintenance, meals, drinks, rest, lavatory, and refuse services, etc. to appropriate personnel)",
+        "Monitor and ensure the safety of fueling operations in parking tender’s assigned area o o"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 16,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ramp operations",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate movement of aircraft, vehicles, equipment, and personnel in the parking tender’s assigned area on the aircraft ramp",
+        "Ensure ramp cleanliness in the parking tender’s assigned area. All fuel and retardant spills are promptly cleaned according to established environmental and/or hazardous materials procedures",
+        "Conduct Foreign Object Damage (FOD) walks daily or more often if necessary during fixed-wing operations"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 17,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Hand signals",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Utilize Federal Aviation Administration (FAA) approved marshalling signals and techniques",
+        "Marshal fixed-wing aircraft ensuring hand signals are known and understood by base and aircraft personnel",
+        "Start, stop, turn, and otherwise safely direct the ground movement of fixed-wing aircraft"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 18,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Wing-walking",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Involved in aircraft movement briefing ensuring all participants understand roles and responsibilities before and during movement of the aircraft",
+        "Understand emergency stop signals and procedures",
+        "Verify the safety and clearance of the wingtip/tail in reference to any object, building, or other aircraft o"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 19,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Radio Use",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Understand airbase radio use and etiquette",
+        "Understand when to use the radio to alert the pilot to an emergency situation"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "FWPT",
+      "task_number": 20,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend briefings and meetings",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide information",
+        "Keep Ramp Manager informed on issues and potential problems"
+      ],
+      "page": 11
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

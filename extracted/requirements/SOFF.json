@@ -1,0 +1,25 @@
+{
+  "position_code": "SOFF",
+  "required_training": [
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-204, Interpersonal and Critical Thinking Skills for Safety Officers"
+  ],
+  "required_experience": [
+    "Satisfactory performance as Strike Team Leader ( STCR , STEN , STEQ )",
+    "AND Completion and Certification of NWCG Position Task Book for Safety Officer, Field (SOFF) , PMS 311-81"
+  ],
+  "required_experience_prereq_codes": [
+    "STEQ"
+  ],
+  "physical_fitness": "Physical Fitness Level: Arduous",
+  "currency_maintained_by": [],
+  "maintains_currency_for": [
+    "Single Resource Boss ( CRWB , ENGB , FELB , FIRB , HEQB )"
+  ],
+  "other_training": [
+    "ICS-300, Intermediate ICS for Expanding Incidents",
+    "L-380, Fireline Leadership",
+    "L-381, Incident Leadership"
+  ],
+  "note": "The Safety Officer, Field (SOFF) position is not a prerequisite to the NWCG Safety Officer Type 3 ( SOF3 ) position."
+}

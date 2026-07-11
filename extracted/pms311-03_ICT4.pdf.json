@@ -1,0 +1,761 @@
+{
+  "document": {
+    "filename": "pms311-03_ICT4.pdf",
+    "sha256": "1c58c8a75a52c852735ac099e2d8daef06a581fb99041b26f74705d4b731e2cd",
+    "pms_number": "311-03",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "ICT4"
+    ],
+    "title": "Incident Commander Type 4",
+    "edition_date": "JUNE 2009",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 16
+  },
+  "positions": [
+    {
+      "code": "ICT4",
+      "title": "Incident Commander Type 4",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "ICT4",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit. Kit will be assembled and prepared prior to receiving an assignment. Kit will contain critical items needed for the assignment and items needed for functioning during the first 48 hours. Kit will be easily transportable and within agency weight limitation (per National Interagency Mobilization Guide). Suggested items:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Agency-specific forms appropriate to the function",
+        "PMS 461, Incident Response Pocket Guide (IRPG)",
+        "PMS 410-1, Fireline Handbook",
+        "ICS 201, Incident Briefing",
+        "ICS 202, Incident Objectives",
+        "ICS 214, Unit Log",
+        "List of local radio frequencies and pertinent phone numbers (telephone directory).",
+        "Belt weather kit and/or other weather monitoring devices."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review agency policies relevant to this position.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 3,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure appropriate qualifications of incident personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 4,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Using the Size-Up Report checklist in the IRPG, gather and prepare available information necessary to make appropriate decisions about immediate needs and actions.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 5,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 6,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Using the Fireline Handbook, organize assigned personnel into configurations which will meet incident/tactical objectives.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Communicate by giving specific instructions and asking for feedback.",
+        "Supervise at the scene of action.",
+        "Anticipate and provide support needs."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 7,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish command and control.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Announce presence as Incident Commander to incident personnel and dispatch.",
+        "Confirm resource and situation status."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 8,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop the organization structure necessary to manage the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Maintain appropriate span of control."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 9,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recognize jurisdictional boundaries and which authorities/agencies should be involved.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Mutual aid.",
+        "Initial attack agreements.",
+        "Fire management objectives."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 10,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 11,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 12,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well- being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 13,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 14,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Using the Risk Management Process in the IRPG, provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Account for assigned resources."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 15,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assign personnel to utilize skills and qualifications, and make adjustments as needed.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 16,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure subordinates understand assignment for operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide clear, concise instructions and allow for feedback."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 17,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually evaluate performance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Communicate deficiencies immediately and take corrective action.",
+        "Provide training opportunities where available.",
+        "Complete personnel performance evaluations according to agency guidelines."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 18,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 19,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief and keep subordinates informed throughout the incident using the Incident IRPG briefing checklist.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 20,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide status updates to supervisor and/or dispatch.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 21,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide fire report information to supervisor and/or dispatch.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 22,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief and maintain communication with specialized resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Air operations",
+        "Tractor/plows",
+        "Dozers",
+        "Firing/ignition resources",
+        "Fire use modules"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 23,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct After Action Reviews (AARs) using the IRPG.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 24,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Initiate and maintain appropriate agency documentation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 25,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Submit complete documentation to supervisor, designated officer or dispatch as required or at end of incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Employee time report",
+        "Accidents and injuries report",
+        "Fire report"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 26,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate by giving specific instructions and asking for feedback.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Acknowledge messages.",
+        "Ask if you don’t know."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 27,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure appropriate situation awareness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 28,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop a plan of action.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Intent",
+        "Incident objective(s)",
+        "Strategy(ies)",
+        "Tactics",
+        "Logistical needs",
+        "Communications/Frequency management"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 29,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain incident objectives from designated officer, supervisor, or dispatch.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 30,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify values to be protected.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 31,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Considering incident objectives, set priorities, and implement appropriate tactics.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 32,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate incident progress.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Continually evaluate incident complexity.",
+        "Monitor tactical operations.",
+        "Compare actual progress to planned tactics.",
+        "Decide if plan will accomplish incident objectives."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 33,
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Comply with agency/area dispatch protocol.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Complete agency initial attack fire size-up using IRPG."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 34,
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain, monitor, and document fire weather forecasts and other environmental factors to anticipate changes in fire behavior.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 35,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine if incident complexity exceeds Incident Commander’s skill level.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Utilize an incident complexity analysis checklist.",
+        "Consult with supervisor, designated officer or dispatch."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 36,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine when incident objectives are met.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 37,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure the Risk Management Process is maintained.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 38,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Implement appropriate tactics.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 39,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure the general area of fire origin is secured.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Determine if there is a need for fire investigation."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 40,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Re-evaluate and adjust assignments based on changing conditions or situations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 41,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Re-evaluate the risk management process.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Advise subordinates of changes."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 42,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure safety information covering hazards and relevant safety principles is included in plan of action.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 43,
+      "category": "Ensure operations consider socio-economic, political and cultural aspects.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow local direction to maintain environmental quality and avoid damage to social or cultural environment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Notify supervisor of historical/cultural resources found."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 44,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Using the Fireline Handbook, coordinate an efficient transfer of position duties when mobilizing/ demobilizing.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "No adverse impact on safety or productivity.",
+        "Inform subordinate staff and IC.",
+        "Document follow-up action needed and submit to supervisor."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "ICT4",
+      "task_number": 45,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief subordinate staff on demobilization procedures and responsibilities.",
+        "Ensure incident and agency demobilization procedures are followed."
+      ],
+      "page": 14
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

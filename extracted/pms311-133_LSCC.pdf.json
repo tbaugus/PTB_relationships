@@ -1,0 +1,684 @@
+{
+  "document": {
+    "filename": "pms311-133_LSCC.pdf",
+    "sha256": "978780bdfc96d7d9a562011c58c30a936e5a594b77e21348cabcc0b41de8e47d",
+    "pms_number": "311-133",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "LSCC"
+    ],
+    "title": "Logistics Section Chief Complex",
+    "edition_date": "JANUARY 2023",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 13
+  },
+  "positions": [
+    {
+      "code": "LSCC",
+      "title": "Logistics Section Chief Complex",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "LSCC",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete required team management responsibilities.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Section recruitment and selection",
+        "Standard operating procedures",
+        "Team building",
+        "Section roster",
+        "Necessary equipment"
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 2,
+      "category": "Understand and comply with incident safety procedures and practices.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure section areas integrate safety considerations into all aspects of section management.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 3,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate staffing needs required to manage the section.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Organize to meet the needs for management and control of the section.",
+        "Make appropriate decisions about immediate needs and actions.",
+        "Order additional resources through established channel.",
+        "Identify training opportunities."
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 4,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan and activate section.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify units within the section to be activated and order resources required for section operation.",
+        "Identify workspace requirements and determine locations.",
+        "Brief unit leaders on current and anticipated activity.",
+        "Provide initial operating instructions to section personnel."
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 5,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from Agency Administrator and/or outgoing Incident Commander (IC).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident information – e.g., wildland fire decision support documentation; Incident Briefing, (ICS 201); Incident Objectives, (ICS 202).",
+        "Organizational structure (area command or single organization).",
+        "Special considerations (e.g., Threatened and Endangered species, political, hazards, high recreation use, noxious weeds).",
+        "Resources assigned, en route, on order, and local resource status (including initial attack as it relates to the Logistics section).",
+        "Facilities established and other options.",
+        "Anticipated incident duration, size, and type.",
+        "Key contact list with phone and fax numbers.",
+        "Cooperators."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from Incident Commander (one- on-one or in Incident Management Team (IMT) meeting).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident Commander’s priorities, goals, and objectives for IMT and the incident.",
+        "Initial instructions concerning the tasks expected of the Logistics Section.",
+        "Expected timeframes for briefings, planning meetings, and team meetings."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 7,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Collect information from outgoing Logistics Section Chief or other personnel responsible for incident prior to your arrival.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Status of incident and assigned resources.",
+        "Status of existing Logistics section.",
+        "Status of agreements (e.g., land use, cost share, blanket purchase, water).",
+        "Other information relevant to Logistics section (e.g., ICP/base/camp locations, medical facilities, road closures)."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 8,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised, and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 9,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well-being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 10,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 11,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with the Liaison Officer and Law Enforcement Partners for the Security of all incident facilities – ICP, Base Camp, FOB(s), Drop Points.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 12,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Safety Officer to ensure all facilities and incident locations incorporate best safety practices for personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 13,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources are following safety guidelines appropriately.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 14,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage operational periods to achieve objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Evaluate need for extended operational periods.",
+        "Ensure adequate work/rest ratio."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 15,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure work/rest guidelines and length of assignments are monitored and followed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 16,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure subordinates understand assignment for operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 17,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually evaluate performance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Communicate deficiencies immediately and take corrective action.",
+        "Provide training opportunities where available.",
+        "Complete personnel performance evaluations according to agency guidelines."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 18,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 19,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 20,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish priorities and coordinate units within the section.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 21,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Interact and coordinate with command staff, general staff, and appropriate unit leaders.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive and transmit current and accurate information (e.g., claims and potential claims, work/rest guidelines)."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 22,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with other individuals and organizations to meet section needs (e.g., law enforcement, county, health department, resource advisors).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 23,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Share pertinent logistics information that may affect the team’s management of the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 24,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Update Incident Commander on current accomplishments and/or concerns.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform Incident Commander as soon as possible of problems."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 25,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure logistics expectations are communicated to other functional areas during meetings and briefings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Leaders Intent",
+        "Common Operating Picture"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 26,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in operational period briefing.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Changes from the Incident Action Plan (IAP)",
+        "Section-specific information"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 27,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide daily briefings to section personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Expected duration and size of incident."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 28,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in agency administrator closeout/after action review (AAR).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 29,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply agency policy, legal and fiscal constraints, and political considerations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Strategic plans (e.g., wildland fire decision",
+        "IAP or other relevant plan.",
+        "Cost containment."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 30,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure release priorities address contractual requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate with Finance/Administration."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 31,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in preparation of the IAP or relevant plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Develop applicable portions of the IAP – e.g., Medical Plan, (ICS 206); Incident Radio Communications Plan, (ICS 205); Transportation Plan; special instructions."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 32,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist in development and implementation of Incident Demobilization Plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate with Demobilization Unit/Planning Section Chief.",
+        "Coordinate with local agency concerning functional demobilization procedures.",
+        "Brief staff on demobilization responsibilities."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 33,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate and monitor current situation to determine if present plan of action will meet incident objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 34,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in Strategic Operation Plan and Strategic Risk Analysis.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Align with agency decision document(s) plan for long term duration, financial implications, and Post Fire Rehab.",
+        "Assist in developing goals which limits the local and political impacts to communities."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 35,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in Daily Tactics Meetings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Plan for long duration.",
+        "Coordinate changes based on staffing and supply needs."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 36,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Adjust incident support based on changing conditions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Weather",
+        "Incident escalation/de-escalation",
+        "Incident within an incident",
+        "Political considerations"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 37,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Consider transition early in the incident.",
+        "Inform subordinate staff and IC.",
+        "Document follow-up actions needed and submit to agency representative."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 38,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure incident documentation is completed as required by the Incident Commander.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Activity Log, (ICS 214).",
+        "Personnel and equipment time records to Time Unit Leader each operational period.",
+        "Incident reports and narrative prior to leaving incident."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "LSCC",
+      "task_number": 39,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assemble and upload relevant Logistics/Unit Leader Documents for final incident package.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Land Use Agreements",
+        "Waybills & Issue Reports",
+        "General Message, (ICS 213)",
+        "Invoices"
+      ],
+      "page": 11
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 5
+    }
+  ],
+  "extra_fields": {}
+}

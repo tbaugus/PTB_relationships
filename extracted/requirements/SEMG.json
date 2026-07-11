@@ -1,0 +1,39 @@
+{
+  "position_code": "SEMG",
+  "required_training": [
+    "A-103, Temporary Flight Restrictions and Advisory Notices to Airmen (NOTAMs)",
+    "A-115, Automated Flight Following",
+    "A-203, Basic Airspace",
+    "ICS-100, Introduction to ICS",
+    "ICS-200, ICS for Single Resources and Initial Action Incidents",
+    "IS-700, NIMS: An Introduction",
+    "RT-273, Single Engine Airtanker Manager Workshop (Triennial)",
+    "S-270, Basic Air Operations",
+    "S-273, Single Engine Airtanker Manager"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Ramp Manager ( RAMP )",
+    "AND Completion and Certification of NWCG Single Engine Airtanker Manager (SEMG) Position Task Book , PMS 311-61"
+  ],
+  "required_experience_prereq_codes": [
+    "RAMP"
+  ],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Airtanker Base Manager ( ATBM )",
+    "Fixed Winged Base Manager ( FWBM )",
+    "Ramp Manager ( RAMP )"
+  ],
+  "maintains_currency_for": [
+    "Aircraft Timekeeper ( ATIM )",
+    "Fixed Winged Parking Tender ( FWPT )",
+    "Ramp Manager ( RAMP )"
+  ],
+  "other_training": [
+    "D-110, Expanded Dispatch Recorder",
+    "L-180, Human Factors in the Wildland Fire Service",
+    "S-130, Firefighter Training",
+    "S-190, Introduction to Wildland Fire Behavior"
+  ],
+  "note": null
+}

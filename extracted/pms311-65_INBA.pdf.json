@@ -1,0 +1,481 @@
+{
+  "document": {
+    "filename": "pms311-65_INBA.pdf",
+    "sha256": "db9dd7708bdfe74f4bfa0a9fe77c3abcd6adf038bb96badb63ff4b0dc9cdf839",
+    "pms_number": "311-65",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "INBA"
+    ],
+    "title": "Incident Business Advisor",
+    "edition_date": "OCTOBER 2014",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 15
+  },
+  "positions": [
+    {
+      "code": "INBA",
+      "title": "Incident Business Advisor",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "INBA",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit. Suggested items:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "PMS 210, Wildland Fire Incident Management Field Guide",
+        "PMS 902, Interagency Incident Business Management Handbook (IIBMH)",
+        "IIBMH annual supplements",
+        "Geographic area supplements",
+        "PMS 926, Agency Administrator’s Guide to Critical Incident Management.",
+        "Interagency Standards for Fire and Fire Aviation",
+        "National Interagency Mobilization Guide",
+        "Incident Business Coordinators list – Federal and State",
+        "Local, unit and geographical area telephone listings (obtain from incident unit)",
+        "Geographic area specific agreements (National Guard, crew, engine/tender, cooperative)",
+        "State business management guidelines",
+        "National contracts (Mobile Food Service and Shower, Call When Needed (CWN) Helicopter, Crews and Engines, Mobile Commissary)",
+        "Buying Team Guide",
+        "Military Use Handbook",
+        "Geographic area mobilization guide and/or local mobilization guide",
+        "Expanded dispatch plan",
+        "IBA narrative template",
+        "IBA evaluation form",
+        "ICS 213, General Message"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Incident order number",
+        "Request number",
+        "Incident phone number",
+        "Reporting time",
+        "Reporting location",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 3,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain resources to organize work space and complete assignments (e.g., computer, printer, and cell phone).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Order materials and supplies needed (with host agency approval)."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 4,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assess incident assignment and determine immediate needs and actions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Contact host agency to determine specific reference items needed."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 5,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from Agency Administrator or designee.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Agency Administrator’s priorities, goals, and objectives for management of the incident",
+        "Expectations, roles, and responsibilities",
+        "Initial instructions concerning business management priorities",
+        "Agency Administrator’s guidelines or instructions for cost containment",
+        "Information about agencies involved and political concerns",
+        "Agency requirements for regional and/or national reviews",
+        "Timeframes for briefings, planning meetings, and/or agency staff meetings"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain copies of incident information from Agency Administrator or designee.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Wildland fire decision support documentation",
+        "Delegation of Authority",
+        "Incident Action Plans (IAP) or other relevant plan",
+        "Names, contact numbers, and positions/functions of cooperating/assisting agencies"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 7,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Collect information from departing personnel (e.g., outgoing Incident Management Team (IMT), initial attack Incident Commander, agency staff).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "IMT transition plan",
+        "IMT operating guidelines",
+        "Fiscal/business issues and concerns",
+        "Documentation of expenditures/costs",
+        "Controversial issues"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 8,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct self in a professional manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Respectful and courteous",
+        "Respectful of public and private property"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 9,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 10,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Maintain appropriate span of control.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 11,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate and share with Agency Administrator and other agency staff pertinent information which may affect incident business management.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review agency guidelines for incident business management with appropriate staff.",
+        "Meet with host agency staff and support unit personnel (e.g., buying team, payment team, expanded dispatch, dispatch center manager) throughout the incident assignment to identify and discuss concerns and share information."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 12,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan and/or participate in briefings, planning meetings, and agency staff meetings to emphasize business management priorities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Communicate Agency Administrator incident business guidelines, direction, issues and concerns.",
+        "Facilitate resolution of incident business management issues."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 13,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Update Agency Administrator on current accomplishments and/or concerns.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Summary information on current incident business management operations.",
+        "Decisions made and changes recommended in direction or policy."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 14,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in agency administrator close-out/After Action Review (AAR).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 15,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in individual close-out meetings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Agency administrative staff",
+        "Incident Finance/Administration Section"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 16,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain a daily record of activities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 17,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure agency incident finance package requirements are met.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 18,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete narrative and review with Agency Administrator.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Share advice/recommendations/critique."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 19,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Interact and coordinate with agency staff, IMT, and other support units to receive and provide current information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide contact information.",
+        "Schedule visits to incident command post (ICP), incident agency, and support units.",
+        "Schedule conference calls as needed."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 20,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Serve as incident business liaison.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Area Command",
+        "Unified Command",
+        "Multi-Agency Coordinating (MAC) group"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 21,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review incident business reports/documents to ensure agency direction is being met and requested reports are accurate and timely.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Wildland fire decision support documentation",
+        "Contracts",
+        "Memorandums of understanding",
+        "Cooperative agreements",
+        "Cost share agreements",
+        "Cost reports generated by IMT",
+        "Agency operating guidelines"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 22,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Advise Agency Administrator regarding resource needs throughout the assignment (e.g., buying team, payment team).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 23,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review incident demobilization plan and provide input to Agency Administrator as necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 24,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform subordinate staff and IC.",
+        "Document follow-up action needed and submit to supervisor (e.g., description of issue, name of contact, and contact telephone numbers)."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "INBA",
+      "task_number": 25,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demobilize and check out.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive demobilization instructions from incident supervisor.",
+        "Ensure incident and agency demobilization procedures are followed."
+      ],
+      "page": 13
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

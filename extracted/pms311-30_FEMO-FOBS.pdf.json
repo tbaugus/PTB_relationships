@@ -1,0 +1,950 @@
+{
+  "document": {
+    "filename": "pms311-30_FEMO-FOBS.pdf",
+    "sha256": "6fb182f673d2e95184a3d2e7f0d5bf53ba1fb6d1c8fd6ea1042fc67a98d814c9",
+    "pms_number": "311-30",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "FEMO",
+      "FOBS"
+    ],
+    "title": "Fire Effects Monitor or Field Observer",
+    "edition_date": "SEPTEMBER 2012",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 18
+  },
+  "positions": [
+    {
+      "code": "FEMO",
+      "title": "Fire Effects Monitor",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    },
+    {
+      "code": "FOBS",
+      "title": "Field Observer",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "FEMO",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Belt weather kit",
+        "Ruler/scale",
+        "Global Positioning System (GPS) with computer cable",
+        "Compass",
+        "Calculator",
+        "PMS 461, Incident Response Pocket Guide (IRPG)",
+        "PMS 410-1, Fireline Handbook"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Incident order number",
+        "Request number",
+        "Incident phone number",
+        "Reporting time",
+        "Reporting location",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)",
+        "Current situation",
+        "Authorization for use of equipment (laptops GPS, rental vehicle)"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 3,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive at incident and check in.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Arrive properly equipped at assigned location within acceptable time limits.",
+        "Notify dispatch of any time delays."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain appropriate work materials, supplies, and equipment to complete assignment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Order supplies and equipment using established procedures."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 5,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from assignment supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Organizational structure",
+        "Weather",
+        "Fire behavior",
+        "Communications",
+        "Resources",
+        "Safety"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review agency wildland fire procedures, policies and regulations related to position.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Read appropriate agency manuals and handbooks.",
+        "Review recent changes in agency/interagency policies and directives related to position responsibilities."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 7,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct self in a professional manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Respectful and courteous.",
+        "Respectful of public and private property."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 8,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 9,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify and contact assigned supervisor",
+        "Follow chain of command.",
+        "Maintain appropriate span of control.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 10,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide monitoring summary for assigned area.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Compare observed fire behavior and effects, with planned or anticipated effects.",
+        "Describe in narrative format how well wildland fire objectives were met."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 11,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recon project or assigned area and plot the project area and/or fire perimeter on a map. Review maps and overlays of reported data to ensure accuracy.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Record geographical and topographical features (e.g., roads, fuel breaks, improvements, hazards).",
+        "Determine and record incident perimeter and identify potential changes.",
+        "Identify and map values potentially affected by fire or fire operations."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 12,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate effectively with supervisor, fire operations staff, and as appropriate, crew members and adjoining resources.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Advise supervisor of progress and results, equipment problems, safety of assigned personnel.",
+        "Request assistance to meet monitoring or observation objectives.",
+        "Advise crew members of potential or impending safety hazards.",
+        "Inform crew members of appropriate mitigation actions (e.g., posting of lookouts, identification of safety zones and escape routes)."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 13,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review the project objectives, monitoring plan or management objectives as appropriate. Communicate concerns to supervisor.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Components for monitoring standards, timeliness, and available resources.",
+        "Expected sampling intensity, required documentation with respect to fire behavior, and expected fire effects.",
+        "Relationship of the prescription factors, project objectives, and monitoring plan.",
+        "Relationship of the management objectives, fire effects and data collection.",
+        "Potential safety hazards as they relate to the collection of data.",
+        "Smoke management requirements."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 14,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor, obtain, and record weather data.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Recognize the differences among general, local and convective winds on a fire management operation.",
+        "Identify, observe and record appropriate weather data such as mid-flame wind speed, wind direction, relative humidity and other characteristics that influence fire behavior.",
+        "Document rationale for selection of suitable weather sampling site(s)."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 15,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor and record fire behavior data throughout the fire management operation.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Observe and record appropriate fire behavior characteristics, such as rate of spread, flame length, residence time.",
+        "Characterize and report the range of variability of first order fire effects due to changes in fire behavior."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 16,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor and record smoke management information.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Recognize and report visibility problems.",
+        "Maintain communications with the local air quality contacts, National Weather Service, weather observers, lookouts.",
+        "Identify smoke characteristics, including inversions, wind sheared columns, direction of smoke flow, and smoke impacts to sensitive sites."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 17,
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recognize and report atmospheric characteristics that influence fire behavior.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Fire whirls, their causes, and associated fire control problems.",
+        "Winds associated with thunderstorm cells and their effect on fire behavior.",
+        "Wind speed changes and direction shifts associated with cold front passage and the effects on fire behavior.",
+        "Other indications of an unstable atmosphere."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 18,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct monitoring and observation operations according to the Standard Fire Orders, Watch Out Situations, and LCES (Lookouts, Communications, Escape Routes, Safety Zones) principles.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Location of established safety zones and escape routes.",
+        "Fire behavior and safety hazards which endanger personnel."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 19,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demobilize and check out.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive demobilization instructions from incident supervisor.",
+        "If required, complete ICS 221, Demobilization Checkout and submit completed form to the appropriate person."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 20,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify the roles and responsibilities of the Fire Effects Monitor on the incident.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 21,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Document first order fire effects related to fire treatment or management objectives and constraints.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Burn pattern",
+        "Fuel loadings and consumption",
+        "Burn severity",
+        "Plant mortality",
+        "Scorch height",
+        "Depth of burn",
+        "Hydrophobicity",
+        "Air quality",
+        "Water quality",
+        "Property damage"
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 22,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Collect appropriate fuel, soil, and vegetation samples for moisture analysis.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Observe and record topographic and vegetation feature influence fuel moistures (e.g., slope, aspect, shading, canopy cover, tree height)."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 23,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Contact and coordinate with appropriate personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Contact and coordinate with Division/Group Supervisor when entering or leaving a division/group.",
+        "Validate existing products with key personnel (e.g., Geographical Information System Specialist (GISS), Operations Section Chief)."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "FEMO",
+      "task_number": 24,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform subordinate staff and IC.",
+        "Document follow-up action needed and submit to supervisor.",
+        "Submit all required documentation",
+        "Brief replacement."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Belt weather kit",
+        "Ruler/scale",
+        "Global Positioning System (GPS) with computer cable",
+        "Compass",
+        "Calculator",
+        "PMS 461, Incident Response Pocket Guide (IRPG)",
+        "PMS 410-1, Fireline Handbook"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Incident order number",
+        "Request number",
+        "Incident phone number",
+        "Reporting time",
+        "Reporting location",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)",
+        "Current situation",
+        "Authorization for use of equipment (laptops GPS, rental vehicle)"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 3,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive at incident and check in.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Arrive properly equipped at assigned location within acceptable time limits.",
+        "Notify dispatch of any time delays."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain appropriate work materials, supplies, and equipment to complete assignment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Order supplies and equipment using established procedures."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 5,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from assignment supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Organizational structure",
+        "Weather",
+        "Fire behavior",
+        "Communications",
+        "Resources",
+        "Safety"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review agency wildland fire procedures, policies and regulations related to position.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Read appropriate agency manuals and handbooks.",
+        "Review recent changes in agency/interagency policies and directives related to position responsibilities."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 7,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct self in a professional manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Respectful and courteous.",
+        "Respectful of public and private property."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 8,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 9,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify and contact assigned supervisor",
+        "Follow chain of command.",
+        "Maintain appropriate span of control.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 10,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide monitoring summary for assigned area.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Compare observed fire behavior and effects, with planned or anticipated effects.",
+        "Describe in narrative format how well wildland fire objectives were met."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 11,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recon project or assigned area and plot the project area and/or fire perimeter on a map. Review maps and overlays of reported data to ensure accuracy.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Record geographical and topographical features (e.g., roads, fuel breaks, improvements, hazards).",
+        "Determine and record incident perimeter and identify potential changes.",
+        "Identify and map values potentially affected by fire or fire operations."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 12,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate effectively with supervisor, fire operations staff, and as appropriate, crew members and adjoining resources.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Advise supervisor of progress and results, equipment problems, safety of assigned personnel.",
+        "Request assistance to meet monitoring or observation objectives.",
+        "Advise crew members of potential or impending safety hazards.",
+        "Inform crew members of appropriate mitigation actions (e.g., posting of lookouts, identification of safety zones and escape routes)."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 13,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review the project objectives, monitoring plan or management objectives as appropriate. Communicate concerns to supervisor.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Components for monitoring standards, timeliness, and available resources.",
+        "Expected sampling intensity, required documentation with respect to fire behavior, and expected fire effects.",
+        "Relationship of the prescription factors, project objectives, and monitoring plan.",
+        "Relationship of the management objectives, fire effects and data collection.",
+        "Potential safety hazards as they relate to the collection of data.",
+        "Smoke management requirements."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 14,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor, obtain, and record weather data.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Recognize the differences among general, local and convective winds on a fire management operation.",
+        "Identify, observe and record appropriate weather data such as mid-flame wind speed, wind direction, relative humidity and other characteristics that influence fire behavior.",
+        "Document rationale for selection of suitable weather sampling site(s)."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 15,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor and record fire behavior data throughout the fire management operation.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Observe and record appropriate fire behavior characteristics, such as rate of spread, flame length, residence time.",
+        "Characterize and report the range of variability of first order fire effects due to changes in fire behavior."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 16,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor and record smoke management information.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Recognize and report visibility problems.",
+        "Maintain communications with the local air quality contacts, National Weather Service, weather observers, lookouts.",
+        "Identify smoke characteristics, including inversions, wind sheared columns, direction of smoke flow, and smoke impacts to sensitive sites."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 17,
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recognize and report atmospheric characteristics that influence fire behavior.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Fire whirls, their causes, and associated fire control problems.",
+        "Winds associated with thunderstorm cells and their effect on fire behavior.",
+        "Wind speed changes and direction shifts associated with cold front passage and the effects on fire behavior.",
+        "Other indications of an unstable atmosphere."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 18,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct monitoring and observation operations according to the Standard Fire Orders, Watch Out Situations, and LCES (Lookouts, Communications, Escape Routes, Safety Zones) principles.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Location of established safety zones and escape routes.",
+        "Fire behavior and safety hazards which endanger personnel."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 19,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demobilize and check out.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive demobilization instructions from incident supervisor.",
+        "If required, complete ICS 221, Demobilization Checkout and submit completed form to the appropriate person."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 20,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify the roles and responsibilities of the Fire Effects Monitor on the incident.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 21,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Document first order fire effects related to fire treatment or management objectives and constraints.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Burn pattern",
+        "Fuel loadings and consumption",
+        "Burn severity",
+        "Plant mortality",
+        "Scorch height",
+        "Depth of burn",
+        "Hydrophobicity",
+        "Air quality",
+        "Water quality",
+        "Property damage"
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 22,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Collect appropriate fuel, soil, and vegetation samples for moisture analysis.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Observe and record topographic and vegetation feature influence fuel moistures (e.g., slope, aspect, shading, canopy cover, tree height)."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 23,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Contact and coordinate with appropriate personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Contact and coordinate with Division/Group Supervisor when entering or leaving a division/group.",
+        "Validate existing products with key personnel (e.g., Geographical Information System Specialist (GISS), Operations Section Chief)."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 24,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform subordinate staff and IC.",
+        "Document follow-up action needed and submit to supervisor.",
+        "Submit all required documentation",
+        "Brief replacement."
+      ],
+      "page": 16
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 7
+    }
+  ],
+  "extra_fields": {}
+}

@@ -1,0 +1,406 @@
+{
+  "document": {
+    "filename": "pms311-14_FFT1.pdf",
+    "sha256": "990a294391da114466c49d592d476d581ab4c0a7ae4fdba4586ca9e5ed78020f",
+    "pms_number": "311-14",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "FFT1"
+    ],
+    "title": "Firefighter Type 1",
+    "edition_date": "APRIL 2026",
+    "ips_reference": "350-14",
+    "official": true,
+    "page_count": 11
+  },
+  "positions": [
+    {
+      "code": "FFT1",
+      "title": "Firefighter Type 1",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "FFT1",
+      "task_number": 1,
+      "category": "Leadership Level 1, Follower (Provide Action)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communications skills.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather critical information pertinent to the assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 3,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review Incident Action Plan (IAP) and obtain briefing, objectives, and leader’s intent from supervisor.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 4,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assemble and validate readiness of crew, equipment, and vehicles.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 5,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief assigned personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 6,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify, analyze, and use relevant situational information to make more informed decisions and take appropriate actions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 7,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Adjust actions based on changing information/situation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 8,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor performance and provide immediate and regular feedback.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 9,
+      "category": "Perform Firefighter Type 1 (Squad Boss)- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Locate and scout the fireline.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 10,
+      "category": "Perform Firefighter Type 1 (Squad Boss)- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Act as a lookout.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 11,
+      "category": "Perform Firefighter Type 1 (Squad Boss)- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Implement appropriate line construction tactics and methods.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 12,
+      "category": "Perform Firefighter Type 1 (Squad Boss)- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Mentor and train assigned resources in safe firefighting practices.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 13,
+      "category": "Perform Fireline Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate and provide feedback to aerial resources.",
+      "code_raw": "W/RX/S",
+      "code_alternatives": [
+        "W",
+        "RX",
+        "S"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 14,
+      "category": "Perform Fireline Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify spot fires and slopovers.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 15,
+      "category": "Perform Fireline Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide status updates on conditions affecting operations, hazardous conditions, air operations, etc. to supervisor.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 16,
+      "category": "Perform Fireline Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow protocols as directed for protection of natural, cultural, and other resources.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 17,
+      "category": "Perform Fireline Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "With limited supervision, execute tasks assigned by the supervisor.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 18,
+      "category": "Perform Fireline Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in Wildland Urban Interface (WUI) operations according to guidelines stated in the NWCG Incident Response Pocket Guide (IRPG), PMS 461; incident-specific objectives and guidelines; and agency-specific guidance.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 19,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate effectively.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 20,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Use multichannel radios correctly.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 21,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct and/or participate in After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 22,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 23,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure Lookouts, Communications, Escape Routes, and Safety Zones (LCES) are established and known.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 24,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure own and others’ safety and welfare in all aspects of the job.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FFT1",
+      "task_number": 25,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete all administrative tasks and documentation in an accurate and timely manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 8
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 8
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 8
+    }
+  ],
+  "extra_fields": {}
+}

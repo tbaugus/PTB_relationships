@@ -1,0 +1,790 @@
+{
+  "document": {
+    "filename": "pms311-123_PSCC.pdf",
+    "sha256": "ffccefa3a7f295df8c9ac075ed9d4685e1b1cc924b68c09d08aae7a371fbeeb2",
+    "pms_number": "311-123",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "PSCC"
+    ],
+    "title": "Planning Section Chief Complex",
+    "edition_date": "JANUARY 2023",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 15
+  },
+  "positions": [
+    {
+      "code": "PSCC",
+      "title": "Planning Section Chief Complex",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "PSCC",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete required team management responsibilities.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Section recruitment and selection",
+        "Standard operating procedures",
+        "Team building",
+        "Section roster",
+        "Necessary equipment"
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 2,
+      "category": "Understand and comply with incident safety procedures and practices.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure section areas integrate safety considerations into all aspects of section management.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 3,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate staffing needs required to manage the section.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Organize to meet the needs for management and control of the section.",
+        "Make appropriate decisions about immediate needs and actions.",
+        "Order additional resources through established channel.",
+        "Identify training opportunities."
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 4,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from Agency Administrator and/or outgoing Incident Commander.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident information [e.g., Incident Briefing, (ICS 201); Incident Objectives, (ICS 202); wildland fire decision support documentation; Written Delegation of Authority; copy of most recent Incident Status Summary, (ICS 209); map(s) of the incident].",
+        "Copies of current Resource Orders, (ICS 260), and resources committed to incident.",
+        "Key contact list with phone and fax numbers."
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 5,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from Incident Commander (one-on-one or in Incident Management Team (IMT) meeting).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "IC's priorities, goals, and objectives for IMT and the incident.",
+        "Initial instructions concerning the tasks expected of the Planning Section.",
+        "Expected timeframes for briefings, planning meetings, and team meetings."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Collect information from outgoing Planning Section Chief or other personnel responsible for incident prior to arrival.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Status of incident and assigned resources.",
+        "Status of existing Planning Section."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 7,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically, and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised, and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 8,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well-being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 9,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 10,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage operational periods to achieve objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Evaluate need for extended operational periods.",
+        "Ensure adequate work/rest ratio."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 11,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure the strategic and operational risk management processes are maintained, documented, and communicated at all levels of the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 12,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure subordinates understand assignment for operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 13,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually evaluate performance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Communicate deficiencies immediately and take corrective action.",
+        "Provide training opportunities where available.",
+        "Complete personnel performance evaluations according to agency guidelines."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 14,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 15,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 16,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish priorities and coordinate units within the section.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 17,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Interact and coordinate with command staff, general staff, and appropriate unit leaders.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive and transmit current and accurate information.",
+        "Communicate changes to the Incident Action Plan (IAP) or relevant plan.",
+        "Ensure the Resource Unit Leader is advised of changes in status of resources assigned to the operation. Keep status current."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 18,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate incident rehabilitation needs with responsible agencies and environmental specialists.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Fire Suppression Rehabilitation",
+        "Burned Area Emergency Response"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 19,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Facilitate Planning Section meetings and share pertinent information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Expected duration",
+        "Changes in objectives or strategy(ies)",
+        "Additional responsibilities",
+        "Changes in jurisdictional involvement"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 20,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Schedule and conduct operational period briefings",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "30 minutes or less",
+        "Incident objectives (Incident Commander or Planning Section Chief)",
+        "Current situation (Operations Section Chief)",
+        "Weather information (Incident Meteorologist or Fire Behavior Analyst)",
+        "Fire behavior (Fire Behavior Analyst)",
+        "Work assignments (Operations Section Chief)",
+        "Air operations summary (Air Operations Branch Director)",
+        "Safety message (Safety Officer)",
+        "Other applicable information (e.g., Logistics, Finance, Planning, Information, Liaison, Resource Advisors/agency representatives)",
+        "Changes from the written IAP",
+        "Incident Commander’s remarks"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 21,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure presenters are aware of and adhere to meeting responsibilities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Operational briefing",
+        "Pre-planning/strategy meeting",
+        "Planning meeting"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 22,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure planning staff has specific assignments and responsibilities to support the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Division of duties",
+        "Work parameters"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 23,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Facilitate Agency Administrator close-out/After Action Review (AAR).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 24,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply agency policy, legal and fiscal constraints, and political considerations when reviewing and developing plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Strategic plans (e.g., wildland fire decision support documentation, Delegation of Authority)",
+        "IAP or other relevant plan",
+        "Cost containment"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 25,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure work/rest guidelines and length of assignments are monitored and followed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 26,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure release priorities address contractual requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate with Finance/Administration."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 27,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate and monitor current situation to determine if present plan of action will meet incident objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Use technical specialists, operations personnel,",
+        "Advise command and general staff of significant"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 28,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine if the agency’s strategic plan and wildland fire decision support documentation is appropriate and can be supported.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Ensure alignment & understanding of values, strategy, and risk at all levels of the incident and with the host agency.",
+        "WFDSS, incident objectives, strategic plans and risk assessments, and incident action plans provide consistent and transparent messages."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 29,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Facilitate and/or participate in preplanning/strategy meetings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 30,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Facilitate and/or participate in strategic risk assessment and strategic operations meetings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 31,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish, adhere to, and maintain incident planning cycle.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Publish, distribute, and post planning cycle."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 32,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure alignment and understanding of values, strategy, and risk at all levels of the incident and with the host agency.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "WFDSS, incident objectives, strategic plans and risk assessments, and incident action plans provide consistent and transparent messages."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 33,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Inform identified attendees of planning meeting time, location, and information expected of them.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Define meeting objectives, agenda, and time expectations.",
+        "Post agenda at appropriate locations."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 34,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct planning meetings.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Complete in 30 minutes or less.",
+        "Review and validate incident objectives (Incident Commander or Planning Section Chief).",
+        "Provide current situation (Operations Section Chief).",
+        "Present weather information (Incident Meteorologist or Fire Behavior Analyst).",
+        "Present fire behavior (Fire Behavior Analyst).",
+        "Present work assignments as outlined on Operational Planning Worksheet, (ICS 215), (Operations Section Chief).",
+        "Present Air Operations Summary , (ICS 220), (Air Operations Branch Director).",
+        "Present Incident Action Plan Safety Analysis, (ICS 215A), (Safety Officer).",
+        "Ensure the proposed plan can be implemented and supported by section chiefs and agency representatives.",
+        "Identify IAP elements required from other sections and time needed by the Planning Section."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 35,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Modify and present revised incident objectives to command and general staff.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 36,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Revise planning cycle when appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Meeting time and location",
+        "Operational periods"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 37,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure planning staff completes and compiles required elements of the IAP within required timeframes.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Obtain elements from other appropriate sections.",
+        "Assemble the elements into an IAP.",
+        "Ensure the IAP links management and control",
+        "Obtain the Incident Commander’s approval and",
+        "Identify how many copies of IAP are needed."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 38,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure distribution of copies of IAP at the operational briefing.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 40,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure incident documentation is completed as required by the Incident Commander.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Activity Logs, (ICS 214).",
+        "Personnel and equipment time records to Time Unit Leader each operational period.",
+        "Incident reports, executive summary, and/or narrative prior to leaving incident.",
+        "Final documentation package to host agency."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 41,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Update Incident Commander as soon as possible on current accomplishments and/or problems.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 42,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Implement demobilization plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure realistic release priorities.",
+        "Address agency, cooperating/assisting",
+        "Minimize contract, transportation, and personnel",
+        "Ensure incident and agency demobilization safety"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 43,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and implement a plan for transfer of command.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Include accurate assessment of the situation.",
+        "Identify incident needs.",
+        "Identify release priorities.",
+        "Include date and time of transition and transfer of command.",
+        "Complete transition of functional duties in a timely, smooth, and efficient manner.",
+        "Facilitate transfer of command meeting.",
+        "Brief subordinates."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 44,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure planning staff completes or supports completion of other relevant plans within required timeframes.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Contingency plan(s) as needed (e.g., evacuation/ sheltering, structure protection)",
+        "Demobilization plan",
+        "Transfer of command plan"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "PSCC",
+      "task_number": 45,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Consider transition early in the incident.",
+        "Inform subordinate staff and Incident Commander.",
+        "Document follow-up action needed and submit to agency representative."
+      ],
+      "page": 13
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 5
+    }
+  ],
+  "extra_fields": {}
+}

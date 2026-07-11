@@ -1,0 +1,283 @@
+{
+  "document": {
+    "filename": "pms311-124_LTAN.pdf",
+    "sha256": "799f44229f8f6a9c008368f6243d41a99c40720c853ed3b37540cc03a50f7fd5",
+    "pms_number": "311-124",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "LTAN"
+    ],
+    "title": "Long Term Fire Analyst",
+    "edition_date": "JULY 2025",
+    "ips_reference": "350-124",
+    "official": true,
+    "page_count": 11
+  },
+  "positions": [
+    {
+      "code": "LTAN",
+      "title": "Long Term Fire Analyst",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "LTAN",
+      "task_number": 1,
+      "category": "Leadership Level 3, Leader of People (Develop Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Leaders of people have increasing challenges. They accept responsibility, not only for their own actions, but for those of their team. Leaders of people act to develop credibility as leaders: placing the team ahead of themselves, demonstrating trustworthiness, mastering essential technical skills, and instilling the values of the organization in their teams. For additional information, review the Level 3 description, expected behaviors and knowledge, suggested development goals, and self-study opportunities.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "LTAN",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather situational awareness about the fire environment.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "LTAN",
+      "task_number": 3,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Travel to an assignment and check in at the Incident Command Post (ICP).",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "LTAN",
+      "task_number": 4,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain in-brief from incident leadership.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "LTAN",
+      "task_number": 5,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide leadership and ensure collaboration with assigned resources. Perform Long Term Fire Analyst-Specific",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "LTAN",
+      "task_number": 6,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Collect, assess, and monitor weather information from data sources for potential influences on fire behavior.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "LTAN",
+      "task_number": 7,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate fuel conditions and topography for potential influences on fire behavior.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "LTAN",
+      "task_number": 8,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Use spatial modeling programs to develop fire behavior outputs and products for strategic planning.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "LTAN",
+      "task_number": 9,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Interpret and communicate spatial fire behavior model outputs in a way that supports informed strategic planning decisions.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "LTAN",
+      "task_number": 10,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assess long term fire spread and behavior.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "LTAN",
+      "task_number": 11,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide fire behavior briefings to key audiences.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "LTAN",
+      "task_number": 12,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor fire behavior to validate projections and forecasts.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "LTAN",
+      "task_number": 13,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create and preserve all required fire behavior documentation.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "LTAN",
+      "task_number": 14,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct and/or participate in After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "LTAN",
+      "task_number": 15,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate, communicate, and mitigate potential impacts to personnel and the team.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "LTAN",
+      "task_number": 16,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete all required administrative tasks and documentation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 8
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 8
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 8
+    }
+  ],
+  "extra_fields": {}
+}

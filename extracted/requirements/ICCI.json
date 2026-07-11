@@ -1,0 +1,50 @@
+{
+  "position_code": "ICCI",
+  "required_training": [
+    "ICS-400, Advanced ICS for Command and General Staff",
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-420, Command and General Staff OR L-481, Advanced Leadership for Command and General Staff OR O-305, Type 3 All-Hazard Incident Management Team",
+    "S-520, Advanced Incident Management OR Complex Incident Management Course (CIMC)"
+  ],
+  "required_experience": [
+    "Satisfactory performance as an Incident Commander \u00a0Type 3 ( ICT3 )",
+    "AND Completion and Certification of the NWCG Incident Commander Complex (ICCI) Position Task Book , PMS 311-101"
+  ],
+  "required_experience_prereq_codes": [
+    "ICT3"
+  ],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Area Commander ( ACDR )",
+    "Assistant Area Commander Logistics ( ACLC )",
+    "Assistant Area Commander Planning ( ACPC )",
+    "Finance/Administration Section Chief Complex ( FSCC )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Logistics Section Chief Complex ( LSCC )",
+    "Operations Section Chief Complex ( OSCC )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )",
+    "Planning Section Chief Complex ( PSCC )",
+    "Safety Officer Complex ( SOFC )"
+  ],
+  "maintains_currency_for": [
+    "Agency Representative ( AREP )",
+    "Area Commander ( ACDR )",
+    "Assistant Area Commander Logistics ( ACLC )",
+    "Assistant Area Commander Planning ( ACPC )",
+    "Finance/Administration Section Chief Complex ( FSCC )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Liaison Officer ( LOFR )",
+    "Logistics Section Chief Complex ( LSCC )",
+    "Operations Branch Director ( OPBD )",
+    "Operations Section Chief Complex ( OSCC )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )",
+    "Planning Section Chief Complex ( PSCC )",
+    "Safety Officer Complex ( SOFC )"
+  ],
+  "other_training": [
+    "E/L 950, All-Hazards Position Specific Incident Commander",
+    "L-480, Organizational Leadership in the Fire Service",
+    "L-580, Leadership is Action"
+  ],
+  "note": null
+}

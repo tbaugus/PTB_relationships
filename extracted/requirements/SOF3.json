@@ -1,0 +1,34 @@
+{
+  "position_code": "SOF3",
+  "required_training": [
+    "ICS-300, Intermediate ICS for Expanding Incidents",
+    "ICS-400, Advanced ICS for Command and General Staff",
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)"
+  ],
+  "required_experience": [
+    "Satisfactory performance as Strike Team Leader ( STCR , STEN , STEQ )",
+    "AND Completion and Certification of NWCG Safety Officer Type 3 (SOF3) Position Task Book , PMS 311-82"
+  ],
+  "required_experience_prereq_codes": [
+    "STEQ"
+  ],
+  "physical_fitness": "Physical Fitness Level: Moderate",
+  "currency_maintained_by": [
+    "Incident Commander Type 4 ( ICT4 )",
+    "Safety Officer Complex ( SOFC )",
+    "Strike Team Leader ( STCR , STEN , STEQ )",
+    "Task Force Leader ( TFLD )"
+  ],
+  "maintains_currency_for": [
+    "Single Resource Boss ( CRWB , ENGB , FELB , FIRB , HEQB )",
+    "Incident Commander Type 4 ( ICT4 )",
+    "Safety Officer Complex ( SOFC )",
+    "Safety Officer, Field ( SOFF )",
+    "Strike Team Leader ( STCR , STEN , STEQ )",
+    "Task Force Leader ( TFLD )"
+  ],
+  "other_training": [
+    "S-320, Introduction to Incident Management Teams"
+  ],
+  "note": null
+}

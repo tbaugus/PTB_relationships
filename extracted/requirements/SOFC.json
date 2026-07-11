@@ -1,0 +1,29 @@
+{
+  "position_code": "SOFC",
+  "required_training": [
+    "ICS-400, Advanced ICS for Command and General Staff",
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-420, Command and General Staff OR L-481, Advanced Leadership for Command and General Staff OR O-305, Type 3 All-Hazard Incident Management Team",
+    "S-520, Advanced Incident Management OR Complex Incident Management Course (CIMC)"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Division/Group Supervisor ( DIVS )",
+    "AND Completion and Certification of NWCG Safety Officer Complex (SOFC) Position Task Book , PMS 311-104"
+  ],
+  "required_experience_prereq_codes": [
+    "DIVS"
+  ],
+  "physical_fitness": "Physical Fitness Level: Moderate",
+  "currency_maintained_by": [],
+  "maintains_currency_for": [
+    "Division/Group Supervisor ( DIVS )",
+    "Incident Commander Complex ( ICCI )",
+    "Safety Officer Type 3 ( SOF3 )"
+  ],
+  "other_training": [
+    "L-480, Organizational Leadership in the Wildland Fire Service",
+    "L-580, Leadership is Action",
+    "S-404, Safety Officer"
+  ],
+  "note": null
+}

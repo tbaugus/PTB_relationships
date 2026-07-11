@@ -1,0 +1,48 @@
+{
+  "position_code": "DIVS",
+  "required_training": [
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-339, Division/Group Supervisor",
+    "S-390, Introduction to Wildland Fire Behavior Calculations"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Task Force Leader ( TFLD )",
+    "AND Completion and Certification of NWCG Division/Group Supervisor (DIVS) Position Task Book , PMS 311-09"
+  ],
+  "required_experience_prereq_codes": [
+    "TFLD"
+  ],
+  "physical_fitness": "Physical Fitness Level: Arduous",
+  "currency_maintained_by": [
+    "Air Tactical Group Supervisor ( ATGS )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Operations Branch Director ( OPBD )",
+    "Operations Section Chief Complex ( OSCC )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )",
+    "Safety Officer Complex ( SOFC )",
+    "Strike Team Leader ( STCR , STEN , STEQ )",
+    "Structure Protection Specialist ( STPS )",
+    "Task Force Leader ( TFLD )"
+  ],
+  "maintains_currency_for": [
+    "Crew Representative ( CREP )",
+    "Firefighter Type 1 ( FFT1 )",
+    "Firefighter Type 2 ( FFT2 )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Incident Commander Type 4 ( ICT4 )",
+    "Operations Branch Director ( OPBD )",
+    "Operations Section Chief Complex ( OSCC )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )",
+    "Safety Officer Complex ( SOFC )",
+    "Single Resource Boss ( CRWB , ENGB , FELB , FIRB , HEQB )",
+    "Strategic Operational Planner ( SOPL )",
+    "Strike Team Leader ( STCR , STEN , STEQ )",
+    "Structure Protection Specialist ( STPS )",
+    "Task Force Leader ( TFLD )"
+  ],
+  "other_training": [
+    "L-381, Incident Leadership",
+    "S-320, Introduction to Incident Management Teams"
+  ],
+  "note": "Once qualified as a DIVS, the OPS3 qualification may be granted by the certifying official. Certification must be documented."
+}

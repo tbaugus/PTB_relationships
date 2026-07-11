@@ -1,0 +1,32 @@
+{
+  "position_code": "FACL",
+  "required_training": [
+    "ICS-300, Intermediate ICS for Expanding Incidents",
+    "IS-800, National Response Framework, An Introduction"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Base/Camp Manager ( BCMG )",
+    "AND Completion and Certification of NWCG Facilities Unit Leader (FACL) Position Task Book , PMS 311-34"
+  ],
+  "required_experience_prereq_codes": [
+    "BCMG"
+  ],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Base/Camp Manager ( BCMG )",
+    "Logistics Section Chief Complex ( LSCC )",
+    "Logistics Section Chief Type 3 ( LSC3 )",
+    "Receiving/Distribution Manager ( RCDM )"
+  ],
+  "maintains_currency_for": [
+    "Base/Camp Manager ( BCMG )",
+    "Logistics Section Chief Complex ( LSCC )",
+    "Logistics Section Chief Type 3 ( LSC3 )"
+  ],
+  "other_training": [
+    "L-380, Fireline Leadership",
+    "S-320, Introduction to Incident Management Teams",
+    "S-354, Facilities Unit Leader"
+  ],
+  "note": "Once qualified as a FACL, the LSC3 qualification may be granted by the certifying official. Certification must be documented on a \u201cverification/certification\u201d page of the LSC3 PTB."
+}

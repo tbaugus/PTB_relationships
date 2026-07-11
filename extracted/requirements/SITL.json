@@ -1,0 +1,32 @@
+{
+  "position_code": "SITL",
+  "required_training": [
+    "ICS-100, Introduction to the Incident Command System",
+    "ICS-200, ICS for Single Resources and Initial Action Incidents",
+    "ICS-300, Intermediate ICS for Expanding Incidents",
+    "IS-700, National Incident Management System, An Introduction",
+    "IS-800, National Response Framework, An Introduction",
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)"
+  ],
+  "required_experience": [
+    "Completion and Certification of NWCG Situation Unit Leader (SITL) Position Task Book , PMS 311-24"
+  ],
+  "required_experience_prereq_codes": [],
+  "physical_fitness": "Physical Fitness Level: Light",
+  "currency_maintained_by": [
+    "Field Observer ( FOBS )",
+    "Planning Section Chief Complex ( PSCC )",
+    "Planning Section Chief Type 3 ( PSC3 )"
+  ],
+  "maintains_currency_for": [
+    "Display Processor ( DPRO )",
+    "Planning Section Chief Complex ( PSCC )",
+    "Planning Section Chief Type 3 ( PSC3 )"
+  ],
+  "other_training": [
+    "E/L 964, All-Hazards Position Specific Situation Unit Leader",
+    "L-380, Fireline Leadership",
+    "S-320, Introduction to Incident Management Teams"
+  ],
+  "note": "Once qualified as a SITL, the PSC3 qualification may be granted by the certifying official. Certification must be documented on a \u201cverification/certification\u201d page of the PSC3 PTB."
+}

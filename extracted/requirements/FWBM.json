@@ -1,0 +1,42 @@
+{
+  "position_code": "FWBM",
+  "required_training": [
+    "A-100, Basic Aviation Safety",
+    "A-103, Temporary Flight Restrictions and Advisory Notices to Airmen (NOTAMs)",
+    "A-110, Aviation Transport of Hazardous Materials; (Triennial)",
+    "A-112, Aviation Projects & Mission Planning",
+    "A-115, Automated Flight Following",
+    "A-200, Mishap Review (Triennial)",
+    "A-202, Interagency Aviation Organizations",
+    "A-205, Risk Management I",
+    "ICS-200, Basic ICS: ICS for Single Resources and Initial Action Incidents",
+    "S-260, Interagency Incident Business Management"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Ramp Manager ( RAMP )",
+    "AND Completion and Certification of NWCG Position Task Book for Fixed Wing Base Manager (FWBM) , PMS 311-122"
+  ],
+  "required_experience_prereq_codes": [
+    "RAMP"
+  ],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Airtanker Base Manager ( ATBM )"
+  ],
+  "maintains_currency_for": [
+    "Airtanker Base Manager ( ATBM )",
+    "Aircraft Timekeeper ( ATIM )",
+    "Fixed Wing Parking Tender ( FWPT )",
+    "Ramp Manager ( RAMP )",
+    "Single Engine Airtanker Manager ( SEMG )"
+  ],
+  "other_training": [
+    "A-305, Risk Management II",
+    "A-306, Aviation Contract Administration",
+    "A-307, Aviation Policy and Regulations II",
+    "A-311, Aviation Planning",
+    "Incident Business System (IBS) Training",
+    "S-273, Single Engine Airtanker Manager"
+  ],
+  "note": null
+}

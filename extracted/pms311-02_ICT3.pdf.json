@@ -1,0 +1,856 @@
+{
+  "document": {
+    "filename": "pms311-02_ICT3.pdf",
+    "sha256": "67422661319af88be4822c3277fcb768d01988a16f70e3ad47bd039cb6f708a4",
+    "pms_number": "311-02",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "ICT3"
+    ],
+    "title": "Incident Commander Type 3",
+    "edition_date": "JUNE 2009",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 18
+  },
+  "positions": [
+    {
+      "code": "ICT3",
+      "title": "Incident Commander Type 3",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "ICT3",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit. Suggested items:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Agency-specific forms and references appropriate to the incident."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review agency policies relevant to this position.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 3,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure appropriate functional areas are adequately staffed, with qualified resources, to provide for safe and efficient operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate or establish incident facilities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident Command Post (ICP)",
+        "Helibase, if needed",
+        "Staging area"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 5,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain information from supervisor, duty officer, Agency Administrator, dispatch or previous Incident Commander.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Jurisdiction",
+        "Agency’s intent/objectives",
+        "Natural resource and cultural concerns",
+        "Local policy, standards and guidelines for fire suppression",
+        "Fiscal parameters"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and negotiate key transfer of command documents.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Wildland fire decision support documentation",
+        "Delegation of Authority",
+        "Incident Complexity Analysis"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 7,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 8,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Take command of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Create an effective command climate.",
+        "Provide leader’s intent and commander’s guidance.",
+        "Announce presence as Incident Commander to incident personnel and dispatch.",
+        "Confirm resource and situation status."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 9,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Build an organization which will meet and support incident/tactical objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Activate Incident Command System (ICS) positions as needed.",
+        "Delegate duties to staff as needed.",
+        "Manage for unstaffed functional areas.",
+        "Organize assigned resources.",
+        "Determine additional resource needs."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 10,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure resource check-in and accountability process is established.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 11,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop the organization structure necessary to manage the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Maintain appropriate span of control."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 12,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recognize jurisdictional boundaries and which authorities/agencies should be involved.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Unified command",
+        "Mutual aid",
+        "Initial attack agreements",
+        "Fire management objectives"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 13,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 14,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 15,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well- being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 16,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 17,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Using the Risk Management Process in the IRPG, provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Account for assigned resources."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 18,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assign personnel to utilize skills and qualifications.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 19,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Re-evaluate and adjust assignments based on changing conditions or situations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 20,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure performance evaluation system is implemented as appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide training opportunities where available."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 21,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 22,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with cooperators and stakeholders involved in incident activities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Law enforcement",
+        "Utilities",
+        "Media",
+        "Search and Rescue",
+        "Private land owner"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 23,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief and keep subordinates informed throughout the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 24,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide report on conditions to dispatch and information for an incident status summary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "ICS 209, Incident Status Summary"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 25,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct After Action Reviews (AAR).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 26,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Initiate and maintain ICS 201, Incident Briefing.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Initial incident objectives and strategies",
+        "Changes in incident situation",
+        "Tactical decisions",
+        "Resource summary",
+        "Organization",
+        "Sketch map",
+        "Safety issues and hazards"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 27,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Submit complete documentation to supervisor, designated officer or dispatch as required or at end of incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Accidents and injuries report",
+        "Fire report",
+        "Payment documents (Emergency Equipment Rental Agreements (EERA), contractors)",
+        "Cost share agreement",
+        "Aircraft costs"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 28,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide status updates to supervisor and/or dispatch.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 29,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate by giving specific instructions and asking for feedback.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Emphasize situation awareness."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 30,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create a single coordinated Incident Action Plan (IAP) or other relevant plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Establish unified and prioritized incident objectives.",
+        "Develop a coordinated strategy.",
+        "Use resource advisors as appropriate."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 31,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop contingencies.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 32,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide input to strategic plans as needed.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Wildland fire decision support documentation"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 33,
+      "category": "Administer and/or apply agency policy, contracts and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure applicable agency(ies) policies are followed as defined locally or at a briefing.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Federal / Tribal / state / local relationships (as appropriate).",
+        "Scope, jurisdictional responsibilities."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 34,
+      "category": "Administer and/or apply agency policy, contracts and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure applicable contracts and agreements are administered as defined locally or at a briefing.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "EERA",
+        "Engine and crew contracts",
+        "Tribal contracts",
+        "Mutual aid agreements"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 35,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Using the Fireline Handbook, complete complexity analysis and report to duty officer, dispatch, and or Agency Administrator.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Recognize the indicators for changing complexity and establish trigger points.",
+        "Revise as needed."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 36,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor, evaluate and document progress towards incident objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Tactical operations",
+        "Actual progress compared to planned tactics",
+        "Information for periodic assessment",
+        "ICS 209, Incident Status Summary"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 37,
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and monitor weather and other environmental factors to anticipate changes in fire behavior or incident status.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Request weather forecasts.",
+        "Communicate weather to subordinates."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 38,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan for subsequent operational periods.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Projections",
+        "Incident objectives",
+        "Strategy and tactics",
+        "Resource needs",
+        "Logistical needs",
+        "Demobilization",
+        "Documentation needs",
+        "Incident information (media, public)"
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 39,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate trigger points.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Complexity (up or down).",
+        "Strategy and tactics (e.g., evacuation, structure protection).",
+        "Support requirements."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 40,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure the Risk Management Process is maintained.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 41,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Implement appropriate tactics.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 42,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage incident resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Update Status/Check-In List."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 43,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Validate and revise incident objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Continually evaluate whether objectives are achievable given available resources and environmental conditions.",
+        "Communicate changes."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 44,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Re-evaluate the risk management process.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 45,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure safety considerations are integrated into all aspects of incident management.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 46,
+      "category": "Ensure operations consider socio-economic, political and cultural aspects.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow local direction to maintain environmental quality and avoid damage to social or cultural environment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Notify supervisor of historical/cultural resources found."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 47,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Using the Fireline Handbook, coordinate an efficient transfer of position duties when mobilizing/ demobilizing.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "No adverse impact on safety or productivity.",
+        "Inform subordinate staff and IC.",
+        "Document follow-up action needed and submit to supervisor."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 48,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify excess resources.",
+        "Prepare schedule for demobilization."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "ICT3",
+      "task_number": 49,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief subordinate staff on demobilization procedures and responsibilities.",
+        "Ensure incident and agency demobilization procedures are followed."
+      ],
+      "page": 16
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

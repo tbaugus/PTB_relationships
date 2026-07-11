@@ -1,0 +1,34 @@
+{
+  "position_code": "UASL",
+  "required_training": [
+    "ICS-300, Intermediate ICS for Expanding Incidents",
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "RT-373, Unmanned Aircraft System (UAS) Incident Operations Refresher (Triennial)",
+    "S-215, Fire Operations in the Wildland Urban Interface"
+  ],
+  "required_experience": [
+    "Satisfactory performance as an Unmanned Aircraft System, Manager ( UASM )",
+    "AND Satisfactory performance as any Single Resource Boss position ( CRWB , ENGB , FELB , FIRB , HEQB , HMGB )",
+    "AND Completion and Certification of NWCG Position Task Book for Unmanned Aircraft Systems, Module Leader (UASL) , PMS 311-128"
+  ],
+  "required_experience_prereq_codes": [
+    "HMGB",
+    "UASM"
+  ],
+  "physical_fitness": "Physical Fitness Level: Light",
+  "currency_maintained_by": [
+    "Unmanned Aircraft System, Manager ( UASM )"
+  ],
+  "maintains_currency_for": [
+    "Unmanned Aircraft System, Manager ( UASM )",
+    "Unmanned Aircraft System Pilot ( UASP )"
+  ],
+  "other_training": [
+    "L-280, Followership to Leadership",
+    "L-380, Fireline Leadership",
+    "S-219, Firing Operations",
+    "S-260, Interagency Incident Business Management",
+    "S-270, Basic Air Operations"
+  ],
+  "note": null
+}

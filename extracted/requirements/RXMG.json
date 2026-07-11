@@ -1,0 +1,27 @@
+{
+  "position_code": "RXMG",
+  "required_training": [
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Prescribed Fire Burn Boss Type 2 ( RXB2 )",
+    "AND Completion and Certification of NWCG Prescribed Fire Manager (RXMG) Position Task Book , PMS 311-70"
+  ],
+  "required_experience_prereq_codes": [
+    "RXB2"
+  ],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Prescribed Fire Burn Boss Type 2 ( RXB2 )",
+    "Prescribed Fire Burn Boss Type 1 ( RXB1 )"
+  ],
+  "maintains_currency_for": [
+    "Prescribed Fire Burn Boss Type 2 ( RXB2 )",
+    "Prescribed Fire Burn Boss Type 1 ( RXB1 )"
+  ],
+  "other_training": [
+    "ICS-300, Intermediate ICS for Expanding Incidents",
+    "M-581, Fire Program Management, an Overview"
+  ],
+  "note": null
+}

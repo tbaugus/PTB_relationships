@@ -1,0 +1,1248 @@
+{
+  "document": {
+    "filename": "pms311-94_RTCM-MXMS.pdf",
+    "sha256": "b0da725612999c88d066df36f8a16c9bf636262b2c61a07172b4263c693d52ff",
+    "pms_number": "311-94",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "RTCM",
+      "MXMS"
+    ],
+    "title": "Retardant Crew Member or Mix Master",
+    "edition_date": "MARCH 2019",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 13
+  },
+  "positions": [
+    {
+      "code": "RTCM",
+      "title": "Retardant Crew Member",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    },
+    {
+      "code": "MXMS",
+      "title": "Mix Master",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "RTCM",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain assignment information or resource order from dispatch.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive at incident and check in with appropriate personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 3,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from assignment supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 4,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate knowledge of security and enforce protocols and proper identification of personnel on the aircraft ramp.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 5,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow and apply chain of command according to the Incident Command System (ICS).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 6,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in daily briefing, After Action Review (AAR), or functional area briefing.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 7,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss the Lot Acceptance and Quality Assurance Program (LAQA) and the Qualified Products list. Identify where the information can be found.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 8,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and review Safety Data Sheets (SDS) for Wildland Fire Chemicals (WFC) being used and identify proper clean up and disposal of spills. Identify when to report as appropriate to Airtanker Base Manager (ATBM) [or Single Engine Airtanker Manager (SEMG), if applicable].",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 9,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review Airtanker and/or Single Engine Airtanker (SEAT) Base Operations plan (ABOP/SBOP), simultaneous fueling and loading plan, and hot loading plan.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 10,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss the different types of airtankers used for aerial retardant delivery and their loading procedures. Participate in a briefing with the flight crew on loading procedures of the airtanker to be loaded.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 11,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify limitations of airtankers and/or SEATs being loaded to ensure they are not exceeded. Discuss airtanker contract loads and tank/hopper capacities.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 12,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss hazards inherent to loading operations and review Risk Management Worksheet (or equivalent) for the airtanker/SEAT loading operation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 13,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss and identify various fittings (camlocks/couplings, hose barbs, valves, proper banding, etc.) utilized for mixing and loading operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 14,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Describe the different classes of Wildland Fire Chemicals (WFC), their effectiveness, and application tactic.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 15,
+      "category": "Plan for demobilization and ensure demobilization procedure are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Check out with incident or dispatch to demobilize.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 16,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain communication with necessary ramp personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 17,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure ramp cleanliness in Retardant Crew Member’s assigned area including spills and Foreign Object Debris (FOD).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 18,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Receive briefing from MXMS and ensure assignments and expectations for the operational period are understood.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 19,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate safety practices while working around aircraft during loading operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 20,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist MXMS in LAQA sampling as appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 21,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist MXMS with maintenance of retardant mixing, loading, and testing equipment as appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 22,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan the specific layout of the mix plant, and ensure equipment such as pumps, hoses, valves, and mass flow meter are installed correctly.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 23,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify if mixing and loading equipment is in good working order, has an identified maintenance schedule, and has the appropriate level of fluids.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 24,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate ability to operate recirculation system and loading equipment at the base of operations, including proper start up and shut down of pumps.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 25,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Check all equipment such as valves, hoses, pumps and tanks for mix plant safety and operability; ensure agency and Occupational Safety and Health Administration (OSHA) safety measures are in place.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 26,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Work with ATBM (or SEMG, if applicable) to maintain an adequate WFC product inventory based on current and expected activity. Ensure WFC complies with LAQA program for all WFC products.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 27,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify a recirculation schedule to ensure mixed and concentrate products are maintained in good condition.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 28,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure storage and handling of WFC products, hazardous waste, and wastewater are in compliance with state and federal Environmental Protection Agency (EPA) regulations. Review Stormwater Pollution Prevention Plan (SWPPP) if in place, as well as the base operations plan to identify proper procedures for disposal and identify local hazardous materials coordinator contact.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 29,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate the ability to operate a refractometer, Marsh funnel, and mass flow meter. Discuss troubleshooting and common issues that may relate to each piece of testing equipment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 30,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss procedures and processes for batch mixing vs. on demand systems. Discuss various mixing and blending equipment that could be encountered in the field and associated equipment products (blenders, eductors, blowers, hopper mixer, etc.).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 31,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss water temperature, quality (pH/hardness, etc.), and its importance in WFC product mixing. Identify potential issues poor water quality could have on the different types of WFC products.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 32,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss mixing table/chart, mix ratio, and yield for type of product being used.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 33,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate ability to mix liquid and/or powder retardant concentrate to the appropriate mix ratio per the Qualified Products List (QPL) and/or mix factor table.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 34,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss and identify options for when mixed product is out of specification. Also include if the out of specification product has been loaded onto the airtanker and discuss remedy options.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 35,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss potential issues with mixing different WFCs (retardant, foam, and gels). Identify possible effects to equipment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 36,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure mixed product is tested prior to being loaded into airtankers. *Note: For on demand systems this will need to be done periodically throughout the loading process.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 37,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain proper documentation for loading operations that includes date/time, tanker number, pounds/gallons, refract reading, and/or density. Coordinate with the ATBM (or SEMG, if applicable), validate as needed, and communicate any concerns.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 38,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with ATBM (or SEMG, if applicable) to ensure assigned mixing area is maintained, clean, and monitored for duration of mixing operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 39,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure the safety and welfare of personnel working around mix plant. Report all hazards, incidents, and accidents to the ATBM (or SEMG, if applicable) and take appropriate action.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 40,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss and identify procedures to properly clean, drain, and store mixing and loading equipment for end of season use.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 41,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure RTCM personnel understand assignments and expectations for the operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 42,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and take immediate steps to request personnel and equipment to perform operations safely and efficiently.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "RTCM",
+      "task_number": 43,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate RTCM performance and provide feedback and training opportunities where available.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain assignment information or resource order from dispatch.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive at incident and check in with appropriate personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 3,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from assignment supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 4,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate knowledge of security and enforce protocols and proper identification of personnel on the aircraft ramp.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 5,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow and apply chain of command according to the Incident Command System (ICS).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 6,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in daily briefing, After Action Review (AAR), or functional area briefing.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 7,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss the Lot Acceptance and Quality Assurance Program (LAQA) and the Qualified Products list. Identify where the information can be found.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 8,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and review Safety Data Sheets (SDS) for Wildland Fire Chemicals (WFC) being used and identify proper clean up and disposal of spills. Identify when to report as appropriate to Airtanker Base Manager (ATBM) [or Single Engine Airtanker Manager (SEMG), if applicable].",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 9,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review Airtanker and/or Single Engine Airtanker (SEAT) Base Operations plan (ABOP/SBOP), simultaneous fueling and loading plan, and hot loading plan.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 10,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss the different types of airtankers used for aerial retardant delivery and their loading procedures. Participate in a briefing with the flight crew on loading procedures of the airtanker to be loaded.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 11,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify limitations of airtankers and/or SEATs being loaded to ensure they are not exceeded. Discuss airtanker contract loads and tank/hopper capacities.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 12,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss hazards inherent to loading operations and review Risk Management Worksheet (or equivalent) for the airtanker/SEAT loading operation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 13,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss and identify various fittings (camlocks/couplings, hose barbs, valves, proper banding, etc.) utilized for mixing and loading operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 14,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Describe the different classes of Wildland Fire Chemicals (WFC), their effectiveness, and application tactic.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 15,
+      "category": "Plan for demobilization and ensure demobilization procedure are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Check out with incident or dispatch to demobilize.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 16,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain communication with necessary ramp personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 17,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure ramp cleanliness in Retardant Crew Member’s assigned area including spills and Foreign Object Debris (FOD).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 18,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Receive briefing from MXMS and ensure assignments and expectations for the operational period are understood.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 19,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate safety practices while working around aircraft during loading operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 20,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist MXMS in LAQA sampling as appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 21,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist MXMS with maintenance of retardant mixing, loading, and testing equipment as appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 22,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan the specific layout of the mix plant, and ensure equipment such as pumps, hoses, valves, and mass flow meter are installed correctly.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 23,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify if mixing and loading equipment is in good working order, has an identified maintenance schedule, and has the appropriate level of fluids.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 24,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate ability to operate recirculation system and loading equipment at the base of operations, including proper start up and shut down of pumps.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 25,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Check all equipment such as valves, hoses, pumps and tanks for mix plant safety and operability; ensure agency and Occupational Safety and Health Administration (OSHA) safety measures are in place.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 26,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Work with ATBM (or SEMG, if applicable) to maintain an adequate WFC product inventory based on current and expected activity. Ensure WFC complies with LAQA program for all WFC products.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 27,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify a recirculation schedule to ensure mixed and concentrate products are maintained in good condition.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 28,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure storage and handling of WFC products, hazardous waste, and wastewater are in compliance with state and federal Environmental Protection Agency (EPA) regulations. Review Stormwater Pollution Prevention Plan (SWPPP) if in place, as well as the base operations plan to identify proper procedures for disposal and identify local hazardous materials coordinator contact.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 29,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate the ability to operate a refractometer, Marsh funnel, and mass flow meter. Discuss troubleshooting and common issues that may relate to each piece of testing equipment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 30,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss procedures and processes for batch mixing vs. on demand systems. Discuss various mixing and blending equipment that could be encountered in the field and associated equipment products (blenders, eductors, blowers, hopper mixer, etc.).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 31,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss water temperature, quality (pH/hardness, etc.), and its importance in WFC product mixing. Identify potential issues poor water quality could have on the different types of WFC products.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 32,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss mixing table/chart, mix ratio, and yield for type of product being used.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 33,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate ability to mix liquid and/or powder retardant concentrate to the appropriate mix ratio per the Qualified Products List (QPL) and/or mix factor table.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 34,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss and identify options for when mixed product is out of specification. Also include if the out of specification product has been loaded onto the airtanker and discuss remedy options.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 35,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss potential issues with mixing different WFCs (retardant, foam, and gels). Identify possible effects to equipment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 36,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure mixed product is tested prior to being loaded into airtankers. *Note: For on demand systems this will need to be done periodically throughout the loading process.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 37,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain proper documentation for loading operations that includes date/time, tanker number, pounds/gallons, refract reading, and/or density. Coordinate with the ATBM (or SEMG, if applicable), validate as needed, and communicate any concerns.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 38,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with ATBM (or SEMG, if applicable) to ensure assigned mixing area is maintained, clean, and monitored for duration of mixing operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 39,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure the safety and welfare of personnel working around mix plant. Report all hazards, incidents, and accidents to the ATBM (or SEMG, if applicable) and take appropriate action.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 40,
+      "category": "Demonstrate knowledge, skills, and abilities in the execution of duties in various",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss and identify procedures to properly clean, drain, and store mixing and loading equipment for end of season use.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 41,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure RTCM personnel understand assignments and expectations for the operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 42,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and take immediate steps to request personnel and equipment to perform operations safely and efficiently.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "MXMS",
+      "task_number": 43,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate RTCM performance and provide feedback and training opportunities where available.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 5
+    }
+  ],
+  "extra_fields": {}
+}

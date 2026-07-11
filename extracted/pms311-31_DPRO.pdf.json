@@ -1,0 +1,325 @@
+{
+  "document": {
+    "filename": "pms311-31_DPRO.pdf",
+    "sha256": "de0422efd7ab2bce35c38e16357a537d1b66adc18eb78bc928497f1b51e8d06a",
+    "pms_number": "311-31",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "DPRO"
+    ],
+    "title": "Display Processor",
+    "edition_date": "JUNE 2009",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 12
+  },
+  "positions": [
+    {
+      "code": "DPRO",
+      "title": "Display Processor",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "DPRO",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit. Suggested items:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Adequate numbers/colors/types of markers for map production.",
+        "Materials for creating and posting incident products on display boards.",
+        "PMS 410-1, Fireline Handbook",
+        "Display Processor Reference"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "DPRO",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident number",
+        "Order number",
+        "Request number",
+        "Reporting location",
+        "Reporting time",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)",
+        "Current situation",
+        "Expected duration of assignment"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "DPRO",
+      "task_number": 3,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive at incident and check in.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Arrive properly equipped at assigned location within acceptable time limits."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "DPRO",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain work materials, data, and equipment necessary to accomplish assigned tasks within specified time frames.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Order additional materials, data, and equipment according to established incident specific guidelines."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "DPRO",
+      "task_number": 5,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize work area and products to allow safe and efficient accomplishment of tasks.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize and meet priorities within established time frames."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "DPRO",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from Situation Unit Leader.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Schedule and attendance expectation for Planning Section meeting.",
+        "Priorities, standards, time limits for completion, and methods of communication to accomplish role in assigned tasks.",
+        "Time frames for inputs into Incident Action Plan (IAP) and creating and updating incident mapping displays.",
+        "Needs for personnel and facilities to aid in display processing.",
+        "Location of work area."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "DPRO",
+      "task_number": 7,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather logistical information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident base facilities.",
+        "Equipment and supplies available (e.g., copy machines, computers, maps, paper)."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "DPRO",
+      "task_number": 8,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct self in a professional manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Respectful and courteous.",
+        "Respectful of public and private property."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "DPRO",
+      "task_number": 9,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "DPRO",
+      "task_number": 10,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Maintain appropriate span of control.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "DPRO",
+      "task_number": 11,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "DPRO",
+      "task_number": 12,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide documentation developed during the incident assignment to the Documentation Unit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "DPRO",
+      "task_number": 13,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Use maps, photos, graphics/images, and/or data to prepare incident maps and displays.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "DPRO",
+      "task_number": 14,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist Situation Unit Leader in collecting and interpreting information for preparing accurate maps and displays.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Sources may include operations personnel, Field Observers, and Technical Specialists."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "DPRO",
+      "task_number": 15,
+      "category": "Utilize information to produce outputs.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Produce and update maps and overlays within established guidelines and time frames using ICS symbols; report inaccuracies to Situation Unit Leader.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "IAP map",
+        "Incident Briefing map",
+        "Situation map",
+        "Transportation map",
+        "Planning map",
+        "Fire Progression map"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "DPRO",
+      "task_number": 16,
+      "category": "Utilize information to produce outputs.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Produce and update display board information as required.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "DPRO",
+      "task_number": 17,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demobilize and check out.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive demobilization instructions from incident supervisor.",
+        "If required, complete ICS 221, Demobilization Checkout and submit completed form to the appropriate person."
+      ],
+      "page": 10
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

@@ -1,0 +1,37 @@
+{
+  "position_code": "OPBD",
+  "required_training": [
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "ICS-400, Advanced ICS for Command and General Staff"
+  ],
+  "required_experience": [
+    "Satisfactory performance as an Operations Section Chief Complex ( OSCC )"
+  ],
+  "required_experience_prereq_codes": [
+    "OSCC"
+  ],
+  "physical_fitness": "Physical Fitness Level: Moderate",
+  "currency_maintained_by": [
+    "Division/Group Supervisor ( DIVS )",
+    "Incident Commander Complex ( ICCI )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Operation Section Chief Complex ( OSCC )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )"
+  ],
+  "maintains_currency_for": [
+    "Division/Group Supervisor ( DIVS )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Operation Section Chief Complex ( OSCC )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )",
+    "Structure Protection Specialist ( STPS )"
+  ],
+  "other_training": [
+    "L-480, Organizational Leadership in the Fire Service",
+    "L-481, Advanced Leadership of Command and General Staff",
+    "L-580, Leadership is Action",
+    "O-305, Type 3 All-Hazard Incident Management Team",
+    "S-420, Command and General Staff",
+    "S-430, Operations Section Chief"
+  ],
+  "note": null
+}

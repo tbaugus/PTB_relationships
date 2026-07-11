@@ -1,0 +1,33 @@
+{
+  "position_code": "UASM",
+  "required_training": [
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "RT-373, Unmanned Aircraft System Incident Operations Refresher (Triennial)",
+    "S-230, Crew Boss (Single Resource)",
+    "S-290, Intermediate Wildland Fire Behavior"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Firefighter Type 1 (Squad Boss) ( FFT1 )",
+    "AND Satisfactory performance as an Unmanned Aircraft System Pilot ( UASP )",
+    "AND Completion and Certification of NWCG Position Task Book for Unmanned Aircraft Systems, Manager (UASM) , PMS 311-79"
+  ],
+  "required_experience_prereq_codes": [
+    "FFT1",
+    "UASP"
+  ],
+  "physical_fitness": "Physical Fitness Level: Light",
+  "currency_maintained_by": [
+    "Unmanned Aircraft Systems, Module Leader ( UASL )"
+  ],
+  "maintains_currency_for": [
+    "Unmanned Aircraft System Pilot ( UASP )",
+    "Unmanned Aircraft System, Module Leader ( UASL )"
+  ],
+  "other_training": [
+    "L-280, Followership to Leadership",
+    "S-219, Firing Operations",
+    "S-260, Interagency Incident Business Management",
+    "S-270, Basic Air Operations"
+  ],
+  "note": null
+}

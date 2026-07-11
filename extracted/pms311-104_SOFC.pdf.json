@@ -1,0 +1,1032 @@
+{
+  "document": {
+    "filename": "pms311-104_SOFC.pdf",
+    "sha256": "1d9ba181721e823c43112b4d1cf844630ee530dcd18298db69fed5bc11ac3db7",
+    "pms_number": "311-104",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "SOFC"
+    ],
+    "title": "Safety Officer Complex",
+    "edition_date": "JANUARY 2023",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 16
+  },
+  "positions": [
+    {
+      "code": "SOFC",
+      "title": "Safety Officer Complex",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "SOFC",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete required team management responsibilities.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Section recruitment and selection",
+        "Standard operating procedures",
+        "Team building",
+        "Section roster",
+        "Necessary equipment"
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 2,
+      "category": "Understand and comply with incident safety procedures and practices.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure subordinates integrate safety considerations into all aspects of their duties.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 3,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Order additional safety assistants as needed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Place orders through appropriate channels."
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 4,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather information necessary to assess incident assignment and determine immediate needs and actions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident Commander's/supervisor's name, location",
+        "Current resource commitments",
+        "Current and anticipated situation (e.g., hazardous materials, Wildland/Urban Interface)",
+        "Expected duration of assignment"
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 5,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised, and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 6,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well-being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 7,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 8,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate, and communicate potentially hazardous situations.",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 9,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Use technical specialists to identify and mitigate hazards.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Health department",
+        "Electrician",
+        "Hazardous materials specialist Additional Evaluation Record Sheets can be downloaded at https://www.nwcg.gov/publications/position-taskbooks."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 10,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop schedule/assignments based on Incident Action Plan (IAP) or relevant plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Assign safety assistants to monitor high- hazard areas or operations.",
+        "Assign assistants as needed (e.g., camps, helispots)."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 11,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure subordinates understand assignment for operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide clear, concise instructions, and allow for feedback."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 12,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually evaluate performance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Communicate deficiencies immediately and take corrective action.",
+        "Provide training opportunities where available.",
+        "Complete personnel performance evaluations according to agency guidelines."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 13,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 14,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 15,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Contact and utilize non-fire agencies to provide safety related services.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Health Department",
+        "State Emergency Medical Coordinator",
+        "Environmental Protection Agency, Department of Transportation"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 16,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Interact and coordinate with command and general staff.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive and transmit current and accurate information. Additional Evaluation Record Sheets can be downloaded at https://www.nwcg.gov/publications/position-taskbooks."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 17,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Present Incident Action Plan Safety Analysis, (ICS 215A), at operational planning meetings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 18,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare and present safety briefings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Each operational period.",
+        "Information to alert incident personnel of potential risk/hazard considered to be most critical."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 19,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Solicit relevant safety concerns from incident personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 20,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief with the Air Operations Branch Director on general aviation activities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify hazardous air operations activities."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 21,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in briefings and After Action Reviews (AAR).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 22,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief/debrief Agency Administrator or representative as appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 23,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Post safety information on incident bulletin board.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate with Logistics Section Chief and Public Information Officer."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 24,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare narrative or special reports as needed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Number of injuries and accidents.",
+        "General safety situation and problems encountered.",
+        "Description of significant incidents or unsafe situations.",
+        "Recommendations for corrective action.",
+        "Report unsafe situations using SAFENET. Additional Evaluation Record Sheets can be downloaded at https://www.nwcg.gov/publications/position-taskbooks."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 25,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure completion of accident investigation reports and initiate follow-up action.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Recommend need for corrective action based on findings to the appropriate personnel.",
+        "Initiate immediate corrective action, if necessary."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 26,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate information concerning accidents/serious injuries to Incident Commander, Public Information Officer, and Liaison Officer.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 27,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop a safety action plan and revise as necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure hazards and risks are identified and monitored/mitigated.",
+        "Coordinate with the Incident Commander and command and general staff.",
+        "Ensure cooperating and assisting agencies are included.",
+        "Identify hazards/risks to the public and coordinate with incident staff to ensure appropriate actions are taken."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 28,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and approve Medical Plan, (ICS 206) as appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Monitor to ensure it addresses current status of incident."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 29,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review incident demobilization plan to ensure appropriate safety guidelines are followed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 30,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in agency closeout.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 31,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor air operations activities to ensure compliance with safety requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review compliance with agency flight duty policy/duty limitations.",
+        "Coordinate corrective action through the Air Operations Branch Director."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 32,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare Incident Action Plan Safety Analysis, (ICS 215A) for each operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify those risks or hazards with the potential for serious accident or injury.",
+        "Coordinate with Operations Section Chief.",
+        "Review with Planning Section Chief.",
+        "Use technical specialist expertise to identify and mitigate hazards.",
+        "Ensure identified mitigations are included on the Division Group Assignment List, (ICS 204 WF)."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 33,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare a safety message for each IAP.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Use information from incident personnel.",
+        "Prepare within time frames designated by the Planning Section Chief.",
+        "List observed or projected risk/hazards by priority."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 34,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Utilize special instructions in Division Group Assignment List, (ICS 204 WF), and Medical Plan, (ICS 206), to address specific safety needs.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Medevac procedures"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 35,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct periodic inspections of base and camp facilities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Potable water sources, hauling and storage containers",
+        "Ground support",
+        "Helibase"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 36,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and document unsafe conditions and provide this information to appropriate command and general staff.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 37,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor vehicle inspections, driver/operator qualifications and equipment records.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 38,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor incident roads to provide for safe use by vehicles.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Monitor adequate width, grade, and maintenance condition.",
+        "Assess dust/visibility.",
+        "Ensure ingress/egress.",
+        "Coordinate and recommend road closure/restriction access as necessary."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 39,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review aircraft operations, if appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 40,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor general welfare of incident personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Food and water",
+        "Fatigue",
+        "Work/rest guidelines",
+        "Safe work practices",
+        "Use of personal protective equipment",
+        "Illness and injuries"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 41,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and approve relevant plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Medical",
+        "Traffic",
+        "Evacuation"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 42,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor and review information on current and predicted weather conditions obtained from meteorologist.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 43,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain information from Fire Behavior Analyst daily about unusual fire behavior conditions predicted for the next operational period.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Review fire behavior forecasts."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 44,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor food and sanitation services periodically, with the Food Unit Leader and Base/Camp Manager, for compliance with health and sanitation standards.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 45,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review Medical Unit log, with the Medical Unit Leader, for injuries and illnesses.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Determine trends and make recommendations to incident organization for corrective or preventative action."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 46,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review incident reports (SAFECOM, SAFENET).",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Monitor to ensure recommended corrective action is implemented."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 47,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor incident personal protective equipment (PPE) use.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure adequate supply to meet projected needs.",
+        "Ensure compatibility with assignment hazard/risk.",
+        "Spot check crew members preparing for duty."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 48,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review the injuries/illnesses claims requiring hospitalization or further medical treatment with the Compensation-for-Injury Specialist.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Review for possible cause and corrective actions."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 49,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure the Risk Management Process is applied and maintained.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 50,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exercise emergency authority to stop and correct unsafe acts.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Use direct intervention to correct any extremely dangerous act which is being performed outside of agency regulations, policies, standards, and guidelines. Follow up with immediate supervisor.",
+        "Contact the responsible supervisor for corrective action on other unsafe situations.",
+        "Discuss significant events with Incident Commander. Additional Evaluation Record Sheets can be downloaded at https://www.nwcg.gov/publications/position-taskbooks."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 51,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Investigate accidents and prepare investigation reports.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Notify Incident Commander.",
+        "Assess and determine level of accident investigation.",
+        "Initiate immediate corrective action, if necessary.",
+        "Ensure copies are complete and follow-up actions are documented.",
+        "Ensure reports are complete and include required information.",
+        "Ensure investigation does not interfere with the primary duties of the Safety Officer."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 52,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure any significant change in weather is communicated to incident personnel.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Red Flag Warnings",
+        "Frontal passages",
+        "Fire Weather Watches"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 53,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Reinforce and monitor mitigations identified in the Incident Action Plan Safety Analysis, (ICS 215A).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 54,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor operations for Occupational Safety and Health Administration (OSHA) compliance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Solicit assistance from host unit safety personnel."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 55,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure tools and equipment are inspected and operations are conducted in a safe manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 56,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Document identified deficiencies.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Food and potable water supplies",
+        "Vehicle/mechanical equipment",
+        "Driver/operator qualifications",
+        "Air operations hazards/unsafe conditions"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 57,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform subordinate staff and IC.",
+        "Document follow-up actions needed and submit to supervisor."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 58,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete and submit Activity Log, (ICS 214).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Document significant/major events. Additional Evaluation Record Sheets can be downloaded at https://www.nwcg.gov/publications/position-taskbooks."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 59,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain file for safety documentation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide copies of Incident Action Plan Safety Analysis, (ICS 215A) to Planning Section."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "SOFC",
+      "task_number": 60,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete and submit safety documentation package.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 5
+    }
+  ],
+  "extra_fields": {}
+}

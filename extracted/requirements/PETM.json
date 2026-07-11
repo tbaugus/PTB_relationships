@@ -1,0 +1,27 @@
+{
+  "position_code": "PETM",
+  "required_training": [
+    "ICS-100, Introduction to ICS",
+    "IS-700, NIMS: An Introduction",
+    "P-310, Fire Prevention Education Team Member"
+  ],
+  "required_experience": [
+    "Completion and Certification of NWCG Fire Prevention Education Team Member (PETM) Position Task Book , PMS 311-64"
+  ],
+  "required_experience_prereq_codes": [],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Fire Prevention Education Team Leader ( PETL )"
+  ],
+  "maintains_currency_for": [
+    "Fire Prevention Education Team Leader ( PETL )"
+  ],
+  "other_training": [
+    "FI-110, Wildland Fire Observations and Origin Scene Protection for First Responders",
+    "P-101, Introduction to Wildfire Prevention",
+    "S-110, Basic Wildland Fire Orientation",
+    "S-130, Firefighter Training",
+    "S-190, Introduction to Wildland Fire Behavior"
+  ],
+  "note": null
+}

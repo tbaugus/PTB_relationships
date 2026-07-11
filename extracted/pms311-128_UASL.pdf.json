@@ -1,0 +1,355 @@
+{
+  "document": {
+    "filename": "pms311-128_UASL.pdf",
+    "sha256": "980971647d7b3a90beedc0429baee512161735a249793c037545e2d9343fde92",
+    "pms_number": "311-128",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "UASL"
+    ],
+    "title": "Unmanned Aircraft Systems Module Leader",
+    "edition_date": "JUNE 2025",
+    "ips_reference": "350-128",
+    "official": true,
+    "page_count": 11
+  },
+  "positions": [
+    {
+      "code": "UASL",
+      "title": "Unmanned Aircraft Systems Module Leader",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "UASL",
+      "task_number": 1,
+      "category": "Leadership Level 2, New Leader (Convey Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications. For additional information, review the Level 2 description, expected behaviors and knowledge, suggested development goals, and self-study opportunities.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure individual readiness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 3,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather critical information pertinent to the assignment.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 4,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Check in with incident supervisor and/or dispatch when arriving at the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 5,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify UAS resources and modules assigned or unassigned and establish accountability.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 6,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Validate readiness of UAS modules and other assigned UAS resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 7,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish a common operating picture.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 8,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief all participating UAS resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 9,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Supervise and manage assigned and unassigned UAS resources. Perform Unmanned Aircraft Systems, Module",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 10,
+      "category": "Leader-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate assigned UAS resources based on operational and data objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 11,
+      "category": "Leader-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Engage with unassigned UAS resources based on requested missions.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 12,
+      "category": "Leader-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure appropriate airspace authorizations are in place.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 13,
+      "category": "Leader-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide oversight of assigned and unassigned UAS resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 14,
+      "category": "Leader-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Engage with the Incident Management Team (IMT).",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 15,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate using plain language and Incident Command System (ICS) terminology.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 16,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure clear understanding of expectations and timely communication within the chain of command.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 17,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct and/or participate in After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 18,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process and Safety Management System (SMS).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 19,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan for and respond to aviation mishaps.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 20,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete, authorize, ensure timeliness of, and route required forms and documents.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 21,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist in the development and implementation of the demobilization plan for assigned UAS resources.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "UASL",
+      "task_number": 22,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare for and implement demobilization.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 7
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 8
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 8
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 8
+    }
+  ],
+  "extra_fields": {}
+}

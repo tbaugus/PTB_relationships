@@ -1,0 +1,40 @@
+{
+  "position_code": "ACDP",
+  "required_training": [
+    "A-103, Temporary Flight Restrictions and Advisory Notices to Airmen (NOTAMs)",
+    "A-110, Aviation Transportation of Hazardous Materials",
+    "A-202, Interagency Aviation Organizations",
+    "A-203, Basic Airspace",
+    "A-204, Crew Aircraft Capabilities and Limitations",
+    "A-205, Risk Management I",
+    "A-208, Aircraft and Pilot Approval",
+    "A-303, Human Factors in Aviation",
+    "A-305, Risk Management II",
+    "A-307, Aviation Policy and Regulations II",
+    "A-310, Overview of Crew Resource Management (DOI) or N9059, Crew Resource Management 7 Skills (USFS)",
+    "D-312, Aircraft Dispatcher"
+  ],
+  "required_experience": [
+    "Satisfactory performance as an Initial Attack Dispatcher ( IADP )",
+    "AND Completion and Certification of NWCG Position Task Book for Aircraft Dispatcher (ACDP) , PMS 311-67"
+  ],
+  "required_experience_prereq_codes": [
+    "IADP"
+  ],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Initial Attack Dispatcher ( IADP )"
+  ],
+  "maintains_currency_for": [
+    "Aircraft Base Radio Operator ( ABRO )",
+    "Expanded Dispatch Recorder ( EDRC )",
+    "Expanded Dispatch Support Dispatcher ( EDSD )",
+    "Initial Attack Dispatcher ( IADP )"
+  ],
+  "other_training": [
+    "D-310, Expanded Dispatch Support Dispatcher",
+    "S-260, Interagency Incident Business Management",
+    "S-270, Basic Air Operations"
+  ],
+  "note": null
+}

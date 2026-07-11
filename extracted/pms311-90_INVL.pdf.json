@@ -1,0 +1,655 @@
+{
+  "document": {
+    "filename": "pms311-90_INVL.pdf",
+    "sha256": "2f9b171e5ac36a5e447307dfe76a96dcd1522524fd2a231f96e6eef0ad7f29c1",
+    "pms_number": "311-90",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "INVL"
+    ],
+    "title": "Wildland Fire Investigation Team Leader",
+    "edition_date": null,
+    "ips_reference": null,
+    "official": true,
+    "page_count": 15
+  },
+  "positions": [
+    {
+      "code": "INVL",
+      "title": "Wildland Fire Investigation Team Leader",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "INVL",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather information necessary to assess incident assignment and determine immediate needs and actions.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Resource order information including mode of travel.",
+        "Reporting time and place.",
+        "Type of incident."
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble materials needed during the case development phase of a wildland fire investigation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "ICS forms.",
+        "Law enforcement forms.",
+        "ICP support supplies.",
+        "Evidence collection materials.",
+        "Diagramming materials.",
+        "Casting materials.",
+        "GPS (optional).",
+        "Investigation database software.",
+        "Fire scene diagramming software (optional).",
+        "Technical investigative equipment.",
+        "Specialized surveillance equipment other than technical investigative equipment.",
+        "Local maps, contact lists, and intelligence relating to the incident."
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 3,
+      "category": "Understand and comply with incident safety procedures and practices.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate a comprehensive understanding of safety issues related to the case development aspects of a wildland fire investigation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Describe specialized safety considerations. o o o o o",
+        "Prepare a job hazard analysis.",
+        "Provide a safety briefing."
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 4,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from assignment supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Organizational structure.",
+        "Single or multiple fires to investigate.",
+        "Fire cause history and patterns if multiple fires.",
+        "Weather.",
+        "Fire behavior.",
+        "Communications.",
+        "Resources.",
+        "Safety."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 5,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate a working knowledge of arson investigation strategies and tactics.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Specialized arson investigation strategies",
+        "Static surveillance",
+        "Mobile surveillance",
+        "Aerial surveillance",
+        "Camera traps",
+        "Technical investigation equipment",
+        "Sequential timeline analysis",
+        "Rewards",
+        "Informants",
+        "Neighborhood canvass",
+        "Interrogation",
+        "Polygraphs",
+        "Physical and behavioral evidence analysis",
+        "Search warrants",
+        "K-9 tracking",
+        "Juvenile fire setter program",
+        "Firefighter arson"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate proper knowledge of principles of wildland fire behavior as they relate to investigation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Weather and fire behavior forecasts.",
+        "Fire behavior calculations and computer modeling software used to support origin and cause determination.",
+        "Fire behavior calculations used to include/exclude causes.",
+        "Advantages/disadvantages of applying fire behavior data to fire cause conclusions."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 7,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate a second opinion analysis of a fire origin.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Criteria for when a secondary analysis is required.",
+        "Assessment of preliminary documentation information.",
+        "Effects of weather/time on various indicators.",
+        "Determination of suppression actions.",
+        "Scene disturbance by preliminary investigators.",
+        "Scene security/evidence integrity issues.",
+        "Fire behavior information.",
+        "Witness information.",
+        "Difference of opinion with preliminary findings."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 8,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct self in a professional manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Respectful and courteous.",
+        "Respectful of public and private property."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 9,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 10,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assure assigned team members have the authority and credentials for the tasks assigned.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 11,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop standard investigation team organizational structure; relate team structure to investigation plan objectives. Describe various team investigative functions. List the necessary administrative tasks associated with team management.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "ICS concept",
+        "Standard team organizational structure",
+        "Command function",
+        "Logistics function",
+        "Planning function",
+        "Operations function",
+        "Incident Action Plan",
+        "Daily briefings",
+        "Origin determination",
+        "Witness interviews",
+        "Tip line management",
+        "Security",
+        "Time keeping",
+        "Fiscal management",
+        "Media relations/media management",
+        "Information management",
+        "Documentation",
+        "Photography and video services",
+        "Clerical support",
+        "Investigative specialists",
+        "Reports",
+        "Attorney liaison",
+        "Evidence management",
+        "Coordinated surveillance",
+        "Interagency relationships/unified command",
+        "Resource staffing",
+        "Incident debriefings",
+        "Demobilization planning and implementation"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 12,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply ICS concept and principles to complex/major fire investigation.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Establish contact with Incident Commander and/or Agency Administrator. o o o",
+        "Make request for specialized equipment or functions as needed.",
+        "Oversee and ensure contact with incident finance, supply, and logistics. o o o",
+        "Conduct briefings."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 13,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply ICS concept and principles to serial arson investigation.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Establish contact with Incident Commander and/or Agency Administrator. o o o",
+        "Make request for specialized equipment or functions as needed.",
+        "Oversee and ensure contact with incident finance, supply, and logistics. o o",
+        "Conduct briefings."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 14,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize and deliver in briefings and After Action Reviews (AAR).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 15,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate knowledge of confidentiality of investigation and who can and cannot receive protected information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 16,
+      "category": "Ensure relevant information and evidence is gathered, interpreted,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather and interpret information relevant to the case development phase of an investigation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Weather data",
+        "Weather data records",
+        "Lightning map",
+        "Lightning data",
+        "Dispatch logs",
+        "ICS terminology"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 17,
+      "category": "Ensure relevant information and evidence is gathered, interpreted,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Interpret samples.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Lightning map",
+        "Weather data",
+        "Fire behavior report",
+        "Dispatch log"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 18,
+      "category": "Ensure relevant information and evidence is gathered, interpreted,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain information from other sources.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Financial data",
+        "Criminal history",
+        "DMV information",
+        "Ownership/tax information"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 19,
+      "category": "Ensure relevant information and evidence is gathered, interpreted,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Utilize arson investigation techniques, strategies, tactics, and arson investigation team or task force management.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Arson ignition sources/factors.",
+        "Origin and cause considerations.",
+        "Behavioral evidence analysis.",
+        "ICS team/task force organizational structure.",
+        "Interagency operations/liaison.",
+        "Unified command.",
+        "Communications.",
+        "Security.",
+        "Operational compromise.",
+        "Command post considerations.",
+        "Media relations.",
+        "Prosecutorial considerations.",
+        "Administrative considerations.",
+        "Information databases.",
+        "Chronological pattern analysis.",
+        "Spatial pattern analysis.",
+        "Arson motive recognition.",
+        "Special scene processing techniques.",
+        "Modus operandi vs. signature/ritual behaviors.",
+        "Linkage blindness.",
+        "Types of fire setter.",
+        "Special scene processing techniques establishing intent.",
+        "Gather and analyze past fire investigation reports.",
+        "Gather intelligence (911 call, dispatch logs, video, witness statements, etc.) and coordinate review.",
+        "Develop Incident Action Plan (IAP) and conduct briefings.",
+        "Organize and ensure financial and logistical needs."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 20,
+      "category": "Ensure relevant information and evidence is gathered, interpreted,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Utilize complex/major fire investigation techniques, strategies, tactics, and investigation team, or task force management.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Advise of location of interest and establish security.",
+        "Express and mitigate security concerns and covert needs of the team.",
+        "Establish and communicate access restrictions.",
+        "Obtain and review 911 calls and dispatch recording.",
+        "Ensure interviewing of first at scene resources.",
+        "Make request for specialized equipment or functions as needed.",
+        "Oversee and ensure contact with incident finance, supply, and logistics.",
+        "Notify any expert use.",
+        "Procure any special supplies.",
+        "Conduct briefings.",
+        "Evaluate team and individual performances."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 21,
+      "category": "Ensure relevant information and evidence is gathered, interpreted,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize, coordinate, and conduct witness interviews, obtain, and record witness statements, and use that information to support findings in a case.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Identify and locate additional witnesses.",
+        "Identify victims.",
+        "Use constructive interview format.",
+        "Develop material questions.",
+        "Document statements.",
+        "Use leading questions.",
+        "Identify key points.",
+        "Compose a witness statement.",
+        "Observe verbal and non-verbal behavioral cues.",
+        "Deal with a hostile or uncooperative witness.",
+        "Identify minimum subject identification requirements.",
+        "Summarize a witness statement in the report."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 22,
+      "category": "Ensure relevant information and evidence is gathered, interpreted,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assign others or obtain and conduct interrogations of suspects in cases where criminal charges may be filed.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Agency policy regarding interrogation.",
+        "Interrogation legal requirements (Miranda Waiver).",
+        "Interrogation preparation.",
+        "Basic interrogation techniques.",
+        "Structured questions.",
+        "Verbal behavioral cues.",
+        "Non-verbal behavioral cues.",
+        "Alternative themes.",
+        "Specialized interrogation situations (e.g., juveniles, non-native language speakers, diminished capacity, multiple suspect elimination).",
+        "Polygraph."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 23,
+      "category": "Ensure relevant information and evidence is gathered, interpreted,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Document, collect, and preserve evidence in accordance with current standards.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Legal requirements and authorities for: o o o o o o o",
+        "Spoliation issues.",
+        "Managing non-routine items.",
+        "Impression evidence.",
+        "Trace evidence.",
+        "Computer and other electronic devices.",
+        "Soils.",
+        "DNA.",
+        "Other evidence categories.",
+        "Managing and cataloguing large amounts of evidence.",
+        "Integrate evidence into the investigation report.",
+        "Crime lab protocols and evidence collection assistance."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 24,
+      "category": "Prepare and present a case to administrative and legal staff.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare a comprehensive investigation plan for the case development phase of a wildland fire investigation.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Preliminary assessment of facts",
+        "Goals, objectives, and scope",
+        "Milestones, timelines, and cutoff points",
+        "Investigative techniques",
+        "Specialized equipment needs",
+        "Administrative support",
+        "Additional resources",
+        "Jurisdictional issues"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 25,
+      "category": "Prepare and present a case to administrative and legal staff.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Document the findings of an investigation and identify any specialized documentation requirements.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Preliminary fire investigation reports",
+        "Fire behavior data",
+        "Witness statements",
+        "Photographs/video",
+        "Sketches and diagrams",
+        "Forensic analyzes",
+        "Compliance records",
+        "Technical reports",
+        "Scientific research",
+        "Investigative depositions",
+        "Grand jury testimony",
+        "Engineered diagrams"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 26,
+      "category": "Prepare and present a case to administrative and legal staff.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Present a case to administrators and/or attorneys for consideration of legal action.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Final investigation report",
+        "Preliminary contacts with litigators",
+        "Investigation summary preparation",
+        "Professional relationship with legal staff."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "INVL",
+      "task_number": 27,
+      "category": "Prepare and present a case to administrative and legal staff.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Make a professional appearance and present sworn testimony.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Curriculum Vitae (provide copy)",
+        "Frye standard",
+        "Daubert v. Merrill-Dow Pharmaceuticals",
+        "Kumho Tire v. Carmichael",
+        "Michigan Millers Mutual v. Benfield",
+        "Wisegram v. Marley",
+        "Rule 702",
+        "Pre-testimony preparation",
+        "Courtroom demeanor",
+        "Deposition vs. testimony",
+        "Grand jury proceedings",
+        "Perjury",
+        "Fact vs. opinion",
+        "Voir dire",
+        "Qualifying as an expert",
+        "Cross examination"
+      ],
+      "page": 13
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 5
+    }
+  ],
+  "extra_fields": {}
+}

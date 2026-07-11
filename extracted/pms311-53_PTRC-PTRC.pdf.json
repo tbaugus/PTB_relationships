@@ -1,0 +1,197 @@
+{
+  "document": {
+    "filename": "pms311-53_PTRC-PTRC.pdf",
+    "sha256": "ab66762a29db84a4bfa430d80ab5b3e17764a112fec0a429f3b24ac96dd4caee",
+    "pms_number": "311-53",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "PTRC"
+    ],
+    "title": "Personnel Time Recorder",
+    "edition_date": "SEPTEMBER 2024",
+    "ips_reference": "350-53",
+    "official": true,
+    "page_count": 10
+  },
+  "positions": [
+    {
+      "code": "PTRC",
+      "title": "Personnel Time Recorder",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "PTRC",
+      "task_number": 1,
+      "category": "Leadership Level 1, Follower (Provide Action)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communications skills.",
+      "code_raw": "ALL",
+      "code_alternatives": [
+        "ALL"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "PTRC",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure individual readiness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "PTRC",
+      "task_number": 3,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Adhere to guidelines in the NWCG Standards for Interagency Incident Business Management, PMS 902 while on assignment as a single resource.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "PTRC",
+      "task_number": 4,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Report to the Finance/Administration Section Chief (FSC).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "PTRC",
+      "task_number": 5,
+      "category": "Perform Personnel Time Recorder-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Familiarize yourself with the use and management of both digital and paper records.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PTRC",
+      "task_number": 6,
+      "category": "Perform Personnel Time Recorder-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure overhead resources are managed properly.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PTRC",
+      "task_number": 7,
+      "category": "Perform Personnel Time Recorder-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and post time in the incident time system (e.g., e-ISuite).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PTRC",
+      "task_number": 8,
+      "category": "Perform Personnel Time Recorder-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Close out all personnel prior to resource demobilization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PTRC",
+      "task_number": 9,
+      "category": "Perform Personnel Time Recorder-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide a transition plan for the incoming team or jurisdictional agency as needed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PTRC",
+      "task_number": 10,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate and coordinate with assigned resources and pertinent Incident Management Team (IMT) functional areas.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PTRC",
+      "task_number": 11,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure compliance with all safety practices and procedures for yourself and those around you.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 7
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 7
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    }
+  ],
+  "extra_fields": {}
+}

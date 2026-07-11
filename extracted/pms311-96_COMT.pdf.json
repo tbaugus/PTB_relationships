@@ -1,0 +1,469 @@
+{
+  "document": {
+    "filename": "pms311-96_COMT.pdf",
+    "sha256": "e569494641d3b4339f90e01e633a5d380bfa067055ce65f59728dd4bc214365a",
+    "pms_number": "311-96",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "COMT"
+    ],
+    "title": "Incident Communications Technician",
+    "edition_date": "JUNE 2009",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 14
+  },
+  "positions": [
+    {
+      "code": "COMT",
+      "title": "Incident Communications Technician",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "COMT",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit. Suggested items:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "PMS 410-1, Fireline Handbook",
+        "ICS 205, Incident Radio Communications Plan",
+        "ICS 213, General Message",
+        "ICS 214, Unit Log",
+        "National Incident Radio Support Cache User’s Guide",
+        "Programmable VHF radio",
+        "Radio programming equipment (cloning cable or computer)",
+        "Compass/Global Positioning System (GPS)",
+        "Multi-purpose tool",
+        "Electrical tape",
+        "Telephone wire connectors",
+        "Batteries, AA",
+        "Multimeter",
+        "Personal protective equipment (PPE)"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Incident order number",
+        "Request number",
+        "Incident phone number",
+        "Reporting time",
+        "Reporting location",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 3,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive at incident and check in.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Arrive properly equipped at assigned location within acceptable time limits."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist Communications Unit Leader in designing communications system to meet incident operational needs.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Determine resource needs.",
+        "Prepare and/or order necessary equipment and personnel.",
+        "Order additional communications vendor services and associated costs (e.g., telephone, satcom, microwave).",
+        "Identify locations for equipment to be installed (e.g., repeaters, telephone lines)."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 5,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from the Communications Unit Leader or immediate supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Number of communications personnel ordered and on site.",
+        "Check-in/out procedures for communications equipment (e.g., radios).",
+        "ICS 205, Incident Radio Communications Plan",
+        "ICS 206, Medical Plan",
+        "Current organization of the incident (e.g., section chiefs, unit leaders).",
+        "Message protocols (e.g., line orders, external, emergencies).",
+        "Copy of the Incident Action Plan (IAP) or other relevant plans and/or documents (e.g., maps).",
+        "Meetings and operational period briefings.",
+        "Current/anticipated situation status."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 6,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct self in a professional manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Respectful and courteous.",
+        "Respectful of public and private property."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 7,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 8,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Maintain appropriate span of control.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 9,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in briefings and meetings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Represent Communications Unit Leader as needed."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 10,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Initiate and maintain accurate records of communications equipment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Establish accountability system for issuing and returning radios and other communications equipment.",
+        "Transfer geographic locations of communications equipment to local maps (lat/long, legal)."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 11,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain required documentation and submit to Communications Unit Leader or immediate supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "ICS 213, General Message",
+        "ICS 214, Unit Log"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 12,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare plan for demobilization of communication resources in conjunction with Communications Unit Leader or immediate supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify excess resources before scheduled release.",
+        "Clear releases with supervisor for inclusion into incident demobilization plan.",
+        "Provide a list of total weight, number of pieces, total cubic feet, and final destination of equipment being demobilized.",
+        "Recover and account for communications equipment."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 13,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and prioritize incoming information and determine appropriate response.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify any operational restrictions to the Incident Communications Center Manager."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 14,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish installation priorities while adhering to safety standards regarding communications.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Operations before logistics"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 15,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine appropriate location for communications equipment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate with local communication technician, agency and/or personnel."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 16,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Install communication equipment at determined locations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate transportation of equipment and personnel.",
+        "Ensure personnel have appropriate PPE."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 17,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety, welfare, and accountability of assigned personnel during the entire period of supervision.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Communicate potential hazardous or inappropriate work situations.",
+        "Ensure special precautions are taken and work rest guidelines are followed."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 18,
+      "category": "Provide logistical support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide incident personnel with appropriate equipment based on ICS 205, Incident Radio Communications Plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify types and quantity of communications equipment based on the IAP or other relevant plan.",
+        "Ensure personnel are able to operate assigned equipment."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 19,
+      "category": "Ensure functionality of equipment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Test components of communications equipment to ensure the incident’s systems are operational.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Command repeater/link",
+        "Logistics repeater",
+        "Remote",
+        "Satellite phone",
+        "Aircraft link"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 20,
+      "category": "Ensure functionality of equipment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Clone or program radios.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 21,
+      "category": "Ensure functionality of equipment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform operational test of communications systems throughout duration of the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Accomplish minor field repair.",
+        "Place orders for replacement of equipment.",
+        "Plan for battery replacement.",
+        "Minimize interruptions in system operation."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 22,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate and efficient transfer of position duties when mobilizing/demobilizing.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform subordinate staff.",
+        "Document follow-up action needed and submit to supervisor."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 23,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demobilize equipment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure incident and agency demobilization procedures are followed.",
+        "Inventory and seal equipment for return.",
+        "Complete waybill."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "COMT",
+      "task_number": 24,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demobilize and check out.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive demobilization instructions from incident supervisor.",
+        "If required, complete ICS 221, Demobilization Checkout and submit completed form to the appropriate person."
+      ],
+      "page": 12
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

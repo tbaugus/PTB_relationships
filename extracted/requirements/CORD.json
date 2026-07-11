@@ -1,0 +1,38 @@
+{
+  "position_code": "CORD",
+  "required_training": [
+    "A-103, Temporary Flight Restrictions and Advisory Notices to Airmen (NOTAMs)",
+    "A-110, Aviation Transportation of Hazardous Materials",
+    "A-202, Interagency Aviation Organizations",
+    "A-203, Basic Airspace",
+    "A-204, Cre Aircraft Capabilities and Limitations",
+    "A-205, Risk Management I",
+    "A-208, Aircraft and Pilot Approval",
+    "A-303, Human Factors in Aviation",
+    "A-305, Risk Management II",
+    "A-307, Aviation Policy and Regulations II",
+    "A-310, Overview of Crew Resource Management (DOI) or N9059, Crew Resource Management 7 Skills (USFS)",
+    "D-312, Aircraft Dispatcher"
+  ],
+  "required_experience": [
+    "Satisfactory performance as an Expanded Dispatch Supervisory Dispatcher ( EDSP )",
+    "AND Completion and Certification of NWCG Position Task Book for Expanded Dispatch Coordinator (CORD) , PMS 311-56"
+  ],
+  "required_experience_prereq_codes": [
+    "EDSP"
+  ],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Expanded Dispatch Supervisory Dispatcher ( EDSP )"
+  ],
+  "maintains_currency_for": [
+    "Expanded Dispatch Recorder ( EDRC )",
+    "Expanded Dispatch Supervisory Dispatcher ( EDSP )",
+    "Expanded Dispatch Support Dispatcher ( EDSD )"
+  ],
+  "other_training": [
+    "ICS-400, Advanced ICS",
+    "L-480, Organizational Leadership in the Wildland Fire Service"
+  ],
+  "note": null
+}

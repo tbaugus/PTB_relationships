@@ -1,0 +1,602 @@
+{
+  "document": {
+    "filename": "pms311-118_FAL1.pdf",
+    "sha256": "ce145192c6e4dce91368b0f3a82a9c7b20ed4c353b05cf763051bdb9806b9d38",
+    "pms_number": "311-118",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "FAL1"
+    ],
+    "title": "Advanced Faller",
+    "edition_date": "MARCH 2026",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 18
+  },
+  "positions": [
+    {
+      "code": "FAL1",
+      "title": "Advanced Faller",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "FAL1",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble materials needed to perform job. Materials will be assembled and prepared prior to receiving an assignment. Contents will include critical items needed for the assignment and items needed for functioning during the first 48 hours. These items should include the following:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Chain saw",
+        "Proper chaps",
+        "Chain saw files (both flat and round files)",
+        "Falling ax",
+        "Wedges",
+        "Scrench",
+        "Extra chain",
+        "Proper chain saw fuel mix",
+        "Bar oil",
+        "Tuning screwdriver",
+        "Approved fuel container",
+        "Miscellaneous chain saw parts"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow safety procedures for foot travel and for transporting personnel and equipment (loading, riding, and unloading).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Stowing personal gear, chainsaw, and fuel"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 3,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine assignments and personal equipment needs.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Check tools, supplies, and radios."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 4,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from supervisor.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Tactical assignment",
+        "Special considerations and hazards"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 5,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow safety guidelines.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Inform subordinates of hazards.",
+        "Develop plans based on safety guidelines.",
+        "Ensure tactical operations maintain the principles of Lookouts, Communication, Escape Routes, Safety Zones (LCES).",
+        "Monitor fatigue-follow work/rest guidelines."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 6,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Maintain appropriate span of control.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 7,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief and keep supervisor informed and updated.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Previous operational assignments",
+        "Readiness for next operational period"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 8,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate tactical operations with adjoining resources and supervisor and communicate changes.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Movement of resources",
+        "Tactical decisions",
+        "Logistical needs"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 9,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review NWCG Incident Response Pocket Guide (IRPG), PMS 461, safety guidelines.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "LCES",
+        "How to Properly Refuse Risk"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 10,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend briefings and meetings as directed.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Provide information as requested.",
+        "Keep supervisor informed of issues and potential problems."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 11,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and conduct After Action Reviews (AARs).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Agency administrative staff",
+        "Incident Finance/Administration section"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 12,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete required documentation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Time reports",
+        "Accident and injury reports",
+        "ICS 214, Unit Log"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 13,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain communications with adjoining resources.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 14,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Take control of your work area. Keep area clear during falling operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 15,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate fuels, topography, and weather factors throughout entire operational period.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Fire behavior",
+        "LCES"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 16,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recon area of assigned responsibility, consult with supervisor on resource needs and suggest adjustments as necessary.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 17,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process found in the IRPG and Wildland Fire Incident Management Field Guide.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Step 1: Situation Awareness",
+        "Step 2: Hazard Assessment",
+        "Step 3: Hazard Control",
+        "Step 4: Decision Point",
+        "Step 5: Evaluate"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 18,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate a systematic size up assessment of the project area and cutting task.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Assess the scene for potential targets, hazards and safety concerns.",
+        "Conduct a top to bottom, or bottom to top assessment of the tree for defect.",
+        "Clear the area around the stump of possible tripping hazards etc.",
+        "Determine primary and secondary lean.",
+        "Establish and clear primary and secondary escape routes.",
+        "Walk the lay checking for obstructions.",
+        "Plan the falling cuts to be employed.",
+        "Communicate the plan and clear the area",
+        "Fall the tree using all proper safety techniques as outlined in the JHA or RMA."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 19,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain situation awareness.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Develop contingency plans."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 20,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recognize and adapt to an incident within an incident. Behavior: Follow established procedures and/or safety procedures relevant to given assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Ensure scene safety for responders and victim.",
+        "Ensure first aid treatment is provided.",
+        "Notify supervisor of incident.",
+        "Arrange for medical treatment and evacuation from fireline or project area."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 21,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop a Job Hazard Analysis or Risk Management Assessment for a chain saw operation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 22,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify potential hazards and mitigating techniques given various tree species, stand conditions, and indicators of defect.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Conifers versus hardwood",
+        "Dead versus live",
+        "Root systems",
+        "Wood properties",
+        "Growth forms",
+        "Stand density",
+        "Conks, boles, or mistletoe Behavior: Make appropriate decisions based on analysis of gathered information."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 23,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop a felling plan and present a briefing to personnel assigned to the operation. Behavior: Follow established procedures and/or safety procedures relevant to given assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 24,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate proficiency in advanced maintenance and troubleshooting in the field. This may include but is not limited to:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Fuel/spark/air",
+        "Starter assembly",
+        "Bar stud",
+        "Performance problem troubleshooting",
+        "Minor mechanical problem correction"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 25,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Describe appropriate techniques for complex felling assignments such as:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Fire-weakened trees",
+        "Cat-faced trees",
+        "Leaners",
+        "Stove pipes (hollowed out trees)",
+        "Snags with missing tops",
+        "Snags with loose or compromised tops",
+        "Hang-ups",
+        "Trees leaning towards a target"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 26,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate proper chain saw handling and cutting techniques to successfully accomplish felling a tree of moderate complexity to a predetermined lay:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Apply chainsaw situational awareness (size up)",
+        "Verbalize the work plan",
+        "Perform a Stump Analysis"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 27,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate felling a tree significantly off its plumbed lean (this simulates avoiding a target which may currently be in the direction of the lean).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 28,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate the double-cut method by felling a tree the diameter of which is greater than one and one-half times the bar length.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 29,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate felling a tree that lacks top weight and lean (an example is a broken-topped large diameter snag which is straight up and down).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 30,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate the appropriate application of boring techniques (to test soundness or to fall a green tree with lean to prevent barber chair).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 31,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate felling a fire-weakened tree.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 32,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Successfully mitigate a hang-up tree using the appropriate method.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "FAL1",
+      "task_number": 33,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in training Intermediate Fallers (FAL2) in the classroom and field.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Assist in the delivery of an agency-approved chain saw training course (S-212, Wildland Fire Chain Saws, or equivalent) or refresher."
+      ],
+      "page": 14
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

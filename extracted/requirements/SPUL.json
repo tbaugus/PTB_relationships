@@ -1,0 +1,36 @@
+{
+  "position_code": "SPUL",
+  "required_training": [
+    "ICS-200, ICS for Single Resources and Initial Action Incidents",
+    "ICS-300, Intermediate ICS for Expanding Incidents",
+    "IS-800, National Response Framework, An Introduction"
+  ],
+  "required_experience": [
+    "Satisfactory performance as an Ordering Manager ( ORDM )",
+    "AND Satisfactory performance as a Receiving/Distribution Manager ( RCDM )",
+    "AND Completion and Certification of NWCG Supply Unit Leader (SPUL) Position Task Book, PMS 311-34"
+  ],
+  "required_experience_prereq_codes": [
+    "ORDM",
+    "RCDM"
+  ],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Logistics Section Chief Complex ( LSCC )",
+    "Logistics Section Chief Type 3 ( LSC3 )",
+    "Ordering Manager ( ORDM )",
+    "Receiving/Distribution Manager ( RCDM )"
+  ],
+  "maintains_currency_for": [
+    "Logistics Section Chief Complex ( LSCC )",
+    "Logistics Section Chief Type 3 ( LSC3 )",
+    "Ordering Manager ( ORDM )",
+    "Receiving/Distribution Manager ( RCDM )"
+  ],
+  "other_training": [
+    "E/L 970, All-Hazards Position Specific Supply Unit Leader",
+    "L-380, Fireline Leadership",
+    "S-320, Introduction to Incident Management Teams"
+  ],
+  "note": "Once qualified as a SPUL, the LSC3 qualification may be granted by the certifying official. Certification must be documented on a \u201cverification/certification\u201d page of the LSC3 PTB."
+}

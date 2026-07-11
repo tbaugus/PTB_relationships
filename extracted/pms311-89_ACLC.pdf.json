@@ -1,0 +1,280 @@
+{
+  "document": {
+    "filename": "pms311-89_ACLC.pdf",
+    "sha256": "af007e425075e568827906006e86358251f07811cbd51212c40fcab14e1ccc90",
+    "pms_number": "311-89",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "ACLC"
+    ],
+    "title": "Assistant Area Commander Logistics",
+    "edition_date": "JUNE 2009",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 11
+  },
+  "positions": [
+    {
+      "code": "ACLC",
+      "title": "Assistant Area Commander Logistics",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "ACLC",
+      "task_number": 1,
+      "category": "Ensure availability, qualifications and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and order resources required for area command logistics operation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ACLC",
+      "task_number": 2,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from Area Commander.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Area Command issues",
+        "Status of incidents and assigned resources",
+        "Competition for resources",
+        "Factors affecting resource prioritization"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ACLC",
+      "task_number": 3,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather intelligence from incident Logistics Section Chiefs, coordination center, and other personnel responsible for incident",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ACLC",
+      "task_number": 4,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships (e.g., Incident Management Team (IMT), coordination centers/expanded dispatch, agency personnel, cooperators, comptroller, buying team).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ACLC",
+      "task_number": 5,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine work space requirements, location, and procurement procedures for the area command team.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ACLC",
+      "task_number": 6,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish procedures which facilitate communications.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Area command frequency coordination",
+        "Sharing or reallocation of resources",
+        "Problem-solving or conflict resolution"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ACLC",
+      "task_number": 7,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate and communicate potentially hazardous situations.",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ACLC",
+      "task_number": 8,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ACLC",
+      "task_number": 9,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in briefing with Agency Administrator(s).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "ACLC",
+      "task_number": 10,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain a log of strategic decisions and significant events for inclusion in Area Command final package.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "ACLC",
+      "task_number": 11,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate and share all functional information for logistics with area command team members.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "ACLC",
+      "task_number": 12,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist in developing area command demobilization priorities and procedures.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Cache demobilization requirements.",
+        "Coordination of demobilization actions between IMTs and expanded dispatch."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ACLC",
+      "task_number": 13,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist the Assistant Area Commander, Planning in developing an area command transition plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "ACLC",
+      "task_number": 14,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate effectiveness of current system of expanded dispatch and identify needed improvements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "ACLC",
+      "task_number": 15,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Take appropriate action, if delegated authority for expanded dispatch.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide adequate staff including Expanded Dispatch Coordinator.",
+        "Ensure adequate facilities.",
+        "Determine scope of responsibility.",
+        "Identify relationship with buying team."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ACLC",
+      "task_number": 16,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Receive and process orders for all other area command functions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

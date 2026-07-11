@@ -1,0 +1,32 @@
+{
+  "position_code": "ICT5",
+  "required_training": [
+    "ICS-200, ICS for Single Resources and Initial Action Incidents",
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-131, Firefighter Type 1"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Firefighter Type 2 ( FFT2 )",
+    "AND Completion and Certification of NWCG Position Task Book for Incident Commander Type 5 (ICT5) , PMS 311-116"
+  ],
+  "required_experience_prereq_codes": [
+    "FFT2"
+  ],
+  "physical_fitness": "Physical Fitness Level: Arduous",
+  "currency_maintained_by": [
+    "Crew Boss, Single Resource ( CRWB )",
+    "Engine Boss, Single Resource ( ENGB )",
+    "Firefighter Type 1 ( FFT1 )",
+    "Incident Commander Type 4 ( ICT4 )"
+  ],
+  "maintains_currency_for": [
+    "Firefighter Type 1 ( FFT1 )",
+    "Firefighter Type 2 ( FFT2 )"
+  ],
+  "other_training": [
+    "S-112, Introduction to Chainsaw Operations",
+    "S-211, Portable Pumps and Water Use",
+    "S-215, Fire Operations in the Wildland Urban Interface"
+  ],
+  "note": "The ICT5 position is not prerequisite to the NWCG Incident Commander Type 4 ( ICT4 ) position."
+}

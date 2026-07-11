@@ -1,0 +1,407 @@
+{
+  "document": {
+    "filename": "pms311-39_MEDL.pdf",
+    "sha256": "09abceb7dbc051c9be0fabb3d4d894e7f5dff0f9290209cd4224d0ca23170f62",
+    "pms_number": "311-39",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "MEDL"
+    ],
+    "title": "Medical Unit Leader",
+    "edition_date": "AUGUST 2024",
+    "ips_reference": "350-39",
+    "official": true,
+    "page_count": 12
+  },
+  "positions": [
+    {
+      "code": "MEDL",
+      "title": "Medical Unit Leader",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "MEDL",
+      "task_number": 1,
+      "category": "Leadership Level 3, Leader of People (Develop Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Leaders of people have increasing challenges. They accept responsibility, not only for their own actions, but for those of their team. Leaders of people act to develop credibility as leaders: placing the team ahead of themselves, demonstrating trustworthiness, mastering essential technical skills, and instilling the values of the organization in their teams.",
+      "code_raw": "ALL",
+      "code_alternatives": [
+        "ALL"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather critical state, regional, and local emergency medical sy stem (EMS) resource information, regulations, and response capabilities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 3,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with the Logistics Section Chief (LSC) and other functional areas to order emergency response personnel with necessary capabilities and equipment consistent with the current and projected scale of the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 4,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish partnerships with local and regional EMS, hospitals, he alth clinics, search and rescue teams, fire departments, and public health officials.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 5,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Validate licensure, qualification, and readiness of assigned personnel and equipment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 6,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide leadership on incident medical resource decision making.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 7,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Make daily division assignments for medical unit staff and provide supervision for medical resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 8,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure medical unit staff adhere to proper timekeeping, work-rest ratio, and other applicable guidance defined in the NWCG Standards for Interagency Incident Business Management, PMS 902.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 9,
+      "category": "Perform Medical Unit Leader- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and maintain a Medical Plan (ICS 206 WF) to assist with an Incident Within an Incident (IWI) response.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 10,
+      "category": "Perform Medical Unit Leader- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain 24-hour emergency response readiness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 11,
+      "category": "Perform Medical Unit Leader- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish, manage, and maintain medical unit aid station(s).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 12,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate and coordinate with local, regional, and state medical resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 13,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive internal and external interpersonal working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 14,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Consult with public health officials on response to medical em ergencies that have the potential for a significant number of patients (e.g., communicable disease outbreak).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 15,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with safety and operations functional areas.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 16,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with the Facilities Unit Leader (FACL) to provide and maintain utilities, space, and facilities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 17,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with the Compensation/Claims Unit Leader (COMP) fo r patients with injuries or illness requiring care outside the medical unit aid station.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 18,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with the Communications Unit Leader (COML) and Radio Operator (RADO) regarding IWI procedures.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 19,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Account for and monitor the health, safety, and welfare of assigned incident personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 20,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate staffing needs; ensure an appropriate level of medical su pport providers are available and staged appropriately throughout the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 21,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure adequate personnel and equipment resources are available for emergency medical evacuation of patients from remote areas.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 22,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure that the Medical Plan (ICS 206 WF) is current and m edical responders are briefed with updated communication procedures and transportation plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 23,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete, authorize, and ensure timely submission of medical unit documentation through proper channels.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 24,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain all required incident documentation generated through operation of the incident medical unit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 25,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Properly dispose of any Personally Identifiable Information (PII)/ Protected Health Information (PHI) at the end of the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "MEDL",
+      "task_number": 26,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate demobilization, identify excess resources, and co ordinate with your incident supervisor to prepare the demobilization schedule.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 9
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 9
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    }
+  ],
+  "extra_fields": {}
+}

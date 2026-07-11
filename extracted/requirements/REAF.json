@@ -1,0 +1,25 @@
+{
+  "position_code": "REAF",
+  "required_training": [
+    "ICS-100, Introduction to ICS",
+    "ICS-200, ICS for Single Resources and Initial Action Incidents",
+    "IS-700, NIMS: An Introduction",
+    "L-180, Human Factors in the Wildland Fire Service",
+    "M-280, Resource Advisor, Fireline",
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-130, Firefighter Training",
+    "S-190, Introduction to Wildland Fire Behavior"
+  ],
+  "required_experience": [
+    "Completion and Certification of NWCG Position Task Book for Resource Advisor, Fireline (REAF), PMS 311-112"
+  ],
+  "required_experience_prereq_codes": [],
+  "physical_fitness": "Physical Fitness Level: Moderate",
+  "currency_maintained_by": [],
+  "maintains_currency_for": [],
+  "other_training": [
+    "IS-800, NRF: An Introduction",
+    "S-290, Intermediate Wildland Fire Behavior"
+  ],
+  "note": null
+}

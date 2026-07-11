@@ -1,0 +1,26 @@
+{
+  "position_code": "COMT",
+  "required_training": [
+    "ICS-100, Introduction to ICS",
+    "IS-700, NIMS: An Introduction",
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)"
+  ],
+  "required_experience": [
+    "Completion and Certification of NWCG Incident Communications Technician (COMT) Position Task Book , PMS 311-96"
+  ],
+  "required_experience_prereq_codes": [],
+  "physical_fitness": "Physical Fitness Level: Light",
+  "currency_maintained_by": [
+    "Communications Unit Leader ( COML )"
+  ],
+  "maintains_currency_for": [
+    "Communications Unit Leader ( COML )"
+  ],
+  "other_training": [
+    "L-180, Human Factors in the Wildland Fire Service",
+    "S-130, Firefighter Training",
+    "S-190, Introduction to Wildland Fire Behavior",
+    "S-258, Incident Communications Technician"
+  ],
+  "note": null
+}

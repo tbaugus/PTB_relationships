@@ -1,0 +1,482 @@
+{
+  "document": {
+    "filename": "pms311-81_SOFF.pdf",
+    "sha256": "16b94bb410eb284004f7ab0c0f4a8f1d7da7d87b6d295e9388ee427c04ca0554",
+    "pms_number": "311-81",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "SOFF"
+    ],
+    "title": "Safety Officer, Field",
+    "edition_date": "JULY 2024",
+    "ips_reference": "350-81",
+    "official": true,
+    "page_count": 11
+  },
+  "positions": [
+    {
+      "code": "SOFF",
+      "title": "Safety Officer, Field",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "SOFF",
+      "task_number": 1,
+      "category": "Leadership Level 3, Leader of People (Develop Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Leaders of people have increasing challenges. They accept responsibility, not only for their own actions, but for those of their team. Leaders of people act to develop credibility as leaders: placing the team ahead of themselves, demonstrating trustworthiness, mastering essential technical skills, and instilling the values of the organization in their teams.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 2,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Interact with all incident personnel to build trust and develop positive interpersonal relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 3,
+      "category": "Perform Safety Officer, Field-Specific Duties Identify Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain computer analytics and modeling of the incident.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 4,
+      "category": "Perform Safety Officer, Field-Specific Duties Identify Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend briefings and review the operational plan to understand overall tactics and strategy.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 5,
+      "category": "Perform Safety Officer, Field-Specific Duties Identify Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Compare analytic and briefing information to incident reality (ground truth).",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 6,
+      "category": "Perform Safety Officer, Field-Specific Duties Identify Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Work with operational resources to verify location and description of values at risk.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 7,
+      "category": "Perform Safety Officer, Field-Specific Duties Identify Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor incident operations to identify risks and hazards.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 8,
+      "category": "Perform Safety Officer, Field-Specific Duties Identify Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor overall health and well-being of incident personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 9,
+      "category": "Perform Safety Officer, Field-Specific Duties Identify Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor high-risk activities and common denominator mechanisms of injury.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 10,
+      "category": "Perform Safety Officer, Field-Specific Duties Identify Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Serve as a consultant for the Division/Group Supervisors (DIVS).",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 11,
+      "category": "Perform Safety Officer, Field-Specific Duties Assess Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate the likelihood (probability) of identified hazards impacting incident personnel and the public.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 12,
+      "category": "Perform Safety Officer, Field-Specific Duties Assess Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate the severity of the potential consequences/risks to incident personnel and the public.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 13,
+      "category": "Perform Safety Officer, Field-Specific Duties Assess Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prioritize hazards.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 14,
+      "category": "Perform Safety Officer, Field-Specific Duties Assess Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gauge the level of responder risk.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 15,
+      "category": "Perform Safety Officer, Field-Specific Duties Assess Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate strategies and tactics to determine if they are still commensurate with the risk involved.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 16,
+      "category": "Perform Safety Officer, Field-Specific Duties Assess Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Regularly report observed field information back to the Incident Management Team (IMT) Safety Officer/Incident Commander (IC) so they can complete their initial and ongoing risk assessments.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 17,
+      "category": "Perform Safety Officer, Field-Specific Duties Mitigate Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recommend mitigations to influence severity/probability of hazards.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 18,
+      "category": "Perform Safety Officer, Field-Specific Duties Mitigate Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate the effectiveness of mitigations and adjust accordingly.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 19,
+      "category": "Perform Safety Officer, Field-Specific Duties Mitigate Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist Division/Group Supervisor (DIVS) with safety-related needs.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 20,
+      "category": "Perform Safety Officer, Field-Specific Duties Mitigate Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor and engage with the public as needed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 21,
+      "category": "Perform Safety Officer, Field-Specific Duties Mitigate Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with medical resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 22,
+      "category": "Perform Safety Officer, Field-Specific Duties Mitigate Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Present safety message at division/group breakout briefing.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 23,
+      "category": "Perform Safety Officer, Field-Specific Duties Mitigate Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Stop and correct unsafe acts or conditions.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 24,
+      "category": "Perform Safety Officer, Field-Specific Duties Mitigate Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate adequacy of resources to manage an Incident Within an Incident (IWI).",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 25,
+      "category": "Perform Safety Officer, Field-Specific Duties Mitigate Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and validate the process for an Incident Within an Incident (IWI).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 26,
+      "category": "Perform Safety Officer, Field-Specific Duties Mitigate Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Support the Incident Within an Incident (IWI) response.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 27,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend, participate in, and/or conduct briefings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 28,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide and receive Incident Command Post (ICP) feedback and updates.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 29,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Actively engage with field resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 30,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage conflict and facilitate difficult conversations regarding safety.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "SOFF",
+      "task_number": 31,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of duties and outline any issues or unresolved items.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 8
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 8
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    }
+  ],
+  "extra_fields": {}
+}

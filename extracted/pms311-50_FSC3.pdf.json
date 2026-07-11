@@ -1,0 +1,1221 @@
+{
+  "document": {
+    "filename": "pms311-50_FSC3.pdf",
+    "sha256": "87a285a2f6d2e37ed6d829fc03599904835116e8746e294bac2235b5c8d47b6a",
+    "pms_number": "311-50",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "FSC3"
+    ],
+    "title": "Finance Section Chief Type 3",
+    "edition_date": "OCTOBER 2017",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 19
+  },
+  "positions": [
+    {
+      "code": "FSC3",
+      "title": "Finance Section Chief Type 3",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "FSC3",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit. Kit will be assembled and prepared prior to receiving an assignment. Kit will contain essential items needed for the assignment and items needed for functioning. Kit will be easily transportable and within agency weight limitation. The basic information and materials needed may include, but is not limited to, any of the following: Reference Materials",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "References appropriate for the incident type and agencies involved.",
+        "PMS 410-1, Fireline Handbook.",
+        "Field Operations Guide ICS 420-1Agency specific policies and procedures.",
+        "Acceptable Union Agreements",
+        "ICS Finance/Administration Section Position Manual, ICS 224.",
+        "IMT contact information. Forms",
+        "ICS Form 213, General Message.",
+        "ICS Form 214, Unit Log.",
+        "Minimum supply of forms appropriate to the finance/administration section.",
+        "Agency specific forms. Supplies",
+        "Office supplies appropriate to the finance/ administration section."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 2,
+      "category": "Ensure readiness of self and subordinates [crew] for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive properly equipped at incident assigned location within acceptable time limits.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 3,
+      "category": "Ensure readiness of self and subordinates [crew] for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Check in according to agency guidelines.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify units within the section to be activated and resources required for section operation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 5,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify workspace requirements and determine locations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon activation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident name.",
+        "Incident order number.",
+        "Request number.",
+        "Reporting location.",
+        "Reporting time.",
+        "Transportation arrangements/travel routes.",
+        "Contact procedures during travel (telephone/radio)."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 7,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather information necessary to assess incident assignment and determine immediate needs and actions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident Commander’s name and agency address.",
+        "Type of incident.",
+        "Current resource commitments.",
+        "Current situation.",
+        "Expected duration of assignment.",
+        "Terrain.",
+        "Weather."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 8,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend Agency Administrator or outgoing Incident Commander briefing. Obtain available incident information and incident agency guidelines and policies:",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Obtain a copy of Delegation of Authority as necessary.",
+        "Obtain names, contact numbers, and positions/ functions of cooperating/assisting agencies.",
+        "Complete checklist for takeover of large incidents."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 9,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from Incident Commander. May be one-on-one or in an Incident Management Team (IMT) meeting.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review Incident Commander’s priorities, goals and objectives for the IMT and Management of the incident.",
+        "Obtain initial instructions concerning Finance/ Administration Section priorities.",
+        "Receive expected timeframes for briefings, planning meetings, and team meetings."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 10,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Collect information from outgoing Finance/ Administration Section Chief, outgoing Incident Commander or other personnel responsible for incident prior to your arrival.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Obtain status of incident and assigned resources.",
+        "Obtain status of existing Finance/Administration Section.",
+        "Order necessary personnel and equipment."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 11,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Local agencies.",
+        "Hosting unit.",
+        "Public.",
+        "Division/Group Supervisors.",
+        "Command and General Staff"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 12,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create a work environment that provides mutual respect and equal opportunity for all personnel assigned to the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 13,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan and activate section.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify units within the section to be activated and resources required for section operation.",
+        "Identify workspace requirements and determine locations.",
+        "Brief unit leaders including summary of incident, current activity, and anticipated section activity for individual unit planning.",
+        "Provide initial operating instructions to section personnel, including safety and security concerns and expectations."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 14,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain appropriate span of control.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 15,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate knowledge of ICS structure, principles, positions, and ICS forms.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 16,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Understand scope, roles, responsibilities, jurisdiction, and authority of responder agencies.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 17,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assure execution of appropriate administrative requirements (to include documentation, ICS forms, personnel and equipment time records, performance ratings).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 18,
+      "category": "Model leadership principles of Duty, Respect, and Integrity.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure that tasks are understood, supervised, and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 19,
+      "category": "Model leadership principles of Duty, Respect, and Integrity.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well-being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 20,
+      "category": "Model leadership principles of Duty, Respect, and Integrity.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 21,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recognize potentially hazardous situations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 22,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Inform subordinates of hazards.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 23,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Control positions and function of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 24,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure that special precautions are taken when extraordinary hazards exist.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 25,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure adequate rest is provided to all unit personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 26,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide initial operating instructions to section personnel.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 27,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform the duties of a Time Unit Leader according to the most current version of the Field Operations Guide (ICS 420-1).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure proper equipment and personnel time recording.",
+        "Manage commissary operations (if needed)."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 28,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform the duties of a Procurement Unit Leader according to the most current version of the Field Operations Guide (ICS 420-1).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Administer all financial matters pertaining to vendor contracts, leases, and fiscal agreements."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 29,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform the duties of a Compensation and Claims Unit Leader according to the most current version of the Field Operations Guide (ICS 420-1).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Manage administrative matters pertaining to compensation for injury and other claims-related activities (other than injury) for an incident."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 30,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform the duties of a Cost Unit Leader according to the most current version of the Field Operations Guide (ICS 420-1).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Collect all cost data.",
+        "Perform cost effectiveness analyses.",
+        "Provide cost estimates and cost saving recommendations for the incident."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 31,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish, monitor, and adjust performance expectations of subordinates.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 32,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate deficiencies immediately and take corrective action.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 33,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Reinforce acceptable performance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 34,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify training needs and provide opportunities for training.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 35,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure that performance ratings are completed as required by the incident or agency policy.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 36,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure interaction occurs among finance/administration units.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 37,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Interact and coordinate with all Command and General Staff. Receive and provide current information.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Claims and potential claims.",
+        "Injury information.",
+        "Work/rest guidelines.",
+        "Pay issues.",
+        "Commissary.",
+        "Procurement."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 38,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with subordinates and provide Planning Section Chief a list of excess personnel and other resources.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 39,
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend Agency Administrator or outgoing Incident Commander briefing. Obtain available incident information and incident agency guidelines and policies:",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Obtain a copy of the Delegation of Authority if required.",
+        "Obtain names, contact numbers, and positions/functions of cooperating/assisting agencies.",
+        "Complete checklist for takeover of large incidents."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 40,
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from Incident Commander. May be one-on-one or in an Incident Management Team (IMT) meeting.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive Incident Commander’s priorities, goals, and objectives for the IMT and management of the incident.",
+        "Obtain initial instructions concerning Finance/Administration Section priorities.",
+        "Receive expected time frames for briefings, planning meetings, and team meetings."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 41,
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief unit leaders on current and anticipated activity.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 42,
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide daily or operational period briefings to section personnel.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 43,
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in the operational period briefing, emphasizing the needs of the Finance/Administration Section.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 44,
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Update Incident Commander on current accomplishments and/or problems..",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 45,
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief staff on demobilization responsibilities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 46,
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in IMT debriefing with the Agency Administrator.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 47,
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in the closeout session with agency administrative staff.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 48,
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief replacement if necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 49,
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in after-incident review per agency policy.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 50,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure reports and forms are complete, accurate, and timely. Check periodically.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 51,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain Unit Log, ICS 214.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 52,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure all financial documents are completed and submitted in a timely manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Pay documents.",
+        "Injury reports.",
+        "Procurement documents.",
+        "Property damage reports.",
+        "Commissary accountability.",
+        "Claim documents."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 53,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Consolidate incident finance package.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 54,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Transfer incident finance package to responsible agency or person.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 55,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate and share pertinent information for the section with IMT members which may affect incident management.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Potential and existing problems, especially in areas of injury compensation, pay, claims, and procurement."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 56,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide financial summary information on current incident operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 57,
+      "category": "Communicate and assure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate and share with incident management team members, all information for your section and what is anticipated for incident operations based on expected duration, size, type of incident, potential values to be protected, and jurisdictional involvement.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 58,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and implement a section operating plan. Consider the following:",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Size and complexity of incident.",
+        "Incident agency policies and procedures.",
+        "Section timeframes and schedules.",
+        "Job performance expectations.",
+        "Incident finance package requirements."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 59,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in preparation and review of IAP.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide cost analysis data on incident operations.",
+        "Advise on current capabilities and limitations.",
+        "Determine additional resources needed.",
+        "Discuss long-range plans and identify potential or future requirements."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 60,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist in development and approval of Incident Demobilization Plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide input to Demobilization Plan.",
+        "Lead times.",
+        "Payment team needs.",
+        "Commissary cut-off.",
+        "Identify high-cost resources.",
+        "Equipment release considerations.",
+        "Coordinate with local agency concerning functional demobilization procedures."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 61,
+      "category": "Administer and/or apply agency policy, contracts and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review contracts, memoranda of understanding and cooperative agreements to ascertain their impact and application.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 62,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor section activities against Incident Action Plan (IAP) and adjust priorities accordingly.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 63,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Personally review finance data to ensure spending within limits and contractual obligations are being met.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 64,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Periodically evaluate section resources status and needs to determine if resource assignments are appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Determine kind and number of resources required to complete work.",
+        "Assign resources as appropriate."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 65,
+      "category": "Utilize information to produce outputs.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure preparation of timely financial and administrative reports to enable IC to respond appropriately.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 66,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure completion of cost analysis data on alternative control operations as required.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 67,
+      "category": "Modify approached based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor section activities against Incident Action Plan (IAP) and adjust priorities accordingly.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 68,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Consider demobilization needs throughout the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Reassign personnel within section as appropriate."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 69,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Implement Demobilization Plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief staff on demobilization responsibilities.",
+        "Identify excess section resources. Coordinate with subordinates and provide Planning Section Chief a list of excess personnel and other resources.",
+        "Ensure all financial documents are completed and submitted in a timely manner.",
+        "Pay documents.",
+        "Injury reports.",
+        "Procurement documents.",
+        "Property damage reports.",
+        "Commissary accountability.",
+        "Claim documents.",
+        "Consolidate incident finance package.",
+        "Ensure incident and agency demobilization procedures are followed."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 70,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Transfer incident finance package to responsible agency or person.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 71,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist in development, approval and implementation of transfer of command when incident escalates/ deescalates.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 72,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor and document progress towards incident objectives and prepare for transition.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 73,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine with replacement time of transfer.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 74,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate transfer of command to operations and command staff.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "FSC3",
+      "task_number": 75,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "If necessary, coordinate with agencies about transfer of command back to local jurisdiction.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

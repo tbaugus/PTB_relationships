@@ -1,0 +1,30 @@
+{
+  "position_code": "SCKN",
+  "required_training": [
+    "ICS-100, Introduction to ICS",
+    "IS-700, NIMS: An Introduction"
+  ],
+  "required_experience": [
+    "Completion and Certification of NWCG Position Task Book for Status/Check-In Recorder (SCKN) , PMS 311-32"
+  ],
+  "required_experience_prereq_codes": [],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Demobilization Unit Leader ( DMOB )",
+    "Planning Section Chief Complex ( PSCC )",
+    "Planning Section Chief Type 3 ( PSC3 )",
+    "Resources Unit Leader ( RESL )"
+  ],
+  "maintains_currency_for": [
+    "Demobilization Unit Leader ( DMOB )",
+    "Planning Section Chief Type 3 ( PSC3 )",
+    "Resources Unit Leader ( RESL )"
+  ],
+  "other_training": [
+    "L-180, Human Factors in the Wildland Fire Service",
+    "N-9062, e-ISuite, All Modules",
+    "S-110, Basic Wildland Fire Orientation",
+    "S-248, Status/Check-In Recorder"
+  ],
+  "note": null
+}

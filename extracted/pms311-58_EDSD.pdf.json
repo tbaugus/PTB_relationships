@@ -1,0 +1,309 @@
+{
+  "document": {
+    "filename": "pms311-58_EDSD.pdf",
+    "sha256": "32a8bc3d30fd9aed8e4068c3a02cb5fbfc847317f47ca576d879bf6cf1be85cc",
+    "pms_number": "311-58",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "EDSD"
+    ],
+    "title": "Expanded Dispatch Support Dispatcher",
+    "edition_date": "OCTOBER 2024",
+    "ips_reference": "350-58",
+    "official": true,
+    "page_count": 11
+  },
+  "positions": [
+    {
+      "code": "EDSD",
+      "title": "Expanded Dispatch Support Dispatcher",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "EDSD",
+      "task_number": 1,
+      "category": "Leadership Level 2, New Leader (Convey Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications.",
+      "code_raw": "ALL",
+      "code_alternatives": [
+        "ALL"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "EDSD",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure individual readiness.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "EDSD",
+      "task_number": 3,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather critical information pertinent to the assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "EDSD",
+      "task_number": 4,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Travel to and check in at assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "EDSD",
+      "task_number": 5,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from supervisor and/or previous shift/assignment, as necessary.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EDSD",
+      "task_number": 6,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Mentor subordinates and/or trainees.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EDSD",
+      "task_number": 7,
+      "category": "Perform Expanded Dispatch Support Dispatcher-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain situational awareness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EDSD",
+      "task_number": 8,
+      "category": "Perform Expanded Dispatch Support Dispatcher-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and manage existing requests.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EDSD",
+      "task_number": 9,
+      "category": "Perform Expanded Dispatch Support Dispatcher-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Receive and manage new requests.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EDSD",
+      "task_number": 10,
+      "category": "Perform Expanded Dispatch Support Dispatcher-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate and manage resources in preparation for reassignment or demobilization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EDSD",
+      "task_number": 11,
+      "category": "Perform Expanded Dispatch Support Dispatcher-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform effectively each of the four functional areas.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EDSD",
+      "task_number": 12,
+      "category": "Perform Expanded Dispatch Support Dispatcher-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform effectively in the Overhead functional area.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EDSD",
+      "task_number": 13,
+      "category": "Perform Expanded Dispatch Support Dispatcher-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform effectively in the Crews functional area.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EDSD",
+      "task_number": 14,
+      "category": "Perform Expanded Dispatch Support Dispatcher-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform effectively in the Equipment functional area.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EDSD",
+      "task_number": 15,
+      "category": "Perform Expanded Dispatch Support Dispatcher-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform effectively in the Supplies functional area.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EDSD",
+      "task_number": 16,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain communication with frequent contacts.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EDSD",
+      "task_number": 17,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in and/or conduct briefings and/or After Action Reviews (AARs).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EDSD",
+      "task_number": 18,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete all administrative tasks and documentation in an accurate and timely manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "EDSD",
+      "task_number": 19,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare for and implement demobilization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 8
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 8
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    }
+  ],
+  "extra_fields": {}
+}

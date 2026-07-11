@@ -1,0 +1,32 @@
+{
+  "position_code": "PTRC",
+  "required_training": [
+    "ICS-100: Introduction to the Incident Command System",
+    "IS-700: National Incident Management System, An Introduction"
+  ],
+  "required_experience": [
+    "Completion and Certification of NWCG Position Task Book for Personnel Time Recorder (PTRC) , PMS 311-53"
+  ],
+  "required_experience_prereq_codes": [],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Equipment Time Recorder ( EQTR )",
+    "Finance/Administration Section Chief Complex ( FSCC )",
+    "Finance/Administration Section Chief Type 3 ( FSC3 )",
+    "Time Unit Leader ( TIME )"
+  ],
+  "maintains_currency_for": [
+    "Equipment Time Recorder ( EQTR )",
+    "Finance/Administration Section Chief Type 3 ( FSC3 )",
+    "Procurement Unit Leader ( PROC )",
+    "Time Unit Leader ( TIME )"
+  ],
+  "other_training": [
+    "L-180, Human Factors in the Wildland Fire Service",
+    "N-9062, e-ISuite, All Modules",
+    "S-110, Basic Wildland Fire Orientation",
+    "S-260, Interagency Incident Business Management",
+    "S-261, Applied Interagency Incident Business Management"
+  ],
+  "note": null
+}

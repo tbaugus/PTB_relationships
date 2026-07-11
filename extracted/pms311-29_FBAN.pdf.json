@@ -1,0 +1,279 @@
+{
+  "document": {
+    "filename": "pms311-29_FBAN.pdf",
+    "sha256": "ab2592335152ed14d23e4eef77d0f2f20bb69626e669b8388a989b540f8bd36a",
+    "pms_number": "311-29",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "FBAN"
+    ],
+    "title": "Fire Behavior Analyst",
+    "edition_date": "JULY 2025",
+    "ips_reference": "350-29",
+    "official": true,
+    "page_count": 11
+  },
+  "positions": [
+    {
+      "code": "FBAN",
+      "title": "Fire Behavior Analyst",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "FBAN",
+      "task_number": 1,
+      "category": "Leadership Level 3, Leader of People (Develop Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Leaders of people have increasing challenges. They accept responsibility, not only for their own actions, but for those of their team. Leaders of people act to develop credibility as leaders: placing the team ahead of themselves, demonstrating trustworthiness, mastering essential technical skills, and instilling the values of the organization in their teams. For additional information, review the Level 3 description, expected behaviors and knowledge, suggested development goals, and self-study opportunities.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FBAN",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather situational awareness about the fire environment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FBAN",
+      "task_number": 3,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain in-brief from incident leadership.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FBAN",
+      "task_number": 4,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide leadership and ensure collaboration with assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FBAN",
+      "task_number": 5,
+      "category": "Perform Fire Behavior Analyst-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Collect, assess, and monitor weather information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FBAN",
+      "task_number": 6,
+      "category": "Perform Fire Behavior Analyst-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate fuel conditions and topography for potential influences on fire behavior.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FBAN",
+      "task_number": 7,
+      "category": "Perform Fire Behavior Analyst-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Use modeling programs to develop fire behavior outputs and products for support of tactical decision making.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FBAN",
+      "task_number": 8,
+      "category": "Perform Fire Behavior Analyst-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Interpret and communicate fire behavior model outputs in a way that supports short-term tactical operations and safety.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FBAN",
+      "task_number": 9,
+      "category": "Perform Fire Behavior Analyst-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create Fire Behavior Forecasts.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FBAN",
+      "task_number": 10,
+      "category": "Perform Fire Behavior Analyst-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide fire behavior briefings to key audiences.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FBAN",
+      "task_number": 11,
+      "category": "Perform Fire Behavior Analyst-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide feedback on firing plans and burn operations.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FBAN",
+      "task_number": 12,
+      "category": "Perform Fire Behavior Analyst-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor fire behavior to validate projections and forecasts.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FBAN",
+      "task_number": 13,
+      "category": "Perform Fire Behavior Analyst-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create and preserve all required fire behavior documentation.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FBAN",
+      "task_number": 14,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct and/or participate in After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FBAN",
+      "task_number": 15,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate, communicate, and mitigate potential impacts to personnel and the team.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FBAN",
+      "task_number": 16,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete all required administrative tasks and documentation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 8
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 8
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 8
+    }
+  ],
+  "extra_fields": {}
+}

@@ -1,0 +1,25 @@
+{
+  "position_code": "DOCL",
+  "required_training": [
+    "ICS-100, Introduction to the Incident Command System",
+    "ICS-200, ICS for Single Resources and Initial Action Incidents",
+    "ICS-300, Intermediate ICS for Expanding Incidents",
+    "IS-700, National Incident Management System, An Introduction",
+    "IS-800, National Response Framework, An Introduction"
+  ],
+  "required_experience": [
+    "Completion and Certification of NWCG Position Task Book for Documentation Unit Leader (DOCL) , PMS 311-25"
+  ],
+  "required_experience_prereq_codes": [],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Planning Section Chief Complex ( PSCC )",
+    "Planning Section Chief Type 3 ( PSC3 )"
+  ],
+  "maintains_currency_for": [],
+  "other_training": [
+    "ICS-400, Advanced ICS for Command and General Staff",
+    "S-110, Basic Wildland Fire Orientation"
+  ],
+  "note": null
+}

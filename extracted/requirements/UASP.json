@@ -1,0 +1,34 @@
+{
+  "position_code": "UASP",
+  "required_training": [
+    "A-450 Small Unmanned Aircraft System (sUAS) Basic Remote Pilot Course (updated course title)",
+    "ICS-100, Introduction to ICS",
+    "ICS-200, Basic ICS: ICS for Single Resources and Initial Action Incidents",
+    "IS-700, National Incident Management System, An Introduction",
+    "IS-800, NRF: An Introduction",
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "RT-373, Unmanned Aircraft System (UAS) Incident Operations Refresher (Triennial)",
+    "S-131, Firefighter Type 1",
+    "S-373, Unmanned Aircraft System (UAS) Incident Operations"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Firefighter Type 2 ( FFT2 )",
+    "AND Completion and Certification of NWCG Position Task Book for Unmanned Aircraft Systems Pilot (UASP) , PMS 311-78"
+  ],
+  "required_experience_prereq_codes": [
+    "FFT2"
+  ],
+  "physical_fitness": "Physical Fitness Level: Light",
+  "currency_maintained_by": [
+    "Unmanned Aircraft System, Manager ( UASM )",
+    "Unmanned Aircraft System, Module Leader ( UASL )"
+  ],
+  "maintains_currency_for": [],
+  "other_training": [
+    "A-456, Beyond Visual Line of Sight and Extended Line of Sight Operations",
+    "S-112, Introduction to Chainsaw Operations",
+    "S-211, Portable Pumps and Water Use",
+    "S-219, Firing Operations"
+  ],
+  "note": null
+}

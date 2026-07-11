@@ -1,0 +1,850 @@
+{
+  "document": {
+    "filename": "pms311-19_ASGS.pdf",
+    "sha256": "0e685b38afb7d04a84d647c5c0597ecd34577ca83f6c8b3f33709cc9c0dfa264",
+    "pms_number": "311-19",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "ASGS"
+    ],
+    "title": "Air Support Group Supervisor",
+    "edition_date": "JUNE 2009",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 19
+  },
+  "positions": [
+    {
+      "code": "ASGS",
+      "title": "Air Support Group Supervisor",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "ASGS",
+      "task_number": 1,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify existing organization/structure on incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Positions presently filled.",
+        "Qualified personnel."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 2,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Order additional resources as needed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Personnel",
+        "Aircraft",
+        "Air operations kit",
+        "Helicopter support kit",
+        "Crash rescue",
+        "Evacuation kit",
+        "Fire extinguishers, nets, swivels, etc.",
+        "Radios for air operations at helibases and airports"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 3,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify frequencies and order as necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 4,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather situation intelligence related to air operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Number and type of aircraft assigned, en route, and available.",
+        "Fire characteristics.",
+        "Agency Administrator objectives (coordinate with the Resource Advisor and the Local Aviation Officer).",
+        "Strategy as it affects air operations.",
+        "Fueling requirements.",
+        "Restricted air space near incident.",
+        "Need for retardant support.",
+        "Fixed-wing permanent base.",
+        "Portable retardant plant at helibase or at an airport.",
+        "Temporary Flight Restrictions (TFRs)."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 5,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain Incident Action Plan (IAP) or other relevant plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain relevant maps.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Aeronautical",
+        "Flight Hazard",
+        "Incident"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 7,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 8,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain contact with assigned aviation resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 9,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 10,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well- being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 11,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 12,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate and communicate potentially hazardous situations.",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources.",
+        "Provide for care of assigned personnel and notify supervisor in event of sickness, injury, or accident."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 13,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete daily review of staffing requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 14,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine hours of operational period for air operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 15,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure subordinates understand assignment for operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide clear, concise instructions and allow for feedback."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 16,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually evaluate performance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Communicate deficiencies immediately and take corrective action.",
+        "Provide training opportunities where available.",
+        "Complete personnel performance evaluations according to agency guidelines."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 17,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 18,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Fixed-Base Operators (FBO) or airport managers.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Notify of need for fuel, lube, maintenance services, operations, and crew staging.",
+        "Notify of possible closure and/or controlled or restricted airspace.",
+        "Give radio frequencies, if appropriate.",
+        "Obtain space for Federal Aviation Administration (FAA) controllers.",
+        "Arrange area of operation at airport for Temporary retardant base, staging area for mobilization/ demobilization, aircraft parking (e.g., days off, maintenance).",
+        "Notify of increase in air traffic."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 19,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with FAA.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Obtain portable tower and controllers.",
+        "Brief controllers (e.g., incident needs (aviation), expected duration of need, expected activity).",
+        "Check on NOTAMS (\"Notice To Airmen\") and status.",
+        "Notify of TFR violations."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 20,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Medical Unit for medevac preparation and response.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Latitude and longitude to hospitals."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 21,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with local dispatch.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Provide for initial attack (air resources) if requested.",
+        "Obtain Estimated Time of Arrival (ETA) of aircraft, crews, and equipment.",
+        "Arrange for flight following of aircraft inbound and outbound from incident.",
+        "Obtain or develop flight hazard maps.",
+        "Input accident/incident reports for processing.",
+        "Check on status of TFR.",
+        "Obtain Military Training Routes (MTR) and Military Operation Areas (MOA) information and request notification of scheduling authority.",
+        "Arrange for fuel.",
+        "Contact FBO for support.",
+        "Arrange for technical inspections of operation, aircraft, and flight crews.",
+        "Arrange for maintenance inspections to get aircraft back in service.",
+        "Obtain information concerning retardant (e.g., ordering, gallons dropped per day, aircraft costs per day, aircraft availability per day)."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 22,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Logistics Section.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Supply",
+        "Ground Support",
+        "Facilities",
+        "Communication"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 23,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Air Operations Branch Director or Operations Section Chief.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 24,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Give and receive briefing to/from subordinates.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Missions and priorities.",
+        "Crew and aircraft assignments (e.g., medevac, initial attack).",
+        "Radio frequency assignments.",
+        "Helicopter operations checklist.",
+        "Weather forecast and fire behavior predictions.",
+        "Organization assignments.",
+        "IAP or other relevant plan.",
+        "Safety considerations.",
+        "TFR"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 25,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct functional area briefings and After Action Review (AAR).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify lessons learned",
+        "Mitigate"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 26,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure completion of required documentation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Daily cost summaries for aircraft and equipment (e.g., water trucks, fuel tenders, other rental equipment).",
+        "Aircraft and crew information summary sheets.",
+        "Air operations personnel time.",
+        "Flight invoices.",
+        "Non-government equipment usage.",
+        "Potential claims.",
+        "ICS 214, Unit Log"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 27,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review Daily Helicopter Operations Briefing Checklist and ensure pilot signature(s).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 28,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure documentation is passed to appropriate personnel from Incident Management Team (IMT) or local unit at time of demobilization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 29,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist in development of Aviation Communication Plan with Air Operations Branch Director and Air Tactical Group Supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 30,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist in development of ICS 220, Air Operations Plan.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Aircraft and crew availability and status.",
+        "Capabilities and limitations for logistical and tactical missions."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 31,
+      "category": "Administer and/or apply agency policy, contracts and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify need for agreements if private land is used.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Coordinate with Finance/Administration Section.",
+        "Track usage."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 32,
+      "category": "Administer and/or apply agency policy, contracts and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for fiscal accountability by monitoring:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Daily cost for aircraft and equipment.",
+        "Water trucks, rental fuel tenders, and other rental equipment.",
+        "Portable air tanker bases and mobile retardant bases."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 33,
+      "category": "Administer and/or apply agency policy, contracts and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure compliance with agency and contract requirements.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 34,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct inspections and procedural reviews.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Helibase, air bases, and areas of operation.",
+        "Dust abatement procedures.",
+        "Carded and qualified personnel.",
+        "Fuel sites (e.g., grounding/bonding, fuel spill containment).",
+        "Inventory of equipment on hand (chase trucks)."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 35,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify need for additional operational sites.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Helibases",
+        "Helitorch site",
+        "Retardant base",
+        "Water dipping or pumping sites",
+        "Medevac site (to meet ambulance)",
+        "Very important person (VIP)/media site",
+        "Helispots",
+        "Airport space needs",
+        "Mobilization area, initial attack personnel, paracargo"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 36,
+      "category": "Utilize information to produce outputs.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and name or number helibases and helispots on map for posting to IAP or other relevant plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate with Situation Unit."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 37,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process found in the IRPG and Fireline Handbook.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Step 1: Situation Awareness",
+        "Step 2: Hazard Assessment",
+        "Step 3: Hazard Control",
+        "Step 4: Decision Point",
+        "Step 5: Evaluate"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 38,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide and schedule fixed-wing aircraft for reconnaissance, mapping, and infrared.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 39,
+      "category": "Provide logistical support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrange for security at operational areas.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate with Security Manager."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 40,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist and/or request safety review of air operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Crash rescue/evacuation plan",
+        "Medevac plan",
+        "General safety briefing",
+        "General operations",
+        "Briefing boards"
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 41,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure maintenance requirements for aircraft and equipment are met.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 42,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure inspections and approvals are accomplished.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify limitations."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 43,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform subordinate staff and IC.",
+        "Document follow-up action needed and submit to supervisor."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 44,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify excess resources.",
+        "Anticipate release of excess aircraft 24 hours prior to demobilization if possible.",
+        "Consider effectiveness, availability, and cost.",
+        "Prepare schedule for demobilization."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 45,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief subordinate staff on demobilization procedures and responsibilities.",
+        "Ensure incident and agency demobilization procedures are followed."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "ASGS",
+      "task_number": 46,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate demobilization with appropriate personnel from IMT or local unit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Aircraft",
+        "Personnel",
+        "Equipment",
+        "Radio frequencies",
+        "TFRs"
+      ],
+      "page": 17
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

@@ -1,0 +1,3118 @@
+{
+  "document": {
+    "filename": "pms311-13_HEQB-HMGB.pdf",
+    "sha256": "c1492dcc13f551ecf68735b5f5f7f854671994ee8169be0112aa48e489294217",
+    "pms_number": "311-13",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "HEQB",
+      "HMGB"
+    ],
+    "title": "Heavy Equipment or Helicopter",
+    "edition_date": "JANUARY 2026",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 23
+  },
+  "positions": [
+    {
+      "code": "HEQB",
+      "title": "Heavy Equipment",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    },
+    {
+      "code": "HMGB",
+      "title": "Helicopter",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "HEQB",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit. Suggested items:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "NWCG Incident Response Pocket Guide (IRPG), PMS 461",
+        "Incident specific reference materials",
+        "Documentation materials"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Incident order number",
+        "Request number",
+        "Incident phone number",
+        "Reporting time",
+        "Reporting location (drop point)",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)",
+        "Authorization for use of equipment (laptops, cell phones, rental vehicle)"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 3,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Travel to and from assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Have assigned personnel ready at specified location on time.",
+        "Arrange tool transport.",
+        "Manifest assigned personnel for helicopter, if needed.",
+        "Use time effectively during delays (e.g., critique assignment).",
+        "Take head count prior to departure.",
+        "Ensure driver/operator is qualified and has had required rest.",
+        "Ensure safety procedures are followed for transporting personnel and equipment."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 4,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive at incident and check in.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Arrive properly equipped at assigned location within acceptable time limits.",
+        "Notify dispatch of any time delays."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 5,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assemble personnel.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Notify crew members of assignment for timely mobilization.",
+        "Assemble assigned personnel at rendezvous point at time required."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 6,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Inspect personnel and equipment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Verify qualifications.",
+        "Ensure safety equipment and personal gear meet minimum requirements.",
+        "Assess capabilities of personnel to safely complete assignment.",
+        "Ensure tools and equipment are ready for travel."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 7,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine assignments and personal equipment needs.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Check tools, supplies, and radios."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 8,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Tactical assignment",
+        "Special considerations and hazards",
+        "Values to be protected"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 9,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief supervisor about readiness of assigned personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 10,
+      "category": "Establish effective relationships with relevant personnel",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct self in a professional manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Respectful and courteous",
+        "Respectful of public and private property"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 11,
+      "category": "Establish effective relationships with relevant personnel",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 12,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize assigned resources into configurations which will meet incident/tactical objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 13,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Maintain appropriate span of control.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 14,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised, and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 15,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well-being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 16,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 17,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate, and communicate potentially hazardous situations.",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources.",
+        "Provide for care of assigned resources and notify supervisor in event of sickness, injury, or accident.",
+        "Utilize Risk Management Process."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 18,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow safety guidelines.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform subordinates of hazards.",
+        "Develop plans based on safety guidelines.",
+        "Ensure tactical operations maintain the principles of Lookouts, Communication, Escape Routes, Safety Zones (LCES).",
+        "Ensure work/rest guidelines are met."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 19,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete daily review of staffing requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 20,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop schedule/assignments based on Incident Action Plan (IAP) or relevant plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 21,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure subordinates understand operational period assignments.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide clear, concise instructions and allow for feedback."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 22,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually evaluate performance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Communicate deficiencies immediately and take corrective action.",
+        "Provide training opportunities where available.",
+        "Complete personnel performance evaluations according to agency guidelines."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 23,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish crew cohesiveness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 24,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate tactical operations with adjoining resources and supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 25,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate changes with adjoining resources and supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Movement of resources",
+        "Tactical decisions",
+        "Logistical needs"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 26,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief and keep subordinates informed and updated.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Operational assignments and changes.",
+        "Readiness for next operational period.",
+        "Work/rest guidelines.",
+        "Camp layout."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 27,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exchange information with resources from previous operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 28,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief relief forces.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Current status/conditions/concerns regarding assignment."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 29,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend briefings and meetings as directed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide information as requested.",
+        "Keep supervisor informed of issues and potential problems."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 30,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and conduct After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 31,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete time reports for assigned personnel.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Ensure reports are accurate and submitted in a timely manner.",
+        "Include justifications and authorizations as needed."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 32,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete personnel evaluations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review with individual personnel prior to leaving incident.",
+        "Provide copy of review to individual."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 33,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete Activity Log (ICS 214).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 34,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete necessary medical forms in event of an injury.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 35,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain supplementary information to perform operational assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Local maps",
+        "Local safety concerns",
+        "Pocket cards",
+        "IRPG"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 36,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate using clear text.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 37,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure tactical plans conform to incident objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 38,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate fuels, topography, and weather factors throughout entire operational period.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Monitor and ensure documentation of weather observations (e.g., identify trends).",
+        "Communicate to subordinates and supervisor (e.g., update weather changes, fire weather forecasts)."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 39,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Request, direct, and provide feedback for aerial resources through established chain of command.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 40,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recon area of assigned responsibility, consult with supervisor on resource needs and suggest adjustments as necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 41,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify road systems and limitations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Bridge load and road limits",
+        "Ingress/egress",
+        "Effects of weather"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 42,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process found in the IRPG.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Step 1: Situation Awareness",
+        "Step 2: Hazard Assessment",
+        "Step 3: Hazard Control",
+        "Step 4: Decision Point",
+        "Step 5: Evaluate"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 43,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop strategy and apply appropriate tactics for assignment.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Fireline type, location, and construction",
+        "Ignition operations",
+        "Equipment use",
+        "Water use",
+        "Mop-up, hold, and patrol"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 44,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recognize conditions requiring public evacuation and communicate to supervisor.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Immediate need",
+        "Planned action"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 45,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain situational awareness and adjust tactics as needed.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Develop contingency plans."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 46,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recognize and adapt to an incident within an incident.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Ensure scene safety for responders and victim.",
+        "Preserve site.",
+        "Maintain focus on incident objectives.",
+        "Delegate responsibilities as needed.",
+        "Determine if incident is critical or non-critical.",
+        "Ensure first aid treatment on the fireline.",
+        "Notify supervisor of incident.",
+        "Arrange for medical treatment and evacuation from fireline."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 47,
+      "category": "Anticipate, recognize, and mitigate unsafe situations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and correct unsafe actions or conditions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 48,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify escape routes and safety zones.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Make them known to assigned personnel.",
+        "Flag routes to ensure awareness when necessary."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 49,
+      "category": "Provide logistical support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrange for logistical support needs.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Establish ordering procedures for assigned resources.",
+        "Follow established incident ordering procedures.",
+        "Communicate location of assigned personnel to Facilities Unit Leader."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 50,
+      "category": "Effectively advise and assist in resolving human resource issues that occur",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Resolve conflict/conduct issues.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Recognize and address inappropriate conduct issues.",
+        "Coordinate with appropriate personnel."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 51,
+      "category": "Effectively advise and assist in resolving human resource issues that occur",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate the need for critical incident stress management (CISM) during traumatic events.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Notify supervisor."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 52,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief subordinates on demobilization procedures and responsibilities.",
+        "Ensure incident and agency demobilization procedures are followed.",
+        "Ensure work/rest and driving standards are followed."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 53,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrange/provide for en route logistical needs and check points in demobilization from incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 54,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned personnel have transportation to subsequent home base from point of mobilization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 55,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify limitations of equipment, and operator capabilities prior to use.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Examine the protective devices of the equipment to be used and operator personal protective equipment (PPE) for serviceability.",
+        "Ensure that inspection is completed.",
+        "Determine equipment readiness for operational duty, day or night.",
+        "Check against agency specific guidelines.",
+        "Assign operator according to skill and ability."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 56,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure equipment and transports are inspected prior to being used and released.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Review and apply contracts and agreements."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 57,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Notify supervisor of corrective action needed for equipment readiness.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Timeline"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 58,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief equipment operator on operations assignment.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Line width and location",
+        "Identified hazards",
+        "Special needs or requirements",
+        "Incident Action Plan (IAP)"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 59,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Advise supervisor of progress, problems, and potentially dangerous situations in equipment use.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Equipment availability and location",
+        "Progress of assignment/task",
+        "Logistical needs (e.g., fuel, parts, relief operator)",
+        "Down time"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 60,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete and submit equipment time for assigned resources.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 61,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather and document critical resource concerns and information that may affect equipment operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify resource concerns.",
+        "Discuss with equipment operator.",
+        "Offer alternatives if appropriate."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 62,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete size-up to determine appropriate tactics, number and type of resources needed, and required actions before assignment.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Determine span of control based on complexity and distance between equipment."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 63,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and establish safety zones for equipment being used. Use the appropriate equipment to construct.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Ensure adequate size according to fuel type, terrain, and burning conditions.",
+        "Ensure created debris is factored into appropriate safety zone sizes.",
+        "Coordinate with safety officer and division supervisor on size and locations."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 64,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Given a portion of fire perimeter and general instructions as to fireline locations and standards, locate fireline (flag as appropriate) for equipment to construct using clinometers, compass, map, or Global Positioning System (GPS).",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 65,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Minimize damage to improvements or sensitive areas.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Take necessary precautions to prevent or minimize equipment damage to fences, underground utilities, above-ground utilities, archaeological, cultural, and historical sites, wetlands, paved roads, railroad tracks, structures, and other constructed improvements.",
+        "Recognize safety hazards to equipment and personnel when using equipment around constructed improvements, or boggy, rocky, or steep terrain and take necessary precautions.",
+        "Determine appropriate actions based on property ownership."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 66,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure fueling and equipment safety precautions are followed.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 67,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure operator follows safe loading/unloading and mounting/dismounting procedures and parks equipment and transport in secure area.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 68,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review radio communication and hand signals with operators.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Swampers and spotters"
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 69,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure personnel maintain safe distance from equipment while in operation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 70,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assemble helicopter-specific reference material.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "NWCG Standards for Helicopter Operations (NSHO), PMS 510",
+        "Contracts",
+        "Load calculation book",
+        "Aircraft payment book"
+      ],
+      "page": 18
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 71,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide tactical capabilities of helicopter and qualifications of personnel to assignment supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Missions’ aircraft and pilot are approved to perform passenger, cargo and water dropping capabilities, etc.",
+        "Helicopter accessories and equipment available in support vehicle; order additional equipment when needed."
+      ],
+      "page": 18
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 72,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct pre- and post-flight briefings with flight, support, and helicopter crews.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Mission objectives, time frames, reporting locations, travel routes.",
+        "Performance, safety, and/or efficiency problems encountered.",
+        "Adjustments in future operations."
+      ],
+      "page": 18
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 73,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct pre-use inspection of helicopter and fuel service vehicle to ensure compliance with contract/agreement specifications as related to mission required equipment, systems, and operation. Document as per agency policy.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 19
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 74,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure required documents are current and onboard the aircraft.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Transportation of hazardous materials (HazMat) Emergency Response Guidebook, and Department of Transportation (DOT) exemption",
+        "Copy of contract/agreement",
+        "Helicopter flight manual",
+        "Aircraft logbook",
+        "Agency aircraft data card"
+      ],
+      "page": 19
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 75,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain communication with appropriate agency aircraft contracting/administrative personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 19
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 76,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete daily diary, agency flight use summary, and appropriate cost summaries.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 19
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 77,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete agency incident/accident reports.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 19
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 78,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete contract evaluation closeout form and forward to contracting officer.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 19
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 79,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure turbine power assurance checks are conducted and documented as required by agency.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Contact agency maintenance specialist if trend analysis indicates sub-par engine performance."
+      ],
+      "page": 19
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 80,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continuously monitor and document flight and/or duty hours of pilots, mechanics, and fuel service vehicle drivers to ensure agency limitations are not exceeded.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Schedule and manage flight and duty times to meet current and projected work objectives.",
+        "Ensure relief pilots, mechanics, etc., are scheduled and assigned when required."
+      ],
+      "page": 19
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 81,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure flight planning, flight following, and resource tracking requirements are met.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Obtain Resource Order, Flight Request, or other mission information.",
+        "Work with pilot to develop agency and/or Federal Aviation Administration (FAA) flight plans.",
+        "Obtain appropriate radio frequencies, phone numbers, transponder codes, and area and hazard maps for mission.",
+        "Conduct or ensure radio check-ins are accomplished at established intervals."
+      ],
+      "page": 20
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 82,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure helicopter pilot accurately completes and approves helicopter load calculation (reflecting current aircraft configuration), appropriate flight manual performance charts, and environmental conditions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Flight crew weights",
+        "Fuel quantity on board",
+        "Elevations at takeoff and landing sites",
+        "In-ground or out-of-ground effect conditions",
+        "Density altitude"
+      ],
+      "page": 20
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 83,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Verify helicopter is maintained to FAA and agency standards.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review aircraft logbook entries to ensure scheduled maintenance inspections are completed at required intervals.",
+        "Contact agency maintenance specialist during unscheduled maintenance or major component replacement.",
+        "Facilitate return-to-service process.",
+        "Inform supervisor of current or future helicopter maintenance/unavailability."
+      ],
+      "page": 20
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 84,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Utilize risk management techniques and Go/No-Go Checklist prior to each flight.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Airspace deconfliction",
+        "Aerial hazard map",
+        "Weather assessment",
+        "Radio communications"
+      ],
+      "page": 20
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 85,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate helispots and unimproved landing sites with pilot in charge; ensure agency landing site standards are met.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 86,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure actual helicopter payloads do not exceed the calculated allowable payload.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 87,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure pre-flight briefings are conducted and the appropriate PPE is utilized for missions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 21
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 88,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure crash rescue/response procedures and equipment are established and communicated to helicopter personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 21
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 89,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Comply with applicable requirements in the Aviation Transport of HazMat Guide.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 21
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 90,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow agency special use mission safety requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Heli-rappel",
+        "Aerial ignition",
+        "Aerial Capture, Eradication, and Tagging of Animals (ACETA)"
+      ],
+      "page": 21
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 91,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify excess resources.",
+        "Prepare schedule for demobilization."
+      ],
+      "page": 21
+    },
+    {
+      "position_code": "HEQB",
+      "task_number": 92,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Check in with agency dispatcher prior to disassembly of crew, if necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 21
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit. Suggested items:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "NWCG Incident Response Pocket Guide (IRPG), PMS 461",
+        "Incident specific reference materials",
+        "Documentation materials"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Incident order number",
+        "Request number",
+        "Incident phone number",
+        "Reporting time",
+        "Reporting location (drop point)",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)",
+        "Authorization for use of equipment (laptops, cell phones, rental vehicle)"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 3,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Travel to and from assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Have assigned personnel ready at specified location on time.",
+        "Arrange tool transport.",
+        "Manifest assigned personnel for helicopter, if needed.",
+        "Use time effectively during delays (e.g., critique assignment).",
+        "Take head count prior to departure.",
+        "Ensure driver/operator is qualified and has had required rest.",
+        "Ensure safety procedures are followed for transporting personnel and equipment."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 4,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive at incident and check in.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Arrive properly equipped at assigned location within acceptable time limits.",
+        "Notify dispatch of any time delays."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 5,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assemble personnel.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Notify crew members of assignment for timely mobilization.",
+        "Assemble assigned personnel at rendezvous point at time required."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 6,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Inspect personnel and equipment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Verify qualifications.",
+        "Ensure safety equipment and personal gear meet minimum requirements.",
+        "Assess capabilities of personnel to safely complete assignment.",
+        "Ensure tools and equipment are ready for travel."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 7,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine assignments and personal equipment needs.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Check tools, supplies, and radios."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 8,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Tactical assignment",
+        "Special considerations and hazards",
+        "Values to be protected"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 9,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief supervisor about readiness of assigned personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 10,
+      "category": "Establish effective relationships with relevant personnel",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct self in a professional manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Respectful and courteous",
+        "Respectful of public and private property"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 11,
+      "category": "Establish effective relationships with relevant personnel",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 12,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize assigned resources into configurations which will meet incident/tactical objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 13,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Maintain appropriate span of control.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 14,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised, and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 15,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well-being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 16,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 17,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate, and communicate potentially hazardous situations.",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources.",
+        "Provide for care of assigned resources and notify supervisor in event of sickness, injury, or accident.",
+        "Utilize Risk Management Process."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 18,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow safety guidelines.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform subordinates of hazards.",
+        "Develop plans based on safety guidelines.",
+        "Ensure tactical operations maintain the principles of Lookouts, Communication, Escape Routes, Safety Zones (LCES).",
+        "Ensure work/rest guidelines are met."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 19,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete daily review of staffing requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 20,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop schedule/assignments based on Incident Action Plan (IAP) or relevant plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 21,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure subordinates understand operational period assignments.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide clear, concise instructions and allow for feedback."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 22,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually evaluate performance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Communicate deficiencies immediately and take corrective action.",
+        "Provide training opportunities where available.",
+        "Complete personnel performance evaluations according to agency guidelines."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 23,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish crew cohesiveness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 24,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate tactical operations with adjoining resources and supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 25,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate changes with adjoining resources and supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Movement of resources",
+        "Tactical decisions",
+        "Logistical needs"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 26,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief and keep subordinates informed and updated.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Operational assignments and changes.",
+        "Readiness for next operational period.",
+        "Work/rest guidelines.",
+        "Camp layout."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 27,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exchange information with resources from previous operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 28,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief relief forces.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Current status/conditions/concerns regarding assignment."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 29,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend briefings and meetings as directed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide information as requested.",
+        "Keep supervisor informed of issues and potential problems."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 30,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and conduct After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 31,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete time reports for assigned personnel.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Ensure reports are accurate and submitted in a timely manner.",
+        "Include justifications and authorizations as needed."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 32,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete personnel evaluations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review with individual personnel prior to leaving incident.",
+        "Provide copy of review to individual."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 33,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete Activity Log (ICS 214).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 34,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete necessary medical forms in event of an injury.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 35,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain supplementary information to perform operational assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Local maps",
+        "Local safety concerns",
+        "Pocket cards",
+        "IRPG"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 36,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate using clear text.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 37,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure tactical plans conform to incident objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 38,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate fuels, topography, and weather factors throughout entire operational period.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Monitor and ensure documentation of weather observations (e.g., identify trends).",
+        "Communicate to subordinates and supervisor (e.g., update weather changes, fire weather forecasts)."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 39,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Request, direct, and provide feedback for aerial resources through established chain of command.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 40,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recon area of assigned responsibility, consult with supervisor on resource needs and suggest adjustments as necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 41,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify road systems and limitations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Bridge load and road limits",
+        "Ingress/egress",
+        "Effects of weather"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 42,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process found in the IRPG.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Step 1: Situation Awareness",
+        "Step 2: Hazard Assessment",
+        "Step 3: Hazard Control",
+        "Step 4: Decision Point",
+        "Step 5: Evaluate"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 43,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop strategy and apply appropriate tactics for assignment.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Fireline type, location, and construction",
+        "Ignition operations",
+        "Equipment use",
+        "Water use",
+        "Mop-up, hold, and patrol"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 44,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recognize conditions requiring public evacuation and communicate to supervisor.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Immediate need",
+        "Planned action"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 45,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain situational awareness and adjust tactics as needed.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Develop contingency plans."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 46,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recognize and adapt to an incident within an incident.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Ensure scene safety for responders and victim.",
+        "Preserve site.",
+        "Maintain focus on incident objectives.",
+        "Delegate responsibilities as needed.",
+        "Determine if incident is critical or non-critical.",
+        "Ensure first aid treatment on the fireline.",
+        "Notify supervisor of incident.",
+        "Arrange for medical treatment and evacuation from fireline."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 47,
+      "category": "Anticipate, recognize, and mitigate unsafe situations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and correct unsafe actions or conditions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 48,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify escape routes and safety zones.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Make them known to assigned personnel.",
+        "Flag routes to ensure awareness when necessary."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 49,
+      "category": "Provide logistical support as necessary.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrange for logistical support needs.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Establish ordering procedures for assigned resources.",
+        "Follow established incident ordering procedures.",
+        "Communicate location of assigned personnel to Facilities Unit Leader."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 50,
+      "category": "Effectively advise and assist in resolving human resource issues that occur",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Resolve conflict/conduct issues.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Recognize and address inappropriate conduct issues.",
+        "Coordinate with appropriate personnel."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 51,
+      "category": "Effectively advise and assist in resolving human resource issues that occur",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate the need for critical incident stress management (CISM) during traumatic events.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Notify supervisor."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 52,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief subordinates on demobilization procedures and responsibilities.",
+        "Ensure incident and agency demobilization procedures are followed.",
+        "Ensure work/rest and driving standards are followed."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 53,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrange/provide for en route logistical needs and check points in demobilization from incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 54,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned personnel have transportation to subsequent home base from point of mobilization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 55,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify limitations of equipment, and operator capabilities prior to use.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Examine the protective devices of the equipment to be used and operator personal protective equipment (PPE) for serviceability.",
+        "Ensure that inspection is completed.",
+        "Determine equipment readiness for operational duty, day or night.",
+        "Check against agency specific guidelines.",
+        "Assign operator according to skill and ability."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 56,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure equipment and transports are inspected prior to being used and released.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Review and apply contracts and agreements."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 57,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Notify supervisor of corrective action needed for equipment readiness.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Timeline"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 58,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief equipment operator on operations assignment.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Line width and location",
+        "Identified hazards",
+        "Special needs or requirements",
+        "Incident Action Plan (IAP)"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 59,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Advise supervisor of progress, problems, and potentially dangerous situations in equipment use.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Equipment availability and location",
+        "Progress of assignment/task",
+        "Logistical needs (e.g., fuel, parts, relief operator)",
+        "Down time"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 60,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete and submit equipment time for assigned resources.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 61,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather and document critical resource concerns and information that may affect equipment operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify resource concerns.",
+        "Discuss with equipment operator.",
+        "Offer alternatives if appropriate."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 62,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete size-up to determine appropriate tactics, number and type of resources needed, and required actions before assignment.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Determine span of control based on complexity and distance between equipment."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 63,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and establish safety zones for equipment being used. Use the appropriate equipment to construct.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Ensure adequate size according to fuel type, terrain, and burning conditions.",
+        "Ensure created debris is factored into appropriate safety zone sizes.",
+        "Coordinate with safety officer and division supervisor on size and locations."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 64,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Given a portion of fire perimeter and general instructions as to fireline locations and standards, locate fireline (flag as appropriate) for equipment to construct using clinometers, compass, map, or Global Positioning System (GPS).",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 65,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Minimize damage to improvements or sensitive areas.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Take necessary precautions to prevent or minimize equipment damage to fences, underground utilities, above-ground utilities, archaeological, cultural, and historical sites, wetlands, paved roads, railroad tracks, structures, and other constructed improvements.",
+        "Recognize safety hazards to equipment and personnel when using equipment around constructed improvements, or boggy, rocky, or steep terrain and take necessary precautions.",
+        "Determine appropriate actions based on property ownership."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 66,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure fueling and equipment safety precautions are followed.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 67,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure operator follows safe loading/unloading and mounting/dismounting procedures and parks equipment and transport in secure area.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 68,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review radio communication and hand signals with operators.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Swampers and spotters"
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 69,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure personnel maintain safe distance from equipment while in operation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 70,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assemble helicopter-specific reference material.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "NWCG Standards for Helicopter Operations (NSHO), PMS 510",
+        "Contracts",
+        "Load calculation book",
+        "Aircraft payment book"
+      ],
+      "page": 18
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 71,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide tactical capabilities of helicopter and qualifications of personnel to assignment supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Missions’ aircraft and pilot are approved to perform passenger, cargo and water dropping capabilities, etc.",
+        "Helicopter accessories and equipment available in support vehicle; order additional equipment when needed."
+      ],
+      "page": 18
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 72,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct pre- and post-flight briefings with flight, support, and helicopter crews.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Mission objectives, time frames, reporting locations, travel routes.",
+        "Performance, safety, and/or efficiency problems encountered.",
+        "Adjustments in future operations."
+      ],
+      "page": 18
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 73,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct pre-use inspection of helicopter and fuel service vehicle to ensure compliance with contract/agreement specifications as related to mission required equipment, systems, and operation. Document as per agency policy.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 19
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 74,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure required documents are current and onboard the aircraft.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Transportation of hazardous materials (HazMat) Emergency Response Guidebook, and Department of Transportation (DOT) exemption",
+        "Copy of contract/agreement",
+        "Helicopter flight manual",
+        "Aircraft logbook",
+        "Agency aircraft data card"
+      ],
+      "page": 19
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 75,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain communication with appropriate agency aircraft contracting/administrative personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 19
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 76,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete daily diary, agency flight use summary, and appropriate cost summaries.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 19
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 77,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete agency incident/accident reports.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 19
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 78,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete contract evaluation closeout form and forward to contracting officer.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 19
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 79,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure turbine power assurance checks are conducted and documented as required by agency.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Contact agency maintenance specialist if trend analysis indicates sub-par engine performance."
+      ],
+      "page": 19
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 80,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continuously monitor and document flight and/or duty hours of pilots, mechanics, and fuel service vehicle drivers to ensure agency limitations are not exceeded.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Schedule and manage flight and duty times to meet current and projected work objectives.",
+        "Ensure relief pilots, mechanics, etc., are scheduled and assigned when required."
+      ],
+      "page": 19
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 81,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure flight planning, flight following, and resource tracking requirements are met.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Obtain Resource Order, Flight Request, or other mission information.",
+        "Work with pilot to develop agency and/or Federal Aviation Administration (FAA) flight plans.",
+        "Obtain appropriate radio frequencies, phone numbers, transponder codes, and area and hazard maps for mission.",
+        "Conduct or ensure radio check-ins are accomplished at established intervals."
+      ],
+      "page": 20
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 82,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure helicopter pilot accurately completes and approves helicopter load calculation (reflecting current aircraft configuration), appropriate flight manual performance charts, and environmental conditions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Flight crew weights",
+        "Fuel quantity on board",
+        "Elevations at takeoff and landing sites",
+        "In-ground or out-of-ground effect conditions",
+        "Density altitude"
+      ],
+      "page": 20
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 83,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Verify helicopter is maintained to FAA and agency standards.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review aircraft logbook entries to ensure scheduled maintenance inspections are completed at required intervals.",
+        "Contact agency maintenance specialist during unscheduled maintenance or major component replacement.",
+        "Facilitate return-to-service process.",
+        "Inform supervisor of current or future helicopter maintenance/unavailability."
+      ],
+      "page": 20
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 84,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Utilize risk management techniques and Go/No-Go Checklist prior to each flight.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Airspace deconfliction",
+        "Aerial hazard map",
+        "Weather assessment",
+        "Radio communications"
+      ],
+      "page": 20
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 85,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate helispots and unimproved landing sites with pilot in charge; ensure agency landing site standards are met.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 86,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure actual helicopter payloads do not exceed the calculated allowable payload.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 20
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 87,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure pre-flight briefings are conducted and the appropriate PPE is utilized for missions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 21
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 88,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure crash rescue/response procedures and equipment are established and communicated to helicopter personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 21
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 89,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Comply with applicable requirements in the Aviation Transport of HazMat Guide.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 21
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 90,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow agency special use mission safety requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Heli-rappel",
+        "Aerial ignition",
+        "Aerial Capture, Eradication, and Tagging of Animals (ACETA)"
+      ],
+      "page": 21
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 91,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify excess resources.",
+        "Prepare schedule for demobilization."
+      ],
+      "page": 21
+    },
+    {
+      "position_code": "HMGB",
+      "task_number": 92,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Check in with agency dispatcher prior to disassembly of crew, if necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 21
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

@@ -1,0 +1,1241 @@
+{
+  "document": {
+    "filename": "pms311-35_LSC3.pdf",
+    "sha256": "0c4242ff23ed5d7a2abfc86dfaf733832705ab34a836178eabc5c04a371746ef",
+    "pms_number": "311-35",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "LSC3"
+    ],
+    "title": "Logistics Section Chief Type 3",
+    "edition_date": "OCTOBER 2017",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 20
+  },
+  "positions": [
+    {
+      "code": "LSC3",
+      "title": "Logistics Section Chief Type 3",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "LSC3",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit. Kit will be assembled and prepared prior to receiving an assignment. Kit will contain critical items needed for the assignment and items needed for functioning during the first 48 hours. Kit will be easily transportable and within agency weight limitations. The basic information and materials needed may include, but is not limited to, any of the following: Reference Materials",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Appropriate references for the incident type and agencies involved.",
+        "Field Operations Guide ICS 420-1.",
+        "Position manuals for the section.",
+        "Individual checklists/reminders.",
+        "Department of Transportation Emergency Response Guide Book, NFES 2150.",
+        "Emergency Equipment Shift Ticket, NFES 0872.",
+        "Crew Time Report, NFES 0891.",
+        "National Mobile Food Service/Shower Contract.",
+        "IMT contact information. Forms",
+        "ICS Form 205, Incident Radio Communication Plan.",
+        "ICS Form 206, Medical Plan.",
+        "ICS Form 213, General Message.",
+        "ICS Form 214, Unit Log.",
+        "ICS Form 260-1, Resource Order Form (four part), NFES 1470.",
+        "Agency specific forms appropriate to the function.",
+        "OF-296, Vehicle/Heavy Equipment Inspection Form, NFES 1173. Supplies",
+        "Pens, pencils, note paper, etc.",
+        "Office supplies appropriate to the function."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 2,
+      "category": "Ensure readiness of self and subordinates [crew] for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive properly equipped at incident assigned location within acceptable time limits.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 3,
+      "category": "Ensure readiness of self and subordinates [crew] for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Check in according to agency guidelines.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify units within the section to be activated and resources required for section operation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 5,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate the order request after resources are identified.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 6,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine logistics section current capabilities and limitations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ordering time line.",
+        "Available equipment.",
+        "Resources on hand; e.g., supplies, drivers, personnel.",
+        "Facilities capabilities; e.g., camps."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 7,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon activation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Incident order number",
+        "Request number",
+        "Reporting location",
+        "Reporting time",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 8,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather information necessary to assess incident assignment and determine immediate needs and actions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident Commander’s name and agency address.",
+        "Type of incident.",
+        "Current resource commitments.",
+        "Current situation.",
+        "Expected duration of assignment.",
+        "Terrain.",
+        "Weather.",
+        "Agency Administrator’s briefing/other briefing requirements (as appropriate)."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 9,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from Agency Administrator/ outgoing Incident Commander and gather information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure that briefings from Agency Administrator/outgoing Incident Commander are complete and include, as a minimum description: Incident Objectives, ICS Form 201, organizational structure (area command or single organization), special considerations on the incident, the current national situation and Wildland Fire Situation Analysis (if wildland fire incident).",
+        "Collect information on current resources assigned, en route, on order, and local resource status including initial attack/response as it relates to the logistics section. These information sources may include: agency dispatcher, Initial Attack/Response Incident Commander, overhead, resource advisor, etc.",
+        "Determine facilities established and operating.",
+        "Obtain anticipated incident duration, size, and type.",
+        "Complete the appropriate checklist for takeover of incidents."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 10,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Collect information from outgoing Logistics Section Chief, initial Incident Commander or other personnel responsible for incident prior to your arrival.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Obtain status of incident and assigned resources.",
+        "Obtain status of existing logistics section.",
+        "Obtain information on location situations; e.g., ICP/base locations, medical facilities, road closures, camp locations, etc."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 11,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Local agencies.",
+        "Hosting unit.",
+        "Public.",
+        "Division/Group Supervisors.",
+        "Command and General Staff"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 12,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create a work environment that provides mutual respect and equal opportunity for all personnel assigned to the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 13,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan and activate section.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify units within the section to be activated and resources required for section operation.",
+        "After resources are identified, coordinate the order request.",
+        "Identify work space requirements and determine locations.",
+        "Brief unit leaders including summary of incident, current activity, and anticipated section activity for individual unit planning.",
+        "Provide initial operating instructions to section personnel, including safety and security concerns and expectations."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 14,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain appropriate span of control.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 15,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate knowledge of ICS structure, principles, positions, and ICS forms.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 16,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Understand scope, roles, responsibilities, jurisdiction, and authority of responder agencies.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 17,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assure execution of appropriate administrative requirements (to include documentation, ICS forms, personnel and equipment time records, performance ratings).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 18,
+      "category": "Model leadership principles of Duty, Respect, and Integrity.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure that tasks are understood, supervised and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 19,
+      "category": "Model leadership principles of Duty, Respect, and Integrity.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well-being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 20,
+      "category": "Model leadership principles of Duty, Respect, and Integrity.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 21,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recognize potentially hazardous situations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 22,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Inform subordinates of hazards.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 23,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Control positions and function of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 24,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure that special precautions are taken when extraordinary hazards exist.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 25,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure adequate rest is provided to all unit personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 26,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure Hazmat regulations, other national standards, and protocols are met.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 27,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure unit provides and supports a hostile free work environment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 28,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure ADA requirements are being met.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 29,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide initial operating instructions to section personnel, including safety and security concerns and expectations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 30,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform the duties of a Communications Unit Leader according to the most current version of the Field Operations Guide (ICS 420-1).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Develop plans for effective use of incident communications equipment and facilities.",
+        "Installing and testing of communications equipment.",
+        "Supervision of the Incident Communications Center.",
+        "Distribution of communications equipment to incident personnel.",
+        "Maintenance and repair of communications equipment.",
+        "Prepare all forms and required documentation necessary to perform this position."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 31,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform the duties of a Medical Unit Leader according to the most current version of the Field Operations Guide (ICS 420-1).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Develop the Medical Plan.",
+        "Obtain medical aid and transportation for injured and ill incident personnel.",
+        "Establishment of responder rehabilitation.",
+        "Preparation of reports and records.",
+        "Prepare all forms and required documentation necessary to perform this position."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 32,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform the duties of a Food Unit Leader according to the most current version of the Field Operations Guide (ICS 420-1).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Supply food for entire incident (including remote locations)."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 33,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform the duties of a Supply Unit Leader according to the most current version of the Field Operations Guide (ICS 420).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Order personnel, equipment and supplies.",
+        "Receive and store all supplies for the incident.",
+        "Maintain an inventory of supplies.",
+        "Service nonexpendable supplies and equipment.",
+        "Prepare all forms and required documentation necessary to perform this position."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 34,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform the duties of a Facilities Unit Leader according to the most current version of the Field Operations Guide (ICS 420-1).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Layout and activation of incident facilities (e.g., ICP, base camps).",
+        "Provide sleeping and sanitation facilities.",
+        "Provide security.",
+        "General maintenance.",
+        "Prepare all forms and required documentation necessary to perform this position."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 35,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform the duties of a Ground Support Unit Leader according to the most current version of the Field Operations Guide (ICS 420-1).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Support out of service resources.",
+        "Transportation of personnel, supplies, food, and equipment.",
+        "Fueling, service, maintenance, and repair of vehicles and other ground support equipment.",
+        "Develop and implement Incident Traffic Plan.",
+        "Prepare all forms and required documentation necessary to perform this position."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 36,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish priorities and coordinate units within the section.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 37,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate job performance requirements to subordinates.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 38,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continuously evaluate performance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 39,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate deficiencies immediately and take corrective action.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 40,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify training needs and provide opportunities for training.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 41,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare and discuss formal performance evaluation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 42,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure that performance ratings are completed as required by the Incident Commander/Agency Administrator.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Discuss ratings with individual.",
+        "Ensure contractor/vendor evaluation is completed."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 43,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure interaction occurs among Logistics Section units.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 44,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Interact and coordinate with all Command and General Staff.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive and transmit current and accurate information."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 45,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with unit leaders and provide Planning Section Chief a list of excess personnel, contract equipment, crews, miscellaneous personnel and other resources. List will include:",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Name/type.",
+        "Quantity.",
+        "Time/date of available release.",
+        "Review the list daily for accuracy ensuring that all units are demobilized in a timely and complete manner."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 46,
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from Agency Administrator/ outgoing Incident Commander and gather information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure that briefings are complete and include, as a minimum description: Incident Objectives, ICS Form 201, organizational structure (area command or single organization), special considerations on the incident, and the current national situation and Wildland Fire Situation Analysis (if wildland fire incident).",
+        "Collect information on current resources assigned, en route, on order, and local resource status including initial attack as it relates to the logistics section. These information sources may include: agency dispatcher, Initial Attack Incident Commander, overhead, resource advisor, etc.",
+        "Determine facilities established and operating.",
+        "Obtain anticipated incident duration, size, and type.",
+        "Complete the appropriate checklist for takeover of incidents."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 47,
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from Incident Commander. May be one-on-one or in an Incident Management Team (IMT) meeting.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive Incident Commander’s priorities, goals, and objectives for the IMT.",
+        "Receive Incident Commander’s priorities, goals, and objectives for the incident.",
+        "Obtain initial instructions concerning the tasks expected of the logistics section.",
+        "Receive expected time frames for briefings, planning meetings, and team meetings."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 48,
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief unit leaders including summary of incident, current activity, and anticipated section activity for individual unit planning.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 49,
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct logistics section meeting and/or briefing.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review proposed IAP.",
+        "Identify possible changes by units to meet current IAP.",
+        "Confirm needs and requests or reassign personnel as needed.",
+        "Review current and future situation status, resource status, fire behavior (wildland fire incident), and weather forecast.",
+        "Ensure applicable plans; e.g., medical, security, transportation, communications, etc., are updated and provided to plans unit.",
+        "Ensure special instructions are included in the IAP for the next and future operational periods."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 50,
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in the operational period briefing, particularly emphasizing any changes from the written IAP.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 51,
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Update Incident Commander on current accomplishments and/or problems.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Verbally inform Incident Commander as soon as possible on problems and accomplishments."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 52,
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Debrief Agency Administrator. Debriefing may be for a designated representative or incoming LSC.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Participate in debriefing."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 53,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete ICS Form 214, Unit Log",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Submit completed and legible Unit Logs containing pertinent information to the documentation unit for each operational period.",
+        "Document problems and accomplishments."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 54,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure all personnel and equipment time records are complete and have been submitted to the Time Unit Leader/Equipment Time Recorder at the end of each operational period.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 55,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "If required, complete ICS Form 211, Demobilization Check-Out, and turn in to the appropriate person.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 56,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in after-incident review per agency policy.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 57,
+      "category": "Communicate and assure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate and share with IMT all functional information for your section and what is anticipated for incident operations based on expected duration, size, and type of incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 58,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in preparation of Incident Action Plan (IAP).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review proposed tactics for next operational period or periods.",
+        "Advise on current capabilities and limitations.",
+        "Determine additional resources needed.",
+        "Discuss long-range plans and identify potential or future requirements.",
+        "Prepare or review applicable portions of the IAP; e.g., Medical Plan, Security Plan, Transportation Plan, special instructions."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 59,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist in development, approval, and implementation of Demobilization Plan and/or Transition Plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate with the demobilization unit/ Planning Section Chief during development and implementation of Demobilization Plan.",
+        "Coordinate during development and implementation with local agency concerning functional demobilization procedures.",
+        "Brief staff on demobilization responsibilities."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 60,
+      "category": "Administer and/or apply agency policy, contracts and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Act as the contractor’s authorized representative (COR) for national contracts and/or local agency specific contracts.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Supervise the Contracting Officers Technical Representative (COTR).",
+        "Coordinate as needed with Finance/Administration Section Chief."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 61,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate and monitor current situation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Determine if current logistics capabilities will meet incident objectives.",
+        "Identify problems and concerns (evacuation, sheltering, aviation safety, etc.) for which logistics may be part of the solution.",
+        "Advise Incident Commander and other appropriate incident management team personnel."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 62,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate and identify kind, type, and number of resources required to achieve objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Consider incident type and complexity, kinds and types of resources, resource availability, and safety factors.",
+        "Order necessary personnel and equipment.",
+        "Discuss long-range and contingency plans and identify potential and future resources."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 63,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish priorities and coordinate units within the section.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 64,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine additional resources needed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 65,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss long-range plans and identify potential or future requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 66,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify possible changes by unit to meet current IAP.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 67,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Consider demobilization and/or transition early enough during the incident so that an adequate Demobilization/ Transition Plan is in place prior to the actual need to release resources or escalate the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 68,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Receive demobilization/transition instructions from the appropriate person.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief subordinate staff on demobilization/transition procedures and responsibilities. Ensure that incident and agency demobilization/transition procedures are followed..",
+        "If required, complete ICS Form 211, Demobilization Check-Out, and turn in to the appropriate person.",
+        "Brief replacement if necessary."
+      ],
+      "page": 18
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 69,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Consider demobilization and/or transition early enough during the incident so that an adequate Demobilization/ Transition Plan is in place prior to the actual need to release resources or escalate the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 70,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate the development, approval and implementation of transfer of command when incident escalates/deescalates.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 71,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor and document progress towards incident objectives and prepare for transition.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 72,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine with replacement time of transfer.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 73,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate transfer of command to logistics and command staff.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 18
+    },
+    {
+      "position_code": "LSC3",
+      "task_number": 74,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "If necessary, coordinate with agencies about transfer of command back to local jurisdiction.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 18
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

@@ -1,0 +1,33 @@
+{
+  "position_code": "SOPL",
+  "required_training": [
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-482, Strategic Operational Planning"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Prescribed Fire Burn Boss Type 2 ( RXB2 )",
+    "AND Satisfactory performance as a Division/Group Supervisor ( DIVS )",
+    "AND Completion and Certification of NWCG Strategic Operational Planner (SOPL) Position Task Book , PMS 311-72"
+  ],
+  "required_experience_prereq_codes": [
+    "DIVS",
+    "RXB2"
+  ],
+  "physical_fitness": "Physical Fitness Level: Moderate",
+  "currency_maintained_by": [
+    "Division/Group Supervisor ( DIVS )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Long Term Fire Analyst ( LTAN )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )",
+    "Prescribed Fire Burn Boss Type 1 ( RXB1 )",
+    "Prescribed Fire Burn Boss Type 2 ( RXB2 )"
+  ],
+  "maintains_currency_for": [
+    "Prescribed Fire Burn Boss Type 1 ( RXB1 )",
+    "Prescribed Fire Burn Boss Type 2 ( RXB2 )"
+  ],
+  "other_training": [
+    "M-581, Fire Program Management, an Overview"
+  ],
+  "note": null
+}

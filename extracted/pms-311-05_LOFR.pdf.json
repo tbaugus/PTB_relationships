@@ -1,0 +1,816 @@
+{
+  "document": {
+    "filename": "pms-311-05_LOFR.pdf",
+    "sha256": "e63a995d9c8a42898596fc143886b0db84908b97578e547bd05c5f40950ab7da",
+    "pms_number": "311-05",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "LOFR"
+    ],
+    "title": "Liaison Officer",
+    "edition_date": "JUNE 2010",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 19
+  },
+  "positions": [
+    {
+      "code": "LOFR",
+      "title": "Liaison Officer",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "LOFR",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit. Kit will be assembled and prepared prior to receiving an assignment. Kit will contain critical items needed for the assignment and items needed for functioning during the first 48 hours. Kit will be easily transportable and within agency weight limitation. The basic information and materials needed may include, but is not limited to, any of the following: Reference Materials",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Appropriate references for the incident (e.g., PMS 410-1, Fireline Handbook)",
+        "ICS 420-1, Field Operations Guide",
+        "Individual checklists/reminders Forms",
+        "ICS Form 213, General Message",
+        "ICS Form 214, Unit Log",
+        "Agency specific forms appropriate to the function Supplies",
+        "Office supplies appropriate to the function"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive properly equipped at incident assigned location within acceptable time limits.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 3,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Check in according to agency guidelines.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish a work location within the first operational period following check in.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Work location must be:",
+        "Visible",
+        "Identifiable",
+        "Have adequate space for two to four persons.",
+        "Coordinate bulletin board posting of agency information."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 5,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure sufficient personnel and resources to accomplish information exchange.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 6,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "If needed, obtain Assistant(s) for the liaison staff to complete required duties.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 7,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon activation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Incident order number",
+        "Request number",
+        "Reporting location",
+        "Reporting time",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 8,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather information necessary to assess incident assignment and determine immediate needs and actions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident Commander’s/supervisor’s name and location; make contact",
+        "Type/size/complexity of incident",
+        "Current resource commitments",
+        "Current situation",
+        "Expected duration of assignment"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 9,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assemble incident information for use in briefings and filling requests.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Within the first operational period after check in, obtain incident information from the Incident Commander, Resources Unit and Situation Unit.",
+        "Update incident information by the beginning of each operational period.",
+        "Disaster declarations and evacuation plans"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 10,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assemble agency information for use in answering requests and resolving problems.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Obtain assisting, cooperating and non- governmental agency information that includes:",
+        "Contact persons (Agency Representatives)",
+        "Radio frequencies",
+        "Phone and pager numbers",
+        "Cooperative agreements",
+        "Equipment type",
+        "Number of personnel",
+        "Condition of equipment and personnel",
+        "Agency constraints or limitations"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 11,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 12,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create a work environment that provides diversity and equal opportunity for all personnel assigned to the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 13,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Supervise liaison staff as needed, based on changes in incident situation and resource status.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Ensure that priorities are communicated and understood.",
+        "Ensure that safety procedures are maintained.",
+        "Ensure effective use and coordination of all assigned resources."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 14,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain appropriate span of control.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Order additional LOFRs as number of contacts exceeds span of control."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 15,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate knowledge of ICS structure, principles, positions, and ICS forms.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 16,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 17,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well-being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 18,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 19,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Use diplomacy to resolve concerns related to multi- agency involvement.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 20,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recognize potentially hazardous situations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 21,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Inform appropriate personnel of known hazards.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 22,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure that special precautions are taken when extraordinary hazards exist.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 23,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure adequate rest is provided to all liaison staff.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Adhere to 2:1 work/rest guidelines"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 24,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief and keep subordinates informed and updated.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 25,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish time frames and schedules.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 26,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assign and monitor work assignments.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 27,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide counseling and discipline as needed.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 28,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure that performance ratings are completed as required by the Incident Commander/Agency Administrator.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 29,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and emphasize the achievement of group goals.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Group may include assigned personnel, team members, cooperators, etc."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 30,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Interact and coordinate with all Command and General Staff.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive and transmit current and accurate information.",
+        "Interact and coordinate with the IC and PIO."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 31,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Within the first operational period after check in, obtain incident information from the Incident Commander, resource unit and situation unit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Obtain copy of the current IAP."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 32,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend incident planning meetings. Provide assisting and cooperating agency input as necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 33,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct briefings at predetermined times and locations with assisting, cooperating and non-governmental agencies prior to each operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 34,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide assisting and cooperating agencies’ input to the planning process.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 35,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete ICS Form 214 for each operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 36,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete transition/demobilization plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 37,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "File all records with documentation unit during demobilization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Phone/contact list",
+        "Evacuation and closure notices"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 38,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Keep cooperating and assisting agencies informed of planning actions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "If necessary, conduct briefing with Agency Representatives prior to the Planning Meeting, following the Planning Meeting, or following any change in the Incident Action Plan (IAP).",
+        "Supply a copy of the Incident Action Plan to Agency Representatives."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 39,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Respond to requests for information and resolve problems.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Advise the Incident Commander of any political or stakeholder concerns related to multi-agency involvement.",
+        "Fulfill request for information concerning any cooperating or assisting agencies in a timely manner.",
+        "Follow up on all requests and problems to ensure their completion within the work period following their initiation.",
+        "Problems or requests that remain incomplete after follow-up should be addressed at the next planning meeting.",
+        "Initiate and conduct stakeholder meeting with Agency Representative and any cooperating or assisting agencies.",
+        "Anticipate and proactively respond to cultural, social, and potential political issues with private land owners, elected officials, and public figures."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 40,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Supply cooperating and assisting agencies with demobilization information at least one operational period prior to demobilization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 41,
+      "category": "Communicate and assure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure that subordinates understand their roles and responsibilities for carrying out the mission during the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 42,
+      "category": "Communicate and assure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure incident management team members are aware of the safety-related aspects of their jobs and undertake their job responsibilities in a safe manner based on expected duration, size, type of incident, potential values to be protected, and jurisdictional involvement.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 43,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Update incident information by the beginning of each operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 16
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 44,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Respond to requests for information and resolve problems.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Advise the Incident Commander of any political or stakeholder concerns related to multi-agency involvement.",
+        "Fulfill request for information concerning any cooperating or assisting agencies in a timely manner.",
+        "Follow up on all requests and problems to ensure their completion within the work period following their initiation.",
+        "Problems or requests that remain incomplete after follow-up should be addressed at the next planning meeting."
+      ],
+      "page": 16
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 45,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Meet with agencies and gather information on personnel and equipment priorities prior to demobilization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 46,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide assisting and cooperating agencies’ input to the demobilization process.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Attend demobilization meeting.",
+        "Supply cooperating and assisting agencies with demobilization information at least one operational period prior to demobilization.",
+        "Record demobilization issues.",
+        "File all records with the Documentation Unit.",
+        "Complete demobilization process."
+      ],
+      "page": 17
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 47,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine time of transfer, with Incident Commander and your replacement.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 48,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate transfer of Liaison duties to Command and General Staff, and assisting and cooperating agency representatives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    },
+    {
+      "position_code": "LOFR",
+      "task_number": 49,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "If necessary, coordinate with agencies about transfer of command back to local jurisdiction.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 17
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

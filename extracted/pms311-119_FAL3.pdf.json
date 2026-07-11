@@ -1,0 +1,519 @@
+{
+  "document": {
+    "filename": "pms311-119_FAL3.pdf",
+    "sha256": "778064273e99244f3f7bfcfa362792832ea31a3ddb74381edd2cefb1be1a6633",
+    "pms_number": "311-119",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "FAL3"
+    ],
+    "title": "Basic Faller",
+    "edition_date": "MARCH 2025",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 17
+  },
+  "positions": [
+    {
+      "code": "FAL3",
+      "title": "Basic Faller",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "FAL3",
+      "task_number": 1,
+      "category": "Leadership Level 1, Follower (Provide Action)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communication skills.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Comply with FAL3 position standards as defined in NWCG Standards for Wildland Fire Chainsaw Operations, PMS 212, and established agency standards for saw operating procedures.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 3,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain mental and physical readiness, a positive attitude, and willingness to learn.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 4,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather critical information pertinent to the assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 5,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure individual and equipment readiness. Have proper PPE, chainsaw kit, necessary forms, and reference material (e.g., PTB, IRPG).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 6,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Travel to work site or assignment and check in with supervisor or dispatch upon arrival.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 7,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Actively participate in initial briefing from supervisor.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 8,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with swamper and other team members to learn their role and strengthen the team.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 9,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Consider the impacts of human factors and crew dynamics on job performance and safety.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 10,
+      "category": "Perform Basic Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate a basic knowledge of chainsaw components.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 11,
+      "category": "Perform Basic Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct a chainsaw safety check.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 12,
+      "category": "Perform Basic Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Safely start and handle the chainsaw during saw operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 13,
+      "category": "Perform Basic Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Utilize correct techniques and body position for operating the chainsaw.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 14,
+      "category": "Perform Basic Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Discuss reactive forces and their causes, including bind and kickback.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 15,
+      "category": "Perform Basic Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify tree species groups and common structural defects that may contribute to failure. Perform the required elements of a procedural sizeup, and any critical considerations that could affect each element.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 16,
+      "category": "Perform Basic Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "• Identify the objective of the cutting operation. • Identify the known hazards of the operation. • Recognize leans or binds that may be present. • Develop an escape plan. • Develop a cutting plan.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 17,
+      "category": "Perform Basic Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "• Determine complexity. • Make a Go/No-Go decision. After performing a procedural sizeup, safely execute a cut plan to resolve a low complexity bucking operation using accepted practices.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 18,
+      "category": "Perform Basic Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "After performing a procedural sizeup, safely execute a cut plan to resolve a low complexity limbing operation using accepted practices.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 19,
+      "category": "Perform Basic Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "After performing a procedural sizeup, safely execute a cut plan to resolve a low complexity brushing operation using accepted practices.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 20,
+      "category": "Perform Basic Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "After performing a procedural sizeup, safely execute a cut plan to re solve a low complexity felling operation using accepted practices.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 21,
+      "category": "Perform Basic Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recognize changes in complexity or deviation from initial cut plan, verbalize corrections, and reinitiate procedural sizeup.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 22,
+      "category": "Perform Basic Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform a self-assessment and analysis of saw operation (e.g., stump analysis, bucking analysis).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 23,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Receive a briefing, ask clarifying questions, and voice concerns related to saw operation specifications and expectations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 24,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive communication and coordination w ith saw teams, crew, adjoining resources, and supervisors in the work area.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 25,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in debriefing, After Action Reviews (AARs), and information sharing.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 26,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process as stated in the NWCG Incident Response Pocket Guide (IRPG), PMS 461.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 27,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate fire behavior, fuels, topography, and weather factors throughout the entire operational period. Maintain situational awareness and evaluate the need for Lookouts, Communications, Escape Routes, and Safety Zones (LCES) to all saw operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 28,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure a medical plan is in place for the current or planned saw op eration. Ensure familiarity with the medical plan and response to an Incident Within an Incident (IWI).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 29,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain work area control.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 30,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain cutting area control, including when using a swamper.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 31,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify change in the operational complexity of the assignment and report pertinent changes to the appropriate supervisor.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 32,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Report all accidents, injuries, or near misses to supervisor. Promote and foster a learning culture.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 33,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure equipment is in good working condition for the next operational period and resupply used or damaged equipment as necessary.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "FAL3",
+      "task_number": 34,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "In coordination with supervisor, return equipment and supplies to appropriate units as necessary.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 9
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 10
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 10
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    }
+  ],
+  "extra_fields": {}
+}

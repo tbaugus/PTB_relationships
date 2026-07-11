@@ -1,0 +1,1135 @@
+{
+  "document": {
+    "filename": "pms311-108_OSCC.pdf",
+    "sha256": "a6d5597576e960aa0abd40c4b4093cc8b8f1b2f7bead9f77855bdffb30090399",
+    "pms_number": "311-108",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "OSCC"
+    ],
+    "title": "Operations Section Chief Complex",
+    "edition_date": "FEBRUARY 2025",
+    "ips_reference": "350-08",
+    "official": true,
+    "page_count": 16
+  },
+  "positions": [
+    {
+      "code": "OSCC",
+      "title": "Operations Section Chief Complex",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "OSCC",
+      "task_number": 1,
+      "category": "Leadership Level 5, Leader of Organizations (Create Vision)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "For leaders of organizations, the challenges grow to looking broadly and further ahead. These leaders manage the most complex and high-profile emergency incidents. Organizational leaders plan for future operations and mentor promising people for key roles in our organizations. They represent the face of the wildland fire service to cooperators, stakeholders, and the general public. Decisions made by these leaders have significant and far-reaching impacts.",
+      "code_raw": "ALL",
+      "code_alternatives": [
+        "ALL"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather critical information pertinent to the assignment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 3,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Confirm mobilization status of operational team members and/or assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 4,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review current Incident Action Plan (IAP), if applicable, and ob tain incident status from Incident Commander (IC) or ordering unit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 5,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain incident update from current OSCC regarding status of incident situation or branch operations before arrival.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 6,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop initial strategy and ensure tactics are in alignment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 7,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Receive a host unit in-brief of the current incident status and review established Incident Management Team (IMT) guidelines.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 8,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure air operations section meets operational needs.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 9,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review the Delegation of Authority, Leaders Intent, Wildland Fi re Decision Support System (WFDSS) and/or other incident decision documents.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 10,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Facilitate and coordinate the ordering of operational resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 11,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish a common operating picture with Command & General Staff (C&G), IC, and assigned personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 12,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish organizational structure, reporting procedures, and chain of command for assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 13,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure transfer of position responsibilities. Coordinate with outgoing OSCC, IC, or other appropriate personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 14,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop initial strategy and ensure tactics are in alignment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 15,
+      "category": "Lead, Supervise, Direct",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Model leadership values and principles. Provide a positive influence. Emphasize teamwork.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 16,
+      "category": "Lead, Supervise, Direct",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and communicate objectives, priorities, work assignments, and performance expectations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 17,
+      "category": "Lead, Supervise, Direct",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Adjust actions based on changing information and evolving situation awareness. Develop and implement contingency plans. Communicate changing conditions to assigned resources and C&G.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 18,
+      "category": "Lead, Supervise, Direct",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor performance and provide immediate and regular feedback to assigned personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 19,
+      "category": "Lead, Supervise, Direct",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide field leadership, while making sound and timely decisions in complex and high stress environments.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 20,
+      "category": "Lead, Supervise, Direct",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Engage in public information distribution, ensuring communications align with operational progress, strategic objectives, and public safety in coordination with Public Information Officers.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 21,
+      "category": "Perform Command & General Staff Responsibilities",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Interact, coordinate, and establish cohesiveness with C&G personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 22,
+      "category": "Perform Command & General Staff Responsibilities",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Share pertinent operations information that may affect the team’s management of the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 23,
+      "category": "Perform Command & General Staff Responsibilities",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare for and participate in strategy meetings to ensure al ignment of host agency values, incident strategies, and probabilities of success.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 24,
+      "category": "Perform Command & General Staff Responsibilities",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Formulate and communicate strategic plans and alternatives to IC for understanding and approval.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 25,
+      "category": "Perform Command & General Staff Responsibilities",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate operational decisions with C&G personnel to reduce unintended impacts to other functional areas.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 26,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Present effective operational period briefing(s). Clearly articulate strategy, tactics, locations, and work assignments.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 27,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure host unit direction and policies are applied.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 28,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage operational periods to achieve objectives (e.g., swing/night shifts).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 29,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Personally observe and review current operations to prepare tactics for the next 24, 48, 72 hours and beyond.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 30,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor and address air quality impacts on personnel and the public. Consider the potential for smoke impacts to roads, communities, and incident facilities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 31,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Report special occurrences (e.g., structure/improved property loss or damage, accidents, Incident Within an Incident, political contacts) to IC.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 32,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Order or demobilize resources required to meet operational objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 33,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish a process within Operations Section for resource requests/releases for planning purposes.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 34,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Inform IC regularly or as needed with status updates, evolving conditions or hazards that may require action, problems or unresolved issues, and accomplishments.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 35,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish daily briefing/debriefing schedule with Operations Branch Directors and Division/Group Supervisors.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 36,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and/or identify branches, divisions/groups, and/or staging areas as appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 37,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify the kind, type, and number of resources required to achieve operational objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 38,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Update priorities and make timely changes to current operations based on changing complexities or magnitude of the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 39,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure assigned resources have all necessary equipment and supplies to meet the approved strategy. Estimate immediate and long-range operational resource and logistical requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 40,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Approve burnouts and seek approval from the IC for backfire operations.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 41,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Validate the effectiveness and proper use of aviation resources, ensuring close coordination between aviation and ground personnel.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 42,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide feedback to Air Operations Branch Director (AOBD) / Air Support Group Supervisor (ASGS) on preferred airspace use and any necessary restrictions.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 43,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure that Initial Attack (IA) delegations are clearly defined and easily identifiable using geographic features.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 44,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Utilize GIS tools and analytics (e.g., snag hazards, fuels, fire history, fire behavior runs, Potential Operational Delineations [PODS], weather analysis) to develop strategic plans with increased probability of success.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 45,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop management action points for critical values at risk, display strategic lines geographically, and articulate strategy verbally and in writing to diverse audiences.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 46,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Use fire behavior prediction information to plan/organize tactical operations that are in alignment with the approved strategy.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 47,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure development and maintenance of a strategic operations map.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 48,
+      "category": "Perform Operations Section Chief Complex -Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Promptly provide C&G with analytics and known values to develop initial strategy.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 49,
+      "category": "Planning Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Represent the Operations Section in the planning cycle (e.g., meetings, briefings, documentation).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 50,
+      "category": "Planning Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete the identified Operations sections of the Incident Status Summary (ICS 209).",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 51,
+      "category": "Planning Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in preparation of the IAP or other relevant plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 52,
+      "category": "Planning Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Utilize the Operational Planning Worksheet (ICS 215) to consolidate resource status, assignments, and operational resource needs.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 53,
+      "category": "Planning Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate IAP (ICS 204 WF) updates with the Resource Unit Leader (RESL) following IMT guidelines, including resource information for accountability, work assignments, special instructions (e.g., medical, resource advisors), and communicate strategy (task, purpose, end state).",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 54,
+      "category": "Planning Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Situation Unit to validate updates (e.g., division/branch boundaries, drop points, helispots, control line status).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 55,
+      "category": "Planning Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Operations Branch Directors (OPBD) and Division/Group Supervisors (DIVS) and provide a list of excess personnel and other resources to the Planning Section.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 56,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide timely communication within and across functional areas to coordinate support for operational needs (e.g., land use agreements, Emergency Equipment Rental Agreements (EERA), meals, security).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 57,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with OPBD(s) and DIVS(s) to recommend priorities for Safety Officers, Line Medics, resource advisors, and Field Observers (FOBS).",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 58,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine the need for coordination with Long Term Fire Analyst and/ Strategic Operational Planner to ensure incident strategies consider critical values, responder risk, and probability of success.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 59,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain daily communication with AOBD/ASGS, ensuring aviation resources are aware of and follow prioritized aviation objectives.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 60,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Facilitate effective coordination between aerial supervision and OSCC, confirming feedback is provided by aerial supervision both before and after shifts.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 61,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Work with responsible land management agencies and/or assigned Resource Advisors to mitigate impacts to natural, cultural, social, and other resources. Notify IC when such resources are discovered and document suppression impacts.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 62,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate wildland urban interface (WUI) operations with local law enforcement, fire departments, and other agencies that are authorized to implement public evacuations, structure protection, traffic control, and road closures, in coordination with the Liaison Officer (LOFR).",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 63,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish communication channels that facilitate large scale coordination (e.g., multi-agency coordination groups, nearby incidents, geographic areas, adjacent land management units).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 64,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure the Risk Management Process is established and maintained throughout the Operations section.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 65,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Align tactical operations with strategic-level risk management throughout the Operations Section.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 66,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Safety Officers to assess responder risk and complete an Operational Risk Assessment Worksheet (e.g., 215R).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 67,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate the major risk influencers (e.g., ground transportation, fire behavior, hit by and gravity hazards, aviation operations, human factors, medical response, and capability).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 68,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan for medical emergencies. Ensure assigned resources are prepared to execute the Medical Plan (ICS 206 WF). Ensure familiarity with medical responders, communication procedures, and transportation plan.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 69,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Support Incident Within an Incident (IWI) response based on procedures developed by the IMT.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 70,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor resources for signs and symptoms of smoke exposure, fatigue, illness, injury, and work/rest ratios, and communicate mitigation needs.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 71,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide input into documentation and associated GIS products for strategic operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 72,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow IMT guidelines for the tracking and documentation of accountable property.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 73,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete all administrative tasks and documentation in an accurate and timely manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 74,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide staffing recommendations of resources to incoming O SCC to ensure appropriate span of control and staffing for evolving incident complexity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 75,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist in the development and implementation of the Incident D emobilization Plan, and coordinate with Demobilization Unit/Planning Section Chief.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 76,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare the operations portion of the transition plan, including str ategic information, ongoing risks, known hazards, and status of incident objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 77,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in transition meeting with incoming Incident Management Team (IMT)/local unit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "OSCC",
+      "task_number": 78,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Lead strategic-level After Action Review (AAR) at the section level, including how to integrate feedback into future incident response. Participate in C&G AAR during demobilization, identifying key lessons for future incidents.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 13
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 13
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    }
+  ],
+  "extra_fields": {}
+}

@@ -1,0 +1,271 @@
+{
+  "document": {
+    "filename": "pms311-41_INCM.pdf",
+    "sha256": "b9db10d854ed2728f3c4be44b5664487f38eb6ad8718a9ef01326204e1f6417a",
+    "pms_number": "311-41",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "INCM"
+    ],
+    "title": "Incident Communications Center Manager",
+    "edition_date": "JULY 2025",
+    "ips_reference": "350-41",
+    "official": true,
+    "page_count": 11
+  },
+  "positions": [
+    {
+      "code": "INCM",
+      "title": "Incident Communications Center Manager",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "INCM",
+      "task_number": 1,
+      "category": "Leadership Level 2, New Leader (Convey Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "INCM",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure individual readiness.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "INCM",
+      "task_number": 3,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review the Incident Action Plan (IAP) and obtain briefing, objectives, and intent from supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "INCM",
+      "task_number": 4,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assemble and validate readiness of assigned personnel and equipment.",
+      "code_raw": "S",
+      "code_alternatives": [
+        "S"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "INCM",
+      "task_number": 5,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and communicate the chain of command, reporting procedures, work assignments, and performance expectations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "INCM",
+      "task_number": 6,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor performance, provide immediate and regular feedback to assigned personnel, and ensure incident objectives and performance standards are met. Perform Incident Communications Center",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "INCM",
+      "task_number": 7,
+      "category": "Manager-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and supervise the incident communications center.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "INCM",
+      "task_number": 8,
+      "category": "Manager-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain inventory and track assigned equipment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "INCM",
+      "task_number": 9,
+      "category": "Manager-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Order necessary equipment and supplies.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "INCM",
+      "task_number": 10,
+      "category": "Manager-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare radios for assignment.",
+      "code_raw": "S",
+      "code_alternatives": [
+        "S"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "INCM",
+      "task_number": 11,
+      "category": "Manager-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Respond to incident emergencies.",
+      "code_raw": "S",
+      "code_alternatives": [
+        "S"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "INCM",
+      "task_number": 12,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure clear understanding of expectations and timely communication within and across Incident Command System (ICS) functional areas and chain of command.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "INCM",
+      "task_number": 13,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Account for location, health, safety, and welfare of assigned personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "INCM",
+      "task_number": 14,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete all administrative tasks and documentation in an accurate and timely manner.",
+      "code_raw": "S",
+      "code_alternatives": [
+        "S"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "INCM",
+      "task_number": 15,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan for demobilization and brief assigned resources on demobilization procedures and responsibilities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "INCM",
+      "task_number": 16,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Return equipment and supplies as appropriate.",
+      "code_raw": "S",
+      "code_alternatives": [
+        "S"
+      ],
+      "clarifications": [],
+      "page": 7
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 8
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 8
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 8
+    }
+  ],
+  "extra_fields": {}
+}

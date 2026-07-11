@@ -1,0 +1,45 @@
+{
+  "position_code": "OPS3",
+  "required_training": [
+    "ICS-400, Advanced ICS for Command and General Staff",
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Division/Group Supervisor ( DIVS )"
+  ],
+  "required_experience_prereq_codes": [
+    "DIVS"
+  ],
+  "physical_fitness": "Physical Fitness Level: Arduous",
+  "currency_maintained_by": [
+    "Division/Group Supervisor ( DIVS )",
+    "Incident Commander Complex ( ICCI )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Operations Branch Director ( OPBD )",
+    "Operation Section Chief Complex ( OSCC )",
+    "Strike Team Leader ( STCR , STEN , STEQ )",
+    "Structure Protection Specialist ( STPS )",
+    "Task Force Leader ( TFLD )"
+  ],
+  "maintains_currency_for": [
+    "Division/Group Supervisor ( DIVS )",
+    "Firefighter Type 1 ( FFT1 )",
+    "Firefighter Type 2 ( FFT2 )",
+    "Incident Commander Complex ( ICCI )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Incident Commander Type 4 ( ICT4 )",
+    "Operations Branch Director ( OPBD )",
+    "Operation Section Chief Complex ( OSCC )",
+    "Single Resource Boss ( CRWB , ENGB , FELB , FIRB , HEQB )",
+    "Strategic Operational Planner ( SOPL )",
+    "Strike Team Leader ( STCR , STEN , STEQ )",
+    "Structure Protection Specialist ( STPS )",
+    "Task Force Leader ( TFLD )"
+  ],
+  "other_training": [
+    "L-381, Incident Leadership",
+    "O-305, Type 3 All-Hazard Incident Management Team",
+    "S-320, Introduction to Incident Management Teams"
+  ],
+  "note": "Once qualified as DIVS or ICT3 , the OPS3 qualification may be granted by the certifying official. Certification must be documented."
+}

@@ -1,0 +1,48 @@
+{
+  "position_code": "CRWB",
+  "required_training": [
+    "ICS-200, ICS for Single Resources and Initial Action Incidents",
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-230, Crew Boss (Single Resource)",
+    "S-290, Intermediate Wildland Fire Behavior"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Firefighter Type 1 (Squad Boss) ( FFT1 )",
+    "AND Completion and Certification of NWCG Position Task Book for Crew Boss, Single Resource (CRWB), PMS 311-98"
+  ],
+  "required_experience_prereq_codes": [
+    "FFT1"
+  ],
+  "physical_fitness": "Physical Fitness Level: Arduous",
+  "currency_maintained_by": [
+    "Crew Representative ( CREP )",
+    "Division/Group Supervisor ( DIVS )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Incident Commander Type 4 ( ICT4 )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )",
+    "Prescribed Fire Burn Boss Type 1 ( RXB1 )",
+    "Prescribed Fire Burn Boss Type 2 ( RXB2 )",
+    "Safety Officer, Field ( SOFF )",
+    "Safety Officer Type 3 ( SOF3 )",
+    "Single Resource Boss ( ENGB , FELB , FIRB , HEQB , HMGB )",
+    "Strike Team Leader Crew ( STCR )",
+    "Task Force Leader ( TFLD )"
+  ],
+  "maintains_currency_for": [
+    "Crew Representative ( CREP )",
+    "Field Observer ( FOBS )",
+    "Firefighter Type 1 (Squad Boss) ( FFT1 )",
+    "Firefighter Type 2 ( FFT2 )",
+    "Incident Commander Type 4 ( ICT4 )",
+    "Incident Commander Type 5 ( ICT5 )",
+    "Single Resource Boss ( ENGB , FELB , FIRB , HEQB )",
+    "Strike Team Leader Crew ( STCR )"
+  ],
+  "other_training": [
+    "L-280, Followership to Leadership",
+    "S-219, Firing Operations",
+    "S-260, Interagency Incident Business Management",
+    "S-270, Basic Air Operations"
+  ],
+  "note": null
+}

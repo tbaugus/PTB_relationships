@@ -1,0 +1,1037 @@
+{
+  "document": {
+    "filename": "pms311-106_PIOC.pdf",
+    "sha256": "2c094855422080a3f385da75ca29149779f53a3b4cc4140cfa4eefcb6d60c30a",
+    "pms_number": "311-106",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "PIOC"
+    ],
+    "title": "Public Information Officer Complex",
+    "edition_date": "JANUARY 2023",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 16
+  },
+  "positions": [
+    {
+      "code": "PIOC",
+      "title": "Public Information Officer Complex",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "PIOC",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete required team management responsibilities.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Section recruitment and selection",
+        "Standard operating procedures",
+        "Team building",
+        "Section roster",
+        "Necessary equipment"
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 2,
+      "category": "Understand and comply with incident safety procedures and practices.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Survey Public Information Officer’s skills/capabilities/ interests and match to opportunities when possible.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 3,
+      "category": "Understand and comply with incident safety procedures and practices.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure media/public is aware of incident-specific hazards and safety procedures.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 4,
+      "category": "Understand and comply with incident safety procedures and practices.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure subordinates integrate safety considerations into all aspects of their duties.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 5,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate staffing, equipment and supply needs required to manage the section for short and long duration.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Organize to meet the needs for management and control of the section.",
+        "Make appropriate decisions about immediate needs and actions.",
+        "Order additional resources through established channel.",
+        "Identify training opportunities."
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 6,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Contact unit public information staff and/or established information center(s).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Level of public/media interest in incident.",
+        "Amount of media on scene .",
+        "Incident information activities already underway.",
+        "Primary point of contact for media and public.",
+        "Community issues and concern.",
+        "Number of Public Information Officers currently assigned."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 7,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish contact with Incident Management Team (IMT) to obtain initial information and review available documentation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident Action Plan (IAP) or other relevant plan",
+        "Incident organization chart",
+        "Delegation of Authority",
+        "Most current Incident Status Summary, (ICS 209)"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 8,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with local unit and Incident Commander to gather information in existing contracts or agreements applicable to the incident information function.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 9,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 10,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish procedures for distributing information to incident personnel, cooperating and participating agencies (local, regional, national).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Demonstrate knowledge of relevant communication technology and trends."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 11,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare briefing materials for Incident Commander and Agency Administrator, as needed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 12,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare, approve, and distribute fact sheets/news releases to address basic incident facts (address who, what, when, where, and why).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Update on regular basis.",
+        "Demonstrate use of appropriate tools, communication devices, and equipment."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 13,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Issue appropriate communications based on emerging situations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Evacuations",
+        "Road closures",
+        "Smoke conditions"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 14,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Incorporate approved special messages/information into routine incident information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Safety",
+        "Prevention",
+        "Resource benefits",
+        "Environmental protection measures",
+        "Interagency cooperation",
+        "Rehabilitation and resource recovery programs",
+        "Recognition of local community and volunteer support",
+        "Efficiency of operations/cost containment"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 15,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Investigate rumors and take appropriate corrective action.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 16,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Respond to special situations within the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Consult with Incident Commander and Agency Administrator to determine Public Information Officer’s role.",
+        "Determine agencies’ policies or protocols regarding special situations and release of information.",
+        "Supervise preparation of briefing materials.",
+        "Ensure information is reviewed and approved by Incident Commander and/or Agency Administrator.",
+        "Coordinate with involved agencies.",
+        "Arrange for post-incident stress debriefing for information personnel, if needed.",
+        "Convey accurate and timely information to incident personnel.",
+        "Develop strategy for informing/involving very important persons (VIPs) in consultation with Incident Commander and Agency Administrator."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 17,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically, and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised, and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 18,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well-being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 19,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 20,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually self-assess for personal competency/comfort as incident complexity changes.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Determine appropriate staffing and support for current incident complexity.",
+        "Recognize personal limitations."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 21,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate, and communicate potentially hazardous situations.",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 22,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow safety procedures and be aware of incident- specific hazards.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Personal Protective Equipment (PPE)",
+        "Lookouts, Communications, Escape Routes, and Safety Zones (LCES)",
+        "Hazards (inform others)",
+        "Transportation and aviation procedures",
+        "Work/rest guidelines"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 23,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop Organizational Chart for complex incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 24,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Maintain appropriate span of control.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 25,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish/supervise information center.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Oversee Public Information Officers in the gathering and dissemination of routine incident information."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 26,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish work schedule for information staff.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 27,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Effectively assess incident priorities, scale, and associated needs, develop strategies (staffing and operational) for changing incident complexity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Triage initial priorities.",
+        "Maintain awareness of potential for change."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 28,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assign and monitor preparation and update of information products.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Fact sheets",
+        "Visuals",
+        "News releases"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 29,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure subordinates understand assignment for operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide clear, concise instructions, and allow for feedback.",
+        "Assign responsibilities for media support (e.g., ground and air access to the incident).",
+        "Assign specific roles in special situations."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 30,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete daily review of staffing requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 31,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop the schedule and assignments based on plans, expected situations, and operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Create assignments based on incident priorities and availability of appropriate staff.",
+        "Establish expectations of workflow."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 32,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually evaluate performance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Communicate deficiencies immediately and take corrective action.",
+        "Provide training opportunities where available.",
+        "Complete personnel performance evaluations according to agency guidelines."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 33,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 34,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify cooperating agencies and contact points.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 35,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish/supervise community relations function in coordination with jurisdictional agency.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Establish and maintain coordination with Agency Administrator or designee."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 36,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and maintain regular relationships and communication with Command and General Staff to coordinate external and internal messaging.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Work with LOFR, IC, and other relevant staff for critical communications (evacuations, closures, etc.).",
+        "Respond to request (attend cooperator’s meetings, provide special updates, etc.)."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 37,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine and follow procedures for coordinating with other information functions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Area command and other incidents",
+        "Local communications centers (Joint Information Center)",
+        "Cooperating agencies"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 38,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with operations and safety to provide media escort.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide personal protective equipment (PPE) as appropriate.",
+        "Ensure designated escorts are qualified and have adequate communication equipment."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 39,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform subordinate staff and IC.",
+        "Document follow-up actions needed and submit to supervisor."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 40,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate assignments for VIP visits and/or community meetings.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Planning/Coordination",
+        "Logistics",
+        "Briefing materials"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 41,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Transfer incident information and pending commitments to host unit information staff.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 42,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with cooperating agencies to produce a post-incident information strategy.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Special issues (e.g., archeological sites, access)"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 43,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and approve subordinate time reports.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 44,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure contacts/significant events are documented.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 45,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete and submit Activity Logs, (ICS 214).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 46,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete and submit information documentation package.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 47,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify excess resources.",
+        "Prepare schedule for demobilization."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 48,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demobilize and check out.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Receive demobilization instructions from incident supervisor.",
+        "If required, complete Demobilization Check-Out, (ICS 221), and submit completed form to the appropriate person."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 49,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief subordinate staff on demobilization procedures and responsibilities.",
+        "Ensure incident and agency demobilization procedures are followed."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 50,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in briefings and meetings as assigned.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 51,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct information staff briefings on a regular basis.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review and assess assignment; adapt based on field feedback and changing incident priorities."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 52,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief Incident Commander and Agency Administrator on media and public relations/concerns.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 53,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate interview questions and practice responses.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 54,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Give interviews that are concise, accurate, up to date, well planned, and consistent with current information and messages.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 55,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrange and schedule phone and/or in-person interviews for the media with incident personnel and provide interviewees with key messages.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 56,
+      "category": "Administer and/or apply agency policy, contracts, and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate knowledge of applicable laws, policies, and procedures.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 57,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor and document media coverage of incident.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Internet/web logs."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 58,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Adjust outreach tactics based on emerging issues.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 59,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in PACE (Primary, Alternate, Contingency and Emergency) plan modeling, and/or other models for strategic planning as a fully functioning part of the Command staff.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify and provide potential outcomes for planning alternatives.",
+        "Provide continual feedback on impacts to public through evaluation/metrics."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 60,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate and coordinate strategies to address large- scale or long-term issues and concerns, assessing social, political, economic, and internal and external cultural factors with appropriate legislative affairs and agency/organizational representatives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "PIOC",
+      "task_number": 61,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and assess changing communications plans that reflect immediate and long-term goals.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive Incident Commander’s approval.",
+        "Incorporate outreach to internal audiences.",
+        "Coordinate with jurisdictional agency(s) to address specific issues and incorporate key messages."
+      ],
+      "page": 14
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 5
+    }
+  ],
+  "extra_fields": {}
+}

@@ -1,0 +1,32 @@
+{
+  "position_code": "LOFR",
+  "required_training": [
+    "ICS-100, Introduction to the Incident Command System",
+    "ICS-200, ICS for Single Resources and Initial Action Incidents",
+    "ICS-300, Intermediate ICS for Expanding Incidents",
+    "IS-700, National Incident Management System, An Introduction",
+    "IS-800, National Response Framework, An Introduction"
+  ],
+  "required_experience": [
+    "Completion and Certification of NWCG Liaison Officer (LOFR) Position Task Book , PMS 311-05"
+  ],
+  "required_experience_prereq_codes": [],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Agency Representative ( AREP )",
+    "Incident Commander Complex ( ICCI )"
+  ],
+  "maintains_currency_for": [
+    "Agency Representative ( AREP )"
+  ],
+  "other_training": [
+    "E/L 956, All-Hazards Position Specific Liaison Officer",
+    "ICS-400, Advanced ICS for Command and General Staff",
+    "L-480, Organizational Leadership in the Wildland Fire Service",
+    "L-481, Advanced Leadership for Command and General Staff",
+    "S-290, Intermediate Wildland Fire Behavior",
+    "S-420, Command and General Staff",
+    "S-520, Advanced Incident Management"
+  ],
+  "note": null
+}

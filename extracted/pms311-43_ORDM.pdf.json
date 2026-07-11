@@ -1,0 +1,410 @@
+{
+  "document": {
+    "filename": "pms311-43_ORDM.pdf",
+    "sha256": "0150ffc7163ee02669b291562e09e379971f7e39e1d618c1df4e60658c0f1309",
+    "pms_number": "311-43",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "ORDM"
+    ],
+    "title": "Ordering Manager",
+    "edition_date": "JUNE 2009",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 13
+  },
+  "positions": [
+    {
+      "code": "ORDM",
+      "title": "Ordering Manager",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "ORDM",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit. Suggested items:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "J-252, Ordering Manager Job Aid",
+        "PMS 410-1, Fireline Handbook",
+        "ICS 213, General Message",
+        "ICS 214, Unit Log",
+        "ICS 260, Resource Order",
+        "Supply catalogs"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Incident order number",
+        "Request number",
+        "Incident phone number",
+        "Reporting time",
+        "Reporting location",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 3,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive at incident and check in.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Arrive properly equipped at assigned location within acceptable time limits."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Supply Unit Leader to obtain needed supplies and materials.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 5,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from Supply Unit Leader or immediate supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Unit location",
+        "Copies of resource orders",
+        "Work schedule",
+        "Policies and operating procedures",
+        "Type of incident and expected duration",
+        "Personnel ordered for your function",
+        "Phone, radio, contact procedures",
+        "Current and expected resource commitments",
+        "Current incident status",
+        "Weather, current and expected",
+        "Safety concerns",
+        "Copy of Incident Action Plan (IAP) or relevant plan"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 6,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct self in a professional manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Respectful and courteous.",
+        "Respectful of public and private property."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 7,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 8,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Maintain appropriate span of control.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 9,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief and keep counterparts informed and updated.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Dispatch",
+        "Supervisor",
+        "Buying team",
+        "Requestor"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 10,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 11,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Set up and maintain filing system to track resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "To be ordered (e.g., ICS 213, General Message; ICS 260, Resource Order)",
+        "Orders placed (e.g., ICS 213, General Message)",
+        "Orders confirmed",
+        "Orders filled",
+        "Orders cancelled",
+        "Released"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 12,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare and submit reports as required by the Supply Unit Leader or immediate supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 13,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Close out resource orders and records with appropriate units.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 14,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Inform Receiving and Distribution Manager and requestor of orders placed and pending delivery of supplies.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 15,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Receive written request for supplies and resources from incident personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Use ICS 213, General Message.",
+        "Include item, delivery location and contact.",
+        "Request direction from Supply Unit Leader prior to placing orders requested by unauthorized personnel."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 16,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and implement incident resource ordering system based on direction from Supply Unit Leader.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident personnel with ordering authority.",
+        "Personnel responsible for assigning request numbers.",
+        "Consolidation of identical supply requests.",
+        "Agency specific system for documenting requests to place and complete orders.",
+        "Method for resource order tracking.",
+        "Method to close out and demobilize incident resources."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 17,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Process resource orders and track status (e.g., delivery times, method of delivery, location).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Use appropriate procedures.",
+        "Observe established ordering times.",
+        "Provide feedback to requestor as it becomes available.",
+        "Elevate issues to Supply Unit Leader."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 18,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Reconcile resource orders.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Equipment",
+        "Supplies",
+        "Crews",
+        "Overhead"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 19,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform subordinate staff and IC.",
+        "Document follow-up action needed and submit to supervisor."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 20,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demobilize supplies and equipment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Check and determine if unfilled orders are still needed.",
+        "Cancel items no longer needed."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "ORDM",
+      "task_number": 21,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demobilize and check out.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive demobilization instructions from incident supervisor.",
+        "If required, complete ICS 221, Demobilization Checkout and submit completed form to the appropriate person."
+      ],
+      "page": 11
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

@@ -1,0 +1,31 @@
+{
+  "position_code": "STPS",
+  "required_training": [
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Division/Group Supervisor ( DIVS )",
+    "AND Completion and Certification of NWCG Structure Protection Specialist (STPS) Position Task Book , PMS 311-68"
+  ],
+  "required_experience_prereq_codes": [
+    "DIVS"
+  ],
+  "physical_fitness": "Physical Fitness Level: Moderate",
+  "currency_maintained_by": [
+    "Division/Group Supervisor ( DIVS )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Operations Branch Director ( OPBD )",
+    "Operation Section Chief Complex ( OSCC )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )"
+  ],
+  "maintains_currency_for": [
+    "Division/Group Supervisor ( DIVS )",
+    "Firefighter Type 1 ( FFT1 )",
+    "Firefighter Type 2 ( FFT2 )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )",
+    "Strike Team Leader ( STCR , STEN , STEQ )",
+    "Task Force Leader ( TFLD )"
+  ],
+  "other_training": [],
+  "note": null
+}

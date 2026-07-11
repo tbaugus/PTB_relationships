@@ -1,0 +1,34 @@
+{
+  "position_code": "TIME",
+  "required_training": [
+    "ICS-200, ICS for Single Resources and Initial Action Incidents",
+    "ICS-300, Intermediate ICS for Expanding Incidents",
+    "IS-800, National Response Framework, An Introduction"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Personnel Time Recorder ( PTRC ) AND Completion and Certification of NWCG Position Task Book for Time Unit Leader (TIME) , PMS 311-126"
+  ],
+  "required_experience_prereq_codes": [
+    "PTRC"
+  ],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Equipment Time Recorder ( EQTR )",
+    "Finance/Administration Section Chief Complex ( FSCC )",
+    "Finance/Administration Section Chief Type 3 ( FSC3 )",
+    "Personnel Time Recorder ( PTRC )",
+    "Procurement Unit Leader ( PROC )"
+  ],
+  "maintains_currency_for": [
+    "Finance/Administration Section Chief Complex ( FSCC )",
+    "Finance/Administration Section Chief Type 3 ( FSC3 )",
+    "Personnel Time Recorder ( PTRC )",
+    "Procurement Unit Leader ( PROC )"
+  ],
+  "other_training": [
+    "E/L 975, All-Hazards Position Specific Finance/Admin. Unit Leader Course",
+    "L-380, Fireline Leadership",
+    "S-320, Introduction to Incident Management Teams"
+  ],
+  "note": "Once qualified as a TIME, the FSC3 qualification may be granted by the certifying official. Certification must be documented on a \u201cverification/certification\u201d page of the FSC3 PTB."
+}

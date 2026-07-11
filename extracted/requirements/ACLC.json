@@ -1,0 +1,32 @@
+{
+  "position_code": "ACLC",
+  "required_training": [
+    "S-620, Area Command"
+  ],
+  "required_experience": [
+    "Satisfactory performance as an Incident Commander Complex ( ICCI ), or Operations Section Chief Complex ( OSCC ), or Planning Section Chief Complex ( PSCC ), or Logistics Section Chief Complex ( LSCC ), or Finance/Administration Section Chief Complex ( FSCC )",
+    "AND Completion and Certification of NWCG Assistant Area Commander, Logistics (ACLC) Position Task Book , PMS 311-89"
+  ],
+  "required_experience_prereq_codes": [
+    "FSCC",
+    "ICCI",
+    "LSCC",
+    "OSCC",
+    "PSCC"
+  ],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Area Commander ( ACDR )",
+    "Incident Commander Complex ( ICCI )",
+    "Logistics Section Chief Complex ( LSCC )"
+  ],
+  "maintains_currency_for": [
+    "Area Commander ( ACDR )",
+    "Assistant Area Commander, Planning ( ACPC )",
+    "Incident Commander Complex ( ICCI )",
+    "Logistics Section Chief Complex ( LSCC )",
+    "Operations Section Chief Complex ( OSCC )"
+  ],
+  "other_training": [],
+  "note": null
+}

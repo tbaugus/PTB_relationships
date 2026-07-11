@@ -1,0 +1,590 @@
+{
+  "document": {
+    "filename": "pms311-63_PETL.pdf",
+    "sha256": "a7c80067ce98b4796a5885feff65ae36a1426444439eaabb51b34336b63030d4",
+    "pms_number": "311-63",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "PETL"
+    ],
+    "title": "Prevention Education Team Leader",
+    "edition_date": "JUNE 2009",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 15
+  },
+  "positions": [
+    {
+      "code": "PETL",
+      "title": "Prevention Education Team Leader",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "PETL",
+      "task_number": 1,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine staffing, facility, and transportation needs to meet objectives.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 2,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from Agency Administrator.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Obtain a Delegation of Authority.",
+        "Develop list of goals and objectives with agency representative.",
+        "Develop a letter of introduction, business cards and identification card.",
+        "Obtain local information, communication frequencies, maps, phone lists and contacts."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 3,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather information to assess assignment and determine immediate needs and actions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Key contacts",
+        "Rules and responsibilities for the Fire Prevention Education Team"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 4,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct self in a professional manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Respectful and courteous",
+        "Respectful of public and private property"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 5,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 6,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and maintain a close working relationship with various agency information staff and/or area wide public affairs specialists.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 7,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Maintain appropriate span of control.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 8,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 9,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well- being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 10,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 11,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate and communicate potentially hazardous situations.",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources.",
+        "Provide for care of assigned personnel and notify supervisor in event of sickness, injury, or accident."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 12,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete daily review of staffing requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 13,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop schedule/assignments based on Incident Action Plan (IAP) or relevant plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 14,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure subordinates understand assignment for operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide clear, concise instructions and allow for feedback.",
+        "Review conduct standards with team."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 15,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually evaluate performance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Communicate deficiencies immediately and take corrective action.",
+        "Provide training opportunities where available.",
+        "Complete personnel performance evaluations according to agency guidelines."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 16,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish crew cohesiveness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 17,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate procurement practices with the requesting agency.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 18,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate team activities with local, state, federal, and Tribal staff level managers as needed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 19,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend or conduct meetings, briefings and critiques.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Maintain daily contact with team members.",
+        "Update the local unit on a regular basis of the situation and progress of the team."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 20,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct exit interview/report to document work and/or transition with Fire Prevention Education Teams for incidents.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "List accomplishments of the assignment.",
+        "Document suggestions for improvement, barriers and solutions.",
+        "Recognize special individuals or groups for their help or activities.",
+        "Provide an updated list of key contacts to be used by incoming Fire Prevention Education Team or specialists.",
+        "Document unfinished projects or projects requiring follow-up.",
+        "Make recommendations for future fire prevention or education needs.",
+        "Prepare and present the final report."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 21,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Keep accurate records of expenditures and prepare requests for additional funding as needed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 22,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain records and documentation of activities and accomplishments.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 23,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and distribute wildfire prevention information and education materials needed to meet objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide release of fire prevention messages to the public.",
+        "Monitor local attitudes, political concerns, and activity and adjust programs to ensure effectiveness in meeting prevention objectives.",
+        "Deliver fire prevention programs before large groups and television audiences in an effective manner.",
+        "Follow standards and procedures for printing of materials."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 24,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop an assignment safety plan/briefing.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 25,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop required plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Develop communication plan and focused material to meet objectives.",
+        "Assess information needs to meet objectives (e.g., fire weather conditions, trends, human-caused ignitions).",
+        "Assess applicability of education and prevention efforts used in other areas or places for implementation at the area level.",
+        "Review cooperative agreements as needed and ensure all agencies are included in prevention and education efforts."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 26,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Initiate assessment process.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Evaluate problems.",
+        "Recommend organization needs.",
+        "Set objectives.",
+        "Address fiscal needs."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 27,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate fuels and hazards and make recommendations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Fire safe standards",
+        "Wildland/Urban Interface",
+        "Human caused",
+        "Historic and current fire activity"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 28,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and evaluate investigation reports to determine fire cause and/or law enforcement actions on wildfires occurring in area of responsibility, as needed to meet objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 29,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure safety procedures are followed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Driving",
+        "Personal protective equipment (PPE)"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 30,
+      "category": "Ensure operations consider socio-economic, political and cultural aspects.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Address socio-economic, political, cultural, and interdepartmental concerns in operational activities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 31,
+      "category": "Develop appropriate information releases and conduct media interviews",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and approve information releases and participate in media interviews to meet objectives.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Present a positive, professional image.",
+        "Inform public on fire prevention or education activities.",
+        "Follow established information protocol for information releases.",
+        "Ensure releases are timely and accurate.",
+        "Establish external communication protocols with the affected public."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 32,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify excess resources.",
+        "Prepare schedule for demobilization."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "PETL",
+      "task_number": 33,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief subordinate staff on demobilization procedures and responsibilities.",
+        "Ensure incident and agency demobilization procedures are followed."
+      ],
+      "page": 13
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

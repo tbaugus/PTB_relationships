@@ -1,0 +1,892 @@
+{
+  "document": {
+    "filename": "pms311-70_RXMG.pdf",
+    "sha256": "712566c9c3f534bac191bd86b0d035c1d57656c73bf292fdd6b3f49ccbfe8aae",
+    "pms_number": "311-70",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "RXMG"
+    ],
+    "title": "Prescribed Fire Manager",
+    "edition_date": "OCTOBER 2020",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 17
+  },
+  "positions": [
+    {
+      "code": "RXMG",
+      "title": "Prescribed Fire Manager",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "RXMG",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review agency and interagency procedures, policies and regulations for prescribed fire as related to position.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review agency and personal liability issues.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 3,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assess situation to determine resource needs.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [
+        "Order additional resources through established channel."
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Verify qualifications of assigned personnel.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 5,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from local fire management organization.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [
+        "Regional and local implementation policies",
+        "Agency and personal liability issues",
+        "Smoke management issues",
+        "Social/political issues"
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure prescribed fire plan(s) addresses requirements and objectives prior to implementation.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [
+        "Review other specific agency guidelines, requirements and/or supporting documents."
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 7,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 8,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish the organizational role of the Prescribed Fire Manager in relation to assigned personnel, local fire management organization and Agency Administrator.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Organization structure",
+        "Reporting procedures"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 9,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 10,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well- being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 11,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 12,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate and communicate potentially hazardous situations during tactical operations.",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources.",
+        "Take actions to prevent personnel fatigue (e.g., rotating duties, adjusting rest periods)."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 13,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Direct specific resources to complete operational assignments according to agency specific policies and standards to meet the prescribed fire plan(s) objectives.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [
+        "Supervise and coordinate the Prescribed Burn Bosses on multiple prescribed fires."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 14,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure subordinates understand assignment for operational period.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [
+        "Provide clear, concise instructions and allow for feedback."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 15,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually evaluate performance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Communicate deficiencies immediately and take corrective action.",
+        "Provide training opportunities where available.",
+        "Complete personnel performance evaluations according to agency guidelines."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 16,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication.",
+        "Seek commitment.",
+        "Set expectations for accountability.",
+        "Focus on the team result."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 17,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate burn organization(s) with other relevant agencies/personnel.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [
+        "Other offices",
+        "Air quality authorities",
+        "News media",
+        "Transportation agencies",
+        "Safety officials",
+        "Interested public"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 18,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate intent to burn with resource specialist(s).",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 19,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with interdisciplinary managers during planning phases.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [
+        "Cultural",
+        "Silvicultural",
+        "Range",
+        "Biological"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 20,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Consider rehabilitation needs/efforts with Burn Boss(es), resource specialist(s), and Agency Administrator(s).",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 21,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief Burn Boss(es) on operational procedures, objectives and hazards.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 22,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain status debriefings from command personnel.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 23,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 24,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure required documentation is completed, maintained and properly filed.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Crew time reports",
+        "Safety inspections",
+        "Injury forms",
+        "Shift records",
+        "ICS 214, Unit Log",
+        "Cost summaries"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 25,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete required documentation for the prescribed fire plan.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Submit comparison of results to original fire objectives as part of prescribed fire report.",
+        "Ensure completion of post-burn narrative reports."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 26,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Notify appropriate people of the intent to burn.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [
+        "Dispatch",
+        "Fire staff",
+        "Cooperators",
+        "Land owners"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 27,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide information related to prescribed burning to meet other agencies, cooperators and public education needs.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [
+        "Agency/prescribed fire plan objectives",
+        "Accomplishments",
+        "Planned actions"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 28,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain communication with Burn Boss(es), assigned supervisor and adjoining entities during prescribed fire operations.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [
+        "Advise Burn Boss(es) of potential or impending safety concerns (e.g., changing weather)."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 29,
+      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain contact with National Weather Service, state air quality regulators, agency administrator(s).",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 30,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure rehabilitation actions are accomplished in accordance with prescribed fire plans.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 31,
+      "category": "Administer and/or apply agency policy, contracts and agreements.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure applicable agreements/contracts are administered.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [
+        "Execute necessary agreements with affected entities (e.g., local residents, land users, other government agencies, conservation groups, advisory boards).",
+        "Properly schedule notifications per agreements in prescribed fire plan(s).",
+        "Monitor feedback from public/agencies notified; make adjustments if necessary."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 32,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review prescribed fire plan(s) prior to implementation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 33,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and interpret long term weather information.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Local and regional weather information offices.",
+        "Appropriate weather data bases (e.g., National Fire Danger Rating System, National Weather Library)."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 34,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify air quality constraints relative to use of fire.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 35,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor implementation costs and make the appropriate notifications.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Determine cost limits set by agency guidelines.",
+        "Follow procedures for interagency funding, if applicable."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 36,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Collect, analyze, and summarize immediate post-burn fire effects and fire behavior evaluation data as specified in prescribed fire plan.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [
+        "Evaluate accomplishment of fire objectives, operational procedures, and assigned personnel as related to fire and resource management planning.",
+        "Compare results to original fire objectives.",
+        "Recommend changes for incorporation in future prescribed fire plans."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 37,
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure completion of documented (formal and informal) hazard analysis in multiple resource type situations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident safety analysis",
+        "Special circumstances"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 38,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure “Go/No-Go” decision(s) have been made using collected data.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 39,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prioritize operations and resource allocations (e.g., initiation of additional fires, rehabilitation).",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 40,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Support control actions on a prescribed fire converted to wildfire.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Identify needs for and coordinate requests for additional resources needed."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 41,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure the Risk Management Process is maintained.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 42,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Set priorities for allocation of resources.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [
+        "Consider air quality and resource constraints."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 43,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist in defining the appropriate monitoring level relevant to the resource management objectives.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [
+        "Assist in selection of appropriate monitoring techniques.",
+        "Determine whether desired fire effects are achieved.",
+        "Make necessary changes."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 44,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage multiple operations.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [
+        "Ensure timely fire behavior and smoke management predictions.",
+        "Ensure on-site prescription variables are measured."
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 45,
+      "category": "Modify approach based on evaluation of incident situation.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate the termination of burn(s) if smoke, resource, and/or fire management objectives are not being met.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 46,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Implement agency policies and guidelines regarding multiple prescribed burns.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 47,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct operations in a safe manner according to the safety guidelines, prescribed fire plan, and agency-specific policies and standards.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 48,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Convert prescribed fire(s) to wildland fire(s) per agency policy.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 49,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate the declaration of prescribed fires out per agency policy.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 14
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 50,
+      "category": "Ensure operations consider socio-economic, political and cultural aspects.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify the impacts of multiple prescribed fires.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [
+        "Natural resources",
+        "Local economy",
+        "Social demographics",
+        "Local government"
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 51,
+      "category": "Ensure operations consider socio-economic, political and cultural aspects.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate and evaluate impacts of prescribed fire/smoke on the public.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [
+        "Coordinate with air quality authorities.",
+        "Follow correct air quality compliance guidelines.",
+        "Direct use of appropriate smoke emissions prediction and smoke modeling software.",
+        "Interface with the media, as appropriate."
+      ],
+      "page": 15
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 52,
+      "category": "Ensure operations consider socio-economic, political and cultural aspects.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure implementation operations do not compromise wilderness, natural, cultural resource values and capital improvements.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 15
+    },
+    {
+      "position_code": "RXMG",
+      "task_number": 53,
+      "category": "Develop appropriate information releases and conduct media interviews",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure pre-burn coordination and communication with the public and other agencies according to the prescribed fire plan(s).",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 15
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 5
+    }
+  ],
+  "extra_fields": {}
+}

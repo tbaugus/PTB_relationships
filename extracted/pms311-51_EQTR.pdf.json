@@ -1,0 +1,211 @@
+{
+  "document": {
+    "filename": "pms311-51_EQTR.pdf",
+    "sha256": "d2c0c319cff13c32b61b2f6cb4d96de59137b1f065c783558575f2e52cae6ade",
+    "pms_number": "311-51",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "EQTR"
+    ],
+    "title": "Equipment Time Recorder",
+    "edition_date": "SEPTEMBER 2024",
+    "ips_reference": "350-51",
+    "official": true,
+    "page_count": 10
+  },
+  "positions": [
+    {
+      "code": "EQTR",
+      "title": "Equipment Time Recorder",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "EQTR",
+      "task_number": 1,
+      "category": "Leadership Level 1, Follower (Provide Action)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communications skills.",
+      "code_raw": "ALL",
+      "code_alternatives": [
+        "ALL"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "EQTR",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure individual readiness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "EQTR",
+      "task_number": 3,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Adhere to guidelines in the NWCG Standards for Interagency Incident Business Management, PMS 902 while on assignment as a single resource.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "EQTR",
+      "task_number": 4,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Report to the Finance/Administration Section Chief (FSC).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "EQTR",
+      "task_number": 5,
+      "category": "Perform Equipment Time Recorder-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Familiarize yourself with the use and management of both digital and paper records.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EQTR",
+      "task_number": 6,
+      "category": "Perform Equipment Time Recorder-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and validate agreement/contract and input equipment contract rates (e.g., Cooperative Agreement [COOP], Virtual Incident Procurement [VIPR], Emergency Equipment Rental Agreement [EERA]).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EQTR",
+      "task_number": 7,
+      "category": "Perform Equipment Time Recorder-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure contractors and cooperators are managed properly in ac cordance with the terms and conditions of the agreement/contract.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EQTR",
+      "task_number": 8,
+      "category": "Perform Equipment Time Recorder-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and post time in the incident time system (e.g., e-ISuite).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EQTR",
+      "task_number": 9,
+      "category": "Perform Equipment Time Recorder-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Close out resources prior to resource demobilization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EQTR",
+      "task_number": 10,
+      "category": "Perform Equipment Time Recorder-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide a transition plan for the incoming team or jurisdictional agency as needed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EQTR",
+      "task_number": 11,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate and coordinate with assigned resources and pertinent Incident Management Team (IMT) functional areas.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "EQTR",
+      "task_number": 12,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure compliance with all safety practices and procedures for yourself and those around you.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 7
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 7
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    }
+  ],
+  "extra_fields": {}
+}

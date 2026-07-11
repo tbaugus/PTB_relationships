@@ -1,0 +1,21 @@
+# Regenerable / bulky — never commit
+__pycache__/
+.pytest_cache/
+
+# Corpus PDFs/HTML (95 MB): re-download with `py src/ptb/acquire.py` and
+# `py src/ptb/acquire_requirements.py`; corpus/manifest.json (committed)
+# records url + sha256 for every file.
+corpus/raw/
+
+# The database is rebuilt from extracted/ with `py src/ptb/db.py`.
+data/ptb.sqlite
+
+# Transient worklist produced when new candidate pairs need adjudication.
+data/pending_adjudication.json
+
+# COMMITTED on purpose (do not add here):
+#   extracted/            - validated extraction JSONs (audit trail)
+#   data/tier2_candidates.json - lets adjudicate.py run without the ML model
+#   data/adjudications.json    - Claude's rubric verdicts (precious)
+#   data/confirmations.json    - your human review decisions (precious)
+#   reports/              - generated but useful to browse on GitHub

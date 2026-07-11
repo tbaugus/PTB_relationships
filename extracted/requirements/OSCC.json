@@ -1,0 +1,46 @@
+{
+  "position_code": "OSCC",
+  "required_training": [
+    "ICS-400, Advanced ICS for Command and General Staff",
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-420, Command and General Staff OR L-481, Advanced Leadership for Command and General Staff OR O-305, Type 3 All-Hazard Incident Management Team",
+    "S-520, Advanced Incident Management OR Complex Incident Management Course (CIMC)"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Division/Group Supervisor ( DIVS )",
+    "AND Completion and Certification of NWCG Task Book for Operations Section Chief Complex (OSCC) , PMS 311-108"
+  ],
+  "required_experience_prereq_codes": [
+    "DIVS"
+  ],
+  "physical_fitness": "Physical Fitness Level: Moderate",
+  "currency_maintained_by": [
+    "Area Commander ( ACDR )",
+    "Assistant Area Commander, Logistics ( ACLC )",
+    "Assistant Area Commander, Planning ( ACPC )",
+    "Division/Group Supervisor ( DIVS )",
+    "Incident Commander Complex ( ICCI )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Operation Branch Director ( OPBD )",
+    "Operation Section Chief 3, Wildland Fire ( OPS3 )"
+  ],
+  "maintains_currency_for": [
+    "Assistant Area Commander, Planning ( ACPC )",
+    "Division/Group Supervisor ( DIVS )",
+    "Incident Commander Complex ( ICCI )",
+    "Incident Commander Type 3 ( ICT3 )",
+    "Incident Commander Type 4 ( ICT4 )",
+    "Operations Brand Director ( OPBD )",
+    "Operations Section Chief Type 3, Wildland Fire ( OPS3 )",
+    "Safety Officer Complex ( SOFC )",
+    "Strike Team Leader ( STCR , STEN , STEQ )",
+    "Structure Protection Specialist ( STPS )",
+    "Task Force Leader ( TFLD )"
+  ],
+  "other_training": [
+    "L-480, Organizational Leadership in the Fire Service",
+    "L-580, Leadership is Action",
+    "S-430, Operations Section Chief"
+  ],
+  "note": null
+}

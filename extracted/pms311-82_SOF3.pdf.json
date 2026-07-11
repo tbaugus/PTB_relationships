@@ -1,0 +1,756 @@
+{
+  "document": {
+    "filename": "pms311-82_SOF3.pdf",
+    "sha256": "e25057157dc6588f116bd2ab6ee56e0f0fcb4f4a78a270ece236824977538528",
+    "pms_number": "311-82",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "SOF3"
+    ],
+    "title": "Safety Officer Type 3",
+    "edition_date": "JANUARY 2025",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 15
+  },
+  "positions": [
+    {
+      "code": "SOF3",
+      "title": "Safety Officer Type 3",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "SOF3",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit. Suggested items:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Agency health and safety code handbook",
+        "100-ft measuring tape",
+        "Graph paper",
+        "Camera and film, if necessary",
+        "Handheld tape recorder and extra batteries",
+        "Clinometer or Abney level",
+        "Thermometer and wind gauge/belt weather kit",
+        "Safety checklists",
+        "ICS 213, General Message",
+        "ICS 214, Unit Log",
+        "ICS 215A, Incident Safety Analysis",
+        "Binoculars",
+        "Injury and accident forms"
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Incident order number",
+        "Request number",
+        "Incident phone number",
+        "Reporting time",
+        "Reporting location",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)",
+        "Name and location of Incident Commander or Safety Officer",
+        "Weather, terrain and living conditions (pack appropriately)"
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 3,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive at incident and check in.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Arrive properly equipped at assigned location within acceptable time limits."
+      ],
+      "page": 5
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify the need for and assist in ordering safety officers.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 5,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recognize functional capabilities of cooperating entities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather information necessary to assess incident assignment and determine immediate needs and actions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Current and anticipated situation (e.g., hazardous materials, Wildland/Urban Interface).",
+        "Specific safety concerns."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 7,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 8,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Maintain appropriate span of control.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 9,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised, and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 10,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well-being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 11,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 12,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate, and communicate potentially hazardous situations.",
+        "Monitor condition of assigned resources.",
+        "Account for assigned resources."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 13,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure subordinates understand assignment for operational period.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Provide clear, concise instructions and allow for feedback."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 14,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually evaluate performance.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Communicate deficiencies immediately and take corrective action.",
+        "Provide training opportunities where available.",
+        "Complete personnel performance evaluations according to agency guidelines."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 15,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Interact and coordinate with command and general staff.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive and transmit current and accurate information."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 16,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare and present safety briefings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Each operational period.",
+        "Information to alert incident personnel of potential risk/hazard considered to be most critical."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 17,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 18,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete and submit ICS 214, Unit Log.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Document Incidents of a serious nature."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 19,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Document identified deficiencies.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Food and potable water supplies",
+        "Vehicle/mechanical equipment",
+        "Driver/operator qualifications",
+        "Air operations hazards/unsafe conditions"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 20,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete and submit safety documentation package.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 21,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Post safety information on incident bulletin board if appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 22,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare narrative or special reports as needed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Number of injuries and accidents.",
+        "General safety situation and problems encountered.",
+        "Description of significant incidents or unsafe situations.",
+        "Recommendations for corrective action.",
+        "Report unsafe situations using SAFENET."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 23,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Implement a risk analysis.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure hazards and risks are identified and adequately monitored.",
+        "Share with the Incident Commander and incident staff."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 24,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review and provide input to the medical plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Monitor plan to ensure it addresses current status of incident."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 25,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct periodic inspections of base and camp facilities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Food and sanitation conditions",
+        "Potable water sources, hauling and storage containers",
+        "Ground support",
+        "Helibase"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 26,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and document unsafe conditions and provide this information.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 27,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor vehicle inspections, driver/operator qualifications and equipment records.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 28,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor incident roads to provide for safe use by vehicles.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Monitor adequate width, grade, and maintenance condition.",
+        "Assess dust/visibility.",
+        "Ensure ingress/egress.",
+        "Close/restrict road access as necessary."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 29,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review aircraft operations, if appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 30,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor general welfare of incident personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Food and water",
+        "Fatigue",
+        "Work/rest guidelines",
+        "Safe work practices",
+        "Use of personal protective equipment",
+        "Illnesses and injuries"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 31,
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide input into ICS 215A, Incident Safety Analysis for each operations period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify risks/hazards with the highest potential for serious accident or injury."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 32,
+      "category": "Utilize information to produce outputs.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assist in preparation of safety messages for each operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 33,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process found in the Incident Response Pocket Guide (IRPG), PMS 461 and Fireline Handbook.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Step 1: Situation Awareness",
+        "Step 2: Hazard Assessment",
+        "Step 3: Hazard Control",
+        "Step 4: Decision Point",
+        "Step 5: Evaluate"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 34,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exercise emergency authority to stop and correct unsafe acts.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Use direct intervention to correct any extremely dangerous act which is being performed outside of agency regulations, policies, standards, and guidelines.",
+        "Contact the responsible supervisor for corrective action on other unsafe situations.",
+        "Discuss with team Safety Officer."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 35,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Investigate accidents and prepare investigation reports.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Notify Incident Commander.",
+        "Assess and determine level of investigation.",
+        "Initiate immediate corrective action, if necessary.",
+        "Ensure copies are complete and follow-up actions are documented.",
+        "Ensure reports are complete and include required information."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 36,
+      "category": "Anticipate, recognize, and mitigate unsafe situations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure any significant change in weather is communicated to incident personnel.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [
+        "Red Flag Watches/Warnings",
+        "Cold frontal passages",
+        "Fire Weather Watches"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 37,
+      "category": "Anticipate, recognize, and mitigate unsafe situations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Reinforce and monitor mitigations identified in ICS 215A, Incident Safety Analysis.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 38,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor air operations activities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review compliance with standards and procedures."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 39,
+      "category": "Ensure functionality of equipment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Inspect hand tools and power equipment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review periodically."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 40,
+      "category": "Ensure functionality of equipment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate equipment capabilities for appropriate use.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 41,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform subordinate staff and IC.",
+        "Document follow-up action needed and submit to supervisor."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "SOF3",
+      "task_number": 42,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demobilize and check out.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Receive demobilization instructions from incident supervisor.",
+        "If required, complete ICS 221, Demobilization Checkout and submit completed form to the appropriate person."
+      ],
+      "page": 13
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 5
+    }
+  ],
+  "extra_fields": {}
+}

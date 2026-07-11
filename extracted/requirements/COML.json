@@ -1,0 +1,31 @@
+{
+  "position_code": "COML",
+  "required_training": [
+    "ICS-300, Intermediate ICS for Expanding Incidents",
+    "IS-800, National Response Framework, An Introduction"
+  ],
+  "required_experience": [
+    "Satisfactory performance as an Incident Communications Technician ( COMT )",
+    "AND Satisfactory performance as an Incident Communications Center Manager ( INCM )",
+    "AND Completion and Certification of NWCG Communications Unit Leader (COML) Position Task Book , PMS 311-34"
+  ],
+  "required_experience_prereq_codes": [
+    "COMT",
+    "INCM"
+  ],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Incident Communications Center Manager ( INCM )",
+    "Incident Communications Technician ( COMT )"
+  ],
+  "maintains_currency_for": [
+    "Incident Communications Center Manager ( INCM )",
+    "Incident Communications Technician ( COMT )",
+    "Radio Operator ( RADO )"
+  ],
+  "other_training": [
+    "L-380, Fireline Leadership",
+    "S-358, Communications Unit Leader"
+  ],
+  "note": null
+}

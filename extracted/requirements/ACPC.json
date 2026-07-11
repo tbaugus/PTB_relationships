@@ -1,0 +1,33 @@
+{
+  "position_code": "ACPC",
+  "required_training": [
+    "S-620, Area Command"
+  ],
+  "required_experience": [
+    "Satisfactory performance as an Incident Commander Complex ( ICCI ), or Operations Section Chief Complex ( OSCC ), or Planning Section Chief Complex ( PSCC ), or Logistics Section Chief Complex ( LSCC ), or Finance/Administration Section Chief Complex ( FSCC )",
+    "AND Completion and Certification of Assistant Area Commander, Planning (ACPC) Position Task Book , PMS 311-88"
+  ],
+  "required_experience_prereq_codes": [
+    "FSCC",
+    "ICCI",
+    "LSCC",
+    "OSCC",
+    "PSCC"
+  ],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Area Commander ( ACDR )",
+    "Assistant Area Commander, Logistics ( ACLC )",
+    "Incident Commander Complex ( ICCI )",
+    "Operation Section Chief Complex ( OSCC )",
+    "Planning Section Chief Complex ( PSCC )"
+  ],
+  "maintains_currency_for": [
+    "Area Commander ( ACDR )",
+    "Incident Commander Complex ( ICCI )",
+    "Operation Section Chief Complex ( OSCC )",
+    "Planning Section Chief Complex ( PSCC )"
+  ],
+  "other_training": [],
+  "note": null
+}

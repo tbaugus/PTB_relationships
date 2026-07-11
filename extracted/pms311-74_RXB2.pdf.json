@@ -1,0 +1,506 @@
+{
+  "document": {
+    "filename": "pms311-74_RXB2.pdf",
+    "sha256": "1cd0a81bde0c301eb2da9a7cffd986662c964db2ee1a322c81c768c7739db83c",
+    "pms_number": "311-74",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "RXB2"
+    ],
+    "title": "Prescribed Fire Burn Boss Type 2",
+    "edition_date": "MAY 2024",
+    "ips_reference": "350-74",
+    "official": true,
+    "page_count": 12
+  },
+  "positions": [
+    {
+      "code": "RXB2",
+      "title": "Prescribed Fire Burn Boss Type 2",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "RXB2",
+      "task_number": 1,
+      "category": "Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Leaders of people have increasing challenges. They accept responsibility, not only for their own actions, but for those of their team. Leaders of people act to develop credibility as leaders: placing the team ahead of themselves, demonstrating trustworthiness, mastering essential technical skills, and instilling the values of the organization in their teams.",
+      "code_raw": "ALL",
+      "code_alternatives": [
+        "ALL"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 2,
+      "category": "Perform Prescribed Fire Planning",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure necessary agreements are in place.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 3,
+      "category": "Perform Prescribed Fire Planning",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Define and map the project location and boundary and describe the on-site and adjacent conditions.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 4,
+      "category": "Perform Prescribed Fire Planning",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure the complexity analysis is complete and signed.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 5,
+      "category": "Perform Prescribed Fire Planning",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop resource and prescribed fire objectives. Confirm with the appropriate resource management specialists that the plan meets land/resource management and operational objectives.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 6,
+      "category": "Prescribed Fire Planning Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and address the smoke management policies and protocols and smoke receptors in the planning area.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 7,
+      "category": "Prescribed Fire Planning Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop a prescription or verify that the prescription will meet prescribed fire and resource objectives.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 8,
+      "category": "Prescribed Fire Planning Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish environmental, fire behavior, and fire effects monitoring plans in conjunction with existing agency requirements.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 9,
+      "category": "Prescribed Fire Planning Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop primary, alternate, contingency, and emergency plans, or verify that the existing plans are adequate.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 10,
+      "category": "Prescribed Fire Planning Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Consult with a technical reviewer to ensure all Prescribed Fire Plan elements are addressed.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 11,
+      "category": "Prescribed Fire Planning Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform a technical review of a low or moderate complexity Prescribed Fire Plan.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 12,
+      "category": "Prescribed Fire Planning Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Make any necessary amendments to the Prescribed Fire Plan.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 13,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review the Prescribed Fire Plan prior to implementation, ensure the plan is signed, and all required elements are addressed and have a good understanding of the complexity determination.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 14,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather information pertinent to the assignment.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 15,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assemble and validate the readiness, availability, and qualifications of required and contingency Prescribed Fire Plan personnel and equipment.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 16,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish, maintain, and document communication with the Agency Administrator (AA), dispatch, prescribed fire manager, Fire Management Officer (FMO), or local fire management organization.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 17,
+      "category": "Implement a Prescribed Fire",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure a signed Agency Administrator (AA) Ignition Authorization is in the Prescribed Fire Plan.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 18,
+      "category": "Implement a Prescribed Fire",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain a spot weather forecast, smoke management forecasts, and/or local area forecast on any days the fire is actively spreading. Use the forecasts to determine holding, mop up, or patrol staffing needs.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 19,
+      "category": "Implement a Prescribed Fire",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure pre-burn considerations are addressed and pre-burn monitoring is complete.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 20,
+      "category": "Implement a Prescribed Fire",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure fuels and weather conditions are conducive to achieving prescribed fire objectives as outlined in the plan.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 21,
+      "category": "Implement a Prescribed Fire",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Allocate resources to meet objectives and control limitations.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 22,
+      "category": "Implement a Prescribed Fire",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Scout the area to reassess critical holding points and values.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 23,
+      "category": "Implement a Prescribed Fire",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct organizational briefing at the beginning of each operational period.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 24,
+      "category": "Implement a Prescribed Fire",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete and sign the Prescribed Fire Go/No-Go Checklist in the Prescribed Fire Plan.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 25,
+      "category": "Implement a Prescribed Fire",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct the test fire and document the results.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 26,
+      "category": "Implement a Prescribed Fire",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate and document fire behavior and effects.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 27,
+      "category": "Implement a Prescribed Fire",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Adjust actions based on changing information and evolving situational awareness. Communicate changing conditions to assigned resources and supervisors.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 28,
+      "category": "Implement a Prescribed Fire",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure the completion of mop up and patrol unless assigned to other qualified personnel.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 29,
+      "category": "Implement a Prescribed Fire",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine and document if the prescribed fire is outside prescription parameters or is not meeting Prescribed Fire Plan objectives.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 30,
+      "category": "Implement a Prescribed Fire",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Implement contingency plan as appropriate.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 31,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish, maintain, and document communication with adjacent landowners, cooperators, and permit holders as designated in the Prescribed Fire Plan.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 32,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate the monitoring of smoke impacts and adjust accordingly.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "RXB2",
+      "task_number": 33,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor for signs and symptoms of fatigue, illness, or injury. Mitigate appropriately.",
+      "code_raw": "RX",
+      "code_alternatives": [
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 8
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 9
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 9
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    }
+  ],
+  "extra_fields": {}
+}

@@ -1,0 +1,26 @@
+{
+  "position_code": "CREP",
+  "required_training": [
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Crew Boss, Single Resource ( CRWB )",
+    "AND Completion and Certification of NWCG Crew Representative (CREP) Position Task Book , PMS 311-12"
+  ],
+  "required_experience_prereq_codes": [
+    "CRWB"
+  ],
+  "physical_fitness": "Physical Fitness Level: Moderate",
+  "currency_maintained_by": [
+    "Crew Boss, Single Resource ( CRWB )",
+    "Division/Group Supervisor ( DIVS )",
+    "Interagency Resource Representative ( IARR )",
+    "Strike Team Leader Crew ( STCR )",
+    "Task Force Leader ( TFLD )"
+  ],
+  "maintains_currency_for": [
+    "Crew Boss, Single Resource ( CRWB )"
+  ],
+  "other_training": [],
+  "note": null
+}

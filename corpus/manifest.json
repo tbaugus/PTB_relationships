@@ -1,0 +1,3620 @@
+{
+  "generated": "2026-07-09",
+  "note": "Phase 0 fixture set. Full corpus acquisition happens in Phase 1 via src/ptb/acquire.py, which regenerates this manifest.",
+  "sources": {
+    "catalog_page": "https://www.nwcg.gov/training/nwcg-position-task-books-catalog",
+    "enhanced_gdoc": "https://docs.google.com/document/d/1rVGMJR67eftCjEcaoQuYDNBleoM7EOI9/edit"
+  },
+  "documents": [
+    {
+      "filename": "pms311-17_AOBD.pdf",
+      "position_codes": [
+        "AOBD"
+      ],
+      "title": "Air Operations Branch Director",
+      "pms_number": "311-17",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-17.pdf?VersionId=0wCGqirJy_VG236h7zIUUb6fE9UJPjV7",
+      "sha256": "abfdd4b308e763d7a01d40c4e625a00244711899ea2a3f85029ede19a25198e7",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-18_HLCO-ATGS.pdf",
+      "position_codes": [
+        "HLCO",
+        "ATGS"
+      ],
+      "title": "Helicopter Coordinator or Air Tactical Group Supervisor",
+      "pms_number": "311-18",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-18.pdf?VersionId=EaCqoI4PcJzicHVzmJ9v3NjknpjN9tSE",
+      "sha256": "8ff5353e5cee208cbc612bd6374a9bf4fa23e7006eaf04fb759b81ee0c59169e",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-19_ASGS.pdf",
+      "position_codes": [
+        "ASGS"
+      ],
+      "title": "Air Support Group Supervisor",
+      "pms_number": "311-19",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-19.pdf?VersionId=wMgdc98LehE6KVyk6Bwgn0e_kxm3csSN",
+      "sha256": "0e685b38afb7d04a84d647c5c0597ecd34577ca83f6c8b3f33709cc9c0dfa264",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-20_HEBM.pdf",
+      "position_codes": [
+        "HEBM"
+      ],
+      "title": "Helibase Manager",
+      "pms_number": "311-20",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-20.pdf?VersionId=BLIoA95Eklps_9jf.IdNaOPTjWoDTVJH",
+      "sha256": "942fda11dbb09e52138ba059daa518db569127cf5b5582ba441ae3e02c539032",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-22_HECM.pdf",
+      "position_codes": [
+        "HECM"
+      ],
+      "title": "Helicopter Crew Member",
+      "pms_number": "311-22",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-22.pdf?VersionId=ufOlJKEcuQ6Fp2IJ4jEy6JQNifuo1QWy",
+      "sha256": "f92e02c4a977318768dcb1a0740b676388422b64084e96a5499d9d77fd22053b",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-61_SEMG.pdf",
+      "position_codes": [
+        "SEMG"
+      ],
+      "title": "Single Engine Airtanker Manager",
+      "pms_number": "311-61",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-61.pdf?VersionId=49KF9U0K73i8XoVrXHa42.uOoLCzE45F",
+      "sha256": "ab2c4b57803644ebf318938ecc090f5f74b3e038f619e28005ba19365e717ce6",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-83_ACAC.pdf",
+      "position_codes": [
+        "ACAC"
+      ],
+      "title": "Area Command Aviation Coordinator",
+      "pms_number": "311-83",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-83.pdf?VersionId=hPlEkmW5BjEIvnwTWZ5V4IiE_h06BF2G",
+      "sha256": "ee45504a61f2948e88f0fd0ca437c2823ba71e407867026f8e85dff482fcd61d",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-02_ICT3.pdf",
+      "position_codes": [
+        "ICT3"
+      ],
+      "title": "Incident Commander Type 3",
+      "pms_number": "311-02",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-02.pdf?VersionId=J1jOQMMuHluFr.iCm3GGPy7VV38l5K0h",
+      "sha256": "67422661319af88be4822c3277fcb768d01988a16f70e3ad47bd039cb6f708a4",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-03_ICT4.pdf",
+      "position_codes": [
+        "ICT4"
+      ],
+      "title": "Incident Commander Type 4",
+      "pms_number": "311-03",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-03.pdf?VersionId=3134Lnx1IxiATR7xpAtNdAklcDcqlAxi",
+      "sha256": "1c58c8a75a52c852735ac099e2d8daef06a581fb99041b26f74705d4b731e2cd",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms-311-05_LOFR.pdf",
+      "position_codes": [
+        "LOFR"
+      ],
+      "title": "Liaison Officer",
+      "pms_number": "311-05",
+      "format": "nwcg_legacy",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-05.pdf?VersionId=jSLoYzLXEOGrFH5yj0R8otD9BUjt6xMh",
+      "sha256": "e63a995d9c8a42898596fc143886b0db84908b97578e547bd05c5f40950ab7da",
+      "downloaded_at": "2026-07-09",
+      "fixture": true,
+      "role": "ptb"
+    },
+    {
+      "filename": "pms311-70_RXMG.pdf",
+      "position_codes": [
+        "RXMG"
+      ],
+      "title": "Prescribed Fire Manager",
+      "pms_number": "311-70",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-70.pdf?VersionId=D2L4zVmMtWt3kh12TOHFlsx29gxWAU7e",
+      "sha256": "712566c9c3f534bac191bd86b0d035c1d57656c73bf292fdd6b3f49ccbfe8aae",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-74_RXB2.pdf",
+      "position_codes": [
+        "RXB2"
+      ],
+      "title": "Prescribed Fire Burn Boss Type 2",
+      "pms_number": "311-74",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-74.pdf?VersionId=FgtOIiKRLmXvuwtfntqc9R2vtIKkPmoN",
+      "sha256": "1cd0a81bde0c301eb2da9a7cffd986662c964db2ee1a322c81c768c7739db83c",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-80_ACDR.pdf",
+      "position_codes": [
+        "ACDR"
+      ],
+      "title": "Area Commander",
+      "pms_number": "311-80",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-80.pdf?VersionId=v5pg4nMmi8sJL9NvlRsmbxdyZSrCZtC5",
+      "sha256": "dc2b62bd3ba73801c45b5c1e574467fbd8d58dc13a2bb6ba96c1e762f22c5be9",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-82_SOF3.pdf",
+      "position_codes": [
+        "SOF3"
+      ],
+      "title": "Safety Officer Type 3",
+      "pms_number": "311-82",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-82.pdf?VersionId=JgvKmbLu6sjQxJfqVT9JlVj8eBaOce80",
+      "sha256": "e25057157dc6588f116bd2ab6ee56e0f0fcb4f4a78a270ece236824977538528",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-56_CORD.pdf",
+      "position_codes": [
+        "CORD"
+      ],
+      "title": "Expanded Dispatch Coordinator",
+      "pms_number": "311-56",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-56.pdf?VersionId=vUvEc7zK.HIkOYFCP4S3Y_AdAUyNrvIB",
+      "sha256": "6cf45da56d9ad04d0bd6993eb8e101f0a32a46320d94ca07bb63d55b2803db0a",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-57_EDSP.pdf",
+      "position_codes": [
+        "EDSP"
+      ],
+      "title": "Expanded Dispatch Supervisory Dispatcher",
+      "pms_number": "311-57",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-57.pdf?VersionId=_5iddDL9sBUGpGlDXXzh1EQg4ia2kodr",
+      "sha256": "54d3430c12cd6d2df317388b35c92b2ea78afd19248b73a621059a9b649bd7dc",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-58_EDSD.pdf",
+      "position_codes": [
+        "EDSD"
+      ],
+      "title": "Expanded Dispatch Support Dispatcher",
+      "pms_number": "311-58",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-58.pdf?VersionId=_kQQBbrlkO3qSTZ9LZdndWVchL.tQGB2",
+      "sha256": "32a8bc3d30fd9aed8e4068c3a02cb5fbfc847317f47ca576d879bf6cf1be85cc",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-60_IADP.pdf",
+      "position_codes": [
+        "IADP"
+      ],
+      "title": "Initial Attack Dispatcher",
+      "pms_number": "311-60",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-60.pdf?VersionId=6RRFC1WAI1kysJFzp7bYWjywjQB2bVOv",
+      "sha256": "e8eba74de641b5790c019bc7a9d4920aa3efbb5df52699c974f5624a6dfd9ad9",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-67_ACDP.pdf",
+      "position_codes": [
+        "ACDP"
+      ],
+      "title": "Aircraft Dispatcher",
+      "pms_number": "311-67",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-67.pdf?VersionId=.E15cbC4pcFarbeEK8y2RTThXwyeHBnC",
+      "sha256": "f6fb77cc1a2bad28a628c80daa467c5f042c006c371df7cc8eebadd1e3958d2e",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-47_COMP.pdf",
+      "position_codes": [
+        "COMP"
+      ],
+      "title": "Compensation/Claims Unit Leader",
+      "pms_number": "311-47",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-47.pdf?VersionId=MULbFotEvu6Zxpb9t_YbFpTKRo91BkdO",
+      "sha256": "07b84bbcc34fb1d6845818a7ca319146fc4fb961f7fd2be35303953c1d8ca0b6",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-48_COST.pdf",
+      "position_codes": [
+        "COST"
+      ],
+      "title": "Cost Unit Leader",
+      "pms_number": "311-48",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-48.pdf?VersionId=NKRZeBeN_YdhEtAPX.Sg8.6wnxtZwUt3",
+      "sha256": "27d2daccf2c842ef77cd88c0bb6c31e7656ac694ac3da047185e76827fd7a680",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-49_ICPI.pdf",
+      "position_codes": [
+        "ICPI"
+      ],
+      "title": "Incident Contract Project Inspector",
+      "pms_number": "311-49",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-49.pdf?VersionId=PeEYCQs.vrkkge19ZcF6snuL.qfTqnS1",
+      "sha256": "9df2a3ea90411a216d05fd1427bab149f8183bd6e36788e3bc828d6b22af5f1b",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-51_EQTR.pdf",
+      "position_codes": [
+        "EQTR"
+      ],
+      "title": "Equipment Time Recorder",
+      "pms_number": "311-51",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-51.pdf?VersionId=SXqrgDAU_j.sWzRrWoaBS7N4yJFwvCBJ",
+      "sha256": "d2c0c319cff13c32b61b2f6cb4d96de59137b1f065c783558575f2e52cae6ade",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-34_FACL-COML-FDUL-GSUL-SPUL.pdf",
+      "position_codes": [
+        "FACL",
+        "COML",
+        "FDUL",
+        "GSUL",
+        "SPUL"
+      ],
+      "title": "Facilities Unit Leader or Communications Unit Leader or Food Unit Leader or Ground Support Unit Leader or Supply Unit Leader",
+      "pms_number": "311-34",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-34.pdf?VersionId=T9IbXAS7DwHGb8QO7bcSaT4v9xSyHkAm",
+      "sha256": "6f42b6e116832707d6de4d037ddca56b7b9ee12c7969448bc106084d1d9005a7",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-40_SECM.pdf",
+      "position_codes": [
+        "SECM"
+      ],
+      "title": "Security Manager",
+      "pms_number": "311-40",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-40.pdf?VersionId=7vcSkUidx_23TmNA5vani3cY7ckNPLJv",
+      "sha256": "03eca8eec442c2568f13190d92b55e1cd7196ffc43a7992742d61335d5e8d7d5",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-41_INCM.pdf",
+      "position_codes": [
+        "INCM"
+      ],
+      "title": "Incident Communications Center Manager",
+      "pms_number": "311-41",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-41.pdf?VersionId=cXU7chlgmRbB6SjTYZQgmrbHwLJgREpG",
+      "sha256": "b9db10d854ed2728f3c4be44b5664487f38eb6ad8718a9ef01326204e1f6417a",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-42_BCMG.pdf",
+      "position_codes": [
+        "BCMG"
+      ],
+      "title": "Base Camp Manager",
+      "pms_number": "311-42",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-42.pdf?VersionId=Nzt7z0gq2Ef.oQDh28aD0cvzIBZhJNye",
+      "sha256": "0a8024c5c6a44eab07e8c88f73499f56d15ddff1b89baccd9affa8a43840be4d",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-43_ORDM.pdf",
+      "position_codes": [
+        "ORDM"
+      ],
+      "title": "Ordering Manager",
+      "pms_number": "311-43",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-43.pdf?VersionId=bho3LD51ReVcaPkBelWvauryBP9gVM1e",
+      "sha256": "0150ffc7163ee02669b291562e09e379971f7e39e1d618c1df4e60658c0f1309",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-44_RCDM.pdf",
+      "position_codes": [
+        "RCDM"
+      ],
+      "title": "Receiving or Distribution Manager",
+      "pms_number": "311-44",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-44.pdf?VersionId=kIl33ittCfy4HImSTPFS5tgU_Pj2vgEt",
+      "sha256": "5695a0201d0634675e80dfaba5ba51fe4d31688964308d1ed5a29ca8bba3e355",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-45_EQPM.pdf",
+      "position_codes": [
+        "EQPM"
+      ],
+      "title": "Equipment Manager",
+      "pms_number": "311-45",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-45.pdf?VersionId=Ql6.Nv9Uinx.Lws5tIUZGhVS.Ji9JW_Q",
+      "sha256": "2a0cae9a6f3e90412d48a8e3e0c3d57a383cc89a6b6c04b3b7a7af2ac738fc63",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-89_ACLC.pdf",
+      "position_codes": [
+        "ACLC"
+      ],
+      "title": "Assistant Area Commander Logistics",
+      "pms_number": "311-89",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-89.pdf?VersionId=44HTE7qOC7hqyuO6G9gNHyIinpdFKS9B",
+      "sha256": "af007e425075e568827906006e86358251f07811cbd51212c40fcab14e1ccc90",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-96_COMT.pdf",
+      "position_codes": [
+        "COMT"
+      ],
+      "title": "Incident Communications Technician",
+      "pms_number": "311-96",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-96.pdf?VersionId=iLxzNGR1NTg3l9SOsWZ1SiWgHQuxv5lR",
+      "sha256": "e569494641d3b4339f90e01e633a5d380bfa067055ce65f59728dd4bc214365a",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-09_DIVS.pdf",
+      "position_codes": [
+        "DIVS"
+      ],
+      "title": "Division or Group Supervisor",
+      "pms_number": "311-09",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-09.pdf?VersionId=KDkJ8yb5lD0dxzAClMpWO278AbU9EEP_",
+      "sha256": "5b54162c27edab0182ab61d57ba982b6053cb55f51006e494436630b09dca349",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-10_STCR-STEQ-STEN-TFLD.pdf",
+      "position_codes": [
+        "STCR",
+        "STEQ",
+        "STEN",
+        "TFLD"
+      ],
+      "title": "Strike Team Leader Crew or Strike Team Leader Heavy Equipment or Strike Team Leader Engine or Task Force Leader",
+      "pms_number": "311-10",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-10.pdf?VersionId=dWxG0GiG3sV.mub3Y_z4vo97rPMkJi5o",
+      "sha256": "029f1516f2d625ff3cbc03a3c91c18e41ef51f6ff3d3994d3afcedba0449c9b0",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-12_CREP.pdf",
+      "position_codes": [
+        "CREP"
+      ],
+      "title": "Crew Representative",
+      "pms_number": "311-12",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-12.pdf?VersionId=bgcd7kJm55qkwzt3KCx_Hb3PQJbLZvtW",
+      "sha256": "460417e37a0d06154bc5f4ddfa42b968de5a9436aefb2357de23b7898a3c9549",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-13_HEQB-HMGB.pdf",
+      "position_codes": [
+        "HEQB",
+        "HMGB"
+      ],
+      "title": "Heavy Equipment or Helicopter",
+      "pms_number": "311-13",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-13.pdf?VersionId=XKTSqmDplvH38Jnv5TPwPpLGzfC3SPdu",
+      "sha256": "c1492dcc13f551ecf68735b5f5f7f854671994ee8169be0112aa48e489294217",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-14_FFT1.pdf",
+      "position_codes": [
+        "FFT1"
+      ],
+      "title": "Firefighter Type 1",
+      "pms_number": "311-14",
+      "format": "nwcg_nextgen",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-14.pdf?VersionId=PYVkVuTXV7xcU_C_LrfJJG0Hthj2EoL_",
+      "sha256": "990a294391da114466c49d592d476d581ab4c0a7ae4fdba4586ca9e5ed78020f",
+      "downloaded_at": "2026-07-09",
+      "fixture": true,
+      "role": "ptb"
+    },
+    {
+      "filename": "pms311-68_STPS.pdf",
+      "position_codes": [
+        "STPS"
+      ],
+      "title": "Structure Protection Specialist",
+      "pms_number": "311-68",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-68.pdf?VersionId=VP12oE7gVLLhp5lKiRYC8rMhcfHiA0XM",
+      "sha256": "c35bf3d0af4b3154fae44d969f1007b3bca48d335dc4d2c2f9d7c0c36d36cbff",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-24_SITL.pdf",
+      "position_codes": [
+        "SITL"
+      ],
+      "title": "Situation Unit Leader",
+      "pms_number": "311-24",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-24.pdf?VersionId=vuHbiIxahZjM5rfxrw3BF2yAKLZipg.m",
+      "sha256": "5c756a4fe6e0213ff46b153b9f64706a1bdad7644951967e95397be7f77e2578",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-25_DOCL.pdf",
+      "position_codes": [
+        "DOCL"
+      ],
+      "title": "Documentation Unit Leader",
+      "pms_number": "311-25",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-25.pdf?VersionId=71.1reaqu2mvpa5JhSc9clUVmjP2owIV",
+      "sha256": "030ce27047006958291a77c62771e84087038cb04d8636cab3d81c4f0abf78db",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-26_IRIN.pdf",
+      "position_codes": [
+        "IRIN"
+      ],
+      "title": "Infrared Interpreter",
+      "pms_number": "311-26",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-26.pdf?VersionId=jihFrDVSfEEyU5jk9IJIYWOJudsQH1jI",
+      "sha256": "14583f561603bddb03689ef234f3b66a43de68756ad211e8d9f5e35d5a7e96fc",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-28_TNSP.pdf",
+      "position_codes": [
+        "TNSP"
+      ],
+      "title": "Training Specialist",
+      "pms_number": "311-28",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-28.pdf?VersionId=wZdYJwMXyhBkJ5r_1sb7vvZZrI.n2xMo",
+      "sha256": "877855324240e5160f81ffd670d05a1db60f6c19acf682e89345c523246b2a24",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-29_FBAN.pdf",
+      "position_codes": [
+        "FBAN"
+      ],
+      "title": "Fire Behavior Analyst",
+      "pms_number": "311-29",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-29.pdf?VersionId=ZrpPD1_fwMVpml_Tw1l86FEv9gMwL.m_",
+      "sha256": "ab2592335152ed14d23e4eef77d0f2f20bb69626e669b8388a989b540f8bd36a",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-30_FEMO-FOBS.pdf",
+      "position_codes": [
+        "FEMO",
+        "FOBS"
+      ],
+      "title": "Fire Effects Monitor or Field Observer",
+      "pms_number": "311-30",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-30.pdf?VersionId=pPDdWwKbccnCVQTIT9OPSvBFhpcI4p1a",
+      "sha256": "6fb182f673d2e95184a3d2e7f0d5bf53ba1fb6d1c8fd6ea1042fc67a98d814c9",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-31_DPRO.pdf",
+      "position_codes": [
+        "DPRO"
+      ],
+      "title": "Display Processor",
+      "pms_number": "311-31",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-31.pdf?VersionId=9GztiMJus4Iz1EmCm_yeo9BvGo4itWJC",
+      "sha256": "de0422efd7ab2bce35c38e16357a537d1b66adc18eb78bc928497f1b51e8d06a",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-32_SCKN.pdf",
+      "position_codes": [
+        "SCKN"
+      ],
+      "title": "Status/Check-in Recorder",
+      "pms_number": "311-32",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-32.pdf?VersionId=SiIrZpEnUjSxX8AtCso4aXBKOeGap_bZ",
+      "sha256": "4e34f4291038b05c2bf7f60495e8aa810854aed568029a569aa4f94565b888a4",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-62_HRSP.pdf",
+      "position_codes": [
+        "HRSP"
+      ],
+      "title": "Human Resource Specialist",
+      "pms_number": "311-62",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-62.pdf?VersionId=mEdpedLQRO5GoChg9b8c4hJYHc_L_kg.",
+      "sha256": "a5a0e66a7c2e95c33785df1460dceeae25e099001eb5c4c98a251699d1cc27b0",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-72_SOPL.pdf",
+      "position_codes": [
+        "SOPL"
+      ],
+      "title": "Strategic Operational Planner",
+      "pms_number": "311-72",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-72.pdf?VersionId=aMzjHMxq7C1U8sFjxlJNIwD08_BY22vl",
+      "sha256": "b9564bb1041d50dca308f01816d7a701f94b85de68c95fad2924b60777b3ada9",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-77_GISS.pdf",
+      "position_codes": [
+        "GISS"
+      ],
+      "title": "Geographic Information System Specialist",
+      "pms_number": "311-77",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-77.pdf?VersionId=m5QYsiz4oaPo2aNV3aMQK.mpk.27MV9U",
+      "sha256": "2ff7cf5780ea5eed859f5d8b3b3f81143517ee320120a8d4de9c4791f7d49fe6",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-88_ACPC.pdf",
+      "position_codes": [
+        "ACPC"
+      ],
+      "title": "Assistant Area Commander, Planning",
+      "pms_number": "311-88",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-88.pdf?VersionId=OpPzbC4BqmmKXK7jrnRtKdIX4yCAh2N2",
+      "sha256": "b0c926a20a909633b7c5e551f8ffaae573071a181cda845f9a2a00d7479109d0",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-63_PETL.pdf",
+      "position_codes": [
+        "PETL"
+      ],
+      "title": "Prevention Education Team Leader",
+      "pms_number": "311-63",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-63.pdf?VersionId=agRNMMmik0Ky3RbhYNAL.qsJFK4m6CWG",
+      "sha256": "a7c80067ce98b4796a5885feff65ae36a1426444439eaabb51b34336b63030d4",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-64_PETM.pdf",
+      "position_codes": [
+        "PETM"
+      ],
+      "title": "Prevention Education Team Member",
+      "pms_number": "311-64",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-64.pdf?VersionId=rxLO2dRPeFphQmAF_.uzUenfN5php3Rk",
+      "sha256": "6964ef967b4969fb3513670e071b6cc107aee47fd62fa994aa525579e8a259e8",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-66_INVF.pdf",
+      "position_codes": [
+        "INVF"
+      ],
+      "title": "Wildland Fire Investigator",
+      "pms_number": "311-66",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-66.pdf?VersionId=fnoII38S34w_r6.BBwOBmaz7MwwPOEC5",
+      "sha256": "93ea6c9d345de13df6bd1c60068fa19ab83b87af03668e1527869291af0bb594",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-90_INVL.pdf",
+      "position_codes": [
+        "INVL"
+      ],
+      "title": "Wildland Fire Investigation Team Leader",
+      "pms_number": "311-90",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-90.pdf?VersionId=pJGYzg3KHVvVRZlpo__Z5b8ntcDjG79y",
+      "sha256": "2f9b171e5ac36a5e447307dfe76a96dcd1522524fd2a231f96e6eef0ad7f29c1",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-16_STAM.pdf",
+      "position_codes": [
+        "STAM"
+      ],
+      "title": "Staging Area Manager",
+      "pms_number": "311-16",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-16.pdf?VersionId=_NZ6YyroPszq._Dhi_mpCNW9UNExkd1L",
+      "sha256": "959f1d5cad9468d10c9d6b246393bc2cb6a5109e59ef49ae6f53b9fe133bb7ea",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-91_FAL2.pdf",
+      "position_codes": [
+        "FAL2"
+      ],
+      "title": "Intermediate Faller",
+      "pms_number": "311-91",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-91.pdf?VersionId=4aEOeV3tTsTnYmKQ_XrCs_Z.fjTobctz",
+      "sha256": "d2ec10c1cbdf0909fd3b16e640848c8ca013d2e919d83570cbdcef8c1d3d279e",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-97_RADO.pdf",
+      "position_codes": [
+        "RADO"
+      ],
+      "title": "Radio Operator",
+      "pms_number": "311-97",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-97.pdf?VersionId=siSLbm8nawUifZx20n_VOIby0yLx7ufG",
+      "sha256": "9dbc5c1a7f515d8c7b78a754a898aae85e93a9cc281a85d1210d4197181f2676",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-65_INBA.pdf",
+      "position_codes": [
+        "INBA"
+      ],
+      "title": "Incident Business Advisor",
+      "pms_number": "311-65",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-65.pdf?VersionId=6b0eU6wNH8BJao.kL2rKuE0bahPvTJhR",
+      "sha256": "db9dd7708bdfe74f4bfa0a9fe77c3abcd6adf038bb96badb63ff4b0dc9cdf839",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-85_DECK.pdf",
+      "position_codes": [
+        "DECK"
+      ],
+      "title": "Deck Coordinator",
+      "pms_number": "311-85",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-85.pdf?VersionId=6sbdxb.YuL4uILwfw1PLYeJ_JO.zB4do",
+      "sha256": "034d2d71a2138ccc8d94623603c2ef818bc44029db3cdef10a4dc2195aa7aa97",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-87_ABRO.pdf",
+      "position_codes": [
+        "ABRO"
+      ],
+      "title": "Aircraft Base Radio Operator",
+      "pms_number": "311-87",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-87.pdf?VersionId=B0SWcp5DxjZMWNN_Su5GD2_TOLAUrOQG",
+      "sha256": "dc78f8a55ed74b9d3e422f5dd518a65ad46564ee57c635d86ea3b3cee2249500",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-35_LSC3.pdf",
+      "position_codes": [
+        "LSC3"
+      ],
+      "title": "Logistics Section Chief Type 3",
+      "pms_number": "311-35",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-35.pdf?VersionId=8fYjf.tVYzaAqNWNDrZAnSyThTmt.cpv",
+      "sha256": "0c4242ff23ed5d7a2abfc86dfaf733832705ab34a836178eabc5c04a371746ef",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-50_FSC3.pdf",
+      "position_codes": [
+        "FSC3"
+      ],
+      "title": "Finance Section Chief Type 3",
+      "pms_number": "311-50",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-50.pdf?VersionId=mPzLf7dhkuWP3n4vyV15tP_hbDkpRmVX",
+      "sha256": "87a285a2f6d2e37ed6d829fc03599904835116e8746e294bac2235b5c8d47b6a",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-55_PSC3.pdf",
+      "position_codes": [
+        "PSC3"
+      ],
+      "title": "Planning Section Chief Type 3",
+      "pms_number": "311-55",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-55.pdf?VersionId=veZW2N4mbcaMgqQL80PBFpZQZc267Ygc",
+      "sha256": "3eee6a3690491095df6a23bdd437d2990cc9cec8c282650879a24bbab0248ac7",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-79_UASM.pdf",
+      "position_codes": [
+        "UASM"
+      ],
+      "title": "Unmanned Aircraft Systems, Manager",
+      "pms_number": "311-79",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-79.pdf?VersionId=.X74j0tx.CY_LXOYA59bIg7bh.cgPgLT",
+      "sha256": "295ee12c0f395f2b1770807a11bf16583afbb4240fcbec16d0a094f35df36a25",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-92_FWPT.pdf",
+      "position_codes": [
+        "FWPT"
+      ],
+      "title": "Fixed Wing Parking Tender",
+      "pms_number": "311-92",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-92.pdf?VersionId=btepsVVmUxcj63DGVO7_lmq9HxPot0Eo",
+      "sha256": "4d4f87d3369608b818d3e28d569e1d8d94830871de7261a9f7451ce2827b8c38",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-93_ATIM.pdf",
+      "position_codes": [
+        "ATIM"
+      ],
+      "title": "Aircraft Timekeeper",
+      "pms_number": "311-93",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-93.pdf?VersionId=FYeNzg5LIhNPDD7S5RthJOUeyaHISO3E",
+      "sha256": "1ddafdbb28f0fa9ba74601fc14b27f4fe0c5a3fffe8f24665421a2484dc0ea9a",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-94_RTCM-MXMS.pdf",
+      "position_codes": [
+        "RTCM",
+        "MXMS"
+      ],
+      "title": "Retardant Crew Member or Mix Master",
+      "pms_number": "311-94",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-94.pdf?VersionId=rT5HF3ONYAgTeB6sVdwuw0BYhg5NFJFg",
+      "sha256": "b0da725612999c88d066df36f8a16c9bf636262b2c61a07172b4263c693d52ff",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-114_PIO3.pdf",
+      "position_codes": [
+        "PIO3"
+      ],
+      "title": "Public Information Officer Type 3",
+      "pms_number": "311-114",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-114.pdf?VersionId=5NPpG73Vh6KI.nygAqv3x6SwfW3akztX",
+      "sha256": "d0be8f8ecddfb4c694051642d2dc7d6fad4ca4b563c414731b0409547bcb3e98",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-146_FSCC.pdf",
+      "position_codes": [
+        "FSCC"
+      ],
+      "title": "Finance or Administration Section Chief Complex",
+      "pms_number": "311-146",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-146.pdf?VersionId=_3h9LT_ul0JCY8542LF4iCrkcXQllxvn",
+      "sha256": "312967b242a75070f0f3d7d5eada8ab4cf5565b689b98b1344d1727fb8689b45",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-133_LSCC.pdf",
+      "position_codes": [
+        "LSCC"
+      ],
+      "title": "Logistics Section Chief Complex",
+      "pms_number": "311-133",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-133.pdf?VersionId=Q2dz7ZMAd.Xs_mUjFMIV6WAPCp7YbWsk",
+      "sha256": "978780bdfc96d7d9a562011c58c30a936e5a594b77e21348cabcc0b41de8e47d",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-123_PSCC.pdf",
+      "position_codes": [
+        "PSCC"
+      ],
+      "title": "Planning Section Chief Complex",
+      "pms_number": "311-123",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-123.pdf?VersionId=OPrm7AycwGvW1hqLcrbVe.nEEU96mlf.",
+      "sha256": "ffccefa3a7f295df8c9ac075ed9d4685e1b1cc924b68c09d08aae7a371fbeeb2",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-108_OSCC.pdf",
+      "position_codes": [
+        "OSCC"
+      ],
+      "title": "Operations Section Chief Complex",
+      "pms_number": "311-108",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-108.pdf?VersionId=8py.xX9kPaUKrlSnCABmR7C3AGYfcIHt",
+      "sha256": "a6d5597576e960aa0abd40c4b4093cc8b8f1b2f7bead9f77855bdffb30090399",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-106_PIOC.pdf",
+      "position_codes": [
+        "PIOC"
+      ],
+      "title": "Public Information Officer Complex",
+      "pms_number": "311-106",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-106.pdf?VersionId=39gR656Hka8IhHTfKedMmAXfVF6RpFgF",
+      "sha256": "2c094855422080a3f385da75ca29149779f53a3b4cc4140cfa4eefcb6d60c30a",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-104_SOFC.pdf",
+      "position_codes": [
+        "SOFC"
+      ],
+      "title": "Safety Officer Complex",
+      "pms_number": "311-104",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-104.pdf?VersionId=DJpvjErkc65OJ6K7RpFyOSH19YuvCTzN",
+      "sha256": "1d9ba181721e823c43112b4d1cf844630ee530dcd18298db69fed5bc11ac3db7",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-101_ICCI.pdf",
+      "position_codes": [
+        "ICCI"
+      ],
+      "title": "Incident Commander Complex",
+      "pms_number": "311-101",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-101.pdf?VersionId=IRtDtHSpoZXvfP2vZ4RpBao0GdwzqtjL",
+      "sha256": "1bbc7e84dc02cedde91ead2175928b35782885ba8c7f617bdb76f4f0c369cdb4",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-78_UASP.pdf",
+      "position_codes": [
+        "UASP"
+      ],
+      "title": "Unmanned Aircraft Systems Pilot",
+      "pms_number": "311-78",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-78.pdf?VersionId=NKeY4eYHEqwTfpk.5WRSVyZQsfAxLztc",
+      "sha256": "02ab8ec3124e5f87025457811a0efe370363cf3247c10be2e847d2825f3d080a",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms-311-98_CRWB.pdf",
+      "position_codes": [
+        "CRWB"
+      ],
+      "title": "Crew Boss, Single Resource",
+      "pms_number": "311-98",
+      "format": "nwcg_nextgen",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-98.pdf?VersionId=_Rp7bUAyZSF1AFXdDoSrEkbYFw44Xbud",
+      "sha256": "2d55c139e7dcb3c2ee749926d740f3a3156c6ecf5462a15add3275e2cdfb33b1",
+      "downloaded_at": "2026-07-09",
+      "fixture": true,
+      "role": "ptb"
+    },
+    {
+      "filename": "pms311-73_RXB1.pdf",
+      "position_codes": [
+        "RXB1"
+      ],
+      "title": "Prescribed Fire Burn Boss Type 1",
+      "pms_number": "311-73",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-73.pdf?VersionId=1PLWjvy3AfDHMdj4RaggiIXPO2kQcjy5",
+      "sha256": "8e08157d42e3d25a9a756d15a6c4a0ea7cc5c740138bf2c0239db3ba12b74888",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-109_OPBD.pdf",
+      "position_codes": [
+        "OPBD"
+      ],
+      "title": "Operations Branch Director",
+      "pms_number": "311-109",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-109.pdf?VersionId=DJen1IQw9sXrvWb1Biz9JOZ8hf3l57J2",
+      "sha256": "f3c99c5cd068b56533c3d94beea2b09a44cf4ae5d541b3431fc13049796f2e7c",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-81_SOFF.pdf",
+      "position_codes": [
+        "SOFF"
+      ],
+      "title": "Safety Officer, Field",
+      "pms_number": "311-81",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-81.pdf?VersionId=I04gVWKj9bjVCpWlgvXD3U3wunDbsUE_",
+      "sha256": "16b94bb410eb284004f7ab0c0f4a8f1d7da7d87b6d295e9388ee427c04ca0554",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-107_FELB.pdf",
+      "position_codes": [
+        "FELB"
+      ],
+      "title": "Felling Boss, Single Resource",
+      "pms_number": "311-107",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-107.pdf?VersionId=wJ5FSOmt6Ez3N0I2IJObkdaNV2X1XCPZ",
+      "sha256": "53bda653f3c192944680b7a1d16696b0b658dff89cd65ea61b873e71afaf98f6",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-39_MEDL.pdf",
+      "position_codes": [
+        "MEDL"
+      ],
+      "title": "Medical Unit Leader",
+      "pms_number": "311-39",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-39.pdf?VersionId=JgBaK2eLXI7P3._ECOec5T9Z.l9Vf3wD",
+      "sha256": "09abceb7dbc051c9be0fabb3d4d894e7f5dff0f9290209cd4224d0ca23170f62",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-53_PTRC-PTRC.pdf",
+      "position_codes": [
+        "PTRC"
+      ],
+      "title": "Personnel Time Recorder",
+      "pms_number": "311-53",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-53.pdf?VersionId=1DvYUkPVD0kG6WM49Sk2po74VMUVSbnh",
+      "sha256": "ab66762a29db84a4bfa430d80ab5b3e17764a112fec0a429f3b24ac96dd4caee",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-115_DMOB.pdf",
+      "position_codes": [
+        "DMOB"
+      ],
+      "title": "Demobilization Unit Leader",
+      "pms_number": "311-115",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-115.pdf?VersionId=sg87iUIKer8khdf848WxmLHKrdPPxxhX",
+      "sha256": "4a5f48382bce5e21e152be21156558099881134135e2c5f74eb9ee496b9c89f2",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-27_RESL.pdf",
+      "position_codes": [
+        "RESL"
+      ],
+      "title": "Resources Unit Leader",
+      "pms_number": "311-27",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-27.pdf?VersionId=o.VWrRiPLZYaAOPJzSrUsWNT2HwPIwFs",
+      "sha256": "048e8a002ddc5c2d1ae8f0345a6d04c3f792ea4c801f05dacd6326460705a32c",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-119_FAL3.pdf",
+      "position_codes": [
+        "FAL3"
+      ],
+      "title": "Basic Faller",
+      "pms_number": "311-119",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-119.pdf?VersionId=48dtIG1hHPBGDP13834cxC_YWsYBk4Xx",
+      "sha256": "778064273e99244f3f7bfcfa362792832ea31a3ddb74381edd2cefb1be1a6633",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-105_FIRB.pdf",
+      "position_codes": [
+        "FIRB"
+      ],
+      "title": "Firing Boss, Single Resource",
+      "pms_number": "311-105",
+      "format": "nwcg_nextgen",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-105.pdf?VersionId=sMkC7wGiJfYDrrvb3luQ.1B7uQ2qQP85",
+      "sha256": "9382cd3a51df91010ae56a64c723eaebb91cef3e9d9dc32002d307559261064f",
+      "downloaded_at": "2026-07-09",
+      "fixture": true,
+      "role": "ptb"
+    },
+    {
+      "filename": "pms311-125_PROC.pdf",
+      "position_codes": [
+        "PROC"
+      ],
+      "title": "Procurement Unit Leader",
+      "pms_number": "311-125",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-125.pdf?VersionId=Wgtf0fu5a289Vhw3SmjL8k.6xYAHScmL",
+      "sha256": "f504410106621c465fa0c74612da21dbdf529df3a4bdeb57b71bce48e2a3966a",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-126_TIME.pdf",
+      "position_codes": [
+        "TIME"
+      ],
+      "title": "Time Unit Leader",
+      "pms_number": "311-126",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-126.pdf?VersionId=9gEzScnS6y3oVC25POqgqzbyIUAV8WC1",
+      "sha256": "1acf25e06a83a8ead5f927963af4d1345ee88710286515916523a773a48e80aa",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-116_ICT5.pdf",
+      "position_codes": [
+        "ICT5"
+      ],
+      "title": "Incident Commander Type 5",
+      "pms_number": "311-116",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-116.pdf?VersionId=6wv2qalWlaQojNBPk9QQ9AZ04SS0wiBL",
+      "sha256": "23cb0583a5b7cd74a2a152db76dd0f344b2e96c7147e7f466b23fba613bfdf7f",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-122_FWBM.pdf",
+      "position_codes": [
+        "FWBM"
+      ],
+      "title": "Fixed Wing Base Manager",
+      "pms_number": "311-122",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-122.pdf?VersionId=RJBdd6fKYJVNTuOpf55T5za7PrzPqUok",
+      "sha256": "8aa9f1742a8eb2c3c400b3cab5c0b9344c8bf95857e6b35423969fada4c3fe73",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-121_ATBM.pdf",
+      "position_codes": [
+        "ATBM"
+      ],
+      "title": "Airtanker Base Manager",
+      "pms_number": "311-121",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-121.pdf?VersionId=UGBN.j2P2N_BitDVjzMOKO9yx_8UmyBs",
+      "sha256": "473f618082cad64322fc0e61032b44578d34ca1edd194d419585986be95c50a3",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-128_UASL.pdf",
+      "position_codes": [
+        "UASL"
+      ],
+      "title": "Unmanned Aircraft Systems Module Leader",
+      "pms_number": "311-128",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-128.pdf?VersionId=r309zVnxfl5dkSSGrVTUnMYuIRL9_ITJ",
+      "sha256": "980971647d7b3a90beedc0429baee512161735a249793c037545e2d9343fde92",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-127_UASD.pdf",
+      "position_codes": [
+        "UASD"
+      ],
+      "title": "Unmanned Aircraft Systems, Data Specialist",
+      "pms_number": "311-127",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-127.pdf?VersionId=eYTa7Cj2U_P.UT7W1aAzSBWs.CDBxoRU",
+      "sha256": "70030c43615bc1f041e4016a64023dad1d0f3c2c679966aa84d35cbfccb2534c",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-124_LTAN.pdf",
+      "position_codes": [
+        "LTAN"
+      ],
+      "title": "Long Term Fire Analyst",
+      "pms_number": "311-124",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-124.pdf?VersionId=kOGrCR4fnDLAkO8WaIEpjvSIsQicKgdv",
+      "sha256": "799f44229f8f6a9c008368f6243d41a99c40720c853ed3b37540cc03a50f7fd5",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-103_ENGB.pdf",
+      "position_codes": [
+        "ENGB"
+      ],
+      "title": "Engine Boss, Single Resource",
+      "pms_number": "311-103",
+      "format": "nwcg_nextgen",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-103.pdf?VersionId=YAVToa_KXgPw6NMfmi.81zyj6NWCx6E6",
+      "sha256": "2a55990446a79664a755b1be5a068003410e93e3c0dc45dc1f4b67a1f1d4d92a",
+      "downloaded_at": "2026-07-09",
+      "fixture": true,
+      "role": "ptb"
+    },
+    {
+      "filename": "pms311-118_FAL1.pdf",
+      "position_codes": [
+        "FAL1"
+      ],
+      "title": "Advanced Faller",
+      "pms_number": "311-118",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-118.pdf?VersionId=HV_MxU3oKs2i5BPNAA_2l5yotZ0cHCE7",
+      "sha256": "ce145192c6e4dce91368b0f3a82a9c7b20ed4c353b05cf763051bdb9806b9d38",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms311-117_RAMP.pdf",
+      "position_codes": [
+        "RAMP"
+      ],
+      "title": "RAMP Manager",
+      "pms_number": "311-117",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-117.pdf?VersionId=WBDAtDy3txyfn2f7dLG53IbP3Lqd9ACI",
+      "sha256": "7e842a8198b05db0d0025154efe0d79335826aca6a639457647c44f7df99a053",
+      "downloaded_at": "2026-07-09",
+      "role": "ptb",
+      "fixture": false
+    },
+    {
+      "filename": "pms350-08.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-08",
+      "pms_number": "350-08",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-08.pdf?VersionId=XAx0J9KLHcd73mi8VznD2ZJcLADHLAxw",
+      "sha256": "4036d1ba399d3f241c3671f45e87452bfbaad395aac2f0665515632c3476d7fb",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-108",
+        "311-109"
+      ]
+    },
+    {
+      "filename": "pms350-103.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-103",
+      "pms_number": "350-103",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-103.pdf?VersionId=dwNIg2hP179fZ_DHzVwlCdcAkR7QBgb.",
+      "sha256": "9d45acd0c0b0e167e4d00272c177ade9171982f62542da71e3b9e81f24531df9",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-103"
+      ]
+    },
+    {
+      "filename": "pms350-105.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-105",
+      "pms_number": "350-105",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-105.pdf?VersionId=NQ80m3kQeUqrqwEGDRkGS1tT6tXK0_AM",
+      "sha256": "b5043d23c3235f31d5cddcfe792b5a927b7aaaf6098169ea6ffed8a75a039d54",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-105"
+      ]
+    },
+    {
+      "filename": "pms350-107.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-107",
+      "pms_number": "350-107",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-107.pdf?VersionId=881.HVBVghtcTIxa9XyV4sv4cOPFXfX2",
+      "sha256": "09a6a3ce7d5457e72f02981b1ec0f6c9133e70195f3cef55c9fd97c5b8ddce76",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-107"
+      ]
+    },
+    {
+      "filename": "pms350-115.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-115",
+      "pms_number": "350-115",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-115.pdf?VersionId=IJcDjzJXrLBDbyWxtJ.BqIagQcvZA7HD",
+      "sha256": "d628093886b5fa9b87638c577fa42ea29dd608664e960222098cd48041ce76b6",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-115"
+      ]
+    },
+    {
+      "filename": "pms350-116.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-116",
+      "pms_number": "350-116",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-116.pdf?VersionId=nRK4op9Vepr3bKafRiHmOHEhtsKoI1iT",
+      "sha256": "5a18880aeee79bd8f8dbeefb836332ed7aeb9f73c37b0bb3a86d32a57af2037a",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-116"
+      ]
+    },
+    {
+      "filename": "pms350-117.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-117",
+      "pms_number": "350-117",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-117.pdf?VersionId=.Psw7xRLaDZcSNFWJSkhlwjG.N.qtwhI",
+      "sha256": "dce4f0947f75eca27790ac6133ca40343e5e12174ee28c54ea72c9180f5cd1b0",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-117"
+      ]
+    },
+    {
+      "filename": "pms350-121.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-121",
+      "pms_number": "350-121",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-121.pdf?VersionId=9P_8CjSgCbZBH8B8jACL2.XPc7tTWkaI",
+      "sha256": "fbae2f8a600beee9febefd83e48a826d6f413188094d7bf9d31d55342ecc661e",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-121"
+      ]
+    },
+    {
+      "filename": "pms350-122.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-122",
+      "pms_number": "350-122",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-122.pdf?VersionId=VRhevljv193J9LKOQRK3F17OMwkiF9jH",
+      "sha256": "40162ed9f157fe5400da0150336c1f7448887002c151b1f6eefbb2e2c45e0f69",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-122"
+      ]
+    },
+    {
+      "filename": "pms350-124.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-124",
+      "pms_number": "350-124",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-124.pdf?VersionId=9Kr.cVQA1QViHmPQ7iwmUiYO8z88.whz",
+      "sha256": "13eb9cb50affc79d1200a56a32c3d41c3265f42bd84e2aba7763c9c3db894921",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-124"
+      ]
+    },
+    {
+      "filename": "pms350-125.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-125",
+      "pms_number": "350-125",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-125.pdf?VersionId=zJQq.NHi.oUfAI2hqOl.EvrmI7W9SLC_",
+      "sha256": "d63ae4880b6f54652813635666dd0f6253ec7c777ce21d4004b9a16fc36a1909",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-125"
+      ]
+    },
+    {
+      "filename": "pms350-126.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-126",
+      "pms_number": "350-126",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-126.pdf?VersionId=OJWhrlf3tdAgaquvvV1IcYIgnl3c3g8n",
+      "sha256": "fa62dac5aaad172b538368bf2a496a955315b770836de30a7d20e47a1970dead",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-126"
+      ]
+    },
+    {
+      "filename": "pms350-127.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-127",
+      "pms_number": "350-127",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-127.pdf?VersionId=XahHe8oQ5VI281lJXmf5S7MqlKMe.Uzb",
+      "sha256": "e2fffce6db31d8b81e0ee670416bd53934e329fe98cf8d0070238465aca1c714",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-127"
+      ]
+    },
+    {
+      "filename": "pms350-128.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-128",
+      "pms_number": "350-128",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-128.pdf?VersionId=QNcjLKNpPr57IC4IR2r4WDqhfyWzZ8Pl",
+      "sha256": "9d641ef555c2e40bda270d3dc12a8da532675eacc17c0d0e913dd02d28571a58",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-128"
+      ]
+    },
+    {
+      "filename": "pms350-14.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-14",
+      "pms_number": "350-14",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-14.pdf?VersionId=l0C3FtVj2VChbhpUc5Ktx3yRA6fsSNt8",
+      "sha256": "e1c074b6e9843563003f462f445ded3eeff07577f910ba3c7236a6ad479b7bce",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-14"
+      ]
+    },
+    {
+      "filename": "pms350-22.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-22",
+      "pms_number": "350-22",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-22.pdf?VersionId=00Un1ZPJcgqMmnhrUh6iAVbiPUD5oNPS",
+      "sha256": "a079924fa6d76ddd37792e2f5d08383e239419002abd686655e0fe8e69194dfd",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-22"
+      ]
+    },
+    {
+      "filename": "pms350-25.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-25",
+      "pms_number": "350-25",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-25.pdf?VersionId=j8wn6RiJfDlCZvL13Cpri2XC4r7NK1eb",
+      "sha256": "7612c6b84989083adb123dcafcb2479d686b70fbe107682461d18a8fd7cedea3",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-25"
+      ]
+    },
+    {
+      "filename": "pms350-27.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-27",
+      "pms_number": "350-27",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-27.pdf?VersionId=Xdj3MO.rr.yQuD0PNCQ8WdBf0pJNDdx7",
+      "sha256": "1bb3f03d6b8d0e5ce28d61b8b531b3f160e87295c4a58f4b1b72f304893981a1",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-27"
+      ]
+    },
+    {
+      "filename": "pms350-29.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-29",
+      "pms_number": "350-29",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-29.pdf?VersionId=qwY1rdZPqTwYK9sM.P1_cSkvr198idqh",
+      "sha256": "2b25d1622ef4fde743ea396839ce599f0af976464ae3785ccc2af3676d10e645",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-29"
+      ]
+    },
+    {
+      "filename": "pms350-32.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-32",
+      "pms_number": "350-32",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-32.pdf?VersionId=bNPg27G2ciV_skvb2VJ8MDHoU_m8nyuI",
+      "sha256": "c9033064354e147c65906d93ab23432288c05cd16cf8974e0bc428b71634cfb7",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-32"
+      ]
+    },
+    {
+      "filename": "pms350-39.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-39",
+      "pms_number": "350-39",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-39.pdf?VersionId=Qv7EncCoJNZ8W0udwdi8_INn6fpkOfCW",
+      "sha256": "f47844a60c242f38579e0a16b0815f300ef2bc2fc60846ca1b5feb05a20f19be",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-39"
+      ]
+    },
+    {
+      "filename": "pms350-41.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-41",
+      "pms_number": "350-41",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-41.pdf?VersionId=Xw._HNsE6.RhY7_3AurxH1OnNQ8pcY2w",
+      "sha256": "f9218c41ba8464acda2a942b8d510673dddcb5a745aa9ed1909b0f5d40667ebb",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-41"
+      ]
+    },
+    {
+      "filename": "pms350-51.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-51",
+      "pms_number": "350-51",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms-350-51.pdf?VersionId=A88So3Iq5AuTj5zCkj3B91LDrrK3uUw3",
+      "sha256": "c520349280dc52fa51629f946f87d3545e31ffb115f3b3522671201306ccf072",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-51"
+      ]
+    },
+    {
+      "filename": "pms350-53.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-53",
+      "pms_number": "350-53",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-53.pdf?VersionId=dFlPeTm4iaowuk2G7MwPUqC4Oc4.c76e",
+      "sha256": "88105ecc950aeacdebe4baf96e859f52612e10ff6175426b2384d72dd98191c5",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-53"
+      ]
+    },
+    {
+      "filename": "pms350-56.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-56",
+      "pms_number": "350-56",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-56.pdf?VersionId=c2RsHyVKPN9qUNXwl7CmiQxcjCCCwU7S",
+      "sha256": "939b80ae51044262ea4f8756763414375ffa671384b61e1042d89b2ee5cedf15",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-56"
+      ]
+    },
+    {
+      "filename": "pms350-57.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-57",
+      "pms_number": "350-57",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-57.pdf?VersionId=c24rq10dsAKNR0uSSxeIOdHaMwGnGaNE",
+      "sha256": "270037c88c98a902fce21918a32af1e7e28d6a9b7629861b149424b0aa8e42de",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-57"
+      ]
+    },
+    {
+      "filename": "pms350-58.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-58",
+      "pms_number": "350-58",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-58.pdf?VersionId=ADVzFkLT0pCZTeDFXlqdGfeDess3V6s6",
+      "sha256": "f9f2026434625c1894f6d8a252b4e24e4793ac42f2ed1bfd75f4699786ad3610",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-58"
+      ]
+    },
+    {
+      "filename": "pms350-60.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-60",
+      "pms_number": "350-60",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-60.pdf?VersionId=2Rnr0KqTA5stZtiVs4qf_pGx_52VjPoS",
+      "sha256": "793d4d8bcad2e751032605f8f60fc2e20c85528c6a2d4bef21736e2c5fe0b6eb",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-60"
+      ]
+    },
+    {
+      "filename": "pms350-67.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-67",
+      "pms_number": "350-67",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-67.pdf?VersionId=57ryS4PdrqUyMpzIjB8bWCExoxINqUdS",
+      "sha256": "496b9393940c1ec45da6462a7bbdb0a139604f53ca52f36200dc803695cf2304",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-67"
+      ]
+    },
+    {
+      "filename": "pms350-74.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-74",
+      "pms_number": "350-74",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-74.pdf?VersionId=1jqsTaWSVHZQjVazrbzXuP3UdFQ.zcto",
+      "sha256": "737dd76cc1b4a53ed559004064b0ed0af90185be4967dadfb3f8b4dab52a91e2",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-74"
+      ]
+    },
+    {
+      "filename": "pms350-78.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-78",
+      "pms_number": "350-78",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-78.pdf?VersionId=gzLKfzMuazXg0yrM9vHEu2DK4q1i_r2F",
+      "sha256": "e81560a66a782b88e417cf85d6ac4704fa8d438ca0790147f968cb031b1fa943",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-78"
+      ]
+    },
+    {
+      "filename": "pms350-79.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-79",
+      "pms_number": "350-79",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-79.pdf?VersionId=vXC9NmAaeC0wYRF2JqlM4uGqDT3yYgir",
+      "sha256": "7abc7f4b1429fc937713d9e7cce359ed87785d383b30cbe50c9d8c2a6a6cfe66",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-79"
+      ]
+    },
+    {
+      "filename": "pms350-81.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-81",
+      "pms_number": "350-81",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-81.pdf?VersionId=42r5SoCxfX4kTEccSaQzUixpalsqWwWa",
+      "sha256": "ec25b5aee67692f9581e16ca4f020a5eb4361f9cccfb05389c4260489f838bc9",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-81"
+      ]
+    },
+    {
+      "filename": "pms350-87.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-87",
+      "pms_number": "350-87",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-87.pdf?VersionId=rrSYFIuB69oqxB_wBQtSnQql0Dp.NoLi",
+      "sha256": "73f8759ccf508c40ee047ca9949b26adc4ac04884f69b09ff71881df87df9fcc",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-87"
+      ]
+    },
+    {
+      "filename": "pms350-97.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-97",
+      "pms_number": "350-97",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-97.pdf?VersionId=coqBpGOGwf6EbBBnUfbsGzBfZ54QO769",
+      "sha256": "a4c2e4fabf9b686cb873ae2cfe3f3242264142de5c7ec5e1f91c7da88419b3eb",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-97"
+      ]
+    },
+    {
+      "filename": "pms350-98.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-98",
+      "pms_number": "350-98",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/PMS350-98.pdf?VersionId=4E8pVpN99Z_V4Wuc4W0gFnsh_p941rlK",
+      "sha256": "b4836b3753f97b677391f1f44be559272ee7f328a90c07c8f4c6d4b1874d41f3",
+      "downloaded_at": "2026-07-09",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-98"
+      ]
+    },
+    {
+      "filename": "enhanced_ptbs_gdoc.pdf",
+      "position_codes": [
+        "UAIS",
+        "AIML",
+        "RSEN",
+        "GOPL",
+        "SNTK",
+        "FDSO",
+        "FDMS",
+        "ASOP",
+        "RBFE",
+        "ASWE",
+        "CFMD"
+      ],
+      "title": "FireTech Position Task Books (NWCG-format drafts, 11 positions; codes without a printed abbreviation assigned provisionally)",
+      "pms_number": null,
+      "format": "enhanced_gdoc",
+      "url": "https://docs.google.com/document/d/1rVGMJR67eftCjEcaoQuYDNBleoM7EOI9/export?format=pdf",
+      "sha256": "0b2f100438d1ec14b6441e10eccc2843d350ee745d4591d176dde1f8df1e0677",
+      "downloaded_at": "2026-07-09",
+      "official": false,
+      "fixture": true,
+      "role": "ptb"
+    },
+    {
+      "filename": "enhanced_ptbs_gdoc.docx",
+      "position_codes": [
+        "UAIS",
+        "AIML",
+        "RSEN",
+        "GOPL",
+        "SNTK",
+        "FDSO",
+        "FDMS",
+        "ASOP",
+        "RBFE",
+        "ASWE",
+        "CFMD"
+      ],
+      "title": "FireTech Position Task Books (DOCX export of the same Google Doc; secondary source for structure-aware extraction)",
+      "pms_number": null,
+      "format": "enhanced_gdoc",
+      "url": "https://docs.google.com/document/d/1rVGMJR67eftCjEcaoQuYDNBleoM7EOI9/export?format=docx",
+      "sha256": "acf7640571ac6a49e1ea1b41e213cab7eddbc76c88975e5c5fc4e5da64fd81c2",
+      "downloaded_at": "2026-07-09",
+      "official": false,
+      "fixture": true,
+      "role": "ptb"
+    },
+    {
+      "filename": "requirements/FAL1.html",
+      "position_codes": [
+        "FAL1"
+      ],
+      "title": "Advanced Faller — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/advanced-faller/qualification-requirements",
+      "sha256": "235a5a1382b17aab30ed4bf5adf2302767a4d8c7d871b8fb996d50d54da8023c",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/AREP.html",
+      "position_codes": [
+        "AREP"
+      ],
+      "title": "Agency Representative — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/agency-representative/qualification-requirements",
+      "sha256": "9249105a2171aebdf2db8b588ad8b5848722cd2b29fd8189458652a379aa3907",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/AOBD.html",
+      "position_codes": [
+        "AOBD"
+      ],
+      "title": "Air Operations Branch Director* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/air-operations-branch-director/qualification-requirements",
+      "sha256": "31a6443736283a47fe6b98368bddedf2b2aae69728dbc7748ecc848af2e99262",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/ASGS.html",
+      "position_codes": [
+        "ASGS"
+      ],
+      "title": "Air Support Group Supervisor* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/air-support-group-supervisor/qualification-requirements",
+      "sha256": "6b463621cd35f63a131d76a0a1ac76571afcacfbee3f62000196cbaa8a6f9736",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/ATGS.html",
+      "position_codes": [
+        "ATGS"
+      ],
+      "title": "Air Tactical Group Supervisor* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/air-tactical-group-supervisor/qualification-requirements",
+      "sha256": "323f0c741fe5bbc9e9a3690d2702680aa09e70ec0d85262a42be5a3df7bd6914",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/ABRO.html",
+      "position_codes": [
+        "ABRO"
+      ],
+      "title": "Aircraft Base Radio Operator — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/aircraft-base-radio-operator/qualification-requirements",
+      "sha256": "c6c6fa1d3d64e59f5cefb7c877f508828cabd11a2e8753fb8af118faa2504bf3",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/ACDP.html",
+      "position_codes": [
+        "ACDP"
+      ],
+      "title": "Aircraft Dispatcher — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/aircraft-dispatcher/qualification-requirements",
+      "sha256": "1a8d8aef80c6f38ec194d42f4c4a6654be6643220b678464c2870c5441f73549",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/ATIM.html",
+      "position_codes": [
+        "ATIM"
+      ],
+      "title": "Aircraft Timekeeper — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/aircraft-timekeeper/qualification-requirements",
+      "sha256": "88c4568937fffd54197a49f2f58ea2a41b5d7d1dab9aa9d5d6b0ab42936b196c",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/ATBM.html",
+      "position_codes": [
+        "ATBM"
+      ],
+      "title": "Airtanker Base Manager — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/airtanker-base-manager/qualification-requirements",
+      "sha256": "88089ad055918f3bfde157199970279ff9a25953783c121cb7bf1364cc86c1a1",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/ACAC.html",
+      "position_codes": [
+        "ACAC"
+      ],
+      "title": "Area Command Aviation Coordinator — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/area-command-aviation-coordinator/qualification-requirements",
+      "sha256": "a9e84495b5a0ac73f689891905b75edb17babc2d03cd97f9fe45bd1cba8f70b4",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/ACDR.html",
+      "position_codes": [
+        "ACDR"
+      ],
+      "title": "Area Commander — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/area-commander/qualification-requirements",
+      "sha256": "37930561d3a6adb5e01c48519ea5bc40f7f63529438a297ccad3b40ab63f5d10",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/ACLC.html",
+      "position_codes": [
+        "ACLC"
+      ],
+      "title": "Assistant Area Commander, Logistics — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/assistant-area-commander-logistics/qualification-requirements",
+      "sha256": "f1c4148ddc38d6015b524f1143c90271fe40d78baa63ff523f90848eded6c149",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/ACPC.html",
+      "position_codes": [
+        "ACPC"
+      ],
+      "title": "Assistant Area Commander, Planning — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/assistant-area-commander-planning/qualification-requirements",
+      "sha256": "d151626cee06bce95618845d78e230e5710dcfcb10d8b67fd93fa46fcb2647ee",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/BCMG.html",
+      "position_codes": [
+        "BCMG"
+      ],
+      "title": "Base/Camp Manager — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/base-camp-manager/qualification-requirements",
+      "sha256": "ea75bfedd10158b49c89e606d6b4a0041c0a29da29cf33d450ffa52fbccf2079",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/FAL3.html",
+      "position_codes": [
+        "FAL3"
+      ],
+      "title": "Basic Faller — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/basic-faller/qualification-requirements",
+      "sha256": "4ab11aa091fa74bf48d4320f83b7c7563aeaac0a946aa8929aa9c4205cc09a04",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/COML.html",
+      "position_codes": [
+        "COML"
+      ],
+      "title": "Communications Unit Leader* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/communications-unit-leader/qualification-requirements",
+      "sha256": "65854fd3e68e81441bf1f84d2a2fb0253dfb65cacefe41188fe2201ad5a91b23",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/COMP.html",
+      "position_codes": [
+        "COMP"
+      ],
+      "title": "Compensation/Claims Unit Leader* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/compensation-claims-unit-leader/qualification-requirements",
+      "sha256": "59beba1ba4446417ac86cab317a14973a8adffb63cd50655ab377506963458fe",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/COST.html",
+      "position_codes": [
+        "COST"
+      ],
+      "title": "Cost Unit Leader* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/cost-unit-leader/qualification-requirements",
+      "sha256": "e86fc0162e2446872f4246937898ea4ba8465057161824d4120630a0b2075cb0",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/CRWB.html",
+      "position_codes": [
+        "CRWB"
+      ],
+      "title": "Crew Boss, Single Resource — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/crew-boss-single-resource/qualification-requirements",
+      "sha256": "78c87598ff9efe12c0311ec4e4bb6d715493454943753ddab29fe5af4515d470",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/CREP.html",
+      "position_codes": [
+        "CREP"
+      ],
+      "title": "Crew Representative — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/crew-representative/qualification-requirements",
+      "sha256": "7ee9f09f9f2ecbaa440dc86cad705dc8d3ff9ef95a63bf48de0bb448ac0156c3",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/DECK.html",
+      "position_codes": [
+        "DECK"
+      ],
+      "title": "Deck Coordinator — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/deck-coordinator/qualification-requirements",
+      "sha256": "28e46d81b9e24b973652ae03a29d35e6f81f6ca1b0b77a4a223fed4d8a393192",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/DMOB.html",
+      "position_codes": [
+        "DMOB"
+      ],
+      "title": "Demobilization Unit Leader* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/demobilization-unit-leader/qualification-requirements",
+      "sha256": "3652bb2b7c6db0acadea9c7176b27be7593fea7189bdb705eb19d1c97011734b",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/DPRO.html",
+      "position_codes": [
+        "DPRO"
+      ],
+      "title": "Display Processor — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/display-processor/qualification-requirements",
+      "sha256": "85c941bbf36c2532199b66e82cb6a11ccad20b32e5d59ecb2d47b93e3044bdac",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/DIVS.html",
+      "position_codes": [
+        "DIVS"
+      ],
+      "title": "Division/Group Supervisor* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/division-group-supervisor/qualification-requirements",
+      "sha256": "580ff703d4937faa94dafd0f3276a8d124773f3c23f848fecdc86f377adc9846",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/DOCL.html",
+      "position_codes": [
+        "DOCL"
+      ],
+      "title": "Documentation Unit Leader* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/documentation-unit-leader/qualification-requirements",
+      "sha256": "9a3a1ac3da20c7cc1fdc0978606d84674eda70ff93fbb61713a4c2882a01efae",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/ENGB.html",
+      "position_codes": [
+        "ENGB"
+      ],
+      "title": "Engine Boss, Single Resource — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/engine-boss-single-resource/qualification-requirements",
+      "sha256": "a4e4cb39d69b3000dc2ea73a3d87e3ad80019314b38db6581d5df2ec554564bf",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/EQPM.html",
+      "position_codes": [
+        "EQPM"
+      ],
+      "title": "Equipment Manager — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/equipment-manager/qualification-requirements",
+      "sha256": "dd3ef657a35c0e879d384ffdc1d3deac23b7cd559ec5f4ab11929ef1245daa90",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/EQTR.html",
+      "position_codes": [
+        "EQTR"
+      ],
+      "title": "Equipment Time Recorder — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/equipment-time-recorder/qualification-requirements",
+      "sha256": "b5747a46191a5903486f0dd184515f178e91ff22e47703c6eeae40353c2f4907",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/CORD.html",
+      "position_codes": [
+        "CORD"
+      ],
+      "title": "Expanded Dispatch Coordinator — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/expanded-dispatch-coordinator/qualification-requirements",
+      "sha256": "607b62d1e95373b89f2008cb9c44ce1631de8017b9ea54165e2cad1ff775c211",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/EDRC.html",
+      "position_codes": [
+        "EDRC"
+      ],
+      "title": "Expanded Dispatch Recorder — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/expanded-dispatch-recorder/qualification-requirements",
+      "sha256": "a991081ef68d4b6ba8f3aaa6db2e2c210ab5fb53f73aee5f445b9239f0e33d14",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/EDSP.html",
+      "position_codes": [
+        "EDSP"
+      ],
+      "title": "Expanded Dispatch Supervisory Dispatcher — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/expanded-dispatch-supervisory-dispatcher/qualification-requirements",
+      "sha256": "c06073b1cd82970b227a65f415e5af242e5bb74427ea0b4a69e5bb36b8dd4ee8",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/EDSD.html",
+      "position_codes": [
+        "EDSD"
+      ],
+      "title": "Expanded Dispatch Support Dispatcher — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/expanded-dispatch-support-dispatcher/qualification-requirements",
+      "sha256": "c494ea480f04461f2d721bd223bde001c1806941ed52e56e04d2652c4e984b46",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/FACL.html",
+      "position_codes": [
+        "FACL"
+      ],
+      "title": "Facilities Unit Leader* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/facilities-unit-leader/qualification-requirements",
+      "sha256": "2849fc733df0addc3f5d38d6c0a8eef2ee60ee8e687b58d22f24c1efc5297b9a",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/FELB.html",
+      "position_codes": [
+        "FELB"
+      ],
+      "title": "Felling Boss, Single Resource — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/felling-boss-single-resource/qualification-requirements",
+      "sha256": "a82bb0ff54806fa46cc3209caacf1ac25a07bd6072b7bb20e8c869257f2d23ee",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/FOBS.html",
+      "position_codes": [
+        "FOBS"
+      ],
+      "title": "Field Observer — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/field-observer/qualification-requirements",
+      "sha256": "5c068ca9cb74ca821b10ab9b903369459a8e1d713111370d6d239a7ba87a73ee",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/FSCC.html",
+      "position_codes": [
+        "FSCC"
+      ],
+      "title": "Finance/Administration Section Chief Complex — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/financeadministration-section-chief-complex/qualification-requirements",
+      "sha256": "dce1b65ff3883f3f4508c8e031a4818161bf87af5f7b2b741c98a7efa69f0a6a",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/FSC3.html",
+      "position_codes": [
+        "FSC3"
+      ],
+      "title": "Finance/Administration Section Chief Type 3* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/finance-administration-section-chief-type-3/qualification-requirements",
+      "sha256": "5c2c593d01e1db9ea3f7324d15288cde7ec09fad61ed8a236b03fcc6a8106a9b",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/FBAN.html",
+      "position_codes": [
+        "FBAN"
+      ],
+      "title": "Fire Behavior Analyst — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/fire-behavior-analyst/qualification-requirements",
+      "sha256": "22e4fb4460bb8ae68a30183dd97d215e54c0b75f649f38c7e7552115ba7717be",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/FEMO.html",
+      "position_codes": [
+        "FEMO"
+      ],
+      "title": "Fire Effects Monitor — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/fire-effects-monitor/qualification-requirements",
+      "sha256": "e7447d14c1e4cfc92a67229a78c5ba6e594a654e50a3effb28fca7ad4b4722ac",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/PETL.html",
+      "position_codes": [
+        "PETL"
+      ],
+      "title": "Fire Prevention Education Team Leader — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/fire-prevention-education-team-leader/qualification-requirements",
+      "sha256": "b0db6fb0994c8ab07179368ce2f317f1439e3138cc1f327933680a550d75308b",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/PETM.html",
+      "position_codes": [
+        "PETM"
+      ],
+      "title": "Fire Prevention Education Team Member — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/fire-prevention-education-team-member/qualification-requirements",
+      "sha256": "9ebd15ac3fb54c2cd2f430370929d6a83a617467d91e4f0815256eeb1fe3f3db",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/FFT1.html",
+      "position_codes": [
+        "FFT1"
+      ],
+      "title": "Firefighter Type 1 Squad Boss — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/firefighter-type-1-squad-boss/qualification-requirements",
+      "sha256": "60ed0ac6f0f194e77edb2ad692d015ec351329980ef656c9d71b174e24facdfe",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/FFT2.html",
+      "position_codes": [
+        "FFT2"
+      ],
+      "title": "Firefighter Type 2 Crewmember — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/firefighter-type-2-crewmember/qualification-requirements",
+      "sha256": "cad73e0873cf236dbfd3c0ff3f370f9bca47b0e83e2ba3e4dbe191c5957faa60",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/FIRB.html",
+      "position_codes": [
+        "FIRB"
+      ],
+      "title": "Firing Boss, Single Resource — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/firing-boss-single-resource/qualification-requirements",
+      "sha256": "5b3f06217a5f3ed9c3a293372effab38f44f6ee1f191c73d5107b0b49deaa28a",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/FWBM.html",
+      "position_codes": [
+        "FWBM"
+      ],
+      "title": "Fixed Wing Base Manager — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/fixed-wing-base-manager/qualification-requirements",
+      "sha256": "a06c5c5fa1c389d443e6cffaa33039964d6796d37bef055b1f6ae1b9b9dca08e",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/FWPT.html",
+      "position_codes": [
+        "FWPT"
+      ],
+      "title": "Fixed Wing Parking Tender — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/fixed-wing-parking-tender/qualification-requirements",
+      "sha256": "e470c2c68e59d924bab8b0b54ff68c02faee4bab630e28dcc221d90f2df5ceb1",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/FDUL.html",
+      "position_codes": [
+        "FDUL"
+      ],
+      "title": "Food Unit Leader* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/food-unit-leader/qualification-requirements",
+      "sha256": "7d6e992cdf792466136e489028c6e06c1e334ee7832d969f02a7efc7c229d723",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/GISS.html",
+      "position_codes": [
+        "GISS"
+      ],
+      "title": "Geographic Information System Specialist* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/geographic-information-system-specialist/qualification-requirements",
+      "sha256": "02000def81baac8eaed509de073b4bb90ffe938b70c69ddc17481f6132c012e5",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/GSUL.html",
+      "position_codes": [
+        "GSUL"
+      ],
+      "title": "Ground Support Unit Leader* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/ground-support-unit-leader/qualification-requirements",
+      "sha256": "6ec766d4c5e505d7319edd479166da32e692d2823a99ac9d1dc73449fb3d3a66",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/HEQB.html",
+      "position_codes": [
+        "HEQB"
+      ],
+      "title": "Heavy Equipment Boss, Single Resource — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/heavy-equipment-boss-single-resource/qualification-requirements",
+      "sha256": "4fd9c59186394756963d989710d64a2e0775916afded73e4d54902b836f48ac4",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/HEBM.html",
+      "position_codes": [
+        "HEBM"
+      ],
+      "title": "Helibase Manager — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/helibase-manager/qualification-requirements",
+      "sha256": "a9522663601b7e9b1fd5352adf3f98c03c4cdd292544b2ad0a40fe132d9abeee",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/HLCO.html",
+      "position_codes": [
+        "HLCO"
+      ],
+      "title": "Helicopter Coordinator — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/helicopter-coordinator/qualification-requirements",
+      "sha256": "8598461b7b1e8a0ab481cb5a784c194f6946bf0b3ecab83342510581b249690e",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/HECM.html",
+      "position_codes": [
+        "HECM"
+      ],
+      "title": "Helicopter Crewmember — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/helicopter-crewmember/qualification-requirements",
+      "sha256": "7017c4863b533a9d3477682fb6ea1065b89f59bf59509018ac2aebcc0d9503a3",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/HMGB.html",
+      "position_codes": [
+        "HMGB"
+      ],
+      "title": "Helicopter Manager, Single Resource — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/helicopter-manager-single-resource/qualification-requirements",
+      "sha256": "51e5f568f232ad08a3343e231b737634a4f56befcc28f09224440f5e39ae8b25",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/HRSP.html",
+      "position_codes": [
+        "HRSP"
+      ],
+      "title": "Human Resource Specialist — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/human-resource-specialist/qualification-requirements",
+      "sha256": "6afa0220c94d4aa1a1d7208ca019658181e4645b166248467be838889a8735a9",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/INBA.html",
+      "position_codes": [
+        "INBA"
+      ],
+      "title": "Incident Business Advisor — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/incident-business-advisor/qualification-requirements",
+      "sha256": "4f94f3689dae7fbdbe56486f77565ec59b3d77782e782f685af601af8214dbd6",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/ICCI.html",
+      "position_codes": [
+        "ICCI"
+      ],
+      "title": "Incident Commander Complex — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/incident-commander-complex/qualification-requirements",
+      "sha256": "ebc848a311ed2dfac9a35e441f7307ee218ab97014550ea7f534f2e6d79f96fd",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/ICT3.html",
+      "position_codes": [
+        "ICT3"
+      ],
+      "title": "Incident Commander Type 3* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/incident-commander-type-3/qualification-requirements",
+      "sha256": "86b127983a76c461c0c8b8e47fef409f603c38a2e9a3abd16113156db8eeb36c",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/ICT4.html",
+      "position_codes": [
+        "ICT4"
+      ],
+      "title": "Incident Commander Type 4* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/incident-commander-type-4/qualification-requirements",
+      "sha256": "665697e6315037523c51e503b8673bce5922ce9c177e4b30367730bcd88ba04b",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/ICT5.html",
+      "position_codes": [
+        "ICT5"
+      ],
+      "title": "Incident Commander Type 5 — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/incident-commander-type-5/qualification-requirements",
+      "sha256": "7d6a5b49481f764901fc9b123b48484efdb7f0e7d7133c5c9024ed3abe7d3120",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/INCM.html",
+      "position_codes": [
+        "INCM"
+      ],
+      "title": "Incident Communications Center Manager — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/incident-communications-center-manager/qualification-requirements",
+      "sha256": "06ecec05f875c773430350828935e955a8a8047fa103649ebec28a744f9b4e98",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/COMT.html",
+      "position_codes": [
+        "COMT"
+      ],
+      "title": "Incident Communications Technician* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/incident-communications-technician/qualification-requirements",
+      "sha256": "ed01d0943853df7aede4124ca7d6bfa8d64d38a3221d668dbc4b8d72e29f8f4f",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/ICPI.html",
+      "position_codes": [
+        "ICPI"
+      ],
+      "title": "Incident Contract Project Inspector — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/incident-contract-project-inspector/qualification-requirements",
+      "sha256": "bf0ca18dfb60bb896779876c70696cbbac38faee580ac5a38561d55bbdc801f2",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/TNSP.html",
+      "position_codes": [
+        "TNSP"
+      ],
+      "title": "Incident Training Specialist — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/incident-training-specialist/qualification-requirements",
+      "sha256": "46421522580618d17d350f253f4a1136da2598234727be1e255834fca60d523b",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/IRIN.html",
+      "position_codes": [
+        "IRIN"
+      ],
+      "title": "Infrared Interpreter — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/infrared-interpreter/qualification-requirements",
+      "sha256": "9e2a192f48fd0fea67727c9d219d987f26472dce6c8e76d968b1512951fb8434",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/IADP.html",
+      "position_codes": [
+        "IADP"
+      ],
+      "title": "Initial Attack Dispatcher — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/initial-attack-dispatcher/qualification-requirements",
+      "sha256": "fbe0d4b8239fc562c2da62a332cb3583e0e086dff249720d31b04abe91e29f0f",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/IARR.html",
+      "position_codes": [
+        "IARR"
+      ],
+      "title": "Interagency Resource Representative — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/interagency-resource-representative/qualification-requirements",
+      "sha256": "831af0c343a05cac59793755a4de48d5f78b0f9a9623a81dd0473042ae4696be",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/FAL2.html",
+      "position_codes": [
+        "FAL2"
+      ],
+      "title": "Intermediate Faller — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/intermediate-faller/qualification-requirements",
+      "sha256": "17194be5e105a729909e5bb49a23e6318d5ec31ed69fabd26a84df6b6b4044f9",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/LOFR.html",
+      "position_codes": [
+        "LOFR"
+      ],
+      "title": "Liaison Officer* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/liaison-officer/qualification-requirements",
+      "sha256": "4b8b076183abfdac5ddae0c5c228bacbf7462ef0d90a9598209f4ffde29ac591",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/LSCC.html",
+      "position_codes": [
+        "LSCC"
+      ],
+      "title": "Logistics Section Chief Complex — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/logistics-section-chief-complex/qualification-requirements",
+      "sha256": "61780301d83ab7914e9d1afeed6913f03d78837517bcf03a94b0fad9b2484869",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/LSC3.html",
+      "position_codes": [
+        "LSC3"
+      ],
+      "title": "Logistics Section Chief Type 3* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/logistics-section-chief-type-3/qualification-requirements",
+      "sha256": "691774bb0a0cb5d6761cc2af6a74484bad8151d23d96e3b7dd3055ef75dad1ac",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/LTAN.html",
+      "position_codes": [
+        "LTAN"
+      ],
+      "title": "Long Term Fire Analyst — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/long-term-fire-analyst/qualification-requirements",
+      "sha256": "630cec6899678854def28142b988febd65c461c1721bf73f1e32f77b0a9c9e14",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/MEDL.html",
+      "position_codes": [
+        "MEDL"
+      ],
+      "title": "Medical Unit Leader* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/medical-unit-leader/qualification-requirements",
+      "sha256": "b4b1870ea8552160fdc89be92a870ec73d266a4587da70fce6ebbf707e0902ab",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/MXMS.html",
+      "position_codes": [
+        "MXMS"
+      ],
+      "title": "Mixmaster — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/mixmaster/qualification-requirements",
+      "sha256": "2b370c827aa975b8adb87d0eeabe84df16acd98c7f4700aa6614ce03981d25c8",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/OPBD.html",
+      "position_codes": [
+        "OPBD"
+      ],
+      "title": "Operations Branch Director — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/operations-branch-director/qualification-requirements",
+      "sha256": "f4a99fe8e69c63a8951c649d6473a969649f63673ecba734ffec4535a42aa8b2",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/OSCC.html",
+      "position_codes": [
+        "OSCC"
+      ],
+      "title": "Operations Section Chief Complex — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/operations-section-chief-complex/qualification-requirements",
+      "sha256": "66c565001a6794e0b52d3e3d8e5ce95e3172a3bb7a469f1fb9feeb5297ece2e7",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/OPS3.html",
+      "position_codes": [
+        "OPS3"
+      ],
+      "title": "Operations Section Chief Type 3* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/operations-section-chief-type-3/qualification-requirements",
+      "sha256": "284a5ce25f4f6a8b675ec687eb7907972f2c4352974b9c7ea53157bd739431f8",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/ORDM.html",
+      "position_codes": [
+        "ORDM"
+      ],
+      "title": "Ordering Manager — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/ordering-manager/qualification-requirements",
+      "sha256": "a6631d6ddcc7f90d1474228a0a220a5fe682aaaef94964650f29f6996017b986",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/PTRC.html",
+      "position_codes": [
+        "PTRC"
+      ],
+      "title": "Personnel Time Recorder — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/personnel-time-recorder/qualification-requirements",
+      "sha256": "0960a87938ef1aed5c2c9d610d557f4804f7afaa919b00b9c0135c91073b6cc7",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/PSCC.html",
+      "position_codes": [
+        "PSCC"
+      ],
+      "title": "Planning Section Chief Complex — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/planning-section-chief-complex/qualification-requirements",
+      "sha256": "f228c3d805ab167e699bd8df5c550d06ec0996085150d3a56791327dab267680",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/PSC3.html",
+      "position_codes": [
+        "PSC3"
+      ],
+      "title": "Planning Section Chief Type 3* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/planning-section-chief-type-3/qualification-requirements",
+      "sha256": "b444ab49fe98704edb421ba6739bc04c012e081d9e2267f9095dd960c9449dba",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/RXB1.html",
+      "position_codes": [
+        "RXB1"
+      ],
+      "title": "Prescribed Fire Burn Boss Type 1 — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/prescribed-fire-burn-boss-type-1/qualification-requirements",
+      "sha256": "909c46e128cd651022bf2201e94a5db08e75d9a8c5f8609593b70c87b6a4b015",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/RXB2.html",
+      "position_codes": [
+        "RXB2"
+      ],
+      "title": "Prescribed Fire Burn Boss Type 2 — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/prescribed-fire-burn-boss-type-2/qualification-requirements",
+      "sha256": "0eff11ce7eb79e2dc3e72b9d95a91e09457a44298df33748a1db5b6187c0ab51",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/RXMG.html",
+      "position_codes": [
+        "RXMG"
+      ],
+      "title": "Prescribed Fire Manager — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/prescribed-fire-manager/qualification-requirements",
+      "sha256": "d293c47dc1888c8238b575f93f43b1d9ea81f640d5ef050282cc9926f5bfbfef",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/PROC.html",
+      "position_codes": [
+        "PROC"
+      ],
+      "title": "Procurement Unit Leader* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/procurement-unit-leader/qualification-requirements",
+      "sha256": "2242b3038ac271e275fe9dac6a68054cd5e36d0cd785e6d7e6f01b4f07ad9a08",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/PIOC.html",
+      "position_codes": [
+        "PIOC"
+      ],
+      "title": "Public Information Officer Complex — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/public-information-officer-complex/qualification-requirements",
+      "sha256": "a9701af0b286f44f1b56a81cae15992fb936369105f5dc8d8bf63020ef0e8da9",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/PIO3.html",
+      "position_codes": [
+        "PIO3"
+      ],
+      "title": "Public Information Officer Type 3 — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/public-information-officer-type-3/qualification-requirements",
+      "sha256": "f18eb1074020dad81b5e7ec772f823a876341e450d18c02b4f1672c954554a32",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/PIOT.html",
+      "position_codes": [
+        "PIOT"
+      ],
+      "title": "Public Information Officer, Technician — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/public-information-officer-technician/qualification-requirements",
+      "sha256": "a1fb4dc08fd15600fc7de4c54b9c37300d0c1ec9437a88e6efeec0f95f3958f3",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/RADO.html",
+      "position_codes": [
+        "RADO"
+      ],
+      "title": "Radio Operator — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/radio-operator/qualification-requirements",
+      "sha256": "bf2663a8070740e33b667a45c27741a7a51eb88fc812e372b2502c3cc79e08c8",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/RAMP.html",
+      "position_codes": [
+        "RAMP"
+      ],
+      "title": "Ramp Manager — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/ramp-manager/qualification-requirements",
+      "sha256": "c1c4394ac5a6c574cb00c145a6ffa3cae9aa51b8d4f97c0235602a14467b8dd5",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/RCDM.html",
+      "position_codes": [
+        "RCDM"
+      ],
+      "title": "Receiving/Distribution Manager — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/receiving-distribution-manager/qualification-requirements",
+      "sha256": "16c147520bc2a419f2b5ae89f02a0a46a5de60efd6b3033534e02905fbd8823e",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/REAF.html",
+      "position_codes": [
+        "REAF"
+      ],
+      "title": "Resource Advisor, Fireline — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/resource-advisor-fireline/qualification-requirements",
+      "sha256": "ed307fca9557a135808b8d69149715428d1f3930104fbc4549021f0f16c73acd",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/RESL.html",
+      "position_codes": [
+        "RESL"
+      ],
+      "title": "Resources Unit Leader* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/resources-unit-leader/qualification-requirements",
+      "sha256": "9716730f255615351f7457ea37c6cba777c32027754a80061bc01adf1ca211f7",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/RTCM.html",
+      "position_codes": [
+        "RTCM"
+      ],
+      "title": "Retardant Crewmember — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/retardant-crewmember/qualification-requirements",
+      "sha256": "a9aa2aab65ada5c5323da9a843edc54e07f2e9f0154cefc368679244ab175e95",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/SOFC.html",
+      "position_codes": [
+        "SOFC"
+      ],
+      "title": "Safety Officer Complex — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/safety-officer-complex/qualification-requirements",
+      "sha256": "1c9d6f7f433c8fda4e7ac4803790773d83df3fa682f1e2df6a14852e98d2241e",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/SOF3.html",
+      "position_codes": [
+        "SOF3"
+      ],
+      "title": "Safety Officer Type 3 — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/safety-officer-type-3/qualification-requirements",
+      "sha256": "78d19dbcbf714eeabc1226507abe81da09bf90c005001e3f62ace570d42cdbc1",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/SOFF.html",
+      "position_codes": [
+        "SOFF"
+      ],
+      "title": "Safety Officer, Field — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/safety-officer-field/qualification-requirements",
+      "sha256": "21060d46be01b60db949bcd5fba44313452e97234f0f815156dea4f60227faa7",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/SECM.html",
+      "position_codes": [
+        "SECM"
+      ],
+      "title": "Security Manager — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/security-manager/qualification-requirements",
+      "sha256": "8632bb94d01450ae154ed7ee5f57db38cf957519a173d345544f2efedde17d7f",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/SEMG.html",
+      "position_codes": [
+        "SEMG"
+      ],
+      "title": "Single Engine Airtanker Manager — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/single-engine-airtanker-manager/qualification-requirements",
+      "sha256": "20be7cc4401ce64450349519864b9692973ffca680e79b7a3a6e0ac89e121133",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/SITL.html",
+      "position_codes": [
+        "SITL"
+      ],
+      "title": "Situation Unit Leader* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/situation-unit-leader/qualification-requirements",
+      "sha256": "d999d4e04a1b37c8a6e907808a5b66b5a447c5e28f383cabc72115860e58de42",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/STAM.html",
+      "position_codes": [
+        "STAM"
+      ],
+      "title": "Staging Area Manager — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/staging-area-manager/qualification-requirements",
+      "sha256": "b0b10c11859bb793223eb4bdb8b7705ab4434b4ba1c17c3a15b105dae3aa714f",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/SCKN.html",
+      "position_codes": [
+        "SCKN"
+      ],
+      "title": "Status/Check-In Recorder — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/status-check-in-recorder/qualification-requirements",
+      "sha256": "d154414b4850ee842a92a3132bc255dcdf5244426a72b55f25630f8567071797",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/SOPL.html",
+      "position_codes": [
+        "SOPL"
+      ],
+      "title": "Strategic Operational Planner — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/strategic-operational-planner/qualification-requirements",
+      "sha256": "33c19b529ae7b1736c3309342f800cd773d435cf893a0453a1bb8d9db9bc1411",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/STCR.html",
+      "position_codes": [
+        "STCR"
+      ],
+      "title": "Strike Team Leader Crew — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/strike-team-leader-crew/qualification-requirements",
+      "sha256": "6408bfca3b3de7826fdab8a492f8476c7874fdcad3bb4757f4780feab5b07ed8",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/STEN.html",
+      "position_codes": [
+        "STEN"
+      ],
+      "title": "Strike Team Leader Engine — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/strike-team-leader-engine/qualification-requirements",
+      "sha256": "461ac29f15daae9966a36005db9fbe040e98d54c44d6a35d4b9e213fde722f77",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/STEQ.html",
+      "position_codes": [
+        "STEQ"
+      ],
+      "title": "Strike Team Leader Heavy Equipment — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/strike-team-leader-heavy-equipment/qualification-requirements",
+      "sha256": "38b0fe6caff59a36295dc01f7b9c6a486f3b1475373a8e65b4417aeede1530f5",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/STPS.html",
+      "position_codes": [
+        "STPS"
+      ],
+      "title": "Structure Protection Specialist — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/structure-protection-specialist/qualification-requirements",
+      "sha256": "620aa4a2cf084bee1a68b48e652cb7a6584452d47d99862c0e5cf26a7e94a924",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/SPUL.html",
+      "position_codes": [
+        "SPUL"
+      ],
+      "title": "Supply Unit Leader* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/supply-unit-leader/qualification-requirements",
+      "sha256": "45af2bf019e30e7fdba2a59b79fd0b2e37ea17f098a50caf4945f4a86054a1e0",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/TFLD.html",
+      "position_codes": [
+        "TFLD"
+      ],
+      "title": "Task Force Leader — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/task-force-leader/qualification-requirements",
+      "sha256": "7023fed37b6f94cef7083a1f0ae30260ad1566a95510194e837e5a74b2cb377a",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/TIME.html",
+      "position_codes": [
+        "TIME"
+      ],
+      "title": "Time Unit Leader* — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/time-unit-leader/qualification-requirements",
+      "sha256": "6706757c54c9ef52c7470513c1dfa6d0fe84f7026bb81dcbf35e755acd97dfd8",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/UASP.html",
+      "position_codes": [
+        "UASP"
+      ],
+      "title": "Unmanned Aircraft Systems Pilot — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/unmanned-aircraft-systems-pilot/qualification-requirements",
+      "sha256": "e314c8b35938cdc812f6099a7d53f1e430f0ccb320c0fe779f2e78b93b6004de",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/UASD.html",
+      "position_codes": [
+        "UASD"
+      ],
+      "title": "Unmanned Aircraft Systems, Data Specialist — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/unmanned-aircraft-systems-data-specialist/qualification-requirements",
+      "sha256": "875d37bffcfc7504a748ad733aee42e1f7c77949b79dbff2bb5772a32efbcd59",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/UASM.html",
+      "position_codes": [
+        "UASM"
+      ],
+      "title": "Unmanned Aircraft Systems, Manager — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/unmanned-aircraft-systems-manager/qualification-requirements",
+      "sha256": "576970372e00245fde171d1dedc545aa501c03a222bade2b1759c410a159daa7",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/UASL.html",
+      "position_codes": [
+        "UASL"
+      ],
+      "title": "Unmanned Aircraft Systems, Module Leader — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/unmanned-aircraft-systems-module-leader/qualification-requirements",
+      "sha256": "0aa9b27a0cae32ffc18245ee35399ba00d88080407031c873b5ed04d57576979",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/INVL.html",
+      "position_codes": [
+        "INVL"
+      ],
+      "title": "Wildland Fire Investigation Team Leader — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/wildland-fire-investigation-team-leader/qualification-requirements",
+      "sha256": "afb8110114b614a1d534dfb05fcb68d23a7bdbbac7cb9abf954132271dc1d038",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    },
+    {
+      "filename": "requirements/INVF.html",
+      "position_codes": [
+        "INVF"
+      ],
+      "title": "Wildland Fire Investigator — Qualification Requirements",
+      "pms_number": "310-1",
+      "format": "unclassified",
+      "url": "https://www.nwcg.gov/positions/wildland-fire-investigator/qualification-requirements",
+      "sha256": "a7708b9ef11443271081bc4e27ecefe3554d24db8a38dd435159d8b6d6f45e2c",
+      "downloaded_at": "2026-07-09",
+      "role": "qualification_standard",
+      "fixture": false
+    }
+  ],
+  "pending": [
+    {
+      "pms_number": "311-91",
+      "role": "companion_standards",
+      "reason": "Next Gen PTB text has no detectable PMS 350-xxx reference"
+    },
+    {
+      "pms_number": "311-119",
+      "role": "companion_standards",
+      "reason": "Next Gen PTB text has no detectable PMS 350-xxx reference"
+    }
+  ]
+}

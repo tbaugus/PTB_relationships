@@ -1,0 +1,40 @@
+{
+  "position_code": "PSCC",
+  "required_training": [
+    "ICS-400, Advanced ICS for Command and General Staff",
+    "S-420, Command and General Staff OR L-481, Advanced Leadership for Command and General Staff OR O-305, Type 3 All-Hazard Incident Management Team",
+    "S-520, Advanced Incident Management OR Complex Incident Management Course (CIMC)"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Situation Unit Leader ( SITL )",
+    "AND Completion and Certification of NWCG Planning Section Chief Complex (PSCC) Position Task Book , PMS 311-123"
+  ],
+  "required_experience_prereq_codes": [
+    "SITL"
+  ],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Area Commander ( ACDR )",
+    "Assistant Area Commander, Planning ( ACPC )",
+    "Incident Commander Complex ( ICCI )",
+    "Planning Section Chief Type 3 ( PSC3 )",
+    "Resources Unit Leader ( RESL )",
+    "Situation Unit Leader ( SITL )"
+  ],
+  "maintains_currency_for": [
+    "Assistant Area Commander, Planning ( ACPC )",
+    "Demobilization Unit Leader ( DMOB )",
+    "Documentation Unit Leader ( DOCL )",
+    "Incident Commander Complex ( ICCI )",
+    "Planning Section Chief Type 3 ( PSC3 )",
+    "Resources Unit Leader ( RESL )",
+    "Situation Unit Leader ( SITL )",
+    "Status/Check-In Recorder ( SCKN )"
+  ],
+  "other_training": [
+    "L-480, Organizational Leadership in the Wildland Fire Service",
+    "L-580, Leadership is Action",
+    "S-440, Planning Section Chief"
+  ],
+  "note": "Individuals utilizing this pathway must complete the Planning Section Chief Course ( S-440 ) prior to position qualification."
+}

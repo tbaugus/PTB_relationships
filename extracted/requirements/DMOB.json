@@ -1,0 +1,35 @@
+{
+  "position_code": "DMOB",
+  "required_training": [
+    "ICS-200, ICS for Single Resources and Initial Action Incidents",
+    "ICS-300, Intermediate ICS for Expanding Incidents",
+    "IS-800, National Response Framework, An Introduction"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Status/Check-in Recorder ( SCKN )",
+    "AND Completion and Certification of NWCG Position Task Book for Demobilization Unit Leader (DMOB) , PMS 311-115"
+  ],
+  "required_experience_prereq_codes": [
+    "SCKN"
+  ],
+  "physical_fitness": "Physical Fitness Level: None Required",
+  "currency_maintained_by": [
+    "Expanded Dispatch Support Dispatcher ( EDSD )",
+    "Planning Section Chief Complex ( PSCC )",
+    "Planning Section Chief Type 3 ( PSC3 )",
+    "Resources Unit Leader ( RESL )",
+    "Status/Check-in Recorder ( SCKN )"
+  ],
+  "maintains_currency_for": [
+    "Planning Section Chief Type 3 ( PSC3 )",
+    "Resources Unit Leader ( RESL )",
+    "Status/Check-In Recorder ( SCKN )"
+  ],
+  "other_training": [
+    "E/L 965, All-Hazards Position Specific Resources Unit Leader",
+    "L-380, Fireline Leadership",
+    "N-9062, e-ISuite, All Modules",
+    "S-260, Interagency Incident Business Management"
+  ],
+  "note": null
+}

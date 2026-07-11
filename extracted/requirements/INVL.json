@@ -1,0 +1,25 @@
+{
+  "position_code": "INVL",
+  "required_training": [
+    "FI-310, Wildland Fire Investigation: Case Development",
+    "ICS-200, ICS for Single Resources and Initial Action Incidents"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Wildland Fire Investigator ( INVF )",
+    "AND Completion and Certification of NWCG Wildland Fire Investigation Team Leader (INVL) Position Task Book , PMS 311-90"
+  ],
+  "required_experience_prereq_codes": [
+    "INVF"
+  ],
+  "physical_fitness": "Physical Fitness Level: Light",
+  "currency_maintained_by": [],
+  "maintains_currency_for": [
+    "Wildland Fire Investigator ( INVF )"
+  ],
+  "other_training": [
+    "ICS-300, Intermediate ICS for Expanding Incidents",
+    "Interviewing and Interrogation Training",
+    "S-290, Intermediate Wildland Fire Behavior"
+  ],
+  "note": null
+}

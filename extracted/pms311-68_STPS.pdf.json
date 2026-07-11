@@ -1,0 +1,543 @@
+{
+  "document": {
+    "filename": "pms311-68_STPS.pdf",
+    "sha256": "c35bf3d0af4b3154fae44d969f1007b3bca48d335dc4d2c2f9d7c0c36d36cbff",
+    "pms_number": "311-68",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "STPS"
+    ],
+    "title": "Structure Protection Specialist",
+    "edition_date": "JUNE 2009",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 14
+  },
+  "positions": [
+    {
+      "code": "STPS",
+      "title": "Structure Protection Specialist",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "STPS",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for assignment. Suggested items:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Blank Structure Protection Plans",
+        "Triage Checklist forms",
+        "Emergency Response Guide - Hazardous Materials",
+        "Ribbon/flagging - various colors",
+        "Global Positioning System (GPS), camera",
+        "Laptop computer",
+        "Sign kit"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 2,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain maps and demographic information of local area.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "County assessor",
+        "Department of Transportation",
+        "Local fire department",
+        "Law enforcement"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 3,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct self in a professional manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Working relationship with property owners.",
+        "Respectful and courteous.",
+        "Respectful of public and private property."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 4,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 5,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with functional areas within the ICS structure.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 6,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically and as a leader.",
+        "Make sound and timely decisions.",
+        "Ensure tasks are understood, supervised and accomplished.",
+        "Develop your subordinates for the future."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 7,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well- being.",
+        "Keep your subordinates informed.",
+        "Build the team.",
+        "Employ your subordinates in accordance with their capabilities."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 8,
+      "category": "Model leadership values and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement.",
+        "Seek responsibility and accept responsibility for your actions.",
+        "Set the example."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 9,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize potentially hazardous situations.",
+        "Account for assigned resources.",
+        "Ensure resources are briefed on potential hazards and informs resources of special precautions when extraordinary hazards exist."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 10,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine assigned resources ability to complete assignment within time frame.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 11,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 12,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with local fire departments, other agencies, district resources and law enforcement assigned to evacuation and structural protection.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Secure property",
+        "Traffic control",
+        "Evacuation",
+        "Livestock and pets"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 13,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Safety Officer in developing and presenting the Structural Protection Safety Message.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 14,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Utilize multiple resource kinds and types in a coordinated effort by maintaining communications and providing for safe fire suppression operations in and around structures.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 15,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Report to Planning/Operations Section for briefing on incident status.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 16,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Debrief with Agency Administrator/incident supervisor and conduct debriefing with assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 17,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and After Action Reviews (AAR).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 18,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Report and document special occurrences or events (e.g., accidents, structure/improved property loss or damage, sickness) to immediate supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive reports of events from subordinates or personal observation of events (e.g., nature of event, location, magnitude, personnel involved, action taken).",
+        "Request assistance as established in response protocol outlined in the Incident Action Plan (IAP) or relevant plan."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 19,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Submit documentation during demobilization as requested.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 20,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop Structural Protection Plan as identified in the IRPG using available information and incident management objectives.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Equipment placement",
+        "Water use guidelines",
+        "Class A foam use guidelines",
+        "Preparing structures"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 21,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish trigger points for contingency plans.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Obtain buy-in from affected agencies."
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 22,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Evaluate threat to structures based on current and predicted fire behavior.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 23,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide Lookouts, Communications, Escape Routes, Safety Zones (LCES) recommendations related to structural protection planning.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 24,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Estimate number of resources required to provide structure protection.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Evaluate need for equipment, resources, and supplies and convey to Planning and/or Operations Section."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 25,
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate structural triage evaluations and decisions.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Assign structures to triage categories.",
+        "Complete Structure Assessment checklist."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 26,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine need for assistance.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Identify need for additional assistance by monitoring work progress or based on reports from subordinates.",
+        "Coordinate with Operations Section Chief or Branch Director and request assistance according to procedures discussed in briefing.",
+        "Notify Operations Section Chief when resources are moved or shared between divisions/groups, or excess to operational needs."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 27,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prioritize assignments based on existing resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 28,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process found in the IRPG and Fireline Handbook.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Step 1: Situation Awareness",
+        "Step 2: Hazard Assessment",
+        "Step 3: Hazard Control",
+        "Step 4: Decision Point",
+        "Step 5: Evaluate"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 29,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage an incident within an incident and take appropriate action based on established procedure.",
+      "code_raw": "R",
+      "code_alternatives": [
+        "R"
+      ],
+      "clarifications": [
+        "Notify your supervisor of situation",
+        "Document actions taken."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 30,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify excess resources.",
+        "Prepare schedule for demobilization."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "STPS",
+      "task_number": 31,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief subordinate staff on demobilization procedures and responsibilities.",
+        "Ensure incident and agency demobilization procedures are followed."
+      ],
+      "page": 12
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

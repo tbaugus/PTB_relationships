@@ -1,0 +1,269 @@
+{
+  "document": {
+    "filename": "pms311-49_ICPI.pdf",
+    "sha256": "9df2a3ea90411a216d05fd1427bab149f8183bd6e36788e3bc828d6b22af5f1b",
+    "pms_number": "311-49",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "ICPI"
+    ],
+    "title": "Incident Contract Project Inspector",
+    "edition_date": null,
+    "ips_reference": null,
+    "official": true,
+    "page_count": 14
+  },
+  "positions": [
+    {
+      "code": "ICPI",
+      "title": "Incident Contract Project Inspector",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "ICPI",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "NWCG Fireline Handbook, PMS 410-1",
+        "Interagency Incident Business Management Handbook, PMS 902",
+        "Geographic area Supplement to Interagency Incident Business Management Handbook",
+        "National, Regional agreements",
+        "Incident Response Pocket Guide, PMS 461",
+        "National Mobilization Guide",
+        "Supplemental telephone contact list including Contracting Officers",
+        "IBPA / VIPR Agreements (current) or ability to access electronically Forms:",
+        "Incident compliance inspection forms for current agreements",
+        "ICS 214, Unit Log",
+        "ICS 213, General Message",
+        "Contractor Performance Rating Form",
+        "Agency specific forms, i.e., Contract Daily Diary",
+        "Notice of Non-Compliance Forms FS 6300-12 Supplies:",
+        "Accordion file, stapler, staple remover, staples, clipboard (preferable rainproof), paper clips, folders, sticky notes, blue ink ball point pens, large paper clamps, note pads, large manila envelopes (9x12), large filing box, hanging folders, pencils, tape, calculator, batteries, cell phone, tape.",
+        "Optional: Laptop computer, printer, camera, thumb drive"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "ICPI",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon initial activation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Incident order number",
+        "Request number",
+        "Incident phone number",
+        "Reporting time",
+        "Reporting location",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)",
+        "Current situation",
+        "Expected duration of assignment"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ICPI",
+      "task_number": 3,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive at incident and check in.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Arrive properly equipped at assigned location within acceptable time limits."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ICPI",
+      "task_number": 4,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize and maintain work space.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Coordinate space needs with Finance Section or Host Agency.",
+        "Acquire tables, seating, lighting",
+        "Order additional forms and supplies",
+        "Acquire communications equipment: radio, telephones, facsimile and copy machine location.",
+        "Establish filing system",
+        "Establish area to receive procurement documents",
+        "Demonstrate ability to access Dispatch Priority Lists (DPLs), Inspection Forms, and agreements on the Incident Procurement (VIPR) websites"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "ICPI",
+      "task_number": 5,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Create a work environment that provides diversity and equal opportunity for all personnel assigned to the incident.",
+        "Address individual agency values and policies throughout the tenure of the incident."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ICPI",
+      "task_number": 6,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish contacts with incident/agency units to obtain and exchange information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide briefing for incident management team to outline ICPI responsibilities and brief overview of agreements the ICPI will deal with on the incident. – Incident Commander – Human Resource Specialist – Safety Officer – Finance Section Chief – Planning Section Chief – Logistics Section Chief – Operations Section Chief – Host Dispatch Center",
+        "Attend Incident Management Team section meetings as directed by the Finance Section Chief",
+        "Provide daily/ operational period briefing to supervisor on issues and status of contractor compliance. Resolve any concerns or issues within delegated authority."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "ICPI",
+      "task_number": 7,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather information necessary to assess incident assignment and determine immediate needs and actions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Obtain briefing Procurement Unit Leader, Finance Section Chief or host Dispatch Center to: – Establish chain of command. – Establish work schedule. – Determine shift briefing schedule. – Determine process to verify contract personnel",
+        "Obtain briefing from Ground Support Unit Leader to: – Determine layout of Incident Command Post. – Coordinate with/and establish appropriate – Discuss vehicle and equipment inspection",
+        "Obtain current Incident Action Plan",
+        "Identify resources assigned and ordered for the Incident and status of shift placement.",
+        "Use General Message Form to identify your name, position, incident phone number and cell phone for the Incident Action Plan."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "ICPI",
+      "task_number": 8,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Incident Compliance Inspection of National/Regional Agreement / Contract Resources:",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review existing files for evidence of inspection at the incident. Compare resources assigned with completed inspection files. Identify resources requiring inspection.",
+        "Create schedule with appropriate units to conduct inspections as needed. Coordinate notification of inspections required with Operations and Plans.",
+        "Coordinate vehicle inspections with Ground Support. Vehicle safety and mechanical inspections should be conducted by Ground Support.",
+        "Complete resource compliance inspections on both operational and logistical equipment and personnel.",
+        "Verify with Finance Section the following files for each resource: – Updated personnel and equipment manifest – Resource order – Agreement Award Summary – Completed resource inspection forms",
+        "Ensure Contract Resource meets English speaking requirements",
+        "Additional forms for Crew and Engine Inspection: – ICS 224, Crew Performance Rating – Crew Passenger and Cargo Manifest – MSPA (Migrant and Seasonal Protection Act)",
+        "Work with the appropriate unit to insure each member of the contract resource is in compliance with the: – Personal Protective Equipment (PPE) specified – Contractor identification card indicating – Verification of qualification level – Government issued picture identification",
+        "Ensure equipment safety inspections have been completed (e.g. chainsaws, generators)"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "ICPI",
+      "task_number": 9,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Non-compliance, poor or unsatisfactory performance of contracted resource with agreement.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Establish with Incident Management Team terms of acceptance and remedy policy for non-compliance.",
+        "Determine extent / seriousness of non-compliance and/or poor performance; discuss with Procurement Unit Leader, Finance Section Chief, Contracting Officers Representative (COR) or designated Contracting Officer.",
+        "If non-compliance occurs during established assignment at the incident, determine extent/seriousness of non-compliance through communication with Incident Team positions that have direct operational interactions with or responsibility for the resource. Discuss with Procurement Unit Leader, Finance Section Chief, COR or designated Contracting Officer to determine appropriate remedy.",
+        "Provide documented remedy solution to contractor/ contracted resource including compliance time frame. Documentation should be written / typed on compliance inspection forms. Notice of Non- Compliance forms, performance evaluation / review forms, other.",
+        "Document course of action, acceptance and compliance efforts by contractor/contracted resource.",
+        "Provide documentation of non-compliance issues, actions and remedies to Contractor/Contracted Resource, Finance, COR and designated Contracting Officer.",
+        "Ensure performance evaluations are completed by supervisor of contract equipment. Document unsatisfactory performance and report to COR or CO."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "ICPI",
+      "task_number": 10,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Daily duties.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Contact Procurement Unit Leader and Finance Section Chief or host Dispatch Center Manager to resolve any concerns or issues.",
+        "Attend operational briefing to obtain Incident Action Plan, make contact with contracted resources and incident personnel to ascertain compliance issues, schedule inspection times and determine demobilization expectations.",
+        "Attend planning sessions if requested by Finance Section Chief or Procurement Unit Leader.",
+        "Complete daily unit log to document all activities, including compliance and remedy issues."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "ICPI",
+      "task_number": 11,
+      "category": "Ensure demobilization of agreement resources is completed in efficient process.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demobilization of contracted resources with agreements.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Coordinate release inspections. Assist in performing release inspections on equipment inventory and compliance with agreement.",
+        "Use initial inspection form to acknowledge condition of inventory and equipment. Items loaned by incident on emergency basis must have documentation and be returned to Supply.",
+        "Ensure all contract administration documentation is completed.",
+        "Ensure Performance Evaluation has been completed, signed by supervisor and crew boss, and copy placed in file.",
+        "Distribute contract documentation according to established guidelines."
+      ],
+      "page": 12
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

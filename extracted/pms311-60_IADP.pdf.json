@@ -1,0 +1,201 @@
+{
+  "document": {
+    "filename": "pms311-60_IADP.pdf",
+    "sha256": "e8eba74de641b5790c019bc7a9d4920aa3efbb5df52699c974f5624a6dfd9ad9",
+    "pms_number": "311-60",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "IADP"
+    ],
+    "title": "Initial Attack Dispatcher",
+    "edition_date": "JANUARY 2025",
+    "ips_reference": "350-60",
+    "official": true,
+    "page_count": 10
+  },
+  "positions": [
+    {
+      "code": "IADP",
+      "title": "Initial Attack Dispatcher",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "IADP",
+      "task_number": 1,
+      "category": "Leadership Level 2, New Leader (Convey Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications. For additional information, review the Level 2 description, expected behaviors and knowledge, suggested development goals, and self-study opportunities.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "IADP",
+      "task_number": 2,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from supervisor and/or previous shift/assignment position as necessary.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "IADP",
+      "task_number": 3,
+      "category": "Perform Initial Attack Dispatcher-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform daily non-incident tasks.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "IADP",
+      "task_number": 4,
+      "category": "Perform Initial Attack Dispatcher-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Receive and document initial incident information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "IADP",
+      "task_number": 5,
+      "category": "Perform Initial Attack Dispatcher-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Mobilize an incident response.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "IADP",
+      "task_number": 6,
+      "category": "Perform Initial Attack Dispatcher-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage incident requests.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "IADP",
+      "task_number": 7,
+      "category": "Perform Initial Attack Dispatcher-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Track incident intelligence.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "IADP",
+      "task_number": 8,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain communication with frequent contacts.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "IADP",
+      "task_number": 9,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in briefings and/or After Action Reviews (AARs).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "IADP",
+      "task_number": 10,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Implement risk management strategies.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "IADP",
+      "task_number": 11,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete all administrative tasks and documentation in an accurate and timely manner.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 7
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 7
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 7
+    }
+  ],
+  "extra_fields": {}
+}

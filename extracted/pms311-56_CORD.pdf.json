@@ -1,0 +1,243 @@
+{
+  "document": {
+    "filename": "pms311-56_CORD.pdf",
+    "sha256": "6cf45da56d9ad04d0bd6993eb8e101f0a32a46320d94ca07bb63d55b2803db0a",
+    "pms_number": "311-56",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "CORD"
+    ],
+    "title": "Expanded Dispatch Coordinator",
+    "edition_date": "NOVEMBER 2024",
+    "ips_reference": "350-56",
+    "official": true,
+    "page_count": 11
+  },
+  "positions": [
+    {
+      "code": "CORD",
+      "title": "Expanded Dispatch Coordinator",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "CORD",
+      "task_number": 1,
+      "category": "Leadership Level 4, Leader of Leaders (Provide Direction)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "The distance between the leader and the led increases the challenges of leading. Subordinate leaders frequently work in other locations, so face-to-face communication is not always possible. As a result, the circumstances for building trust are more complex; even so, the trust must withstand the pressures of time and distance, enabling leaders to confidently communicate intent and delegate responsibility. These leaders act as the conduit between the organization and the people on the ground, interpreting the vision into mission and translating abstract ideas so subordinate leaders can take definitive action.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "CORD",
+      "task_number": 2,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain briefing from the Expanded Dispatch Supervisory D ispatcher (EDSP), Center Manager (CM), Expanded Dispatch Coordinator (CORD), or Agency Administrator (AA).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "CORD",
+      "task_number": 3,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish operations and communication with supervisor(s) and leadership.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CORD",
+      "task_number": 4,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Supervise and manage staff.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CORD",
+      "task_number": 5,
+      "category": "Perform Expanded Dispatch Coordinator- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain communication with relevant contacts.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CORD",
+      "task_number": 6,
+      "category": "Perform Expanded Dispatch Coordinator- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor, evaluate, and prioritize workload.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CORD",
+      "task_number": 7,
+      "category": "Perform Expanded Dispatch Coordinator- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate and facilitate dispatch center operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CORD",
+      "task_number": 8,
+      "category": "Perform Expanded Dispatch Coordinator- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate incident status with the local Dispatch Center Manager (CM) and agency leadership.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CORD",
+      "task_number": 9,
+      "category": "Perform Expanded Dispatch Coordinator- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain situational awareness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CORD",
+      "task_number": 10,
+      "category": "Perform Expanded Dispatch Coordinator- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Attend meetings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CORD",
+      "task_number": 11,
+      "category": "Perform Expanded Dispatch Coordinator- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct daily briefings.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CORD",
+      "task_number": 12,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct briefings and/or After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CORD",
+      "task_number": 13,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage administrative tasks and documentation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "CORD",
+      "task_number": 14,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare for and implement demobilization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 8
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 8
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 8
+    }
+  ],
+  "extra_fields": {}
+}

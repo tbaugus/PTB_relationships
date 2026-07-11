@@ -1,0 +1,27 @@
+{
+  "position_code": "HECM",
+  "required_training": [
+    "A-110, Aviation Transportation of Hazardous Material (Triennial)",
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-271, Helicopter Crewmember"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Firefighter Type 2 ( FFT2 )",
+    "AND Completion of NWCG Position Task Book for Helicopter Crewmember (HECM) , PMS 311-22"
+  ],
+  "required_experience_prereq_codes": [
+    "FFT2"
+  ],
+  "physical_fitness": "Physical Fitness Level: Arduous",
+  "currency_maintained_by": [
+    "Deck Coordinator ( DECK )",
+    "Helibase Manager ( HEBM )",
+    "Helicopter Manager, Single Resource ( HMGB )"
+  ],
+  "maintains_currency_for": [
+    "Aircraft Base Radio Operator ( ABRO )",
+    "Firefighter Type 2 ( FFT2 )"
+  ],
+  "other_training": [],
+  "note": null
+}

@@ -1,0 +1,619 @@
+{
+  "document": {
+    "filename": "pms311-91_FAL2.pdf",
+    "sha256": "d2ec10c1cbdf0909fd3b16e640848c8ca013d2e919d83570cbdcef8c1d3d279e",
+    "pms_number": "311-91",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "FAL2"
+    ],
+    "title": "Intermediate Faller",
+    "edition_date": "JANUARY 2026",
+    "ips_reference": null,
+    "official": true,
+    "page_count": 14
+  },
+  "positions": [
+    {
+      "code": "FAL2",
+      "title": "Intermediate Faller",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "FAL2",
+      "task_number": 1,
+      "category": "Leadership Level 2, New Leader (Convey Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Comply with FAL2 position standards as defined in NWCG St andards for Wildland Fire Chainsaw Operations, PMS 212, and established agency standards for saw operating procedures.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 3,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure individual and equipment readiness. Have proper PPE, ch ainsaw kit, necessary forms, and reference material (e.g., PTB, IRPG).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 4,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Travel to work site or assignment and check in with supervisor or dispatch upon arrival.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 5,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Actively participate in initial briefing from supervisor.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 6,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in the development, implementation, and direction of chainsaw related objectives, priorities, and work assignments for saw team members.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 7,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop a communication plan for working with swamper(s) to improve safety and efficiencies.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 8,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in training and mentoring Basic Fallers (FAL3) in the classroom and field.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 9,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate an understanding of chainsaw component functions and the mechanical proficiency necessary to perform periodic maintenance and repairs sufficient to keep equipment in working order.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 10,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Clearly articulate the objective of a moderate complexity chainsaw operation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 11,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Utilize the “outside-in, top-down” approach to perform a hazard assessment. Hazards should be articulated and mitigation controls developed and implemented if necessary.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 12,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate an understanding of tree anatomy and defects contributing to failure in a variety of tree species.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 13,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine tree structural stability and potential fiber characteristics through use of boring techniques and sounding. Accurately determine both the natural and calculated leans in a",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 14,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "moderate complexity felling operation. • Quantify and verbalize the calculated lean, in feet, for both forward/back lean and side to side lean relative to the objective. • Demonstrate the ability to use a plumb bob, axe, or limb-",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 15,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "weight distribution method to determine leans. Develop an escape plan, free of obstructions, that takes into consideration the good side and bad side of the tree. Multiple escape paths are preferred but may not be available.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 16,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop a cutting plan that includes the appropriate undercut type, depth, and location, backcut placement, acceptable hinge width and length, and acceptable stump shot, relative to the objective and the determined good/bad side of the tree.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 17,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop a wedging plan that includes the appropriate size, number, and placement of wedges.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 18,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine the overall complexity of the chainsaw operation and make a go/no-go decision.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 19,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and safely execute a cutting plan to fell a moderate complexity hazard tree (fire weakened or structurally compromised).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 20,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and safely execute a cutting plan to mitigate a moderate complexity hung-up tree.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 21,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and safely execute a cutting plan to directionally fell a tree with side lean.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 22,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and safely execute a cutting plan to directionally fell a tree with back lean.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 23,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and safely execute a cutting plan to fell a tree with significant forward lean.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 24,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recognize changes in complexity or deviation from initial cutting plan, verbalize corrections, and reinitiate procedural sizeup.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 25,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Following a moderate complexity felling operation, conduct a stump analysis and demonstrate an understanding of cause and effect of the observed cuts relative to the objective and final lay.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 26,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Correctly identify binds, manage tension and compression forces, and accurately anticipate movement of limbs or downed logs while safely executing a moderate complexity limbing operation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 27,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Correctly identify binds, manage tension and compression forces, and plan for cut material disposal while safely executing a moderate complexity bucking operation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 28,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate an understanding of various techniques, cut sequencing, and sawyer/swamper positioning to increase safety and efficiency during a moderate complexity brushing operation.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 29,
+      "category": "Perform Intermediate Faller Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Perform the duties of a FAL2 on a wildland fire or prescribed fire incident.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 30,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Before engaging, receive a thorough briefing, ask clarifying questions, and voice concerns related to chainsaw operation specifications and expectations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 31,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive communication and coordination with saw teams, your crew, adjoining resources, and supervisors in the work area.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 32,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Clearly identify safety hazards and no-work zones in coordination with supervisors and adjacent resources.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 33,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Lead and participate in debriefings, AARs, and information sharing.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 34,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine the effects of fuels, topography, weather factors, or fire behavior on chainsaw operations. Maintain situational awareness and evaluate the need for Lookouts, Communications, Escape Routes, and Safety Zones (LCES) to all chainsaw operations.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 35,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure a medical response plan is in place for the current or planned chainsaw operation. Demonstrate an understanding of the necessary components of an effective medical response plan and anticipate a potential response to an Incident Within an Incident (IWI).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 36,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop and follow safe cutting area practices when using a swamper during chainsaw operations.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 37,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain work area and cutting area control.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 38,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Recognize changes in operational complexity and adjust tactics and plan accordingly.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 39,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Return equipment and supplies to appropriate units.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 40,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete demobilization checkout process before being released from the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "FAL2",
+      "task_number": 41,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Upon demobilization, report status to the home unit including reassignment or estimated time of arrival (ETA) to the home unit.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 8
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 9
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 9
+    },
+    {
+      "field_name": "fbps_fuel_model",
+      "page": 4
+    }
+  ],
+  "extra_fields": {}
+}

@@ -1,0 +1,35 @@
+{
+  "position_code": "LTAN",
+  "required_training": [
+    "ICS-300, Intermediate ICS for Expanding Incidents",
+    "IS-800, NRF: An Introduction",
+    "RT-130, Wildland Fire Safety Training Annual Refresher (WFSTAR)",
+    "S-390, Introduction to Wildland Fire Behavior Calculations",
+    "S-490, Advanced Wildland Fire Behavior Calculations",
+    "S-491, Intermediate National Fire Danger Rating System",
+    "S-495, Geospatial Fire Analysis, Interpretation and Application",
+    "S-590, Advanced Fire Behavior Interpretation"
+  ],
+  "required_experience": [
+    "Satisfactory performance as a Fire Behavior Analyst ( FBAN )",
+    "AND Completion and Certification of NWCG Position Task Book for Long Term Analyst (LTAN) , PMS 311-124"
+  ],
+  "required_experience_prereq_codes": [
+    "FBAN"
+  ],
+  "physical_fitness": "Physical Fitness Level: Moderate",
+  "currency_maintained_by": [
+    "Fire Behavior Analyst ( FBAN )"
+  ],
+  "maintains_currency_for": [
+    "Fire Effects Monitor ( FEMO )",
+    "Strategic Operational Planner ( SOPL )"
+  ],
+  "other_training": [
+    "BEHAVE PLUS",
+    "N-9035, Remote Automated Weather Stations",
+    "M-410, Facilitative Instructor",
+    "RX-410, Smoke Management Techniques"
+  ],
+  "note": null
+}

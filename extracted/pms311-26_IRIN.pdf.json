@@ -1,0 +1,621 @@
+{
+  "document": {
+    "filename": "pms311-26_IRIN.pdf",
+    "sha256": "14583f561603bddb03689ef234f3b66a43de68756ad211e8d9f5e35d5a7e96fc",
+    "pms_number": "311-26",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "IRIN"
+    ],
+    "title": "Infrared Interpreter",
+    "edition_date": null,
+    "ips_reference": null,
+    "official": true,
+    "page_count": 15
+  },
+  "positions": [
+    {
+      "code": "IRIN",
+      "title": "Infrared Interpreter",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "IRIN",
+      "task_number": 1,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain and assemble information and materials needed for kit. Suggested items:",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Adequate software and hardware for infrared interpretation and product production.",
+        "List of pertinent websites/passwords.",
+        "List of local/regional contacts to obtain base data for the incident (e.g., GISS, Information Technology Specialist).",
+        "Methods of data transfer.",
+        "Adequate office supplies (red and black permanent markers, pocket magnifying glass/loop, rubber bands, ruler/scale, calculator).",
+        "PMS 410-1, Fireline Handbook.",
+        "Infrared Operations Manual.",
+        "S-443 DVD"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 2,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain complete information from dispatch upon assignment.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [
+        "Incident name",
+        "Order number",
+        "Request number",
+        "Financial codes",
+        "Approvals (rental car, hotel, cell phone, laptop, remote work, and others, depending on assignment.",
+        "Reporting location",
+        "Reporting time",
+        "Transportation arrangements/travel routes",
+        "Contact procedures during travel (telephone/radio)",
+        "Current situation",
+        "Expected duration of assignment",
+        "Whether working alone or as part of a “pod.”"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 3,
+      "category": "Ensure readiness for assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Arrive at incident and check in.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Arrive properly equipped at assigned location within acceptable time limits.",
+        "Notify Situation Unit Leader or alternate supervisor of arrival and location."
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 4,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain work materials, data, and equipment necessary to accomplish assigned tasks within specified time frames.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Order additional materials, data (including digital background files and incident data files), and equipment according to established incident specific guidelines.",
+        "Obtain transportation to and from airport, local office and Incident Command Posts, or designated areas (if applicable).",
+        "Obtain place to stay near airport and local office (if applicable)."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 5,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize work area.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Ensure nighttime access to work location.",
+        "Ensure safe and efficient accomplishment of task.",
+        "Ensure acceptable internet access.",
+        "Recognize and meet priorities within established time frames."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 6,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from Situation Unit Leader or supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Understand schedule for planning section meeting.",
+        "Priorities, additional desired products (if time permits), time limits for completion, methods and timing of communication, and methods and timing of delivery of infrared products to accomplish role in assigned tasks.",
+        "Needs for personnel and facilities.",
+        "Location of work area."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 7,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather logistical information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident base facilities.",
+        "Equipment and supplies available (e.g., plotter, computers, network, fax/copy machines)."
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 8,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather information necessary to assess incident assignment and determine immediate needs and actions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Local airport location, capability (runway length and condition), and nighttime access (if applicable).",
+        "Local office space available to work from.",
+        "Incident and local dispatch phone numbers",
+        "Fire location, latitude and longitude, elevation, fires within a complex (incident and local dispatch radio frequencies)",
+        "Concerns of incident including priority areas of incident (east flank, north flank), and management action points.",
+        "Weather forecast",
+        "Information sources include Situation Unit Leader, IAP, resource order, local dispatch, situation reports."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 9,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct self in a professional manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Respectful and courteous.",
+        "Respectful of public and private property."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 10,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 11,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the ICS.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Follow chain of command.",
+        "Maintain appropriate span of control.",
+        "Use appropriate ICS forms.",
+        "Use appropriate ICS terminology."
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 12,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 13,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain direct communications with Infrared Coordinator Regional or National and/or flight crew.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 14,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare for and give briefing to SITL and/or others as determined by the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 15,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Upload interpreted infrared maps, digital geospatial data, and IRIN logs to relevant FTP sites or other accessible location.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 16,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide written documentation, digital data, and products developed during the incident to the Documentation Unit and others as requested.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 17,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Interpret digital infrared data to produce infrared map using recommended map symbols and applicable cartographic principles and digital spatial data layers.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "STANDGL (scale, title, author, north arrow, date/time, lat/long grid, legend)"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 18,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather data, complete and distribute the Infrared Interpreters Daily Log.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Post and distribute the log and review with SITL."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 19,
+      "category": "Gather, produce and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Utilize recommended data file structure and naming conventions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 20,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Place Infrared Scanner Order using incident information and IR Scanner Request website and following aircraft ordering procedures.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Coordinate with SITL",
+        "A# from local dispatch",
+        "Scan box latitudes/longitudes",
+        "Incident elevation/size/weather",
+        "Contact information",
+        "Mission objective and description"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 21,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Confirm that IR Scanner Request was received, time of scheduled flight, and time and method of data delivery.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "IR Scanner Request website, contact with flight crew and/or National or Regional Infrared Coordinator",
+        "Flight following (e.g., AFF or Flightaware, Google Earth"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 22,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify and obtain background digital data from on-line or other data sources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Background (e.g., topographic maps, natural color or black and white orthoimagery)",
+        "Incident (e.g., incident perimeter, ICS points)"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 23,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Access raw Infrared data from NIROPS data distribution or other site and/or by direct hand-off from flight crew.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 24,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review infrared imagery for imagery issues, note in Infrared Interpreters Log, and report severe problems to flight crew and/or Infrared Coordinator National/Regional.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Fire pixels in noise",
+        "Super heated gas, bloom",
+        "Misalignment of ortho or poor georectification",
+        "Fire pixels where no actual heat is on the ground",
+        "Gaps due to clouds or areas not covered by imagery",
+        "Take into account any possible distortion on the edge of imagery, particularly in steep terrain"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 25,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Accurately interpret infrared imagery.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Identify heat perimeter",
+        "Check for fire pixels re-sampled out of the ortho image due to projection issues",
+        "Identify isolated heat sources inside and outside of heat perimeter",
+        "Identify areas of intense and/or scattered heat"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 26,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Determine acreage.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Calculate acreage inside heat perimeter",
+        "Document acreage on Infrared Interpreter Daily Log (and possibly on map as directed by SITL)."
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 27,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Review Infrared map and geospatial layers for accuracy, correcting any errors and notifying SITL/GISS of any errors immediately.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 28,
+      "category": "Utilize information to produce outputs.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create all applicable Infrared geospatial data layers, including Heat Perimeter (polygon), isolated Heat Sources (points), Intense Heat (polygon), and Scattered Heat Sources (polygon).",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Heat sources data layer may contain heat sources both inside and outside the heat perimeter",
+        "Complete all data layers applicable to the situation",
+        "Supply additional data layers and formats on request, as time allows"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 29,
+      "category": "Utilize information to produce outputs.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create digital Infrared heat map within established guidelines and time frames, using recommended Infrared map symbols and standard ICS map symbols, depicting all applicable IR geospatial data layers (heat perimeter, isolated heat sources, intense heat, gaps in coverage etc.), conforming to recommended map elements STANDGL",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Use agreed upon size and background (usually a topographic map) for map and save in formats easily plotted.",
+        "Add interpreted acreage as directed by SITL.",
+        "May plot a paper version if giving briefing at camp or if requested by others and approved by SITL."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 30,
+      "category": "Utilize information to produce outputs.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete daily log and supply to SITL, include calculated acres, imagery issues, location of heat, especially in relation to any management action points or other areas of concern.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Use land features to describe heat locations."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 31,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow recommended procedures for IRIN.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 32,
+      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow established safety procedures.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [
+        "Work/Rest, Length of Assignment and Days Off.",
+        "Incident Operations Driving",
+        "Airport/aircraft safety procedures"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 33,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), IRIN, IRCN/IRCR, host agency).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform SITL, flight crew, Infrared Coordinator Regional/National.",
+        "Document follow-up action needed and submit to supervisor."
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "IRIN",
+      "task_number": 34,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demobilize and check out.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Receive demobilization instructions from incident supervisor.",
+        "If required, complete ICS 221, Demobilization Checkout and submit completed form to the appropriate person."
+      ],
+      "page": 13
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}

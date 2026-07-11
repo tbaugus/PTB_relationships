@@ -1,0 +1,869 @@
+{
+  "document": {
+    "filename": "pms311-20_HEBM.pdf",
+    "sha256": "942fda11dbb09e52138ba059daa518db569127cf5b5582ba441ae3e02c539032",
+    "pms_number": "311-20",
+    "format": "nwcg_legacy",
+    "position_codes": [
+      "HEBM"
+    ],
+    "title": "Helibase Manager",
+    "edition_date": null,
+    "ips_reference": null,
+    "official": true,
+    "page_count": 16
+  },
+  "positions": [
+    {
+      "code": "HEBM",
+      "title": "Helibase Manager",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "HEBM",
+      "task_number": 1,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Order or release aircraft through appropriate channels if needed.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 2,
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assess personnel qualifications and aircraft capabilities.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 3,
+      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain initial briefing from supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Incident objectives as stated in Incident Action Plan (IAP) or other relevant plan",
+        "Operation strategy",
+        "Location of helibase site",
+        "Number and type of helicopters on site",
+        "Incident and hazard maps"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 4,
+      "category": "Establish effective relationships with relevant personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 5,
+      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify helibase positions filled and staff other positions as needed.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 6,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop the organization structure necessary to manage the incident.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Maintain appropriate span of control"
+      ],
+      "page": 6
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 7,
+      "category": "Understand and comply with ICS concepts and principles.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with functional areas within the ICS structure.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 8,
+      "category": "Model leadership values and principles",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of duty.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Be proficient in your job, both technically, and as a leader",
+        "Make sound and timely decisions",
+        "Ensure tasks are understood, supervised, and accomplished",
+        "Develop your subordinates for the future"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 9,
+      "category": "Model leadership values and principles",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of respect.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know your subordinates and look out for their well-being",
+        "Keep your subordinates informed",
+        "Build the team",
+        "Employ your subordinates in accordance with their capabilities"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 10,
+      "category": "Model leadership values and principles",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Exhibit principles of integrity.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Know yourself and seek improvement",
+        "Seek responsibility and accept responsibility for your actions",
+        "Set the example"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 11,
+      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Recognize, mitigate, and communicate potentially hazardous situations",
+        "Monitor condition of assigned resources",
+        "Account for assigned resources",
+        "Provide for care of assigned personnel and notify supervisor in event of sickness, injury, or accident"
+      ],
+      "page": 7
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 12,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete daily review of staffing requirements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 13,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop schedule/assignments based on IAP or relevant plan.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 14,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure subordinates understand assignment for operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide clear, concise instructions, and allow for feedback"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 15,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Continually evaluate performance.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Communicate deficiencies immediately and take corrective action",
+        "Provide training opportunities where available",
+        "Complete personnel performance evaluations according to agency guidelines"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 16,
+      "category": "Establish work assignments and performance expectations, monitor",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure adherence to pilot duty limitations and day-off schedules.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 17,
+      "category": "Emphasize teamwork.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish cohesiveness among assigned resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide for open communication",
+        "Seek commitment",
+        "Set expectations for accountability",
+        "Focus on the team result"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 18,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with other functional bases (e.g., helibases, helispots, camps, helitorch base, fuel depots, fixed- wing bases, helitanker sites, and dip sites).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Staffing",
+        "Communications",
+        "Hazards"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 19,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Safety Officer to review plans and operation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 20,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Finance/Administration Section to monitor agreements.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Land use",
+        "Water use"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 21,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Medical Unit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review ICS 206, Medical Plan",
+        "Identify medevac aircraft and crew.",
+        "Arrange briefing for medical personnel",
+        "Provide list of equipment and qualified Emergency Medical Technicians (EMTs)"
+      ],
+      "page": 8
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 22,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with local dispatch or Incident Management Team (IMT).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Define initial attack responsibility",
+        "Obtain hazard maps",
+        "Contact vendors, technical specialist, etc."
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 23,
+      "category": "Coordinate interdependent activities.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Logistics Section.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Supply (e.g., ordering procedures (ICS 213, General Message); aerial cargo (tag and mark with destination); back-haul from camps, line, helibase, and helispots; supplies and equipment)",
+        "Ground Support (e.g., personnel transportation, back-haul equipment, rented equipment usage)",
+        "Facilities (e.g., helibase security, sanitation/garbage pickup, sleeping areas/shade)",
+        "Communication (e.g., radios, batteries, and antennas, Victor frequencies, repeater placement/repair, cellular, and satellite phones)"
+      ],
+      "page": 9
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 24,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with supervisor.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide input for Air Operations Summary (aircraft availability, number of aircraft by type, hours of availability, etc.)",
+        "Receive mission objectives and priorities",
+        "Share information on helibase activities, limitations",
+        "Exchange information on maintenance schedules/unavailability",
+        "Establish ordering procedures with helibase resources (ordering authority)",
+        "Report daily aircraft and equipment costs",
+        "Request maps and IAP or relevant plan for flight crews"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 25,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate with Air Tactical Group Supervisor and/or Helicopter Coordinator.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Provide flight following",
+        "Support tactical missions",
+        "Provide for airspace coordination"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 26,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Brief and debrief aircrews and helicopter personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 27,
+      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in functional area briefings and After Actions Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 28,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain helibase log.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 10
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 29,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete Daily Helicopter Operations Briefing Checklist.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Review with helibase personnel",
+        "Ensure pilots sign Daily Helicopter Operations Briefing Checklist"
+      ],
+      "page": 10
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 30,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure completion of required documentation.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Daily cost summaries for aircraft and equipment (e.g., water trucks, fuel tenders, and other rental equipment)",
+        "Crew time reports",
+        "Potential claims",
+        "ICS 214, Unit Log"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 31,
+      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure helibase documentation is passed to appropriate personnel from IMT or local unit at time of demobilization.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 11
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 32,
+      "category": "Gather, produce, and distribute information as required by established",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Post relevant plans.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "IAP or other relevant plan",
+        "Communication",
+        "Crash Rescue/Medevac Evacuation"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 33,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in air operations planning.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform Air Support Group Supervisor or Air Operations Branch Director of helibase activities",
+        "Prepare resource capability chart",
+        "Request or adjust Temporary Flight Restriction (TFR)"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 34,
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop plans relevant to aviation operations.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Crash Rescue/Medevac Evacuation Plan"
+      ],
+      "page": 11
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 35,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Inspect, approve, and number helispots.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Location on IAP maps.",
+        "Limitations (e.g., Type I, II, III; medevac sites; Hover in Ground Effect (HIGE); Hover out of Ground Effect (HOGE))"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 36,
+      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain weather briefings and updates.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 37,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify helispot locations and arrange for construction.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 38,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish helibase.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Site selection",
+        "Hazards",
+        "Land ownership",
+        "Communication needs"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 39,
+      "category": "Make appropriate decisions based on analysis of gathered information.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and monitor dipsites.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 40,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process found in the IRPG and Fireline Handbook.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Step 1: Situation Awareness",
+        "Step 2: Hazard Assessment",
+        "Step 3: Hazard Control",
+        "Step 4: Decision Point",
+        "Step 5: Evaluate"
+      ],
+      "page": 12
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 41,
+      "category": "Take appropriate action based on assessed risks.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Receive and respond to special mission requests.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 12
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 42,
+      "category": "Anticipate, recognize, and mitigate unsafe situations.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate and correct potential actions or conditions that would affect safety.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Helibase growth",
+        "Dust abatement",
+        "Communication",
+        "Traffic"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 43,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure additional safety equipment is available at helibase.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Personal protective equipment (PPE)",
+        "Fire extinguishers",
+        "Crash/rescue kit"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 44,
+      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Implement helibase checklist.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Establish flight following procedures",
+        "Identify flight hazards (e.g., wires, cables, local wind, weather phenomena)",
+        "Establish fueling site and procedures",
+        "Check load calculations for completeness, accuracy, and currency",
+        "Establish traffic pattern for aircraft and vehicles",
+        "Establish approach/departure paths for aircraft."
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 45,
+      "category": "Ensure functionality of equipment.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Report equipment repair needs as appropriate.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 13
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 46,
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Inform subordinate staff and IC",
+        "Document follow-up action needed and submit to supervisor"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 47,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Anticipate demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Identify excess resources",
+        "Prepare schedule for demobilization"
+      ],
+      "page": 13
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 48,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure demobilization of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Brief subordinate staff on demobilization procedures and responsibilities",
+        "Ensure incident and agency demobilization procedures are followed"
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 49,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Coordinate demobilization with appropriate personnel from IMT or local unit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [
+        "Aircraft",
+        "Personnel",
+        "Equipment",
+        "Radio frequencies",
+        "TFRs"
+      ],
+      "page": 14
+    },
+    {
+      "position_code": "HEBM",
+      "task_number": 50,
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate ability to safely and effectively manage a complex helibase, as defined by having “yes” on nine or more analysis boxes of the Helibase Management Incident Complexity Analysis, HBM-1A.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 14
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "per_task_completion_date",
+      "page": 6
+    }
+  ],
+  "extra_fields": {}
+}
