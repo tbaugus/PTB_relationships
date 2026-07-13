@@ -7,9 +7,6 @@ __pycache__/
 # records url + sha256 for every file.
 corpus/raw/
 
-# The database is rebuilt from extracted/ with `py src/ptb/db.py`.
-data/ptb.sqlite
-
 # Transient worklist produced when new candidate pairs need adjudication.
 data/pending_adjudication.json
 
@@ -19,3 +16,9 @@ data/pending_adjudication.json
 #   data/adjudications.json    - Claude's rubric verdicts (precious)
 #   data/confirmations.json    - your human review decisions (precious)
 #   reports/              - generated but useful to browse on GitHub
+#   data/ptb.sqlite       - normally rebuilt (`py src/ptb/db.py`) and NOT
+#     committed, but corpus/raw/ (the PDFs db.py needs for its provenance
+#     check) is 95MB and gitignored, so a fresh clone/hosted deployment
+#     (e.g. Streamlit Community Cloud) can't rebuild it - committing this
+#     ~3MB snapshot lets app.py run read-only anywhere without the PDFs.
+#     Still rebuild-and-recommit locally after any real corpus change.

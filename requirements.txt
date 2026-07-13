@@ -1,0 +1,8 @@
+# Dependencies for app.py (the Streamlit test console), which is all that
+# runs on a hosted deployment - it only imports src/ptb/db.py and
+# src/ptb/gap.py, both pure-Python + pydantic, reading the already-built
+# data/ptb.sqlite. The full pipeline (acquire/extract/match) needs more
+# (pdfplumber, sentence-transformers, beautifulsoup4, ...) but those never
+# run in this deployment - install them locally with pip as needed instead.
+streamlit>=1.59
+pydantic>=2.13
