@@ -162,6 +162,21 @@ gap-analysis.spec.md for the split handling.
 
 ## Changelog
 
+- 2026-07-12 (context rule, SME-calibrated): added rubric rule 6 — **category
+  framing governs over wording**: a candidate pair whose two sides' task-book
+  category families share nothing (e.g. "Gather, analyze, and validate" vs
+  "Ensure relevant information is exchanged" — doing vs overseeing) is
+  related_not_equivalent even when the wording matches, because the books
+  frame materially different behavioral contexts. Evidence: SME review of the
+  first 51 checklist rows (6 "Unlikely", 4 "Not sure"); the codified rule
+  (src/ptb/context.py) reproduced 5/6 of her Unlikely calls with 1 false
+  alarm on her 41 confirms, while broader role-based variants mis-flagged
+  6/41 and were rejected. Applied 2026-07-12 with the user's approval of
+  aggressive narrowing: 304 rule demotions + 1 explicit SME demotion; her 41
+  confirms protected. Each objective also carries a Bloom's-taxonomy level
+  (src/ptb/blooms.py -> data/blooms.json); a Bloom gap >= 2 or a
+  cross-domain + role-altitude split marks surviving pairs "Check context
+  first" on the review sheet without auto-demotion.
 - 2026-07-10 (Phase 4 build): (1) relation set gained `b_subsumes_a` —
   the schema's `task_a_id < task_b_id` ordering cannot otherwise represent a
   subsumer holding the larger id, and this spec's own rubric case 3 (ENGB #8

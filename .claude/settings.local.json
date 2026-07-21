@@ -22,7 +22,8 @@
       "PowerShell(py \"C:\\\\Users\\\\tbaug\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-tbaug-OneDrive-Desktop-PTB-relationships\\\\ea9e4963-8e2b-49c2-9b03-053ddf81383e\\\\scratchpad\\\\dump_ptb.py\" \"C:\\\\Users\\\\tbaug\\\\OneDrive\\\\Desktop\\\\PTB relationships\\\\corpus\\\\raw\\\\pms311-103_ENGB.pdf\" 5 8)",
       "PowerShell(py \"C:\\\\Users\\\\tbaug\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-tbaug-OneDrive-Desktop-PTB-relationships\\\\ea9e4963-8e2b-49c2-9b03-053ddf81383e\\\\scratchpad\\\\dump_ptb.py\" \"C:\\\\Users\\\\tbaug\\\\OneDrive\\\\Desktop\\\\PTB relationships\\\\corpus\\\\raw\\\\pms-311-98_CRWB.pdf\" 5 7)",
       "PowerShell(py \"C:\\\\Users\\\\tbaug\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-tbaug-OneDrive-Desktop-PTB-relationships\\\\ea9e4963-8e2b-49c2-9b03-053ddf81383e\\\\scratchpad\\\\dump_ptb.py\" \"C:\\\\Users\\\\tbaug\\\\OneDrive\\\\Desktop\\\\PTB relationships\\\\corpus\\\\raw\\\\pms311-14_FFT1.pdf\" 5 7)",
-      "PowerShell(py \"C:\\\\Users\\\\tbaug\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-tbaug-OneDrive-Desktop-PTB-relationships\\\\ea9e4963-8e2b-49c2-9b03-053ddf81383e\\\\scratchpad\\\\dump_ptb.py\" \"C:\\\\Users\\\\tbaug\\\\OneDrive\\\\Desktop\\\\PTB relationships\\\\corpus\\\\raw\\\\pms311-105_FIRB.pdf\" 5 7)"
+      "PowerShell(py \"C:\\\\Users\\\\tbaug\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-tbaug-OneDrive-Desktop-PTB-relationships\\\\ea9e4963-8e2b-49c2-9b03-053ddf81383e\\\\scratchpad\\\\dump_ptb.py\" \"C:\\\\Users\\\\tbaug\\\\OneDrive\\\\Desktop\\\\PTB relationships\\\\corpus\\\\raw\\\\pms311-105_FIRB.pdf\" 5 7)",
+      "Bash(py -c ' *)"
     ]
   }
 }
