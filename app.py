@@ -164,7 +164,13 @@ with tab_gap:
 
             for pg in results:
                 remaining = len(pg.gaps_tasks) + len(pg.gaps_context_only) + len(pg.gaps_requirements)
-                draft_badge = f" — {gap.DRAFT_LABEL}" if pg.draft else ""
+                # getattr fallback: Streamlit Cloud hot-reloads app.py but can
+                # keep a previously-imported ptb.gap cached in sys.modules, so a
+                # brand-new module attribute may be briefly absent right after a
+                # push (until the app process fully restarts). Degrade to the
+                # literal rather than crash; the value is identical to gap.DRAFT_LABEL.
+                draft_label = getattr(gap, "DRAFT_LABEL", "NTFT standard")
+                draft_badge = f" — {draft_label}" if pg.draft else ""
                 with st.expander(f"{pg.position} — {pg.title}{draft_badge}  ·  {remaining} remaining", expanded=(remaining == 0)):
                     st.write(f"{len(pg.satisfied)}/{pg.total_slots} task slots satisfied.")
 
