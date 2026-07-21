@@ -102,14 +102,18 @@ Key findings that shaped the specs:
   codes (O/I/W/RX/R/S/ALL) — equivalence and context-satisfaction are separate
   concerns (matching.spec.md vs gap-analysis.spec.md).
 - Google Doc unblocked and exported 2026-07-09 (PDF + DOCX in corpus/raw/):
-  11 draft "FireTech" positions (UAS ignition, geospatial, detection ML,
-  robotics, autonomy, fire modeling) that chain into official NWCG positions
-  via prerequisites/attaches-to. The enhanced format contributes fields no
-  NWCG format has (per-task Level tiers, training + cost, qualification
-  stacks, currency, fitness, workforce estimates) — now in the format-gaps
-  field inventory — and self-describes as NOT official NWCG standards, so
-  `official=0` provenance and draft labeling run through schema, gap output,
-  and app surfaces. It also redefines code `O`; handled in matching/gap specs.
+  11 "FireTech" positions — the **NTFT (Novel Thinking Fire Tech)** set
+  (UAS ignition, geospatial, detection ML, robotics, autonomy, fire modeling)
+  that chain into official NWCG positions via prerequisites/attaches-to. The
+  enhanced format contributes fields no NWCG format has (per-task Level tiers,
+  training + cost, qualification stacks, currency, fitness, workforce
+  estimates) — now in the format-gaps field inventory — and self-describes as
+  NOT official NWCG standards, so `official=0` provenance runs through schema,
+  gap output, and app surfaces. In rendered output these are labeled
+  "NTFT standard" (owner terminology, 2026-07-12; centralized in
+  `gap.DRAFT_LABEL`); `official=0`/`draft=True` remain the structural markers
+  that keep them distinct from NWCG-official positions. It also redefines
+  code `O`; handled in matching/gap specs.
 **Exit:** specs reviewed by you; fixture documents chosen. ✅ downloads + specs done.
 
 ### Phase 1 — Acquisition — **DONE 2026-07-09, spec-checker: ALL PASS**

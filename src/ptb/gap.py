@@ -33,13 +33,14 @@ DISCLAIMER = (
     "information only and are not assessed here."
 )
 
-# Rendered label for enhanced (official = 0) positions — the FireTech positions
-# authored outside NWCG. `official = 0` remains the load-bearing flag (schema
-# INV-8; tests) and PositionGap.draft stays True; only this human-readable
-# label changed per owner direction 2026-07-12 (was "draft position — not an
-# official NWCG standard", now the owning org's own designation). Enhanced
+# Rendered label for enhanced (official = 0) positions — the "FireTech" set,
+# i.e. the NTFT (Novel Thinking Fire Tech) positions authored outside NWCG.
+# `official = 0` remains the load-bearing flag (schema INV-8; tests) and
+# PositionGap.draft stays True; only this human-readable label changed per
+# owner direction 2026-07-12 (was "draft position — not an official NWCG
+# standard", now the owning org's own designation, "NTFT standard"). Enhanced
 # positions are still never intermixed silently with NWCG-official ones.
-DRAFT_LABEL = "NTFT standard"
+DRAFT_LABEL = "NTFT standard"  # NTFT = Novel Thinking Fire Tech
 
 # specs/matching.spec.md's context -> satisfied-codes matrix, plus 'ALL'
 # (a valid code per models.VALID_CODES, not named in the matrix; treated as

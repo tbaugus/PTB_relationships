@@ -64,7 +64,8 @@ disclaimer noting currency/fitness are not assessed.
 **Draft-position labeling:** any position whose source document has
 `official = 0` (the enhanced FireTech positions) must be marked `draft: true`
 in output, and rendered output must label it distinctly (owner-directed label
-2026-07-12: "NTFT standard" — the owning organization's own designation;
+2026-07-12: "NTFT standard", where NTFT = Novel Thinking Fire Tech — the
+owning organization's own designation;
 `official = 0` and `draft: true` remain the load-bearing structural markers so
 these positions are never intermixed silently with NWCG-official ones). The
 rendered label is centralized in `gap.DRAFT_LABEL`.

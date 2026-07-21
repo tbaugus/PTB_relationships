@@ -4,7 +4,7 @@ This is a reference for running the system day-to-day. For how it was built, see
 
 ## What you have
 
-A SQLite database (`data/ptb.sqlite`) built from 99 Position Task Book documents (NWCG Next Gen, NWCG Legacy, and 11 draft "FireTech" positions), plus two pure-Python query layers on top of it:
+A SQLite database (`data/ptb.sqlite`) built from 99 Position Task Book documents (NWCG Next Gen, NWCG Legacy, and 11 **NTFT — Novel Thinking Fire Tech** positions, the enhanced "FireTech" set), plus two pure-Python query layers on top of it:
 
 - **`src/ptb/gap.py`** — given a candidate's held qualifications, completed courses, and completed tasks, tells you which positions they're closest to qualifying for, and exactly which tasks/requirements remain (or are already waived via a prerequisite chain).
 - **`src/ptb/report.py`** — tells you what each of the three document formats can and cannot tell you (`reports/format_gaps.md`).
@@ -68,5 +68,5 @@ Safe to re-ingest a corrected sheet — newest decision per pair wins. Rows left
 ## Known caveats to communicate to anyone using this
 
 - Zero tier-2 pairs are confirmed yet (your review is still pending) — until then, `gap.py`'s "remaining gaps" counts are the *most conservative* possible reading; they will shrink as you confirm equivalent tasks.
-- Draft "FireTech" positions (`enhanced_gdoc`, `official=False`) are illustrative, not real NWCG qualifications — `gap.py` labels them `(draft position — not an official NWCG standard)` in every report; don't let anyone mistake one for a real pathway.
+- The **NTFT (Novel Thinking Fire Tech)** positions — the enhanced "FireTech" set (`enhanced_gdoc`, `official=False`) — are a separate standard, not NWCG-official qualifications. `gap.py` labels them `NTFT standard` in every report (centralized in `gap.DRAFT_LABEL`), and the `official=False`/`draft=True` markers keep them from ever being counted silently as NWCG qualifications; don't let anyone read one as an NWCG pathway.
 - Seven codes (AREP, EDRC, FFT2, IARR, OPS3, PIOT, REAF) have qualification requirements but no PTB in this corpus, so they never appear as a "closest position" target.
