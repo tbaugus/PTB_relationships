@@ -267,6 +267,31 @@ def _result(level, conf, just, verbs):
     }
 
 
+def load_levels(path: Path = BLOOMS_JSON) -> dict[str, dict]:
+    """normalized_text -> assignment record, from the saved data/blooms.json.
+
+    Returns an empty dict if the file is missing (run `py src/ptb/blooms.py`
+    to generate it), so callers can degrade gracefully rather than crash.
+    """
+    if not Path(path).exists():
+        return {}
+    with open(path, encoding="utf-8") as f:
+        return {o["normalized_text"]: o for o in json.load(f)["objectives"]}
+
+
+def levels_by_position_task(conn, path: Path = BLOOMS_JSON) -> dict[int, str]:
+    """position_tasks.id -> Bloom level name, joining through tasks.normalized_text."""
+    by_text = load_levels(path)
+    rows = conn.execute(
+        "SELECT pt.id, t.normalized_text FROM position_tasks pt JOIN tasks t ON pt.task_id = t.id"
+    ).fetchall()
+    out = {}
+    for r in rows:
+        rec = by_text.get(r["normalized_text"])
+        out[r["id"]] = rec["level_name"] if rec else None
+    return out
+
+
 def assign_all(db_path=db.DEFAULT_DB_PATH) -> list[dict]:
     conn = db.connect(db_path)
     try:

@@ -33,6 +33,14 @@ DISCLAIMER = (
     "information only and are not assessed here."
 )
 
+# Rendered label for enhanced (official = 0) positions — the FireTech positions
+# authored outside NWCG. `official = 0` remains the load-bearing flag (schema
+# INV-8; tests) and PositionGap.draft stays True; only this human-readable
+# label changed per owner direction 2026-07-12 (was "draft position — not an
+# official NWCG standard", now the owning org's own designation). Enhanced
+# positions are still never intermixed silently with NWCG-official ones.
+DRAFT_LABEL = "NTFT standard"
+
 # specs/matching.spec.md's context -> satisfied-codes matrix, plus 'ALL'
 # (a valid code per models.VALID_CODES, not named in the matrix; treated as
 # satisfied by any context, consistent with its name) and 'developmental'
@@ -485,7 +493,7 @@ def format_report(profile: CandidateProfile, results: list[PositionGap], limit: 
     lines = [DISCLAIMER, ""]
     for pg in results[:limit]:
         remaining = len(pg.gaps_tasks) + len(pg.gaps_context_only) + len(pg.gaps_requirements)
-        draft_tag = " (draft position — not an official NWCG standard)" if pg.draft else ""
+        draft_tag = f" ({DRAFT_LABEL})" if pg.draft else ""
         lines.append(f"{pg.position} — {pg.title}{draft_tag}")
         if remaining == 0:
             lines.append("  No demonstrated gaps against this position's task book or requirements.")

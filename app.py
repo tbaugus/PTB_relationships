@@ -18,7 +18,7 @@ import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).resolve().parent / "src"))
 
-from ptb import db, gap  # noqa: E402
+from ptb import blooms, db, gap  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parent
 REPORT_PATH = REPO_ROOT / "reports" / "format_gaps.md"
@@ -54,6 +54,12 @@ def load_courses() -> list[str]:
 
 
 @st.cache_data
+def load_bloom_by_position_task() -> dict[int, str]:
+    """position_task_id -> Bloom's level name (from data/blooms.json)."""
+    return blooms.levels_by_position_task(get_connection())
+
+
+@st.cache_data
 def load_tasks_for_position(code: str) -> list[dict]:
     conn = get_connection()
     rows = conn.execute(
@@ -69,8 +75,14 @@ def load_tasks_for_position(code: str) -> list[dict]:
 
 
 positions = load_positions()
-position_labels = {f"{p['code']} — {p['title']}{' (draft)' if not p['official'] else ''}": p["code"] for p in positions}
+position_labels = {f"{p['code']} — {p['title']}{' (NTFT)' if not p['official'] else ''}": p["code"] for p in positions}
 courses = load_courses()
+bloom_by_pt = load_bloom_by_position_task()
+
+
+def bloom_tag(position_task_id: int) -> str:
+    level = bloom_by_pt.get(position_task_id)
+    return f"  ·  Bloom: {level}" if level else ""
 
 st.title("PTB Relationships — Test Console")
 tab_gap, tab_formats = st.tabs(["Gap analysis", "Format-gap report"])
@@ -103,7 +115,8 @@ with tab_gap:
             source_code = position_labels[task_source_label]
             tasks = load_tasks_for_position(source_code)
             task_choice_labels = {
-                f"#{t['task_number']} [{t['code_raw']}] {t['verbatim_text'][:70]}": t for t in tasks
+                f"#{t['task_number']} [{t['code_raw']}] {t['verbatim_text'][:70]}{bloom_tag(t['id'])}": t
+                for t in tasks
             }
             chosen_task_label = st.selectbox("Task", options=[""] + list(task_choice_labels))
             context = st.selectbox(
@@ -151,19 +164,19 @@ with tab_gap:
 
             for pg in results:
                 remaining = len(pg.gaps_tasks) + len(pg.gaps_context_only) + len(pg.gaps_requirements)
-                draft_badge = " 🚧 draft — not an official NWCG standard" if pg.draft else ""
+                draft_badge = f" — {gap.DRAFT_LABEL}" if pg.draft else ""
                 with st.expander(f"{pg.position} — {pg.title}{draft_badge}  ·  {remaining} remaining", expanded=(remaining == 0)):
                     st.write(f"{len(pg.satisfied)}/{pg.total_slots} task slots satisfied.")
 
                     if pg.gaps_tasks:
                         st.markdown("**Tasks not yet demonstrated:**")
                         for g in pg.gaps_tasks:
-                            st.write(f"- #{g.task_number} [{g.code_raw}] {g.verbatim_text}")
+                            st.write(f"- #{g.task_number} [{g.code_raw}] {g.verbatim_text}{bloom_tag(g.position_task_id)}")
 
                     if pg.gaps_context_only:
                         st.markdown("**Tasks demonstrated, but in the wrong context:**")
                         for g in pg.gaps_context_only:
-                            st.write(f"- #{g.task_number} [{g.code_raw}] {g.verbatim_text}")
+                            st.write(f"- #{g.task_number} [{g.code_raw}] {g.verbatim_text}{bloom_tag(g.position_task_id)}")
 
                     if pg.gaps_requirements:
                         st.markdown("**Requirements remaining:**")

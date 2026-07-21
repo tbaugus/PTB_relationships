@@ -62,10 +62,12 @@ candidate data to evaluate them against yet. The output carries a fixed
 disclaimer noting currency/fitness are not assessed.
 
 **Draft-position labeling:** any position whose source document has
-`official = 0` (the enhanced FireTech drafts) must be marked `draft: true` in
-output, and rendered output must label it (e.g. "draft position — not an
-official NWCG standard"). Draft positions may appear in rankings but never
-intermixed silently with official ones.
+`official = 0` (the enhanced FireTech positions) must be marked `draft: true`
+in output, and rendered output must label it distinctly (owner-directed label
+2026-07-12: "NTFT standard" — the owning organization's own designation;
+`official = 0` and `draft: true` remain the load-bearing structural markers so
+these positions are never intermixed silently with NWCG-official ones). The
+rendered label is centralized in `gap.DRAFT_LABEL`.
 
 **Cross-format context caution:** the enhanced format's `O` code means
 "developmental/non-incident", not NWCG's "any situation". The context matrix
@@ -139,6 +141,13 @@ in the ranking for this profile, and LOFR must show near-zero satisfaction.
 
 ## Changelog
 
+- 2026-07-12: Owner-directed relabel of `official = 0` (enhanced/FireTech)
+  positions from "draft — not an official NWCG standard" to "NTFT standard"
+  (centralized in `gap.DRAFT_LABEL`). Display-only: `official = 0`,
+  `PositionGap.draft = True`, and the never-intermix-silently requirement are
+  unchanged, so AC-G8 and INV-8 still hold. The internal test console
+  (`app.py`) also now annotates each displayed objective with its Bloom's
+  level (`data/blooms.json`).
 - 2026-07-10: Rule 1 subsumption wording extended to cover the
   `b_subsumes_a` relation value added in schema.spec.md /
   matching.spec.md's same-date changelog entries (direction is carried by
