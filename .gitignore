@@ -22,3 +22,6 @@ data/pending_adjudication.json
 #     (e.g. Streamlit Community Cloud) can't rebuild it - committing this
 #     ~3MB snapshot lets app.py run read-only anywhere without the PDFs.
 #     Still rebuild-and-recommit locally after any real corpus change.
+
+# Local virtualenv
+.venv/
