@@ -327,8 +327,9 @@ def checklist_text() -> str:
     return CHECKLIST_PATH.read_text(encoding="utf-8")
 
 
-def test_ac_m7_checklist_covers_every_probable_pair(real_conn, candidates_payload, checklist_text):
-    by_ids = {(c["a"]["task_id"], c["b"]["task_id"]): c for c in candidates_payload["candidates"]}
+def test_ac_m7_checklist_covers_every_probable_pair(real_conn, checklist_text):
+    # Every probable row, tier-2 AND NTFT-bridge layer (both share the checklist).
+    by_ids = {(c["a"]["task_id"], c["b"]["task_id"]): c for c in adjudicate.load_all_candidates()}
     probable = real_conn.execute(
         "SELECT * FROM task_equivalences WHERE status = 'probable'"
     ).fetchall()
@@ -338,8 +339,8 @@ def test_ac_m7_checklist_covers_every_probable_pair(real_conn, candidates_payloa
     assert listed_keys == expected_keys
 
 
-def test_ac_m7_checklist_entries_carry_required_fields(real_conn, candidates_payload, checklist_text):
-    by_ids = {(c["a"]["task_id"], c["b"]["task_id"]): c for c in candidates_payload["candidates"]}
+def test_ac_m7_checklist_entries_carry_required_fields(real_conn, checklist_text):
+    by_ids = {(c["a"]["task_id"], c["b"]["task_id"]): c for c in adjudicate.load_all_candidates()}
     probable = real_conn.execute(
         "SELECT * FROM task_equivalences WHERE status = 'probable'"
     ).fetchall()
