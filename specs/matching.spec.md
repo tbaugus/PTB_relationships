@@ -160,6 +160,88 @@ gap-analysis.spec.md for the split handling.
 - [ ] AC-M8: ENGB #1, CRWB #1, FIRB #1 share one task_id after normalization
       step 5; FFT1 #1 does not share it.
 
+## NTFT bridge candidates (F2 ntft-bridge, 2026-11-02)
+
+**Implements:** `src/ptb/match.py --ntft-bridge`, `src/ptb/adjudicate.py`,
+`src/ptb/review_sheet.py export --bridge ntft`. Feature spec:
+`docs/F2_ntft_bridge.md`.
+
+**Problem.** The tier-2 layer above found only 3 candidate pairs with one
+NTFT (`source_documents.official = 0`) side and one NWCG (`official = 1`)
+side, all three adjudicated related_not_equivalent, and no tier-1 task_id is
+shared across that boundary. So no NTFT task can ever be satisfied through an
+NWCG qualification. The bridge is a second, separately stored candidate layer
+that targets exactly the cross-boundary pairs the 0.80 cut misses.
+
+**Rules.**
+- **Side filter.** A pair is a bridge candidate iff one task_id has >= 1
+  occurrence in an `official = 0` position and the other task_id has >= 1
+  occurrence in an `official = 1` position (evaluated over each task_id's
+  full occurrence list; a task_id shared by both populations counts on
+  either side — currently none exists). Same-side pairs are never bridge
+  candidates.
+- **Threshold.** `CANDIDATE_THRESHOLD_NTFT = 0.60` (initial value; the final
+  value after the volume rule below is recorded in this section's changelog).
+  Justification: the two task-book populations are written in different
+  registers — NTFT books in a technology/competency vocabulary ("platform",
+  "sensor", "model", "autonomy stack"), NWCG books in incident-operations
+  vocabulary — so the embedding cosine systematically underestimates
+  behavioral overlap across the boundary (95 NTFT tasks x 2,408 NWCG tasks
+  produced 3 pairs at >= 0.80, every one rejected). Lowering the cut buys
+  recall; precision is still gated by adjudication and human review, and the
+  honesty contract is unchanged because nothing reaches `confirmed` without
+  `human_reviewed_at`.
+- **Volume rule.** If the 0.60 run yields more than 400 candidates, raise the
+  cut to 0.65, rerun, and record the final threshold in the changelog.
+- **Output.** `data/ntft_candidates.json`, same schema as
+  `data/tier2_candidates.json` plus a top-level `"bridge": "ntft"`. The bridge
+  is never merged into `tier2_candidates.json`, which stays byte-identical;
+  any pair whose `pair_key` already exists in the tier-2 candidate set is
+  excluded from the bridge (AC-B2), so each pair lives in exactly one layer.
+  No grounded seed pairs apply to the bridge.
+- **Method string** for bridge rows contains `ntft-bridge; cosine>=0.60`
+  (the final threshold), so bridge rows are distinguishable from tier-2 rows
+  in `task_equivalences.method` without a schema change.
+- **Verdicts** are appended to `data/adjudications.json` with
+  `"bridge": "ntft"` on each entry (same keying, same append-only store).
+  equivalent/subsumption verdicts land as tier 2 `status='probable'`; the
+  adjudicator never writes `confirmed`. Only the human review
+  (`review_sheet.py ingest` or `adjudicate.py promote`) promotes to
+  `confirmed` (sets `human_reviewed_at`) or demotes to `rejected`.
+  related_not_equivalent -> tier 3 `status='rejected'`, as for tier 2.
+- **Rubric.** Rules 1-5 apply unchanged. Restated for this boundary, because
+  NTFT and NWCG books share nouns while describing different jobs:
+  *operating a platform is not supervising people* — "operate the UAS
+  platform during ignition" vs "supervise firing operations" is rule 1
+  (action level), related_not_equivalent, however many words they share.
+  Rule 6 (category framing, 2026-07-12 changelog) is applied by judgement in
+  the note, not mechanically: the NTFT books' COMPETENCY categories are a
+  different taxonomy from NWCG category names, so category disjointness is
+  structural across this boundary and is not by itself evidence. The
+  `context.py --apply` demotion rule is therefore never run over bridge
+  pairs. Doubt -> related_not_equivalent (rule 5) still governs.
+- **Human review.** `review_sheet.py export --bridge ntft` writes
+  `reports/ntft_review_sheet.xlsx` listing every bridge `probable` pair sorted
+  by score descending, with the standard columns plus NWCG position code(s),
+  NTFT position code(s), and NTFT task level (`position_tasks.level`). The
+  decision column accepts Confirm / Reject / Not sure; `ingest` is shared with
+  the tier-2 sheet and keys on `pair_key`.
+
+**Acceptance criteria (from docs/F2_ntft_bridge.md).**
+- [ ] AC-B1: every bridge candidate has one official=0 side and one
+      official=1 side.
+- [ ] AC-B2: no bridge candidate duplicates a tier-2 pair_key.
+- [ ] AC-B3: all bridge candidates adjudicated; counts by relation printed;
+      0 confirmed before human review.
+- [ ] AC-B4: CFMD prerequisites resolve to FBAN and LTAN (schema.spec.md
+      changelog).
+- [ ] AC-B5: after ingest, >= 1 confirmed equivalence touching an NTFT task;
+      every confirmed row has human_reviewed_at.
+- [ ] AC-B6: gap.py shows >= 1 NTFT position with a slot satisfied via
+      equivalence for the CRWB profile.
+- [ ] AC-B7: upstream pytest green; default pipeline unchanged
+      (`tier2_candidates.json` byte-identical).
+
 ## Changelog
 
 - 2026-11-03 (corpus refresh re-run): the pipeline in "Re-running the
@@ -187,6 +269,17 @@ gap-analysis.spec.md for the split handling.
   equivalent, and a side that requires conducting subsumes it (rules 1-3);
   briefing pairs whose named sources share no role stay
   related_not_equivalent per the Phase 4 briefing-source policy.
+
+- 2026-11-02 (F2 ntft-bridge): added the "NTFT bridge candidates" section —
+  a second candidate layer (`match.py --ntft-bridge`, output
+  `data/ntft_candidates.json`, `CANDIDATE_THRESHOLD_NTFT = 0.60`) restricted
+  to pairs with one official=0 and one official=1 side, adjudicated under the
+  same rubric with rule 6 applied by judgement rather than by the mechanical
+  context rule, and reviewed on a separate sheet
+  (`reports/ntft_review_sheet.xlsx`). The tier-2 threshold (0.80), its
+  artifact, and the default pipeline are unchanged. Final bridge threshold:
+  recorded below once the volume rule has been applied.
+
 - 2026-07-12 (context rule, SME-calibrated): added rubric rule 6 — **category
   framing governs over wording**: a candidate pair whose two sides' task-book
   category families share nothing (e.g. "Gather, analyze, and validate" vs
