@@ -497,7 +497,8 @@
       "provisional_code": false,
       "requirements_text": "Data-science / computational background; fire-science grounding (FBAN familiarity supports).",
       "attaches_to": [
-        "FBAN / LTAN"
+        "FBAN",
+        "LTAN"
       ],
       "extra_fields": {
         "required_experience": "≥X validated modeling products delivered.",

@@ -180,6 +180,22 @@ Future app-phase tables (`candidates`, `candidate_completions`,
   PSCC, FSCC was republished, so the list is expected to be unchanged; if a
   refresh ever republishes one of them with the blank cell fixed, the
   exception for that position is removed here in the same change.
+
+- 2026-11-02 (F2 ntft-bridge, AC-B4): the enhanced_gdoc source lists CFMD's
+  anchor as the single string "FBAN / LTAN", which loaded as one
+  `position_requirements(kind='prerequisite_position')` row whose value
+  resolved to no `positions.code` (the only unresolved official=0
+  prerequisite in the corpus; gap.py silently dropped it from the
+  prerequisite graph while still listing it as an unsatisfiable gap). Fixed
+  at the source: `extracted/enhanced_ptbs_gdoc.docx.json` now carries
+  `attaches_to: ["FBAN", "LTAN"]`, and `structure/enhanced.py` splits
+  "Attaches to:" entries on "/" as well as "+" so a re-extraction reproduces
+  it. CFMD now has two prerequisite rows, FBAN and LTAN, both resolving.
+  Semantic caveat recorded, not changed: the source's "/" reads as
+  *either* anchor, but `position_requirements` has no alternative-group
+  concept, so gap.py evaluates both rows as required (the conservative
+  reading; a CFMD candidate holding only FBAN sees LTAN as a remaining
+  requirement). No DDL change.
 - 2026-07-11 (Phase 5 forced fix): `db.py` gained
   `load_enhanced_position_requirements()`, loading `position_requirements`
   rows for enhanced_gdoc (FireTech draft) positions from their inline
