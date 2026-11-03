@@ -33,7 +33,14 @@ NEXTGEN_MARKER_2 = "NWCG POSITION EVALUATION TABLE"
 LEGACY_MARKER_RE = re.compile(r"NWCG Task Book for the Positions? of:")
 ENHANCED_MARKER = "FireTech Position Task Books"
 
-EDITION_DATE_RE = re.compile(r"PMS\s*[\d-]+\s+([A-Z]+ \d{4})")
+# Month name is case-insensitive: Next Gen books print "SEPTEMBER 2026",
+# several legacy books print "October 2018" (extraction.spec.md changelog
+# 2026-11-02). The printed form is stored verbatim; db.py normalizes to ISO.
+EDITION_DATE_RE = re.compile(
+    r"PMS\s*[\d-]+\s+((?:January|February|March|April|May|June|July|August|"
+    r"September|October|November|December) \d{4})",
+    re.IGNORECASE,
+)
 # Mirrors structure/nextgen.py's IPS_REFERENCE_RE; used only to locate which
 # page an already-extracted ips_reference value came from, for a page
 # citation in fields_observed (format-gaps.spec.md's evidence rule).
@@ -314,6 +321,15 @@ def main() -> int:
     gdoc_docx = next((d for d in documents if d["filename"].endswith(".docx")), None)
     gdoc_pdf = next((d for d in documents if d["filename"] == "enhanced_ptbs_gdoc.pdf"), None)
     nwcg_docs = [d for d in documents if not d["filename"].startswith("enhanced_ptbs_gdoc")]
+
+    # A document NWCG no longer publishes (manifest `retired[]`, e.g. the
+    # combined FEMO-FOBS legacy book) must not linger in the audit trail,
+    # or db.py would load it and INV-1 would fail on its deleted raw file.
+    live_json_names = {f"{d['filename']}.json" for d in documents}
+    for stale in sorted(EXTRACTED_DIR.glob("*.json")):
+        if stale.name not in live_json_names:
+            stale.unlink()
+            print(f"  removed stale {stale.name} (no role=ptb manifest entry; see manifest retired[])", file=sys.stderr)
 
     ok, failed = 0, []
 

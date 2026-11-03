@@ -1,0 +1,374 @@
+{
+  "document": {
+    "filename": "pms311-112_REAF.pdf",
+    "sha256": "6c1ec4a965b32649ddf6acab3812158bd918504eb43c67683de8ca7616d5744f",
+    "pms_number": "311-112",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "REAF"
+    ],
+    "title": "Resource Advisor, Fireline",
+    "edition_date": "JULY 2025",
+    "ips_reference": "350-112",
+    "official": true,
+    "page_count": 11
+  },
+  "positions": [
+    {
+      "code": "REAF",
+      "title": "Resource Advisor, Fireline",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "REAF",
+      "task_number": 1,
+      "category": "Leadership Level 1, Follower (Provide Action)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communications skills.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "REAF",
+      "task_number": 2,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and communicate chain of command, reporting procedures, risk management processes, and radio frequency management.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "REAF",
+      "task_number": 3,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish a common operating picture with supervisors and fireline personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "REAF",
+      "task_number": 4,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Share subject matter expertise to create a shared value of resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "REAF",
+      "task_number": 5,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather incident-specific resource information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "REAF",
+      "task_number": 6,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Design resource protection measures (RPMs).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "REAF",
+      "task_number": 7,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate resources of concern and resource protection measures (RPMs) to incident personnel.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "REAF",
+      "task_number": 8,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Document resource data.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "REAF",
+      "task_number": 9,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct resource protection measure (RPM) compliance checks.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "REAF",
+      "task_number": 10,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Develop suppression repair specifications.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "REAF",
+      "task_number": 11,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Advise on strategy and tactics for suppression repair.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "REAF",
+      "task_number": 12,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct compliance checks on suppression repair.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "REAF",
+      "task_number": 13,
+      "category": "Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Document suppression repair.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "REAF",
+      "task_number": 14,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish communications and exchange necessary information.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "REAF",
+      "task_number": 15,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate effectively using multichannel radios.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "REAF",
+      "task_number": 16,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage risk on the fireline.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "REAF",
+      "task_number": 17,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Manage administrative tasks and documentation and ensure timely completion.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "signature_page_initiation",
+      "page": 1
+    },
+    {
+      "field_name": "signature_page_verification",
+      "page": 1
+    },
+    {
+      "field_name": "signature_page_certification",
+      "page": 1
+    },
+    {
+      "field_name": "trainee_iqcs_number",
+      "page": 1
+    },
+    {
+      "field_name": "code_definitions_block",
+      "page": 3
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 5
+    },
+    {
+      "field_name": "performance_rating_scale",
+      "page": 2
+    },
+    {
+      "field_name": "per_assignment_rating_columns",
+      "page": 5
+    },
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 8
+    },
+    {
+      "field_name": "ips_reviewed_flag",
+      "page": 8
+    },
+    {
+      "field_name": "evaluator_position_on_incident",
+      "page": 8
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 8
+    },
+    {
+      "field_name": "incident_name",
+      "page": 4
+    },
+    {
+      "field_name": "incident_reference_code",
+      "page": 8
+    },
+    {
+      "field_name": "assignment_duration",
+      "page": 4
+    },
+    {
+      "field_name": "incident_kind",
+      "page": 4
+    },
+    {
+      "field_name": "location_geographic_area",
+      "page": 8
+    },
+    {
+      "field_name": "management_type",
+      "page": 8
+    },
+    {
+      "field_name": "rx_complexity_level",
+      "page": 4
+    },
+    {
+      "field_name": "fbps_fuel_model_group",
+      "page": 4
+    },
+    {
+      "field_name": "evaluator_recommendation_block",
+      "page": 8
+    },
+    {
+      "field_name": "remarks_narrative",
+      "page": 4
+    },
+    {
+      "field_name": "evaluator_relevant_qualification",
+      "page": 8
+    },
+    {
+      "field_name": "edition_date",
+      "page": 1
+    },
+    {
+      "field_name": "ips_reference",
+      "page": 2
+    }
+  ],
+  "extra_fields": {}
+}

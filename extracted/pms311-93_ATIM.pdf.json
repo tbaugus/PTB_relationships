@@ -1,15 +1,15 @@
 {
   "document": {
     "filename": "pms311-93_ATIM.pdf",
-    "sha256": "1ddafdbb28f0fa9ba74601fc14b27f4fe0c5a3fffe8f24665421a2484dc0ea9a",
+    "sha256": "ab094ac0886fba932d88973d55d60dfbb5b8acfd325f2aeb8e65899c6420de6f",
     "pms_number": "311-93",
-    "format": "nwcg_legacy",
+    "format": "nwcg_nextgen",
     "position_codes": [
       "ATIM"
     ],
     "title": "Aircraft Timekeeper",
-    "edition_date": null,
-    "ips_reference": null,
+    "edition_date": "SEPTEMBER 2026",
+    "ips_reference": "350-93",
     "official": true,
     "page_count": 11
   },
@@ -27,289 +27,198 @@
     {
       "position_code": "ATIM",
       "task_number": 1,
-      "category": "Preparedness for assignment and appropriate travel activities.",
+      "category": "Leadership Level 1, Follower (Provide Action)",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Obtain and assemble information and materials needed for assignment.",
+      "verbatim_text": "Followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communication skills.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
       ],
       "clarifications": [],
-      "page": 6
+      "page": 5
     },
     {
       "position_code": "ATIM",
       "task_number": 2,
-      "category": "Preparedness for assignment and appropriate travel activities.",
+      "category": "Prepare and Mobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Travel for assignment.",
+      "verbatim_text": "Review local Airtanker Base Operations Plan (ABOP) and obtain briefing from base manager.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
       ],
-      "clarifications": [
-        "Obtain information from dispatch upon assignment o o o o o o o o"
-      ],
-      "page": 6
+      "clarifications": [],
+      "page": 5
     },
     {
       "position_code": "ATIM",
       "task_number": 3,
-      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "category": "Build the Team",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Obtain initial briefing from Airtanker/Fixed-Wing Base Manager or supervisor.",
-      "code_raw": "I",
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "O",
       "code_alternatives": [
-        "I"
+        "O"
       ],
-      "clarifications": [
-        "Local administrative guidelines",
-        "Resources assigned and ordered for the incident",
-        "Expectations",
-        "Copy of the local base supplement and other relevant plans o o o o o o",
-        "Unit specific information"
-      ],
-      "page": 6
+      "clarifications": [],
+      "page": 5
     },
     {
       "position_code": "ATIM",
       "task_number": 4,
-      "category": "Establish effective relationships with relevant personnel.",
+      "category": "Perform Aircraft Timekeeper-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Demonstrate professionalism.",
+      "verbatim_text": "Communicate updates regarding changing conditions to relevant pe rsonnel and implement further instructions provided by the base manager.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
-      "clarifications": [
-        "Integrate in a diverse work environment",
-        "Respectful and courteous",
-        "Respectful of public and private property"
-      ],
+      "clarifications": [],
       "page": 6
     },
     {
       "position_code": "ATIM",
       "task_number": 5,
-      "category": "Establish effective relationships with relevant personnel.",
+      "category": "Perform Aircraft Timekeeper-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
-      "code_raw": "I",
+      "verbatim_text": "Ensure daily operational objectives and performance standards are met.",
+      "code_raw": "O",
       "code_alternatives": [
-        "I"
+        "O"
       ],
-      "clarifications": [
-        "Agency and contract personnel",
-        "Fixed Base Operators (FBO)",
-        "Airport Management"
-      ],
-      "page": 7
+      "clarifications": [],
+      "page": 6
     },
     {
       "position_code": "ATIM",
       "task_number": 6,
-      "category": "Establish effective relationships with relevant personnel.",
+      "category": "Perform Aircraft Timekeeper-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Demonstrates knowledge of agency policy and appropriate behavior while on assignment.",
-      "code_raw": "I",
+      "verbatim_text": "Maintain and manage real-time communications using multiple devices and platforms.",
+      "code_raw": "O",
       "code_alternatives": [
-        "I"
+        "O"
       ],
       "clarifications": [],
-      "page": 7
+      "page": 6
     },
     {
       "position_code": "ATIM",
       "task_number": 7,
-      "category": "Understand and comply with ICS concepts and principles.",
+      "category": "Perform Aircraft Timekeeper-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Follow chain of command.",
-      "code_raw": "I",
+      "verbatim_text": "Provide daily administrative support for base operations.",
+      "code_raw": "O",
       "code_alternatives": [
-        "I"
+        "O"
       ],
       "clarifications": [],
-      "page": 7
+      "page": 6
     },
     {
       "position_code": "ATIM",
       "task_number": 8,
-      "category": "Understand and comply with ICS concepts and principles.",
+      "category": "Perform Aircraft Timekeeper-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Follow safety guidelines.",
+      "verbatim_text": "Record, compile, and distribute relevant contract and cost data.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
-      "clarifications": [
-        "Familiarize on local safety supplements, procedures, and protocols, known hazards, etc.",
-        "Enforce established safety guidelines",
-        "Identify and correct unsafe actions or conditions",
-        "Mitigate or correct hazards and safety concerns at the lowest level"
-      ],
-      "page": 7
+      "clarifications": [],
+      "page": 6
     },
     {
       "position_code": "ATIM",
       "task_number": 9,
-      "category": "Understand and comply with ICS concepts and principles.",
+      "category": "Communicate and Coordinate",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Decision making.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Demonstrates sound decision making in complex situations and under stress"
-      ],
-      "page": 7
-    },
-    {
-      "position_code": "ATIM",
-      "task_number": 10,
-      "category": "Understand and comply with ICS concepts and principles.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Coordinate with Airtanker/Fixed-Wing Base Manager.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Ensures assigned area of responsibility is maintained and monitored for duration of operational period",
-        "Acquires necessary materials to accomplish timekeeping tasks"
-      ],
-      "page": 7
-    },
-    {
-      "position_code": "ATIM",
-      "task_number": 11,
-      "category": "Understand and comply with ICS concepts and principles.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Timekeeping operations.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Demonstrates organizational skills while recording “real time” data at the airtanker/fixed-wing base",
-        "Demonstrates proficiency with various computer applications determined by agency and airtanker/fixed-wing base management",
-        "Acquires incident information for appropriate cost coding",
-        "Records aircraft contract activity (e.g., roll, and stop time, availability, unavailability, etc.)",
-        "Records retardant contract activity (e.g., number of gallons per aircraft load, duty day hours, extended standby, etc.)",
-        "Records additional costs related to airtanker/fixed- wing base operations (e.g., landing fees, tie-down fees, etc.)",
-        "Maintains a daily log. Records staffing, pertinent communications, events, etc.",
-        "Completes other forms or documentation as directed",
-        "Compiles cost information on a daily basis for accrual reporting",
-        "Disperses aircraft contract documentation and cost accruals to Contracting Officer’s Representatives, Dispatch Centers, Teams, etc."
-      ],
-      "page": 8
-    },
-    {
-      "position_code": "ATIM",
-      "task_number": 12,
-      "category": "Coordinate and manage the use of multiple frequencies, radios, and telephones.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Maintain radio or message links with appropriate incident functions.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Airtankers, lead planes, air attacks, smokejumper planes, crew transport, helicopters",
-        "Dispatch, GACC"
-      ],
-      "page": 9
-    },
-    {
-      "position_code": "ATIM",
-      "task_number": 13,
-      "category": "Coordinate and manage the use of multiple frequencies, radios, and telephones.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Verify radio frequencies daily with supervisor, dispatch, GACC, and IAP.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Request assigned frequencies if none were provided"
-      ],
-      "page": 9
-    },
-    {
-      "position_code": "ATIM",
-      "task_number": 14,
-      "category": "Ensure functionality of equipment.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Check assigned equipment prior to daily operations.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Perform radio checks with dispatch, ramp personnel, and aircrews"
-      ],
-      "page": 9
-    },
-    {
-      "position_code": "ATIM",
-      "task_number": 15,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Review and understand emergency response plans.",
-      "code_raw": "O",
-      "code_alternatives": [
-        "O"
-      ],
-      "clarifications": [
-        "Notify Airtanker/Fixed-Wing Base Manager of any issues affecting airport or base operations"
-      ],
-      "page": 9
-    },
-    {
-      "position_code": "ATIM",
-      "task_number": 16,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Notify Airtanker/Fixed-Wing Base Manager immediately of any overdue or missing aircraft.",
+      "verbatim_text": "Demonstrate strong verbal communication skills.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
       ],
       "clarifications": [],
-      "page": 9
+      "page": 6
     },
     {
       "position_code": "ATIM",
-      "task_number": 17,
-      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "task_number": 10,
+      "category": "Communicate and Coordinate",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Attend briefings and meetings as directed.",
+      "verbatim_text": "Gather and disseminate operational information with resources.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
-      "clarifications": [
-        "Provide information as requested",
-        "Keep Airtanker/Fixed-Wing Base Manager informed on issues and potential problems"
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ATIM",
+      "task_number": 11,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Participate in After Action Reviews (AARs).",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
       ],
-      "page": 9
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ATIM",
+      "task_number": 12,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ATIM",
+      "task_number": 13,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete all administrative tasks and documentation in an accurate and timely manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "ATIM",
+      "task_number": 14,
+      "category": "Demobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare for and implement demobilization.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 7
     }
   ],
   "fields_observed": [
@@ -319,23 +228,47 @@
     },
     {
       "field_name": "signature_page_verification",
-      "page": 2
+      "page": 1
     },
     {
       "field_name": "signature_page_certification",
-      "page": 2
+      "page": 1
+    },
+    {
+      "field_name": "trainee_iqcs_number",
+      "page": 1
     },
     {
       "field_name": "code_definitions_block",
       "page": 3
     },
     {
-      "field_name": "per_task_evaluator_initials",
-      "page": 6
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 5
+    },
+    {
+      "field_name": "performance_rating_scale",
+      "page": 2
+    },
+    {
+      "field_name": "per_assignment_rating_columns",
+      "page": 5
+    },
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 8
+    },
+    {
+      "field_name": "ips_reviewed_flag",
+      "page": 8
     },
     {
       "field_name": "evaluator_position_on_incident",
-      "page": 10
+      "page": 8
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 8
     },
     {
       "field_name": "incident_name",
@@ -343,7 +276,7 @@
     },
     {
       "field_name": "incident_reference_code",
-      "page": 10
+      "page": 8
     },
     {
       "field_name": "assignment_duration",
@@ -355,11 +288,11 @@
     },
     {
       "field_name": "location_geographic_area",
-      "page": 10
+      "page": 8
     },
     {
       "field_name": "management_type",
-      "page": 4
+      "page": 8
     },
     {
       "field_name": "rx_complexity_level",
@@ -367,19 +300,27 @@
     },
     {
       "field_name": "fbps_fuel_model_group",
-      "page": 5
+      "page": 4
     },
     {
       "field_name": "evaluator_recommendation_block",
-      "page": 10
+      "page": 8
     },
     {
-      "field_name": "per_task_completion_date",
-      "page": 6
+      "field_name": "remarks_narrative",
+      "page": 4
     },
     {
       "field_name": "evaluator_relevant_qualification",
-      "page": 5
+      "page": 8
+    },
+    {
+      "field_name": "edition_date",
+      "page": 1
+    },
+    {
+      "field_name": "ips_reference",
+      "page": 2
     }
   ],
   "extra_fields": {}

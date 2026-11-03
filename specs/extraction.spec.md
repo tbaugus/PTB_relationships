@@ -149,6 +149,31 @@ inventory in format-gaps.spec.md.
 
 ## Changelog
 
+- 2026-11-02 (corpus refresh, Next Gen parser — forced by the September
+  2026 template): two fixes to `structure/nextgen.py`, both grounded in the
+  refreshed PDFs. (a) `_find_column_bands()` now only accepts "Record" /
+  "Number" grid-header words that sit RIGHT of the CODE header: FOBS #9
+  ("Record relevant or appropriate features on a map.") begins a task with
+  the word "Record", which collapsed the code band and silently dropped
+  every task after page 5 (FOBS and FEMO parsed 3 of 15 tasks each).
+  (b) Text lines and code words are now assigned to the task whose
+  table ROW (bounded by the page's horizontal rulings,
+  `page.horizontal_edges`) contains them, with nearest-anchor kept only as
+  the fallback for pages without rulings: a task's number is vertically
+  centred in its row, so the last line of a long wrapped task can lie
+  nearer the NEXT task's number (GISS #59, five lines — its tail
+  "products not contained in the incident directory structure)" was
+  attached to #60). Regression over the 38 unchanged Next Gen documents:
+  37 re-extract byte-identically; FAL3 (pms311-119, unchanged upstream)
+  changes at tasks 15-17, and the page shows the new reading is the
+  correct one — #16 is "Perform the required elements of a procedural
+  sizeup, and any critical considerations that could affect each element."
+  followed by its seven bullets, which the old nearest-anchor rule had
+  split across #15 (tail) and #17 (head). That was a pre-existing
+  extraction error on the 2026-07 corpus, not a change in NWCG's text; the
+  three FAL3 verbatim texts change in `extracted/` and `data/ptb.sqlite`
+  accordingly, and any tier-2 verdict keyed by the old wrong texts drops out
+  per matching.spec.md's text-keyed re-run rule.
 - 2026-11-02 (corpus refresh): (1) `EDITION_DATE_RE` now matches the
   month name case-insensitively. Seven legacy books print a mixed-case
   month ("PMS 311-20 October 2018": HEBM, IRIN, ICPI, INVF, INVL, FWPT and

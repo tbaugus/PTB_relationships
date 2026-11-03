@@ -1,17 +1,17 @@
 {
   "document": {
     "filename": "pms311-12_CREP.pdf",
-    "sha256": "460417e37a0d06154bc5f4ddfa42b968de5a9436aefb2357de23b7898a3c9549",
+    "sha256": "4c6f48a8bf6ca58765a2f24b1482ffa1b5ff573874d738c267a11188fa98dd52",
     "pms_number": "311-12",
-    "format": "nwcg_legacy",
+    "format": "nwcg_nextgen",
     "position_codes": [
       "CREP"
     ],
     "title": "Crew Representative",
-    "edition_date": "JUNE 2009",
-    "ips_reference": null,
+    "edition_date": "SEPTEMBER 2026",
+    "ips_reference": "350-12",
     "official": true,
-    "page_count": 13
+    "page_count": 10
   },
   "positions": [
     {
@@ -27,65 +27,55 @@
     {
       "position_code": "CREP",
       "task_number": 1,
-      "category": "Ensure readiness for assignment.",
+      "category": "Leadership Level 2, New Leader (Convey Intent)",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Obtain information from assigned resources.",
-      "code_raw": "O",
-      "code_alternatives": [
-        "O"
-      ],
-      "clarifications": [
-        "Copy of crew contract.",
-        "Resource order with manifests.",
-        "Resource specific administrative procedures."
-      ],
-      "page": 6
-    },
-    {
-      "position_code": "CREP",
-      "task_number": 2,
-      "category": "Ensure readiness for assignment.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Inform dispatch of resource status and departure time.",
+      "verbatim_text": "A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
       ],
       "clarifications": [],
-      "page": 6
+      "page": 5
+    },
+    {
+      "position_code": "CREP",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure individual readiness.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
     },
     {
       "position_code": "CREP",
       "task_number": 3,
-      "category": "Ensure readiness for assignment.",
+      "category": "Build the Team",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Brief assigned crew supervisors.",
+      "verbatim_text": "Consult with Crew Boss, Single Resource (CRWB) personnel to validate readiness of assigned crew(s) and equipment.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
-      "clarifications": [
-        "Route and mode of travel",
-        "Communications",
-        "Travel procedures",
-        "Safety",
-        "Agency procedures"
-      ],
-      "page": 6
+      "clarifications": [],
+      "page": 5
     },
     {
       "position_code": "CREP",
       "task_number": 4,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Perform Crew Representative-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Inspect and/or monitor resources to ensure they are in a state of readiness (e.g., rest, repairs, tools, fuel) and consult crew supervisor(s).",
-      "code_raw": "O",
+      "verbatim_text": "Adhere to appropriate crew management guidelines.",
+      "code_raw": "I",
       "code_alternatives": [
-        "O"
+        "I"
       ],
       "clarifications": [],
       "page": 6
@@ -93,14 +83,13 @@
     {
       "position_code": "CREP",
       "task_number": 5,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Perform Crew Representative-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Request additional Crew Representatives if assigned crews are separated by location or operational period and their Crew Representative needs cannot be met.",
-      "code_raw": "O/R",
+      "verbatim_text": "Obtain crew information and manifests.",
+      "code_raw": "I",
       "code_alternatives": [
-        "O",
-        "R"
+        "I"
       ],
       "clarifications": [],
       "page": 6
@@ -108,404 +97,142 @@
     {
       "position_code": "CREP",
       "task_number": 6,
-      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "category": "Perform Crew Representative-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Obtain initial briefing from supervisor.",
-      "code_raw": "I",
+      "verbatim_text": "Serve as a liaison or advisor between crew(s) and the Incident Management Team (IMT) and home unit.",
+      "code_raw": "W",
       "code_alternatives": [
-        "I"
+        "W"
       ],
-      "clarifications": [
-        "Organizational structure",
-        "Weather",
-        "Fire behavior",
-        "Communications",
-        "Resources",
-        "Safety"
-      ],
-      "page": 7
+      "clarifications": [],
+      "page": 6
     },
     {
       "position_code": "CREP",
       "task_number": 7,
-      "category": "Establish effective relationships with relevant personnel.",
+      "category": "Perform Crew Representative-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Conduct self in a professional manner.",
-      "code_raw": "I",
+      "verbatim_text": "Provide logistical support, as necessary.",
+      "code_raw": "W",
       "code_alternatives": [
-        "I"
+        "W"
       ],
-      "clarifications": [
-        "Respectful and courteous.",
-        "Respectful of public and private property."
-      ],
-      "page": 7
+      "clarifications": [],
+      "page": 6
     },
     {
       "position_code": "CREP",
       "task_number": 8,
-      "category": "Establish effective relationships with relevant personnel.",
+      "category": "Perform Crew Representative-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
-      "code_raw": "I",
+      "verbatim_text": "Provide support to Finance/Administration Section, as necessary.",
+      "code_raw": "W",
       "code_alternatives": [
-        "I"
+        "W"
       ],
       "clarifications": [],
-      "page": 7
+      "page": 6
     },
     {
       "position_code": "CREP",
       "task_number": 9,
-      "category": "Establish effective relationships with relevant personnel.",
+      "category": "Perform Crew Representative-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Serve as liaison or advisor between crew(s) and supervisor.",
-      "code_raw": "I",
+      "verbatim_text": "Provide support to Planning Section, as necessary.",
+      "code_raw": "W",
       "code_alternatives": [
-        "I"
+        "W"
       ],
       "clarifications": [],
-      "page": 7
+      "page": 6
     },
     {
       "position_code": "CREP",
       "task_number": 10,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Perform Crew Representative-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Adhere to appropriate crew management guides.",
-      "code_raw": "I",
+      "verbatim_text": "Make appropriate decisions based on analysis of gathered information.",
+      "code_raw": "W",
       "code_alternatives": [
-        "I"
+        "W"
       ],
       "clarifications": [],
-      "page": 7
+      "page": 6
     },
     {
       "position_code": "CREP",
       "task_number": 11,
-      "category": "Understand and comply with ICS concepts and principles.",
+      "category": "Perform Crew Representative-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Apply the ICS.",
+      "verbatim_text": "Continuously monitor incident environment and communicate critical updates.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
-      "clarifications": [
-        "Follow chain of command.",
-        "Maintain appropriate span of control.",
-        "Use appropriate ICS forms.",
-        "Use appropriate ICS terminology."
-      ],
-      "page": 7
+      "clarifications": [],
+      "page": 6
     },
     {
       "position_code": "CREP",
       "task_number": 12,
-      "category": "Model leadership values and principles.",
+      "category": "Perform Crew Representative-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Exhibit principles of duty.",
+      "verbatim_text": "Ensure organizational requirements are met and provide administrative oversight.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
-      "clarifications": [
-        "Be proficient in your job, both technically and as a leader.",
-        "Make sound and timely decisions.",
-        "Ensure tasks are understood, supervised and accomplished.",
-        "Develop your subordinates for the future."
-      ],
-      "page": 8
+      "clarifications": [],
+      "page": 6
     },
     {
       "position_code": "CREP",
       "task_number": 13,
-      "category": "Model leadership values and principles.",
+      "category": "Communicate and Coordinate",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Exhibit principles of respect.",
-      "code_raw": "I",
+      "verbatim_text": "Establish communications and exchange necessary briefings/information with other resources.",
+      "code_raw": "W",
       "code_alternatives": [
-        "I"
+        "W"
       ],
-      "clarifications": [
-        "Know your subordinates and look out for their well-being.",
-        "Keep your subordinates informed.",
-        "Build the team.",
-        "Employ your subordinates in accordance with their capabilities."
-      ],
-      "page": 8
+      "clarifications": [],
+      "page": 6
     },
     {
       "position_code": "CREP",
       "task_number": 14,
-      "category": "Model leadership values and principles.",
+      "category": "Manage Risk",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Exhibit principles of integrity.",
+      "verbatim_text": "Account for location, health, safety, and welfare of assigned personnel.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
-      "clarifications": [
-        "Know yourself and seek improvement.",
-        "Seek responsibility and accept responsibility for your actions.",
-        "Set the example."
-      ],
-      "page": 8
+      "clarifications": [],
+      "page": 6
     },
     {
       "position_code": "CREP",
       "task_number": 15,
-      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "category": "Demobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Report to Interagency Resource Representative or home unit dispatch.",
-      "code_raw": "I",
+      "verbatim_text": "Prepare for and implement demobilization.",
+      "code_raw": "W",
       "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Give status of assigned resources."
-      ],
-      "page": 9
-    },
-    {
-      "position_code": "CREP",
-      "task_number": 16,
-      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Inform Planning and Operations Sections of crew capabilities at time of check-in.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
+        "W"
       ],
       "clarifications": [],
-      "page": 9
-    },
-    {
-      "position_code": "CREP",
-      "task_number": 17,
-      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Coordinate with home unit dispatch prior to disassembly of crew(s).",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 9
-    },
-    {
-      "position_code": "CREP",
-      "task_number": 18,
-      "category": "Ensure documentation is complete and disposition is appropriate.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Coordinate completion of accident and injury forms and other claims.",
-      "code_raw": "I/R",
-      "code_alternatives": [
-        "I",
-        "R"
-      ],
-      "clarifications": [],
-      "page": 9
-    },
-    {
-      "position_code": "CREP",
-      "task_number": 19,
-      "category": "Ensure documentation is complete and disposition is appropriate.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Ensure crew supervisor(s) complete personnel evaluations and ICS 214, Unit Log.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Submit to Documentation Unit."
-      ],
-      "page": 9
-    },
-    {
-      "position_code": "CREP",
-      "task_number": 20,
-      "category": "Ensure documentation is complete and disposition is appropriate.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Report crews’ performance and problems to home unit dispatch.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 9
-    },
-    {
-      "position_code": "CREP",
-      "task_number": 21,
-      "category": "Ensure documentation is complete and disposition is appropriate.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Ensure crew supervisor(s) time reports are retrieved from Time Unit.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Facilitate with crew supervisor."
-      ],
-      "page": 9
-    },
-    {
-      "position_code": "CREP",
-      "task_number": 22,
-      "category": "Ensure documentation is complete and disposition is appropriate.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Ensure copy of crew performance evaluation, individual time report and other relevant documentation is given to Crew Bosses upon completion of assignment.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 9
-    },
-    {
-      "position_code": "CREP",
-      "task_number": 23,
-      "category": "Make appropriate decisions based on analysis of gathered information.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Represent agency in absence of Interagency Resource Representative to make agency specific decisions.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 10
-    },
-    {
-      "position_code": "CREP",
-      "task_number": 24,
-      "category": "Take appropriate action based on assessed risks.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Apply the Risk Management Process found in the IRPG and Fireline Handbook.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Step 1: Situation Awareness",
-        "Step 2: Hazard Assessment",
-        "Step 3: Hazard Control",
-        "Step 4: Decision Point",
-        "Step 5: Evaluate"
-      ],
-      "page": 10
-    },
-    {
-      "position_code": "CREP",
-      "task_number": 25,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Ensure established guidelines are followed.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Work/rest",
-        "Agency safety standards and procedures"
-      ],
-      "page": 10
-    },
-    {
-      "position_code": "CREP",
-      "task_number": 26,
-      "category": "Provide logistical support as necessary.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Advise crew supervisors how to obtain logistical support and/or make necessary arrangements for logistical support.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Medical needs",
-        "Personal needs",
-        "Supplies"
-      ],
-      "page": 10
-    },
-    {
-      "position_code": "CREP",
-      "task_number": 27,
-      "category": "Provide logistical support as necessary.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Facilitate special transportation needs.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 10
-    },
-    {
-      "position_code": "CREP",
-      "task_number": 28,
-      "category": "Effectively advise and assist in resolving human resource issues that occur",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Resolve problems, conflicts, and complaints.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 11
-    },
-    {
-      "position_code": "CREP",
-      "task_number": 29,
-      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Demobilize and check out.",
-      "code_raw": "O",
-      "code_alternatives": [
-        "O"
-      ],
-      "clarifications": [
-        "Receive demobilization instructions from incident supervisor.",
-        "If required, complete ICS 221, Demobilization Checkout and submit completed form to the appropriate person."
-      ],
-      "page": 11
-    },
-    {
-      "position_code": "CREP",
-      "task_number": 30,
-      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Brief Interagency Resource Representative and subordinates on demobilization procedures and responsibilities.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 11
+      "page": 6
     }
   ],
   "fields_observed": [
@@ -515,14 +242,14 @@
     },
     {
       "field_name": "signature_page_verification",
-      "page": 2
+      "page": 1
     },
     {
       "field_name": "signature_page_certification",
-      "page": 2
+      "page": 1
     },
     {
-      "field_name": "prerequisite_buildup_statement",
+      "field_name": "trainee_iqcs_number",
       "page": 1
     },
     {
@@ -530,12 +257,32 @@
       "page": 3
     },
     {
-      "field_name": "per_task_evaluator_initials",
-      "page": 6
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 5
+    },
+    {
+      "field_name": "performance_rating_scale",
+      "page": 2
+    },
+    {
+      "field_name": "per_assignment_rating_columns",
+      "page": 5
+    },
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 7
+    },
+    {
+      "field_name": "ips_reviewed_flag",
+      "page": 7
     },
     {
       "field_name": "evaluator_position_on_incident",
-      "page": 12
+      "page": 7
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 7
     },
     {
       "field_name": "incident_name",
@@ -543,7 +290,7 @@
     },
     {
       "field_name": "incident_reference_code",
-      "page": 12
+      "page": 7
     },
     {
       "field_name": "assignment_duration",
@@ -555,11 +302,11 @@
     },
     {
       "field_name": "location_geographic_area",
-      "page": 12
+      "page": 7
     },
     {
       "field_name": "management_type",
-      "page": 4
+      "page": 7
     },
     {
       "field_name": "rx_complexity_level",
@@ -567,23 +314,27 @@
     },
     {
       "field_name": "fbps_fuel_model_group",
-      "page": 5
+      "page": 4
     },
     {
       "field_name": "evaluator_recommendation_block",
-      "page": 12
+      "page": 7
     },
     {
-      "field_name": "per_task_completion_date",
-      "page": 6
+      "field_name": "remarks_narrative",
+      "page": 4
     },
     {
       "field_name": "evaluator_relevant_qualification",
-      "page": 5
+      "page": 7
     },
     {
       "field_name": "edition_date",
       "page": 1
+    },
+    {
+      "field_name": "ips_reference",
+      "page": 2
     }
   ],
   "extra_fields": {}

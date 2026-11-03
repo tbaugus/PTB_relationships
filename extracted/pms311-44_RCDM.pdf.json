@@ -1,17 +1,17 @@
 {
   "document": {
     "filename": "pms311-44_RCDM.pdf",
-    "sha256": "5695a0201d0634675e80dfaba5ba51fe4d31688964308d1ed5a29ca8bba3e355",
+    "sha256": "6e6a7a3cf841395e0754cb7d46ca6740ab439e18ac37047ec3b98c3bc29d3fe5",
     "pms_number": "311-44",
-    "format": "nwcg_legacy",
+    "format": "nwcg_nextgen",
     "position_codes": [
       "RCDM"
     ],
     "title": "Receiving or Distribution Manager",
-    "edition_date": "JUNE 2009",
-    "ips_reference": null,
+    "edition_date": "SEPTEMBER 2026",
+    "ips_reference": "350-44",
     "official": true,
-    "page_count": 17
+    "page_count": 11
   },
   "positions": [
     {
@@ -27,147 +27,249 @@
     {
       "position_code": "RCDM",
       "task_number": 1,
-      "category": "Ensure readiness for assignment.",
+      "category": "Leadership Level 2, New Leader (Convey Intent)",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Obtain and assemble information and materials needed for kit. Suggested items:",
+      "verbatim_text": "A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
       ],
-      "clarifications": [
-        "J-253, Receiving/Distribution Manager Job Aid",
-        "PMS 410-1, Fireline Handbook",
-        "ICS 213, General Message",
-        "ICS 214, Unit Log",
-        "Expandable file for inventory and accountability system",
-        "Supply catalogs"
-      ],
-      "page": 6
+      "clarifications": [],
+      "page": 5
     },
     {
       "position_code": "RCDM",
       "task_number": 2,
-      "category": "Ensure readiness for assignment.",
+      "category": "Prepare and Mobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Obtain complete information from dispatch upon assignment.",
+      "verbatim_text": "Ensure individual readiness.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
       ],
-      "clarifications": [
-        "Incident name",
-        "Incident order number",
-        "Request number",
-        "Incident phone number",
-        "Reporting time",
-        "Reporting location",
-        "Transportation arrangements/travel routes",
-        "Contact procedures during travel (telephone/radio)"
-      ],
-      "page": 6
+      "clarifications": [],
+      "page": 5
     },
     {
       "position_code": "RCDM",
       "task_number": 3,
-      "category": "Ensure readiness for assignment.",
+      "category": "Prepare and Mobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Arrive at incident and check in.",
+      "verbatim_text": "Travel to and check in at assignment.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
-      "clarifications": [
-        "Arrive properly equipped at assigned location within acceptable time limits."
-      ],
-      "page": 6
+      "clarifications": [],
+      "page": 5
     },
     {
       "position_code": "RCDM",
       "task_number": 4,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Prepare and Mobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Coordinate with Supply Unit Leader to obtain necessary incident facility staffing levels and needed supplies and materials.",
+      "verbatim_text": "Review Incident Action Plan (IAP) and obtain briefing, objectives, and intent from supervisor.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
-      "clarifications": [
-        "Anticipate future conditions (e.g., weather, escalation/de-escalation, type and quantity of equipment).",
-        "Consider ordering Cache Demobilization Specialist."
-      ],
-      "page": 6
+      "clarifications": [],
+      "page": 5
     },
     {
       "position_code": "RCDM",
       "task_number": 5,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Build the Team",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Organize physical layout of a secure and safe supply area.",
+      "verbatim_text": "Establish and communicate expectations of the chain of command, reporting procedures, and risk management processes.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
-      "clarifications": [
-        "Sufficient space for receiving, storage, and issuance of equipment and supplies.",
-        "Protection from environmental hazards.",
-        "Noise conflict (e.g., sleep areas, food service).",
-        "Supply Unit protection (e.g., barricades, lighting, signing, security personnel)."
-      ],
-      "page": 7
+      "clarifications": [],
+      "page": 6
     },
     {
       "position_code": "RCDM",
       "task_number": 6,
-      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "category": "Build the Team",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Obtain initial briefing from Supply Unit Leader or immediate supervisor.",
+      "verbatim_text": "Identify assigned resources and maintain accountability.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
-      "clarifications": [
-        "Unit location",
-        "Copies of resource orders",
-        "Work schedule",
-        "Policies and operating procedures",
-        "Type of incident and expected duration",
-        "Personnel ordered for your function",
-        "Phone, radio, contact procedures",
-        "Current and expected resource commitments",
-        "Current incident status",
-        "Weather, current and expected",
-        "Safety concerns",
-        "Copy of Incident Action Plan (IAP) or relevant plan"
-      ],
-      "page": 7
+      "clarifications": [],
+      "page": 6
     },
     {
       "position_code": "RCDM",
       "task_number": 7,
-      "category": "Establish effective relationships with relevant personnel.",
+      "category": "Build the Team",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Conduct self in a professional manner.",
-      "code_raw": "I",
+      "verbatim_text": "Brief assigned personnel.",
+      "code_raw": "I/S",
       "code_alternatives": [
-        "I"
+        "I",
+        "S"
       ],
-      "clarifications": [
-        "Respectful and courteous.",
-        "Respectful of public and private property."
-      ],
-      "page": 7
+      "clarifications": [],
+      "page": 6
     },
     {
       "position_code": "RCDM",
       "task_number": 8,
-      "category": "Establish effective relationships with relevant personnel.",
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and communicate objectives, priorities, work assignments, and performance expectations as applicable.",
+      "code_raw": "I/S",
+      "code_alternatives": [
+        "I",
+        "S"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RCDM",
+      "task_number": 9,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Monitor performance and provide immediate and regular feedback to assigned personnel as applicable.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RCDM",
+      "task_number": 10,
+      "category": "Supervise and Direct Work Assignments",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Identify, analyze, and use relevant situational information to make informed decisions and take appropriate actions.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RCDM",
+      "task_number": 11,
+      "category": "Perform Receiving/Distribution Manager- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Organize the physical layout of a safe and secure supply area.",
+      "code_raw": "I/S",
+      "code_alternatives": [
+        "I",
+        "S"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RCDM",
+      "task_number": 12,
+      "category": "Perform Receiving/Distribution Manager- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Set up and maintain a system for tracking the distribution of consumable, durable, and accountable supplies.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RCDM",
+      "task_number": 13,
+      "category": "Perform Receiving/Distribution Manager- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure orders for materials and supplies are filled, prepared, and delivered in a timely manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RCDM",
+      "task_number": 14,
+      "category": "Perform Receiving/Distribution Manager- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure safe operations within the supply area.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RCDM",
+      "task_number": 15,
+      "category": "Perform Receiving/Distribution Manager- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create and implement a procedure for the collection and shipping of damaged/used items.",
+      "code_raw": "I/S",
+      "code_alternatives": [
+        "I",
+        "S"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RCDM",
+      "task_number": 16,
+      "category": "Perform Receiving/Distribution Manager- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain and provide daily inventory and any other reports as requested by the Supply Unit Leader (SPUL).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RCDM",
+      "task_number": 17,
+      "category": "Perform Receiving/Distribution Manager- Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Maintain relationships with the Ordering Manager (ORDM) and Su pply Unit Leader (SPUL) regarding receipt of ordered supplies and equipment.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "RCDM",
+      "task_number": 18,
+      "category": "Communicate and Coordinate",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
@@ -180,11 +282,11 @@
     },
     {
       "position_code": "RCDM",
-      "task_number": 9,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "task_number": 19,
+      "category": "Communicate and Coordinate",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Organize assigned personnel to meet the needs of the assignment.",
+      "verbatim_text": "Conduct and/or participate in functional briefings and After Action Reviews (AARs).",
       "code_raw": "I",
       "code_alternatives": [
         "I"
@@ -194,492 +296,118 @@
     },
     {
       "position_code": "RCDM",
-      "task_number": 10,
-      "category": "Understand and comply with ICS concepts and principles.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Apply the ICS.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Follow chain of command.",
-        "Maintain appropriate span of control.",
-        "Use appropriate ICS forms.",
-        "Use appropriate ICS terminology."
-      ],
-      "page": 8
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 11,
-      "category": "Model leadership values and principles.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Exhibit principles of duty.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Be proficient in your job, both technically and as a leader.",
-        "Make sound and timely decisions.",
-        "Ensure tasks are understood, supervised and accomplished.",
-        "Develop your subordinates for the future."
-      ],
-      "page": 9
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 12,
-      "category": "Model leadership values and principles.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Exhibit principles of respect.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Know your subordinates and look out for their well- being.",
-        "Keep your subordinates informed.",
-        "Build the team.",
-        "Employ your subordinates in accordance with their capabilities."
-      ],
-      "page": 9
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 13,
-      "category": "Model leadership values and principles.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Exhibit principles of integrity.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Know yourself and seek improvement.",
-        "Seek responsibility and accept responsibility for your actions.",
-        "Set the example."
-      ],
-      "page": 9
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 14,
-      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Recognize, mitigate and communicate potentially hazardous situations.",
-        "Monitor condition of assigned resources.",
-        "Account for assigned resources."
-      ],
-      "page": 9
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 15,
-      "category": "Establish work assignments and performance expectations, monitor",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Complete daily review of staffing requirements.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 10
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 16,
-      "category": "Establish work assignments and performance expectations, monitor",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Develop schedule/assignments based on IAP or relevant plan.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 10
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 17,
-      "category": "Establish work assignments and performance expectations, monitor",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Ensure subordinates understand assignment for operational period.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Provide clear, concise instructions and allow for feedback."
-      ],
-      "page": 10
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 18,
-      "category": "Establish work assignments and performance expectations, monitor",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Continually evaluate performance.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Communicate deficiencies immediately and take corrective action.",
-        "Provide training opportunities where available.",
-        "Complete personnel performance evaluations according to agency guidelines."
-      ],
-      "page": 10
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 19,
-      "category": "Emphasize teamwork.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Establish cohesiveness among assigned resources.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Provide for open communication.",
-        "Seek commitment.",
-        "Set expectations for accountability.",
-        "Focus on the team result."
-      ],
-      "page": 10
-    },
-    {
-      "position_code": "RCDM",
       "task_number": 20,
-      "category": "Coordinate interdependent activities.",
+      "category": "Manage Risk",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Inform Ordering Manager of receipt of supply and equipment.",
+      "verbatim_text": "Apply the Risk Management Process.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
-      "clarifications": [
-        "Waybill",
-        "Receipts of property"
-      ],
-      "page": 10
+      "clarifications": [],
+      "page": 7
     },
     {
       "position_code": "RCDM",
       "task_number": 21,
-      "category": "Coordinate interdependent activities.",
+      "category": "Manage Risk",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Coordinate with Supply Unit Leader to release excess resources and supplies.",
-      "code_raw": "I",
+      "verbatim_text": "Plan for medical emergencies.",
+      "code_raw": "I/S",
       "code_alternatives": [
-        "I"
+        "I",
+        "S"
       ],
-      "clarifications": [
-        "Return/backhaul excess supplies to directed location in a timely manner.",
-        "Identify excess assigned personnel."
-      ],
-      "page": 11
+      "clarifications": [],
+      "page": 7
     },
     {
       "position_code": "RCDM",
       "task_number": 22,
-      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "category": "Manage Risk",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Brief and keep subordinates informed and updated.",
+      "verbatim_text": "Account for location, health, safety, and welfare of assigned personnel.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 12
+      "page": 7
     },
     {
       "position_code": "RCDM",
       "task_number": 23,
-      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "category": "Manage Risk",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Participate in functional area briefings and After Action Reviews (AARs).",
-      "code_raw": "I",
+      "verbatim_text": "Submit accident/incident reports with pertinent agency-specific forms through the established chain of command.",
+      "code_raw": "R",
       "code_alternatives": [
-        "I"
+        "R"
       ],
       "clarifications": [],
-      "page": 12
+      "page": 7
     },
     {
       "position_code": "RCDM",
       "task_number": 24,
-      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "category": "Manage Risk",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Maintain inventory of supplies and equipment.",
-      "code_raw": "I",
+      "verbatim_text": "Follow transport guidelines for hazardous material shipping.",
+      "code_raw": "I/S",
       "code_alternatives": [
-        "I"
+        "I",
+        "S"
       ],
-      "clarifications": [
-        "Establish filing system."
-      ],
-      "page": 12
+      "clarifications": [],
+      "page": 7
     },
     {
       "position_code": "RCDM",
       "task_number": 25,
-      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "category": "Document",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Prepare and submit reports as required by the Supply Unit Leader or immediate supervisor.",
+      "verbatim_text": "Complete all administrative tasks and documentation in an accurate and timely manner.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 12
+      "page": 7
     },
     {
       "position_code": "RCDM",
       "task_number": 26,
-      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "category": "Demobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Reconcile inventory received and shipped.",
+      "verbatim_text": "Prepare for and implement demobilization of supplies and equipment.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
-      "clarifications": [
-        "Waybill",
-        "Receipts of property"
-      ],
-      "page": 12
+      "clarifications": [],
+      "page": 7
     },
     {
       "position_code": "RCDM",
       "task_number": 27,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Demobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Evaluate available information and make recommendations to support incident.",
-      "code_raw": "I",
+      "verbatim_text": "Prepare for and implement demobilization of personnel.",
+      "code_raw": "I/S",
       "code_alternatives": [
-        "I"
+        "I",
+        "S"
       ],
-      "clarifications": [
-        "Anticipate upcoming situations (e.g., shortages, line needs, weather)."
-      ],
-      "page": 13
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 28,
-      "category": "Take appropriate action based on assessed risks.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Manage the receiving and distribution function.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Provide for proper shipping/handling/storage (e.g., supplies, equipment, hazardous materials).",
-        "Identify and mitigate hazards (e.g., signs, flagging).",
-        "Deliver orders for materials and supplies in a timely manner."
-      ],
-      "page": 13
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 29,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Comply with applicable health and safety regulations.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Label hazardous materials (e.g., gas cans, oil, drip torch fuel)."
-      ],
-      "page": 13
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 30,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Establish procedures for receiving supplies and equipment.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Designate and sign areas for loading and off-loading.",
-        "Establish procedures for re-issue (e.g., accepting, inspecting, rehabilitating, storing)."
-      ],
-      "page": 13
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 31,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Establish procedures for distribution of supplies and equipment.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Set up file systems for tracking (e.g., consumable, durable, accountable).",
-        "Identify personnel authorized to check out supplies and materials.",
-        "Identify point of issue and provide clear ingress/egress for incident personnel."
-      ],
-      "page": 14
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 32,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Implement security procedures.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Advise Supply Unit Leader and Security Manager of present and anticipated security problems."
-      ],
-      "page": 14
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 33,
-      "category": "Ensure functionality of equipment.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Ensure tools and equipment are serviceable.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Perform spot checks.",
-        "Repair or return unserviceable tools and equipment."
-      ],
-      "page": 14
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 34,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Inform subordinate staff and IC.",
-        "Document follow-up action needed and submit to supervisor."
-      ],
-      "page": 14
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 35,
-      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Demobilize supplies and equipment.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Receive demobilization instructions from supervisor.",
-        "Ensure incident and agency demobilization procedures are followed.",
-        "Prepare equipment/services for release (e.g., inspect and label damaged equipment).",
-        "Notify contractors/vendors of impending release schedule.",
-        "Transfer property following established guidelines (e.g., Receipt for Property, Waybill)."
-      ],
-      "page": 15
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 36,
-      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Anticipate demobilization of resources.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Identify excess resources.",
-        "Prepare schedule for demobilization."
-      ],
-      "page": 15
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 37,
-      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Demobilize and check out.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Receive demobilization instructions from incident supervisor.",
-        "If required, complete ICS 221, Demobilization Checkout and submit completed form to the appropriate person."
-      ],
-      "page": 15
-    },
-    {
-      "position_code": "RCDM",
-      "task_number": 38,
-      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Ensure demobilization of resources.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Brief subordinate staff on demobilization procedures and responsibilities.",
-        "Ensure incident and agency demobilization procedures are followed."
-      ],
-      "page": 15
+      "clarifications": [],
+      "page": 7
     }
   ],
   "fields_observed": [
@@ -689,23 +417,47 @@
     },
     {
       "field_name": "signature_page_verification",
-      "page": 2
+      "page": 1
     },
     {
       "field_name": "signature_page_certification",
-      "page": 2
+      "page": 1
+    },
+    {
+      "field_name": "trainee_iqcs_number",
+      "page": 1
     },
     {
       "field_name": "code_definitions_block",
       "page": 3
     },
     {
-      "field_name": "per_task_evaluator_initials",
-      "page": 6
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 5
+    },
+    {
+      "field_name": "performance_rating_scale",
+      "page": 2
+    },
+    {
+      "field_name": "per_assignment_rating_columns",
+      "page": 5
+    },
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 8
+    },
+    {
+      "field_name": "ips_reviewed_flag",
+      "page": 8
     },
     {
       "field_name": "evaluator_position_on_incident",
-      "page": 16
+      "page": 8
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 8
     },
     {
       "field_name": "incident_name",
@@ -713,7 +465,7 @@
     },
     {
       "field_name": "incident_reference_code",
-      "page": 16
+      "page": 8
     },
     {
       "field_name": "assignment_duration",
@@ -725,11 +477,11 @@
     },
     {
       "field_name": "location_geographic_area",
-      "page": 16
+      "page": 8
     },
     {
       "field_name": "management_type",
-      "page": 4
+      "page": 8
     },
     {
       "field_name": "rx_complexity_level",
@@ -737,23 +489,27 @@
     },
     {
       "field_name": "fbps_fuel_model_group",
-      "page": 5
+      "page": 4
     },
     {
       "field_name": "evaluator_recommendation_block",
-      "page": 16
+      "page": 8
     },
     {
-      "field_name": "per_task_completion_date",
-      "page": 6
+      "field_name": "remarks_narrative",
+      "page": 4
     },
     {
       "field_name": "evaluator_relevant_qualification",
-      "page": 5
+      "page": 8
     },
     {
       "field_name": "edition_date",
       "page": 1
+    },
+    {
+      "field_name": "ips_reference",
+      "page": 2
     }
   ],
   "extra_fields": {}

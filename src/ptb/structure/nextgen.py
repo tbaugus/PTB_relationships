@@ -42,7 +42,11 @@ def _find_column_bands(words: list[dict]) -> dict | None:
         return None
     code_x0 = min(w["x0"] for w in code_headers)
 
-    grid_headers = [w for w in words if w["text"] in ("Record", "Number")]
+    # The "Record Number" grid header always sits right of the CODE header;
+    # a task whose text begins with "Record" (FOBS #9 "Record relevant or
+    # appropriate features on a map.", September 2026) must not be mistaken
+    # for it, or the code band collapses and the page yields no tasks.
+    grid_headers = [w for w in words if w["text"] in ("Record", "Number") and w["x0"] > code_x0]
     grid_x0 = min((w["x0"] for w in grid_headers), default=code_x0 + 60)
 
     # Body text words: left of the code column, excluding digit-only tokens
@@ -67,6 +71,34 @@ def _find_column_bands(words: list[dict]) -> dict | None:
 
 def _in(x0: float, band: tuple[float, float]) -> bool:
     return band[0] <= x0 < band[1]
+
+
+def _row_edges(page, min_length: float = 200.0, merge_tolerance: float = 3.0) -> list[float]:
+    """Y positions of the position-evaluation table's horizontal rulings
+    (long edges only; the double-stroked borders a few tenths of a point
+    apart are merged), sorted top to bottom. Empty when the page has none."""
+    tops = sorted(e["top"] for e in page.horizontal_edges if e["x1"] - e["x0"] >= min_length)
+    merged: list[float] = []
+    for t in tops:
+        if merged and t - merged[-1] <= merge_tolerance:
+            continue
+        merged.append(t)
+    return merged
+
+
+def _row_index(row_edges: list[float], top: float) -> int | None:
+    """Index of the ruling-bounded row containing a word/line top (None when
+    the page has no rulings or the top lies outside the ruled table)."""
+    if len(row_edges) < 2 or top < row_edges[0] or top >= row_edges[-1]:
+        return None
+    lo, hi = 0, len(row_edges) - 1
+    while hi - lo > 1:
+        mid = (lo + hi) // 2
+        if row_edges[mid] <= top:
+            lo = mid
+        else:
+            hi = mid
+    return lo
 
 
 def _drop_bracketed(lines: list[list[dict]]) -> list[list[dict]]:
@@ -104,6 +136,7 @@ def parse_page(page, page_number: int) -> list[dict]:
     bands = _find_column_bands(words)
     if bands is None:
         return []
+    row_edges = _row_edges(page)
 
     # The repeating "Position Evaluation" column label sits in its own
     # right-hand furniture column (outside the body-text band), never mixed
@@ -168,15 +201,31 @@ def parse_page(page, page_number: int) -> list[dict]:
         def nearest_anchor(top: float) -> int:
             return min(anchors, key=lambda a: abs(a[1] - top))[0]
 
+        # A task's number and code are vertically centred in their table
+        # row, so for a long wrapped task the row's last text line can sit
+        # closer to the NEXT task's number than to its own (GISS #59, five
+        # lines, September 2026 — its tail landed on #60). The table's own
+        # horizontal rulings define the rows exactly: a line belongs to the
+        # anchor that shares its row; nearest-anchor is only the fallback for
+        # pages without usable rulings.
+        anchor_row = {n: _row_index(row_edges, top) for n, top in anchors}
+        anchor_by_row = {r: n for n, r in anchor_row.items() if r is not None}
+
+        def owning_anchor(top: float) -> int:
+            r = _row_index(row_edges, top)
+            if r is not None and r in anchor_by_row:
+                return anchor_by_row[r]
+            return nearest_anchor(top)
+
         tasks_by_num: dict[int, dict] = {n: {"text_words": [], "code_words": []} for n, _ in anchors}
         for line in text_lines:
             line_top = line[0]["top"]
             if line_top <= boundary_top + 1:
                 continue  # category name, already consumed
-            n = nearest_anchor(line_top)
+            n = owning_anchor(line_top)
             tasks_by_num[n]["text_words"].extend(line)
         for w in code_words:
-            n = nearest_anchor(w["top"])
+            n = owning_anchor(w["top"])
             tasks_by_num[n]["code_words"].append(w)
 
         for n, _ in anchors:

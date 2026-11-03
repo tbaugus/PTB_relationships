@@ -226,7 +226,7 @@
       "category": "Perform Basic Faller Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Identify tree species groups and common structural defects that may contribute to failure. Perform the required elements of a procedural sizeup, and any critical considerations that could affect each element.",
+      "verbatim_text": "Identify tree species groups and common structural defects that may contribute to failure.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
@@ -240,7 +240,7 @@
       "category": "Perform Basic Faller Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "• Identify the objective of the cutting operation. • Identify the known hazards of the operation. • Recognize leans or binds that may be present. • Develop an escape plan. • Develop a cutting plan.",
+      "verbatim_text": "Perform the required elements of a procedural sizeup, and any critical considerations that could affect each element. • Identify the objective of the cutting operation. • Identify the known hazards of the operation. • Recognize leans or binds that may be present. • Develop an escape plan. • Develop a cutting plan. • Determine complexity. • Make a Go/No-Go decision.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
@@ -254,7 +254,7 @@
       "category": "Perform Basic Faller Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "• Determine complexity. • Make a Go/No-Go decision. After performing a procedural sizeup, safely execute a cut plan to resolve a low complexity bucking operation using accepted practices.",
+      "verbatim_text": "After performing a procedural sizeup, safely execute a cut plan to resolve a low complexity bucking operation using accepted practices.",
       "code_raw": "O",
       "code_alternatives": [
         "O"

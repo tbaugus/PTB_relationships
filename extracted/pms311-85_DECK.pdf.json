@@ -1,17 +1,17 @@
 {
   "document": {
     "filename": "pms311-85_DECK.pdf",
-    "sha256": "034d2d71a2138ccc8d94623603c2ef818bc44029db3cdef10a4dc2195aa7aa97",
+    "sha256": "cbc2689e8346e255661b9a0feca988e42e095809acf4bf8620e349c0842dcd69",
     "pms_number": "311-85",
-    "format": "nwcg_legacy",
+    "format": "nwcg_nextgen",
     "position_codes": [
       "DECK"
     ],
     "title": "Deck Coordinator",
-    "edition_date": "JUNE 2009",
-    "ips_reference": null,
+    "edition_date": "SEPTEMBER 2026",
+    "ips_reference": "350-85",
     "official": true,
-    "page_count": 14
+    "page_count": 11
   },
   "positions": [
     {
@@ -27,81 +27,69 @@
     {
       "position_code": "DECK",
       "task_number": 1,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Leadership Level 2, New Leader (Convey Intent)",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Ensure radio communications for deck personnel are adequate.",
+      "verbatim_text": "A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "DECK",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Gather critical information pertinent to the assignment.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 6
-    },
-    {
-      "position_code": "DECK",
-      "task_number": 2,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Ensure personnel are trained and qualified in the use of extinguishers, crash-rescue and evacuation kits.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Conduct drills."
-      ],
-      "page": 6
+      "page": 5
     },
     {
       "position_code": "DECK",
       "task_number": 3,
-      "category": "Gather, update, and apply situational information relevant to the assignment.",
+      "category": "Prepare and Mobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Obtain initial briefing from assignment supervisor.",
+      "verbatim_text": "Travel to and check in at assignment.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
-      "clarifications": [
-        "Organizational structure",
-        "Weather",
-        "Fire behavior",
-        "Communications",
-        "Resources",
-        "Safety"
-      ],
-      "page": 6
+      "clarifications": [],
+      "page": 5
     },
     {
       "position_code": "DECK",
       "task_number": 4,
-      "category": "Establish effective relationships with relevant personnel.",
+      "category": "Prepare and Mobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Conduct self in a professional manner.",
+      "verbatim_text": "Review Incident Action Plan (IAP) and obtain briefing, objectives, and intent from supervisor.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
-      "clarifications": [
-        "Respectful and courteous.",
-        "Respectful of public and private property."
-      ],
-      "page": 6
+      "clarifications": [],
+      "page": 5
     },
     {
       "position_code": "DECK",
       "task_number": 5,
-      "category": "Establish effective relationships with relevant personnel.",
+      "category": "Build the Team",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
-      "code_raw": "I",
+      "code_raw": "O",
       "code_alternatives": [
-        "I"
+        "O"
       ],
       "clarifications": [],
       "page": 6
@@ -109,10 +97,10 @@
     {
       "position_code": "DECK",
       "task_number": 6,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Build the Team",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Ensure deck personnel understand their responsibilities.",
+      "verbatim_text": "Establish and communicate chain of command, reporting pr ocedures, risk management processes, and radio frequency management.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
@@ -123,396 +111,268 @@
     {
       "position_code": "DECK",
       "task_number": 7,
-      "category": "Model leadership values and principles.",
+      "category": "Build the Team",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Exhibit principles of duty.",
-      "code_raw": "I",
+      "verbatim_text": "Use Incident Command System (ICS) terminology, organization, and command structure.",
+      "code_raw": "O",
       "code_alternatives": [
-        "I"
+        "O"
       ],
-      "clarifications": [
-        "Be proficient in your job, both technically and as a leader.",
-        "Make sound and timely decisions.",
-        "Ensure tasks are understood, supervised and accomplished.",
-        "Develop your subordinates for the future."
-      ],
-      "page": 7
+      "clarifications": [],
+      "page": 6
     },
     {
       "position_code": "DECK",
       "task_number": 8,
-      "category": "Model leadership values and principles.",
+      "category": "Build the Team",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Exhibit principles of respect.",
-      "code_raw": "I",
+      "verbatim_text": "Model leadership values and principles.",
+      "code_raw": "O",
       "code_alternatives": [
-        "I"
+        "O"
       ],
-      "clarifications": [
-        "Know your subordinates and look out for their well- being.",
-        "Keep your subordinates informed.",
-        "Build the team.",
-        "Employ your subordinates in accordance with their capabilities."
-      ],
-      "page": 7
+      "clarifications": [],
+      "page": 6
     },
     {
       "position_code": "DECK",
       "task_number": 9,
-      "category": "Model leadership values and principles.",
+      "category": "Supervise and Direct Work Assignments",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Exhibit principles of integrity.",
+      "verbatim_text": "Establish and communicate objectives, priorities, work assignments, and performance expectations.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
-      "clarifications": [
-        "Know yourself and seek improvement.",
-        "Seek responsibility and accept responsibility for your actions.",
-        "Set the example."
-      ],
-      "page": 7
+      "clarifications": [],
+      "page": 6
     },
     {
       "position_code": "DECK",
       "task_number": 10,
-      "category": "Ensure the safety, welfare, and accountability of assigned personnel.",
+      "category": "Supervise and Direct Work Assignments",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Provide for the safety and welfare of assigned resources.",
+      "verbatim_text": "Ensure daily operational objectives and performance standards are met.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
-      "clarifications": [
-        "Recognize, mitigate and communicate potentially hazardous situations during tactical operations.",
-        "Monitor condition of assigned resources.",
-        "Account for assigned resources.",
-        "Provide for care of assigned personnel and notify supervisor in event of sickness, injury, or accident."
-      ],
-      "page": 7
+      "clarifications": [],
+      "page": 6
     },
     {
       "position_code": "DECK",
       "task_number": 11,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Supervise and Direct Work Assignments",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Monitor assigned personnel to ensure duties are correctly performed.",
-      "code_raw": "I",
+      "verbatim_text": "Identify, analyze, and use relevant situational information to make informed decisions and take appropriate actions.",
+      "code_raw": "O",
       "code_alternatives": [
-        "I"
+        "O"
       ],
       "clarifications": [],
-      "page": 8
+      "page": 6
     },
     {
       "position_code": "DECK",
       "task_number": 12,
-      "category": "Emphasize teamwork.",
+      "category": "Perform Deck Coordinator-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Establish cohesiveness among assigned resources.",
-      "code_raw": "I",
+      "verbatim_text": "Coordinate with Helibase Manager (HEBM) on helibase layout and operations.",
+      "code_raw": "O",
       "code_alternatives": [
-        "I"
+        "O"
       ],
-      "clarifications": [
-        "Provide for open communication.",
-        "Seek commitment.",
-        "Set expectations for accountability.",
-        "Focus on the team result."
-      ],
-      "page": 8
+      "clarifications": [],
+      "page": 6
     },
     {
       "position_code": "DECK",
       "task_number": 13,
-      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "category": "Perform Deck Coordinator-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Ensure hand signals are understood by everyone on the deck.",
-      "code_raw": "O",
+      "verbatim_text": "Promote and maintain the safety of deck operations.",
+      "code_raw": "I",
       "code_alternatives": [
-        "O"
+        "I"
       ],
       "clarifications": [],
-      "page": 9
+      "page": 6
     },
     {
       "position_code": "DECK",
       "task_number": 14,
-      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "category": "Perform Deck Coordinator-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Brief subordinates on daily activities and anticipated problems or timeframes.",
+      "verbatim_text": "Manage the deck.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 9
+      "page": 6
     },
     {
       "position_code": "DECK",
       "task_number": 15,
-      "category": "Ensure relevant information is exchanged during briefings and debriefings.",
+      "category": "Communicate and Coordinate",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Participate in briefings and After Action Review (AAR).",
-      "code_raw": "I",
+      "verbatim_text": "Communicate effectively using multichannel radios.",
+      "code_raw": "O",
       "code_alternatives": [
-        "I"
+        "O"
       ],
       "clarifications": [],
-      "page": 9
+      "page": 6
     },
     {
       "position_code": "DECK",
       "task_number": 16,
-      "category": "Ensure documentation is complete and disposition is appropriate.",
+      "category": "Communicate and Coordinate",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Ensure passenger/cargo manifests are totaled and summarized at the end of the operational period.",
+      "verbatim_text": "Coordinate movement of all aircraft, vehicles, equipment, and personnel on the deck.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
       ],
-      "clarifications": [
-        "Provide information to Helibase Manager."
-      ],
-      "page": 9
+      "clarifications": [],
+      "page": 6
     },
     {
       "position_code": "DECK",
       "task_number": 17,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Communicate and Coordinate",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Assist Helibase Manager in developing the Helibase Facilities, Hazard, and Flight Route Map.",
+      "verbatim_text": "Maintain communications and exchange necessary information w ith other resources.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
       ],
-      "clarifications": [
-        "Establish, mark, and number landing pads.",
-        "Ensure separation of landing areas for cargo, personnel, and other specialized activities (e.g., fueling areas, retardant operations, aerial ignition)."
-      ],
-      "page": 9
+      "clarifications": [],
+      "page": 7
     },
     {
       "position_code": "DECK",
       "task_number": 18,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Communicate and Coordinate",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Assist Helibase Manager in completing the Daily Helicopter Operations Briefing/Debriefing Checklist.",
+      "verbatim_text": "Conduct and/or participate in After Action Reviews (AARs).",
       "code_raw": "O",
       "code_alternatives": [
         "O"
       ],
       "clarifications": [],
-      "page": 9
+      "page": 7
     },
     {
       "position_code": "DECK",
       "task_number": 19,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Manage Risk",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Ensure load calculations for helispots to be used are properly completed, updated, and posted.",
+      "verbatim_text": "Apply the Risk Management Process.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
       ],
-      "clarifications": [
-        "Discuss needs with Helibase Manager."
-      ],
-      "page": 9
+      "clarifications": [],
+      "page": 7
     },
     {
       "position_code": "DECK",
       "task_number": 20,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Manage Risk",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Ensure helicopter display board is accurate.",
+      "verbatim_text": "Ensure own and others’ safety and welfare.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "DECK",
+      "task_number": 21,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Plan for aircraft and/or medical emergencies.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
       ],
       "clarifications": [],
-      "page": 9
-    },
-    {
-      "position_code": "DECK",
-      "task_number": 21,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Coordinate with Take-Off and Landing Coordinator and Aircraft Base Radio Operator before and during daily operations.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 10
+      "page": 7
     },
     {
       "position_code": "DECK",
       "task_number": 22,
-      "category": "Take appropriate action based on assessed risks.",
+      "category": "Manage Risk",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Apply the Risk Management Process found in the IRPG and Fireline Handbook.",
-      "code_raw": "I",
+      "verbatim_text": "Respond to aircraft and/or medical emergencies.",
+      "code_raw": "R",
       "code_alternatives": [
-        "I"
+        "R"
       ],
-      "clarifications": [
-        "Step 1: Situation Awareness",
-        "Step 2: Hazard Assessment",
-        "Step 3: Hazard Control",
-        "Step 4: Decision Point",
-        "Step 5: Evaluate"
-      ],
-      "page": 11
+      "clarifications": [],
+      "page": 7
     },
     {
       "position_code": "DECK",
       "task_number": 23,
-      "category": "Anticipate, recognize and mitigate unsafe situations.",
+      "category": "Document",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Anticipate and correct potential actions or conditions that would affect safety.",
-      "code_raw": "I",
+      "verbatim_text": "Complete all administrative tasks and documentation in an accurate and timely manner.",
+      "code_raw": "O",
       "code_alternatives": [
-        "I"
+        "O"
       ],
-      "clarifications": [
-        "Helibase growth",
-        "Dust abatement needs",
-        "Communication",
-        "Traffic"
-      ],
-      "page": 11
+      "clarifications": [],
+      "page": 7
     },
     {
       "position_code": "DECK",
       "task_number": 24,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Demobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Ensure dust abatement needs are met.",
+      "verbatim_text": "Transition with replacement personnel.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
-      "clarifications": [
-        "Water tenders",
-        "Pumps",
-        "Hose",
-        "Commercial binding agents"
-      ],
-      "page": 11
+      "clarifications": [],
+      "page": 7
     },
     {
       "position_code": "DECK",
       "task_number": 25,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Demobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Ensure adequate personnel for deck operations.",
+      "verbatim_text": "Prepare for and implement demobilization.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 11
-    },
-    {
-      "position_code": "DECK",
-      "task_number": 26,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Ensure adequate personal protective equipment (PPE) for assigned personnel and individuals being transported.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 11
-    },
-    {
-      "position_code": "DECK",
-      "task_number": 27,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Ensure vehicle traffic, and parking and staging areas are kept separate from flight operations and overflights by departing and arriving helicopters.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Deck access is restricted to personnel and vehicles by posting warning signs, flagging and, if necessary, guards.",
-        "Staging areas are safe with regard to access, flight routes, and cargo areas.",
-        "Cargo and personnel manifesting areas are safe and have support for crews working or staging in the area (e.g., water, latrines, shade)."
-      ],
-      "page": 12
-    },
-    {
-      "position_code": "DECK",
-      "task_number": 28,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Ensure crash-rescue requirements are understood by assigned personnel.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Establish emergency landing areas.",
-        "Obtain appropriate kits and equipment."
-      ],
-      "page": 12
-    },
-    {
-      "position_code": "DECK",
-      "task_number": 29,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Ensure safe and efficient manifesting of personnel and cargo.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [
-        "Briefing passengers",
-        "Loading and unloading of personnel",
-        "Loading and unloading of cargo"
-      ],
-      "page": 12
-    },
-    {
-      "position_code": "DECK",
-      "task_number": 30,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Ensure fueling is performed according to standards and procedures.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 12
+      "page": 7
     }
   ],
   "fields_observed": [
@@ -522,23 +382,47 @@
     },
     {
       "field_name": "signature_page_verification",
-      "page": 2
+      "page": 1
     },
     {
       "field_name": "signature_page_certification",
-      "page": 2
+      "page": 1
+    },
+    {
+      "field_name": "trainee_iqcs_number",
+      "page": 1
     },
     {
       "field_name": "code_definitions_block",
       "page": 3
     },
     {
-      "field_name": "per_task_evaluator_initials",
-      "page": 6
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 5
+    },
+    {
+      "field_name": "performance_rating_scale",
+      "page": 2
+    },
+    {
+      "field_name": "per_assignment_rating_columns",
+      "page": 5
+    },
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 8
+    },
+    {
+      "field_name": "ips_reviewed_flag",
+      "page": 8
     },
     {
       "field_name": "evaluator_position_on_incident",
-      "page": 13
+      "page": 8
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 8
     },
     {
       "field_name": "incident_name",
@@ -546,7 +430,7 @@
     },
     {
       "field_name": "incident_reference_code",
-      "page": 13
+      "page": 8
     },
     {
       "field_name": "assignment_duration",
@@ -558,11 +442,11 @@
     },
     {
       "field_name": "location_geographic_area",
-      "page": 13
+      "page": 8
     },
     {
       "field_name": "management_type",
-      "page": 4
+      "page": 8
     },
     {
       "field_name": "rx_complexity_level",
@@ -570,23 +454,27 @@
     },
     {
       "field_name": "fbps_fuel_model_group",
-      "page": 5
+      "page": 4
     },
     {
       "field_name": "evaluator_recommendation_block",
-      "page": 13
+      "page": 8
     },
     {
-      "field_name": "per_task_completion_date",
-      "page": 6
+      "field_name": "remarks_narrative",
+      "page": 4
     },
     {
       "field_name": "evaluator_relevant_qualification",
-      "page": 5
+      "page": 8
     },
     {
       "field_name": "edition_date",
       "page": 1
+    },
+    {
+      "field_name": "ips_reference",
+      "page": 2
     }
   ],
   "extra_fields": {}
