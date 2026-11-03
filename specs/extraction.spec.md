@@ -161,12 +161,12 @@ inventory in format-gaps.spec.md.
   fixes, two of them pre-existing parser errors on books the refresh did
   not touch): (1) AC-E3 now states the token-interleaving reading the Phase
   2 audit applied (pdfplumber inlines the number/code/Level tokens into
-  wrapped text; 2,552 of 4,062 tasks differ from the raw page only by those
-  tokens) and AC-E4 now carries the INV-7 blank-code exception that
+  wrapped text; after the fixes below 2,551 of 4,062 tasks differ from the
+  raw page only by those tokens and the other 1,511 are plain substrings) and AC-E4 now carries the INV-7 blank-code exception that
   schema.spec.md and PLAN.md already recorded on 2026-07-09 — both are the
   spec catching up to accepted decisions, not relaxations: under the stated
-  reading 4,061 of 4,062 tasks matched and the one that did not was a real
-  bug, (2) below. (2) `structure/legacy.py`: a "Behavior:" heading is a
+  reading 4,061 of 4,062 tasks matched before the fixes and the one that
+  did not was a real bug, (2) below; all 4,062 match after them. (2) `structure/legacy.py`: a "Behavior:" heading is a
   section break at any indent. FAL1 (pms311-118) prints its page-12 heading
   at the text column, so the margin-only test read it as a continuation of
   the task still open from page 11 — FAL1 #20 ended with "Behavior: Follow
@@ -182,7 +182,8 @@ inventory in format-gaps.spec.md.
   `split_code_alternatives()` parses either separator (gap.py's context
   matrix splits the same way). Known, deliberately unchanged: wrapped
   multi-line legacy "Behavior:" headings are still captured as their first
-  line only (361 of 1,038 legacy categories end mid-sentence) — a
+  line only (362 of 1,040 distinct legacy (document, position, category)
+  values end mid-sentence after these fixes) — a
   pre-existing limitation outside this refresh, recorded as a follow-up.
 
   2026 template): two fixes to `structure/nextgen.py`, both grounded in the
