@@ -439,8 +439,10 @@ the heading's own indent, one text row below it, before the first task
 number — to the category. Regression over the whole corpus: 48 legacy
 documents / 1,101 task rows change in `category` only (every new value is
 the old one plus a suffix); task counts, `verbatim_text`, `code_raw`,
-`clarifications` and `page` are byte-identical on all 101 documents. The 10
-headings still without a terminal period are printed that way by NWCG.
+`clarifications` and `page` are byte-identical on all 101 documents. The 11
+headings still without a terminal period (10 unpunctuated, SEMG's ends in a
+colon) are printed that way by NWCG. Spec-checker audit of
+extraction.spec.md AC-E1..E10 on the result: ALL PASS.
 `tests/test_extraction.py` enforces AC-E10 corpus-wide against the PDFs.
 
 Downstream effect on matching: `data/ptb.sqlite`, `data/tier2_candidates.json`

@@ -198,14 +198,16 @@ inventory in format-gaps.spec.md.
   1,101 task rows change in `category` ONLY (every new value is the old
   value plus a suffix), and no document changes in task count,
   `verbatim_text`, `code_raw`, `clarifications`, `page`, positions, or
-  `fields_observed`. 361 of 1,040 distinct (document, position, category)
+  `fields_observed`. 362 of 1,040 distinct (document, position, category)
   values previously ended mid-sentence; now 1,038 distinct values (two
-  former truncations collapsed onto their full headings) and the only 10
-  without a terminal period are headings NWCG prints without one (e.g.
-  HEBM "Model leadership values and principles", PSC3 "Gather, analyze and
-  validate information pertinent to the incident or event and make
-  recommendations for setting priorities"), each verified on its page as
-  immediately followed by its first task number. Downstream: categories
+  former truncations, RTCM's and MXMS's, collapsed onto their full
+  headings) and the only 11 without a terminal period are headings NWCG
+  prints that way — 10 with no closing punctuation (e.g. HEBM "Model
+  leadership values and principles", PSC3 "Gather, analyze and validate
+  information pertinent to the incident or event and make recommendations
+  for setting priorities") plus SEMG's colon-terminated "Ensure readiness
+  for assignment:" — each verified on its page as immediately followed by
+  its first task number (spec-checker audit 2026-11-03, ALL PASS). Downstream: categories
   feed `context.py`'s behavior families, so the context-rule features of
   every probable pair are recomputed and any pair whose result changes is
   reported in PLAN.md rather than re-demoted silently.
