@@ -93,7 +93,12 @@ Every `documents` entry carries, in addition to the manifest contract above:
 
 - `edition_date` — ISO-8601 `YYYY-MM` (or `YYYY-MM-DD` when the source gives
   a day). Taken, in this order of preference, from: the catalog's
-  "Date Published" column (catalog PTBs; it is already `YYYY-MM`); the
+  "Date Published" column (catalog PTBs; it is already `YYYY-MM`) — unless
+  it disagrees with the month printed on the PDF's page 1, in which case the
+  printed month wins and the entry carries `edition_date_conflict`
+  (observed 2026-11-02 on two otherwise unchanged books: EQTR, catalog
+  2016-09 vs printed September 2024; FELB, catalog 2024-07 vs printed June
+  2024); the
   "PMS <n> <Month YYYY>" line printed on page 1 (companion standards and
   PMS 310-1 — scanned with pdfplumber at download time, month name
   case-insensitive); the DOCX core-properties `modified` timestamp for the
@@ -208,8 +213,11 @@ is ~250 network requests that change nothing).
       "companion_standards"` entry has a non-null `edition_date` in
       `YYYY-MM` or `YYYY-MM-DD` form and an `edition_date_source`; for every
       catalog PTB the catalog's "Date Published" month equals the month
-      printed on the PDF's page 1 (cross-check; a mismatch is a FAIL, not a
-      silent preference).
+      printed on the PDF's page 1, OR the entry records the disagreement
+      explicitly as `edition_date_conflict: {catalog, printed}` with the
+      printed value chosen (the PDF is the document; the catalog column is
+      metadata about it). A disagreement that is neither equal nor recorded
+      is a FAIL — never a silent preference.
 - [ ] AC-A9: Every `extracted/requirements/<code>.json` file's
       `required_experience_prereq_codes` never contains that same file's own
       `position_code` (no self-referential prerequisite).
@@ -230,7 +238,10 @@ is ~250 network requests that change nothing).
   additions: `edition_date`, `edition_date_source`, `page_count` per
   document; top-level `retired[]`; `superseded` entries now also carry
   `url` and `edition_date`. Identity for change detection changed from
-  URL to (role, PMS number) because NWCG renamed its S3 keys. The Phase 0
+  URL to (role, PMS number) because NWCG renamed its S3 keys. The first
+  refresh also found two books whose catalog "Date Published" disagrees
+  with the edition printed in the PDF (EQTR, FELB — see the currency-fields
+  rule); both are recorded as `edition_date_conflict`. The Phase 0
   fixture set (FFT1, ENGB, CRWB, FIRB, LOFR) is unchanged by this refresh
   (hashes verified), so every fixture-grounded criterion in the other
   specs still holds.
