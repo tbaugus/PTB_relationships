@@ -330,3 +330,22 @@ def test_ac_g8_uais_draft_position_prerequisites(real_conn: sqlite3.Connection) 
 
     # UAIS still held-excluded positions (UASP, FIRB) do not appear in results.
     assert not any(r.position in ("UASP", "FIRB") for r in results)
+
+
+# ---------------------------------------------------------------------------
+# Rule 4 for prerequisite codes with no task book (gap-analysis.spec.md
+# changelog 2026-11-03): ENGB -> FFT1 -> FFT2, so an ENGB holder must never be
+# re-demanded FFT2 even though FFT2 has no `positions` row.
+# ---------------------------------------------------------------------------
+
+
+def test_rule4_prerequisite_without_positions_row_is_not_redemanded(real_conn):
+    assert real_conn.execute("SELECT COUNT(*) FROM positions WHERE code = 'FFT2'").fetchone()[0] == 0
+    profile = gap.CandidateProfile(held_qualifications=["ENGB"], completed_courses=[], completed_task_ids=[])
+    results = gap.closest_positions(profile, conn=real_conn)
+    fft1 = _gap_for(results, "FFT1")
+    assert not any(r.value == "FFT2" for r in fft1.gaps_requirements), fft1.gaps_requirements
+    waived = [r for r in fft1.satisfied_requirements if r.value == "FFT2"]
+    assert waived and waived[0].derivation == "implied_by" and waived[0].derivation_position == "ENGB"
+    for pg in results:
+        assert not any(r.kind == "prerequisite_position" and r.value == "FFT2" for r in pg.gaps_requirements), pg.position

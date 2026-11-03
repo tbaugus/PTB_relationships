@@ -9690,6 +9690,1236 @@
    "note": "The spec's grounded rule-1 example (ENGB#9 vs FFT1#10, seeded per AC-M3): \"SCOUT LINE in critical areas AND PATROL fireline\" (mobile supervisory reconnaissance) vs \"ACT AS A LOOKOUT\" (stationary observation post) - different actions and roles; a performer-lookout task never equals the scout/patrol task (rule 1). Related only.",
    "adjudicated_at": "2026-07-10",
    "adjudicator": "claude-fable-5 (session 2026-07-10, rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "f8dc71aaab92aaec",
+   "relation": "equivalent",
+   "note": "Differs only by \"and maintain timely communication\" vs \"and timely communication\" (plus the extraction split \"co mmunication\"): ensuring clear expectations and timely communication across ICS functional areas is the same evaluated duty; \"maintain\" restates the ensure (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "75c3eaf770c3a148",
+   "relation": "equivalent",
+   "note": "Differs only by the hedge \"as applicable\": monitoring performance and giving immediate/regular feedback to assigned personnel is the same behavior; the hedge conditions when, not what (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "0a87019611410e25",
+   "relation": "equivalent",
+   "note": "Differs only by the hedge \"as applicable\": same establish-and-communicate duty over the same four objects (objectives, priorities, work assignments, performance expectations) (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "4bbd49c5a8ac3721",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (comm vs build_team) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "6bb0359cc97a8172",
+   "relation": "equivalent",
+   "note": "Differs only by \"leader's intent\" vs \"intent\" from the supervisor: same review-IAP-and-get-briefed duty (rule 3; matches the earlier verdict on the FFT1/INCM wording).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "068d863011fe376f",
+   "relation": "equivalent",
+   "note": "\"for completion of work assignments\" vs \"to complete work assignments\": same coordinate-with-other-units duty, phrasing only (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "aa1231c3f8314b00",
+   "relation": "equivalent",
+   "note": "\"immediate and consistent feedback\" vs \"immediate and regular feedback ... as applicable\": consistent/regular are the same cadence requirement and the hedge conditions timing only (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "ee52af69128c86d3",
+   "relation": "equivalent",
+   "note": "Identical wording; differs only by the extraction split \"pr ocedures\" in the DECK text (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "8b9661197c367a7b",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (comm vs build_team) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "2442a44d77a47185",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (info_exchange vs comm) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "3d61b7316dcea04a",
+   "relation": "related_not_equivalent",
+   "note": "A \"comply with FAL3 position standards\" vs B \"comply with FAL2 position standards\" (both per PMS 212): the object is a different position's standard (intermediate vs basic faller scope); the texts do not establish containment between the two standards (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "dc1b21ae5ba37085",
+   "relation": "equivalent",
+   "note": "Same establish-communications-and-exchange-briefings duty; A only names the recipients (\"with other resources\") that B leaves implicit (rule 3; matches earlier verdicts on this family).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "94d290e167e9316e",
+   "relation": "equivalent",
+   "note": "\"attend incident briefings and meetings\" vs \"attend and participate in incident briefings and meetings as directed\": attend/participate are the same presence level and the hedge conditions timing (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "f6990b10163d92b7",
+   "relation": "related_not_equivalent",
+   "note": "A \"report atmospheric characteristics AND CHANGES that influence fire behavior\" vs B \"report WEATHER and atmospheric characteristics that influence fire behavior\": A adds reporting changes, B adds weather; each requires an object the other lacks (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "e7006b909285f608",
+   "relation": "equivalent",
+   "note": "Differs only by the article \"the\" before Incident Action Plan (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "f792b7836eb5690e",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "prepare for and implement demobilization",
+   "note": "A \"PREPARE FOR AND IMPLEMENT demobilization\" vs B \"prepare for demobilization\": A adds implementation (rule 2). A subsumes B.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "f078c239b673aa41",
+   "relation": "equivalent",
+   "note": "\"checkout\" vs \"check-out\": hyphenation only (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "6ea742356b4ec979",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "plan for and support medical emergencies",
+   "note": "A \"plan for medical emergencies\" vs B \"plan for AND SUPPORT medical emergencies\": B adds the support action (rule 2). B subsumes A.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "7223e5ef00ddf7b2",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (info_exchange vs comm) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "69266f143e8736b2",
+   "relation": "related_not_equivalent",
+   "note": "A \"plan for and SUPPORT medical emergencies\" vs B \"plan for and RESPOND TO medical emergencies\": supporting a response and responding are different second actions; neither text contains the other (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "fb32187ba820aa4c",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (info_exchange vs comm) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "c5080f6e953a8d17",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "prepare for and implement demobilization",
+   "note": "A \"prepare for AND implement demobilization\" vs B \"implement demobilization\": A adds the preparation (rule 2). A subsumes B.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "3f8897274c9667b6",
+   "relation": "equivalent",
+   "note": "A \"participate in functional area briefings and AARs\" vs B \"conduct and/or participate in functional briefings and AARs\": B's and/or lets participation satisfy it; same objects (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "173520de7bb4c60d",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "conduct and/or participate in functional briefings and after action reviews (aar)",
+   "note": "A \"conduct and/or participate in functional briefings AND AARs\" vs B \"participate in and/or conduct briefings AND/OR AARs\": A requires both objects, B is satisfied by either one; A's demonstration covers B (rule 2). A subsumes B.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "14aac75b6cfce117",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (info_exchange vs comm) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "572d4b4885a75ce5",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "plan for and manage medical emergencies",
+   "note": "A \"plan for and MANAGE medical emergencies\" vs B \"plan for and SUPPORT medical emergencies\": managing the emergency response includes supporting it, not the reverse (rule 2). A subsumes B.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "cc630aa072853785",
+   "relation": "related_not_equivalent",
+   "note": "A \"conduct and/or participate in functional briefings AND AARs\" vs B \"CONDUCT briefings AND/OR AARs\": B requires conduct level but only one of the two objects, A requires both objects but accepts participation; neither contains the other (rules 1, 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "2f35ef6ad0846a53",
+   "relation": "equivalent",
+   "note": "Differs only by the parenthetical \"(and other methods as approved/directed)\", which widens the permitted means without changing the evaluated behavior of communicating effectively on multichannel radios (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "e677379d53cf73dd",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (info_exchange vs build_team) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "07f66b650518f23f",
+   "relation": "related_not_equivalent",
+   "note": "A \"establish and MONITOR objectives, priorities, work assignments, and performance expectations\" vs B \"establish and COMMUNICATE ... as applicable\": monitoring and communicating are different second actions on the same objects (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "9cf9ac6c03408516",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (sa_gather vs readiness) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "f72557a3b1f83378",
+   "relation": "equivalent",
+   "note": "Identical wording; differs only by the extraction split \"co mmunication\" in the ORDM text (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "c486b877c4a2eae4",
+   "relation": "equivalent",
+   "note": "Differs only by the article \"a\" and the extraction split \"co mmunication\" (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "bdb7483afa01dfb2",
+   "relation": "equivalent",
+   "note": "Differs only by \"and maintain timely communication\" vs \"and timely communication\" (plus an extraction split): same ensure duty (rule 3; same reading as the STAM/ORDM pair).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "3ab779f899aa67ba",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "prepare for demobilization",
+   "note": "A \"plan for demobilization\" vs B \"prepare for demobilization\": preparing covers planning and adds readiness actions (rule 2; consistent with the earlier \"prepare for and implement\" vs \"plan for\" verdict). B subsumes A.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "58e727e7a7c3ccd9",
+   "relation": "related_not_equivalent",
+   "note": "A \"prepare THE Demobilization Plan\" (the unit leader's incident-wide plan product) vs B \"prepare for demobilization\" (own readiness to demobilize): different objects (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "01a6d3375b5a96b4",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (info_exchange vs build_team) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "4ce161ec854c2656",
+   "relation": "equivalent",
+   "note": "Differs only by \"and maintain timely\" vs \"and timely\", the article \"a\", and an extraction split (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "7f2852b8c0287676",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (info_exchange vs comm) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "1c0e5479e045d4ea",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "conduct and/or participate in functional briefings and after action reviews (aar)",
+   "note": "A \"conduct and/or participate in functional briefings AND AARs\" vs B \"participate in briefings AND/OR AARs\": A requires both objects, B either one (rule 2). A subsumes B.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "ee16a32abefdf5f6",
+   "relation": "equivalent",
+   "note": "Same establish-communications-and-exchange-information duty; B only names the recipients (\"with other resources\") that A leaves implicit (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "32f50edc4fba9be4",
+   "relation": "related_not_equivalent",
+   "note": "A \"CREATE Offline Copy of NIFS\" vs B \"BACK UP the Offline Copy of NIFS\": creating and backing up are different actions on the same object (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "ad3f326746b019b9",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (info_exchange vs comm) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "042e4666fa08c0b5",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (info_exchange vs comm) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "c396bf21100877be",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (sa_gather vs readiness) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "7b212b768bbd479a",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (info_exchange vs comm) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "0167e953dc71f993",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (comm vs risk) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "8ef40a9cf4050fcc",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (comm vs risk) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "d7e13b22e2281474",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "model leadership values and principles. provide a positive influence. emphasize teamwork",
+   "note": "A \"model leadership values and principles. Provide a positive influence. Emphasize teamwork.\" vs B \"model leadership values and principles\": A adds two further behaviors (rule 2). A subsumes B.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "be264e41c73f4917",
+   "relation": "related_not_equivalent",
+   "note": "A \"... low complexity BUCKING operation\" vs B \"... low complexity FELLING operation\": different cutting operations, each its own evaluated task (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "bdfca2e22fe74b06",
+   "relation": "related_not_equivalent",
+   "note": "A \"establish a common operating picture with supervisors and SUBORDINATES\" vs B \"... with supervisors and ADJACENT RESOURCES\": the counterparts differ in kind (a supervisory relationship vs lateral resources), not merely in naming (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "77942523af7f70d4",
+   "relation": "equivalent",
+   "note": "\"with relevant team members\" vs \"with other resources\": each names its own counterparts for the same establish-communications-and-exchange-briefings duty (rule 3; matches earlier verdicts).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "d35f404e9175d788",
+   "relation": "equivalent",
+   "note": "\"implement demobilization plan\" vs \"implement demobilization\": same implementation duty, phrasing only (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "de7e242e92737047",
+   "relation": "related_not_equivalent",
+   "note": "A \"ESTABLISH communications and exchange necessary information\" vs B \"MAINTAIN communications and exchange necessary information\" (with the extraction split \"w ith\"): establishing and maintaining communications are different actions (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "c0fdf98507527e37",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (lead/specific vs demob_transfer) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "e1aaa0506d1efbb5",
+   "relation": "equivalent",
+   "note": "A names its recipients (support resources, adjacent resources, supervisor) where B says \"other resources\": same establish-communications-and-exchange-briefings duty (rule 3; matches earlier verdicts).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "8f2bc922c415500c",
+   "relation": "equivalent",
+   "note": "\"necessary information\" vs \"necessary briefings/information\", both \"with other resources\": phrasing only (rule 3; matches earlier verdicts).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "62b19aa6eda9f850",
+   "relation": "related_not_equivalent",
+   "note": "A \"collect, assess, and monitor weather information from data sources for potential influences on fire behavior\" (analysis) vs B \"report weather and fire behavior data\" (field reporting): different actions and objects (rules 1, 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "9c606959ed174856",
+   "relation": "related_not_equivalent",
+   "note": "A \"establish contact with the IMT to OBTAIN initial information\" vs B \"PROVIDE information to the IMT and relevant agencies\": opposite directions of information flow (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "06538148679f9882",
+   "relation": "related_not_equivalent",
+   "note": "A \"PROVIDE logistical support, as necessary\" vs B \"ARRANGE FOR logistical support needs\": providing support and arranging for it are different actions (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "979e40f5e176f643",
+   "relation": "equivalent",
+   "note": "A \"ensure compliance with all safety practices and procedures FOR YOURSELF AND THOSE AROUND YOU\" vs B \"ensure compliance with all safety practices and procedures\": A only spells out the scope B leaves implicit (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "008f2816380d5c90",
+   "relation": "related_not_equivalent",
+   "note": "A \"engage with the IMT\" vs B \"provide information to the IMT and relevant agencies\": engagement is unspecified in action; B names a specific information duty and extra recipients (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "005c92c3a050cdac",
+   "relation": "related_not_equivalent",
+   "note": "A \"establish and communicate a COP with supervisors and SUBORDINATES\" vs B \"establish a COP with supervisors and ADJACENT RESOURCES\": counterparts differ in kind and A adds communicate (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "465131d95d814d6e",
+   "relation": "related_not_equivalent",
+   "note": "A \"establish a COP with supervisor and SUBORDINATES\" vs B \"... with supervisors and ADJACENT RESOURCES\": counterparts differ in kind (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "d4816762a2def54a",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (comm vs info_exchange) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "08ae17155b8e74f6",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (info_exchange vs build_team) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "61ceee4c8f1c1bd3",
+   "relation": "related_not_equivalent",
+   "note": "A \"DEVELOP OR UPDATE the ABOP and brief base personnel\" vs B \"REVIEW the local ABOP and obtain briefing from base manager\": authorship vs consumption of the same plan (rules 1, 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "4685f3ebe5e0e6a0",
+   "relation": "related_not_equivalent",
+   "note": "A \"prepare for demobilization\" vs B \"plan for demobilization AND BRIEF assigned resources on demobilization procedures\": B adds the briefing duty while A's preparation goes beyond planning; no containment (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "523d5960fb17adac",
+   "relation": "related_not_equivalent",
+   "note": "A \"PLAN FOR aircraft and/or medical emergencies\" vs B \"RESPOND TO aircraft and/or medical emergencies\": planning and responding are different actions (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "29c1512576654997",
+   "relation": "related_not_equivalent",
+   "note": "A \"participate in operational briefings\" vs B \"IDENTIFY WHO NEEDS TO ATTEND operational period briefings\": attendance vs a staffing decision (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "3f45e999aebc011a",
+   "relation": "related_not_equivalent",
+   "note": "A \"ENSURE demobilization of equipment\" (oversight) vs B \"PREPARE FOR AND IMPLEMENT demobilization of supplies and equipment\" (performer): action levels never equate (rule 1). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "8074a5ad961ea1ad",
+   "relation": "equivalent",
+   "note": "\"necessary information\" vs \"necessary briefings/information\": same establish-communications-and-exchange duty (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "ccdf60f5c5ba9892",
+   "relation": "related_not_equivalent",
+   "note": "A \"ensure compliance with applicable health and safety REGULATIONS\" vs B \"ensure compliance with all safety PRACTICES AND PROCEDURES\": regulatory compliance vs procedural practice are different objects (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "e3a0a0c22a00fd7d",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (build_team vs info_exchange) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "1bf4de30459bf218",
+   "relation": "related_not_equivalent",
+   "note": "A \"IDENTIFY AND PLAN FOR logistical support needs\" vs B \"PROVIDE logistical support, as necessary\": planning for support vs providing it (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "e347f50c40e52711",
+   "relation": "equivalent",
+   "note": "Differs only by \"in all aspects of the job\", a scope phrase on the same ensure-own-and-others'-safety duty (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "829ce1eb4c673252",
+   "relation": "related_not_equivalent",
+   "note": "A \"implement the Demobilization Plan\" vs B \"prepare for demobilization\": implementing vs preparing (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "211dadf362c3c4f1",
+   "relation": "related_not_equivalent",
+   "note": "A \"plan for demobilization\" vs B \"implement demobilization\": planning vs implementing (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "4a1eaf48c2239d7e",
+   "relation": "related_not_equivalent",
+   "note": "A \"prepare for demobilization\" vs B \"implement demobilization\" (STAM #20 vs #21, the book's own two-step split): preparing vs implementing (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "04c4be63b54de98a",
+   "relation": "related_not_equivalent",
+   "note": "A \"COMPLETE all administrative tasks and documentation\" (performer) vs B \"MANAGE administrative tasks and documentation and ENSURE timely completion\" (oversight): action levels never equate (rule 1). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "e971b2a6157c00fe",
+   "relation": "related_not_equivalent",
+   "note": "A \"... low complexity BUCKING operation\" vs B \"... low complexity LIMBING operation\": different cutting operations (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "414f6d904a8f5fdc",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "prepare for and implement demobilization of supplies and equipment",
+   "note": "A \"demobilize equipment\" vs B \"prepare for and implement demobilization of SUPPLIES AND equipment\": B covers A's implementation of equipment demobilization and adds preparation and supplies (rule 2). B subsumes A.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "6ebe1c9f9a70eba0",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (risk vs compliance) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "b69fa0be3ea15c59",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (risk vs docs) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "3778acdf3da63ed2",
+   "relation": "equivalent",
+   "note": "A \"assess work area to meet assigned objectives\" vs B \"assess project or assigned work area\": same assess-the-work-area action; A's purpose clause and B's \"project\" alternative are phrasing (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "63a7ef49e007e072",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "manage administrative tasks and documentation and ensure timely completion",
+   "note": "A \"manage administrative tasks and documentation AND ENSURE TIMELY COMPLETION\" vs B \"manage administrative tasks and documentation\": A adds the completion assurance (rule 2). A subsumes B.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "caf05d0e7eaae327",
+   "relation": "related_not_equivalent",
+   "note": "A \"prepare for demobilization\" vs B \"provide input on demobilization priorities\": own readiness vs advising on priorities (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "2210dcef24b9baf5",
+   "relation": "related_not_equivalent",
+   "note": "A \"ASSEMBLE AND VALIDATE readiness of crew, equipment, and vehicles\" vs B \"CONSULT WITH Crew Boss personnel to validate readiness\": direct assembly/validation vs consulting another position to validate (rules 1, 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "23358832b3442b17",
+   "relation": "related_not_equivalent",
+   "note": "A \"provide information to the IMT and relevant agencies\" vs B \"evaluate and share pertinent information for the section with IMT members\": B adds evaluation, A adds agencies; no containment (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "a7dd75639f2d8d69",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (comm vs info_exchange) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "fafd892ec94d9f74",
+   "relation": "related_not_equivalent",
+   "note": "A \"implement demobilization\" vs B \"provide input on demobilization priorities\": implementing vs advising (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "3fdb2a2f841adf1d",
+   "relation": "related_not_equivalent",
+   "note": "A \"prepare for and implement demobilization of personnel\" vs B \"brief staff on demobilization responsibilities\": implementing vs briefing (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "91ae237e6c74c5a7",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (build_team vs info_exchange) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "90ea2f58b7f0e670",
+   "relation": "related_not_equivalent",
+   "note": "A \"REPORT weather AND FIRE BEHAVIOR data\" vs B \"COLLECT fire weather data\": different actions and A adds fire behavior (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "2196c1f972d638f3",
+   "relation": "related_not_equivalent",
+   "note": "A \"identify tree species groups and common structural defects that may contribute to failure\" vs B \"demonstrate an understanding of tree anatomy and defects contributing to failure in a variety of tree species\": identification vs demonstrated understanding of anatomy; neither text contains the other (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "6138725c15ed8862",
+   "relation": "related_not_equivalent",
+   "note": "A \"provide INFORMATION to the IMT and relevant agencies\" vs B \"provide DOCUMENTATION for the IMT as well as home and host units\": different objects and recipients (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "a8e0d6d4e55a3a34",
+   "relation": "related_not_equivalent",
+   "note": "A \"RECEIVE an in-brief of incident status and review IMT guidelines\" vs B \"PROVIDE information to the IMT\": opposite directions (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "99ed4f6ef90c6ef4",
+   "relation": "related_not_equivalent",
+   "note": "A \"DEVELOP suppression repair specifications\" vs B \"ADVISE on strategy and tactics for suppression repair\": authoring specifications vs advising on strategy (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "9ef6c2191f001b0c",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (info_exchange vs build_team) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "cec8704c96e3451e",
+   "relation": "related_not_equivalent",
+   "note": "A \"obtain initial briefing from current INCIDENT COMMANDER\" vs B \"obtain initial briefing from SITUATION UNIT LEADER or other incident supervisor\": the named briefing sources share no role (Phase 4 briefing-source policy; rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "a6898a9e384a8fd9",
+   "relation": "related_not_equivalent",
+   "note": "A \"implement demobilization plan\" vs B \"prepare for demobilization\": implementing vs preparing (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "2a6f33ec973bf93c",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "conduct and/or participate in functional briefings and after action reviews (aar)",
+   "note": "A \"conduct and/or participate in AAR\" vs B \"conduct and/or participate in FUNCTIONAL BRIEFINGS AND AARs\": B adds the briefings (rule 2). B subsumes A.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "38231564762650e3",
+   "relation": "related_not_equivalent",
+   "note": "A \"demobilize and check out\" vs B \"prepare for demobilization\": executing demobilization vs preparing for it (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "c4ee3f438981067b",
+   "relation": "related_not_equivalent",
+   "note": "A \"obtain briefing from immediate supervisor AND Incident Commander within the first operational period\" vs B \"obtain initial briefing from SITL or other incident supervisor\": A requires a second, differently-roled source (IC) and a timing constraint; no clean containment (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "d8f9992ab2407dca",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "establish and communicate chain of command, reporting procedures, risk management processes, radio frequency management, and aviation operational strategy",
+   "note": "A adds \"and aviation operational strategy\" to the same establish-and-communicate list (chain of command, reporting procedures, risk management processes, radio frequency management) (rule 2; B carries the extraction split \"pr ocedures\"). A subsumes B.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "28b1de2fe89a6f06",
+   "relation": "related_not_equivalent",
+   "note": "A \"use ICS terminology, organization, and command structure\" vs B \"follow and apply chain of command according to ICS\": A is about usage of ICS structure/terminology, B about following the chain of command; neither contains the other (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "2c73d6f9a37db932",
+   "relation": "related_not_equivalent",
+   "note": "A \"... low complexity BUCKING operation\" vs B \"... low complexity BRUSHING operation\": different cutting operations (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "8d73176a337484fb",
+   "relation": "related_not_equivalent",
+   "note": "A \"report weather and FIRE BEHAVIOR data\" vs B \"report weather and ATMOSPHERIC CHARACTERISTICS that influence fire behavior\": each adds an object the other lacks (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "2c4bd7ae69b81fb5",
+   "relation": "related_not_equivalent",
+   "note": "A \"OBTAIN, MONITOR, AND DOCUMENT fire weather forecasts and other environmental factors to anticipate changes in fire behavior\" vs B \"REPORT weather and fire behavior data\": different actions and objects (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "fc6b7028f4ac993d",
+   "relation": "related_not_equivalent",
+   "note": "A \"obtain initial briefing from GROUND SUPPORT UNIT LEADER or immediate supervisor\" vs B \"obtain initial briefing from SITUATION UNIT LEADER or other incident supervisor\": the named primary sources share no role (briefing-source policy; rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "6ca2398662d2ed7e",
+   "relation": "related_not_equivalent",
+   "note": "A \"REVIEW the IAP and OBTAIN briefing, objectives, and intent\" vs B \"PREPARE AND MANAGE the IAP\": consumption vs authorship (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "fa56cb18b1c04b28",
+   "relation": "related_not_equivalent",
+   "note": "A \"OBTAIN AND MONITOR weather and other environmental factors to anticipate changes\" vs B \"REPORT weather and fire behavior data\": different actions (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "481ebc3cedc3891c",
+   "relation": "related_not_equivalent",
+   "note": "A \"FOLLOW established safety procedures\" (performer) vs B \"ENSURE compliance with all safety practices and procedures\" (oversight): action levels never equate (rule 1). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "37e18e9247ecc8ea",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "establish and communicate chain of command, reporting procedures, risk management processes, and radio frequency management",
+   "note": "A \"establish and communicate chain of command, reporting procedures, risk management processes, AND RADIO FREQUENCY MANAGEMENT\" vs B \"establish and communicate expectations of the chain of command, reporting procedures, and risk management processes\": A adds radio frequency management; \"expectations of\" is phrasing (rule 2). A subsumes B.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "2f1994b17d8c609f",
+   "relation": "related_not_equivalent",
+   "note": "A \"obtain, monitor, and document fire weather forecasts ...\" vs B \"report weather and atmospheric characteristics that influence fire behavior\": different actions and objects (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "bc25e26d59d762b4",
+   "relation": "related_not_equivalent",
+   "note": "A \"ensure SECURITY of supply area is maintained\" vs B \"ensure SAFE OPERATIONS within the supply area\": security and safety are different objects (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "6bf0edd1bd0d624b",
+   "relation": "related_not_equivalent",
+   "note": "A \"communicate using plain language and ICS terminology\" vs B \"use ICS terminology, organization, and command structure\": A is a communication-style duty, B covers organization and command structure; neither contains the other (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "4d9eeaa8660acab6",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (info_exchange vs build_team) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "de34a95742a3851e",
+   "relation": "related_not_equivalent",
+   "note": "A \"COORDINATE information sharing with IMT functional areas\" vs B \"PROVIDE information to the IMT and relevant agencies\": coordinating an exchange vs providing information, and B adds agencies (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "84644834b9633358",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "ensure compliance with all safety practices and procedures and report all accidents or injuries to supervisor",
+   "note": "A \"ensure compliance with all safety practices and procedures AND REPORT ALL ACCIDENTS OR INJURIES to supervisor\" vs B \"ensure compliance with all safety practices and procedures\": A adds the reporting duty (rule 2). A subsumes B.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "c52533e84c7247c3",
+   "relation": "related_not_equivalent",
+   "note": "A \"prepare for and implement demobilization\" (the position's own demobilization) vs B \"prepare for and implement demobilization OF PERSONNEL\" (demobilizing others): different objects, not a scope narrowing of the same one (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "791c110d6e58c0c6",
+   "relation": "related_not_equivalent",
+   "note": "A \"CONSULT WITH Crew Boss personnel to validate readiness of assigned crew(s) and equipment\" vs B \"ASSEMBLE AND VALIDATE readiness of the crew, equipment, vehicles, and aircraft\": consulting vs direct assembly/validation, and B adds vehicles and aircraft (rules 1, 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "3f7d8706a63351bf",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (info_exchange vs build_team) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "819099cba53f9bb3",
+   "relation": "equivalent",
+   "note": "\"feedback to subordinates\" vs \"feedback to assigned personnel as applicable\": subordinates are the assigned personnel; the hedge conditions timing (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "c301a3eaffaac569",
+   "relation": "related_not_equivalent",
+   "note": "A \"obtain initial briefing from SITUATION UNIT LEADER or other incident supervisor\" vs B \"obtain initial briefing from the COMMUNICATIONS UNIT LEADER or immediate supervisor\": the named primary sources share no role (briefing-source policy; rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "0bb72b42f54e6adb",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "attend and participate in incident briefings and meetings as directed",
+   "note": "A \"attend and participate in incident briefings AND MEETINGS as directed\" vs B \"attend, participate in, and/or conduct briefings\": B's and/or is satisfied by attending briefings; A adds meetings (rule 2). A subsumes B.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "8e336ef67ff0062f",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (readiness vs sa_gather) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "81cc157b0e0111f3",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (info_exchange vs build_team) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "07a2787e0f2b1365",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (build_team vs info_exchange) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "3e17fe552a7648dc",
+   "relation": "related_not_equivalent",
+   "note": "A \"prepare the Demobilization Plan\" vs B \"implement demobilization\": authoring the plan vs implementing demobilization (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "617e970964a7642b",
+   "relation": "related_not_equivalent",
+   "note": "A \"obtain initial briefing from FACILITIES UNIT LEADER or immediate supervisor\" vs B \"obtain initial briefing from SITUATION UNIT LEADER or other incident supervisor\": named primary sources share no role (briefing-source policy; rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "71438feb4fa6c17a",
+   "relation": "related_not_equivalent",
+   "note": "A \"obtain, monitor, and document fire weather forecasts ...\" vs B \"report atmospheric characteristics and changes that influence fire behavior\": different actions and objects (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "662c10e675ba98b3",
+   "relation": "related_not_equivalent",
+   "note": "A \"establish communications and exchange necessary information\" vs B \"establish PROCEDURES which facilitate communications\": communicating vs setting up procedures for it (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "cf221734aa84b956",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (lead vs specific) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "845e945adffbfc30",
+   "relation": "related_not_equivalent",
+   "note": "A \"apply the Risk Management Process found in the IRPG and Fireline Handbook\" vs B \"manage risk on the fireline\": applying a named process vs the general outcome of managing risk; the texts do not establish containment (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "33b4891ea68c1a3e",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "establish and communicate chain of command, reporting pr ocedures, risk management processes, and radio frequency management",
+   "note": "A \"establish and communicate expectations of the chain of command, reporting procedures, and risk management processes\" vs B \"establish and communicate chain of command, reporting procedures, risk management processes, AND RADIO FREQUENCY MANAGEMENT\": B adds radio frequency management (rule 2). B subsumes A.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "fc30e5a8e0195878",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (compliance/lead vs specific) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "741026865cf1f3f2",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (info_exchange vs build_team) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "429f8bb4d2ac86ae",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "establish and communicate objectives, priorities, work assignments, and performance expectations as applicable",
+   "note": "A \"establish work assignments and set performance expectations\" vs B \"establish and COMMUNICATE OBJECTIVES, PRIORITIES, work assignments, and performance expectations as applicable\": B adds objectives, priorities and the communicate action (rule 2). B subsumes A.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "48b70414da47d32e",
+   "relation": "related_not_equivalent",
+   "note": "A \"SCHEDULE AND CONDUCT operational period briefings\" vs B \"PARTICIPATE IN operational briefings as directed\": conduct vs participate are different action levels (rule 1). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "1d1385afd5f0f76a",
+   "relation": "related_not_equivalent",
+   "note": "A \"participate in operational briefings as directed\" vs B \"CONDUCT organizational briefing at the beginning of each operational period\": participate vs conduct (rule 1). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "f12386ef01836184",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (specific vs build_team) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "3888e6efc757069b",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (info_exchange vs comm) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "ea63dd0948ece795",
+   "relation": "related_not_equivalent",
+   "note": "A \"obtain initial briefing from local unit personnel, INCIDENT COMMANDER, or PUBLIC INFORMATION OFFICER\" vs B \"obtain initial briefing from SITUATION UNIT LEADER or other incident supervisor\": named sources share no role (briefing-source policy; rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "8c0f99cefafbfffd",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "model professionalism and leadership values and principles",
+   "note": "A \"model leadership values and principles\" vs B \"model PROFESSIONALISM AND leadership values and principles\": B adds professionalism (rule 2). B subsumes A.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "6c92355c8674f08a",
+   "relation": "related_not_equivalent",
+   "note": "A \"collect, assess, and monitor weather information from data sources ...\" (analysis) vs B \"report weather and atmospheric characteristics that influence fire behavior\" (field reporting): different actions and objects (rules 1, 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "302869086dca24ae",
+   "relation": "related_not_equivalent",
+   "note": "A \"review current IAP, if applicable, and obtain incident STATUS from IC or ordering unit\" vs B \"review IAP and obtain BRIEFING, OBJECTIVES, AND INTENT from supervisor\": what is obtained and from whom both differ (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "3113728868db5a9b",
+   "relation": "equivalent",
+   "note": "A \"obtain briefing from incident supervisor\" vs B \"obtain initial briefing from SITL or other incident supervisor\": A's source is exactly B's stated alternative; \"initial\" is phrasing (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "222804944679d784",
+   "relation": "related_not_equivalent",
+   "note": "A \"REVIEW the IAP and obtain briefing\" vs B \"PARTICIPATE IN PREPARATION of the IAP\": consumption vs authorship (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "8aa9b427bc81e35a",
+   "relation": "related_not_equivalent",
+   "note": "A \"ASSEMBLE, ORGANIZE, and maintain accountability for assigned resources\" vs B \"IDENTIFY assigned resources and maintain accountability\": assembling/organizing and identifying are different first actions; no clean containment (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "88c1469ec4f38437",
+   "relation": "related_not_equivalent",
+   "note": "A \"prepare for demobilization\" vs B \"anticipate demobilization resources\": own readiness vs forecasting resource needs (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "e7aca722486cf95b",
+   "relation": "related_not_equivalent",
+   "note": "A \"obtain initial briefing from Branch Director, OSC, or IC\" vs B \"obtain initial briefing from SITL or other incident supervisor\": named sources share no role (briefing-source policy; rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "75ee6bfea78bc664",
+   "relation": "related_not_equivalent",
+   "note": "A \"obtain briefing from Incident Commander (one-on-one or in an IMT meeting)\" vs B \"attend and participate in incident briefings and meetings as directed\": a specific briefing from a specific role vs general attendance (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "eaeda7813960fc65",
+   "relation": "related_not_equivalent",
+   "note": "A \"communicate and coordinate with assigned resources and pertinent IMT functional areas\" vs B \"provide information to the IMT and relevant agencies\": coordination with resources vs providing information to the IMT and agencies (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "2ccfea690a2bae0f",
+   "relation": "related_not_equivalent",
+   "note": "A \"create a single coordinated IAP or other relevant plan\" vs B \"create a single-page IAP or Operations Map\" (a GIS product): different deliverables (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "f6055d8e91e7f292",
+   "relation": "equivalent",
+   "note": "A \"establish communications and exchange information with other sections/units and incident agency personnel\" vs B \"communicate and exchange technical information with incident personnel inside and outside the Situation Unit\": the same exchange-information-with-incident-personnel duty, each naming its own counterparts; \"technical\" qualifies the information only (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "2e31bc7ddf48cc3b",
+   "relation": "related_not_equivalent",
+   "note": "A \"ESTABLISH communications and exchange necessary briefings/information with other resources\" vs B \"MAINTAIN communications and exchange necessary information with other resources\": establishing vs maintaining (rules 2, 5; same reading as the COMP/DECK pair). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "d40237bbaa851802",
+   "relation": "related_not_equivalent",
+   "note": "A \"COORDINATE WITH assigned resources and travel to the work area\" vs B \"travel to AND FROM the assigned work area\": A adds coordination, B adds the return trip; no containment (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "3977de73f98bfe4c",
+   "relation": "related_not_equivalent",
+   "note": "A \"meet with agencies and gather information on personnel and equipment priorities prior to demobilization\" vs B \"prepare for and implement demobilization of personnel\": information gathering vs executing demobilization (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "1b475d0056c82666",
+   "relation": "related_not_equivalent",
+   "note": "A \"ASSEMBLE AND VALIDATE readiness of assigned personnel and equipment\" vs B \"CONSULT WITH Crew Boss personnel to validate readiness\": direct validation vs consulting another position (rules 1, 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "5547e0aa258ff481",
+   "relation": "related_not_equivalent",
+   "note": "A \"ENSURE PERSONNEL CAN effectively use multichannel radios\" (supervisory enablement) vs B \"COMMUNICATE effectively using multichannel radios\" (performer): action levels never equate (rule 1; matches the earlier ENGB verdicts). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "0d8ea7b04ae2bbd4",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (build_team vs info_exchange) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "09e3bccfa48a5253",
+   "relation": "related_not_equivalent",
+   "note": "A \"implement demobilization\" vs B \"plan for demobilization and brief assigned resources\": implementing vs planning-and-briefing (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "7b1712bf3fece313",
+   "relation": "related_not_equivalent",
+   "note": "A \"APPROVE completed IAPs\" vs B \"REVIEW the IAP and obtain briefing\": approval authority vs consumption (rules 1, 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "48ad741c390ed4a6",
+   "relation": "equivalent",
+   "note": "\"necessary information\" vs \"necessary briefings/information with other resources\": same establish-communications-and-exchange duty; B only names recipients (rule 3).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "44c29a00f15706ee",
+   "relation": "related_not_equivalent",
+   "note": "A \"obtain and monitor weather and other environmental factors to anticipate changes\" vs B \"report weather and atmospheric characteristics that influence fire behavior\": different actions (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "63fa5bbacf7f793b",
+   "relation": "related_not_equivalent",
+   "note": "A \"PRESENT effective operational period briefing(s); clearly articulate strategy, tactics, locations, and work assignments\" vs B \"PARTICIPATE IN operational briefings as directed\": presenting vs participating (rule 1). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "1ec3f2e04fc36888",
+   "relation": "related_not_equivalent",
+   "note": "A \"ORGANIZE THE PHYSICAL LAYOUT of a safe and secure supply area\" vs B \"ENSURE SAFE OPERATIONS within the supply area\": layout design vs operational safety oversight (rules 1, 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "1f1eb21c9ded0458",
+   "relation": "related_not_equivalent",
+   "note": "A \"ensure clear understanding of expectations and timely communication within and across ICS functional areas\" vs B \"use ICS terminology, organization, and command structure\": different duties sharing only the ICS frame (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "4b9f9df3312e1a6c",
+   "relation": "related_not_equivalent",
+   "note": "Demoted by the context rule (matching.spec.md changelog 2026-07-12, SME-calibrated): the two sides' task-book category framings share no behavior family (build_team vs specific) - the same wording performed in a materially different behavioral context (doing vs overseeing vs deciding) is not treated as the same demonstrated work; doubt resolves against equivalence (rubric rules 2, 5). Kept for audit; resurrect by editing this verdict and rerunning adjudicate if the SME's full review ever contradicts it.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "a07b799430e33fd1",
+   "relation": "related_not_equivalent",
+   "note": "A \"MAINTAIN documentation\" vs B \"ESTABLISH A SYSTEM for documentation\": maintaining records vs designing the system (rule 2). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "6899bdeb19462ee9",
+   "relation": "subsumes",
+   "subsumer_normalized_text": "demobilize and check out",
+   "note": "A \"demobilize AND CHECK OUT\" vs B \"implement demobilization\": A adds the explicit check-out step to the same implementation (rule 2). A subsumes B.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "f60f61381ed1dcb5",
+   "relation": "related_not_equivalent",
+   "note": "A \"ESTABLISH communications and exchange necessary information\" vs B \"MAINTAIN communications and exchange necessary information with other resources\": establishing vs maintaining (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
   }
  ]
 }

@@ -77,6 +77,15 @@ satisfied by a `developmental` context (add it to CompletedTask contexts),
 which does NOT satisfy NWCG-`O` slots' broader meaning in reverse — NWCG `O`
 is satisfied by any context including developmental.
 
+**Data currency (honesty contract):** every rendered report states what
+edition of the source data it describes. `gap.data_currency(conn)` reads
+`source_documents` and returns the corpus download date (max
+`downloaded_at`), the NWCG task-book edition range (min/max `edition_date`
+over `official = 1` ptb rows) and the NTFT draft's date; `format_report()`
+prints it as a "Data as of:" line directly under the disclaimer, and
+`app.py` shows the same line as a caption. A reader must never have to guess
+whether a task cites the edition NWCG publishes today.
+
 ## Output
 
 ```python
@@ -107,7 +116,8 @@ Against **FIRB** (17 slots):
   (Leadership L2), whose tier-1 identity with ENGB #1 depends on
   matching.spec.md normalization step 5 (IPS cross-reference stripping) —
   10 slots total.
-- Satisfied via confirmed subsumption (ENGB #9 subsumes FIRB #11): #11.
+- Satisfied via subsumption (ENGB #9 subsumes FIRB #11) once that tier-2
+  row is human-confirmed: #11 (a gap while the row is still `probable`).
 - Tier-2 dependent (must appear as satisfied only if the ENGB#16/FIRB#13
   equivalence was human-confirmed): #13.
 - Expected gaps_tasks: #6 (Determine the Firing Plan), #7 (Ensure proper
@@ -121,8 +131,11 @@ in the ranking for this profile, and LOFR must show near-zero satisfaction.
 ## Acceptance criteria
 
 - [ ] AC-G1: The ENGB→FIRB worked example passes exactly as specified
-      (allowing #13 to move between satisfied/gap according to its review
-      outcome, which the test reads from the database).
+      (allowing #11 and #13 to move between satisfied/gap according to
+      their tier-2 review outcome, which the test reads from the database:
+      #11 rests on the ENGB #9 ⊃ FIRB #11 subsumption and #13 on the
+      ENGB #16 / FIRB #13 equivalence, both `probable` until a human
+      confirms them — see the 2026-11-03 changelog entry).
 - [ ] AC-G2: No gap item is satisfiable by rules 1–5 (property-based test
       over synthetic profiles).
 - [ ] AC-G3: Every satisfied item carries a derivation; every tier-2-based
@@ -139,9 +152,38 @@ in the ranking for this profile, and LOFR must show near-zero satisfaction.
       UAIS (enhanced draft) with its prerequisite requirements satisfied
       (derivations shown), `draft: true`, and its training/currency/fitness
       items under info_requirements — none of them counted as gaps.
+- [ ] AC-G9: Text output and the test console carry a "Data as of:" line
+      naming the corpus download date and the NWCG edition range, derived
+      from `source_documents` (never hardcoded); on the refreshed corpus the
+      newest NWCG edition shown is `2026-09`.
 
 ## Changelog
 
+- 2026-11-03 (spec-checker audit on the refreshed corpus, two forced
+  fixes): (1) **Rule 4 for prerequisites without a task book.** `gap.py`
+  resolved `prerequisite_position` requirements only through the
+  `positions` table, so a code with a requirements page but no PTB (FFT2,
+  EDRC, EMT) could never be found in a held qualification's chain and was
+  re-demanded: an ENGB holder was shown FFT2 as a remaining requirement for
+  FFT1 (and for ICT5, FEMO, HECM, FAL3, UASP) although ENGB → FFT1 → FFT2.
+  The requirement-text route already used for courses (the same (kind,
+  value) in any held/chained position's requirement set ⇒ `implied_by`
+  root) now applies to prerequisite codes too. A pre-existing defect, not
+  caused by the refresh; AC-G2's "nothing in a gap list may be
+  satisfiable" was violated on the 2026-07 corpus as well. (2) **AC-G1
+  wording.** The worked example said FIRB #11 is satisfied "via confirmed
+  subsumption", but no tier-2 row has ever been human-confirmed (the review
+  is still pending), so #11 sits in gaps exactly like #13. PLAN.md's Phase 5
+  record already states that "#11/#13 satisfaction is read live from
+  task_equivalences.status"; the AC and the example now say the same. No
+  change to the satisfaction rules: a `probable` row still satisfies
+  nothing.
+- 2026-11-02 (corpus refresh): added the data-currency rule and AC-G9 —
+  `gap.data_currency()`, a "Data as of:" line in `format_report()` and in
+  `app.py`. Motivated by the first corpus refresh: 12 positions' task books
+  were republished (9 in a new format), and a report that cites a task
+  without saying which edition it comes from would violate the honesty
+  contract. No change to satisfaction rules or ranking.
 - 2026-07-12: Owner-directed relabel of `official = 0` (enhanced/FireTech)
   positions from "draft — not an official NWCG standard" to "NTFT standard"
   (centralized in `gap.DRAFT_LABEL`). Display-only: `official = 0`,

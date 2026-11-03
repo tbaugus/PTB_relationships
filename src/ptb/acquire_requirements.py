@@ -104,7 +104,10 @@ def extract_prereq_codes(text: str) -> list[str]:
 
 def structure_requirements_page(html: bytes, code: str) -> dict:
     soup = BeautifulSoup(html, "html.parser")
-    heading = soup.find("h2", string=lambda s: s and "Qualification Requirements" in s)
+    # Every page titles the block "<CODE> Qualification Requirements" as an
+    # <h2> — except FFT2, which uses an <h3> (found by the 2026-11-03
+    # spec-checker audit: its JSON had been the empty fallback since July).
+    heading = soup.find(["h2", "h3"], string=lambda s: s and "Qualification Requirements" in s)
     if heading is None:
         return {
             "position_code": code,
@@ -118,13 +121,14 @@ def structure_requirements_page(html: bytes, code: str) -> dict:
         }
 
     sections: dict[str, list[str]] = {}
-    for h3 in heading.find_all_next("h3"):
-        # stop once we've left the qualification-requirements block (the
-        # page moves on to "Position Endorsement" / feedback-form furniture)
-        prior_h2 = h3.find_previous_sibling("h2") or h3.find_previous("h2")
-        if prior_h2 is not heading:
+    for h in heading.find_all_next(["h2", "h3"]):
+        # The block's sub-sections are the <h3>s that follow the heading; the
+        # next <h2> is where the page moves on to "Position Endorsement" /
+        # feedback-form furniture. (Keyed by heading text, so any stray
+        # <h3> after the block on an h3-titled page is harmless.)
+        if h.name == "h2":
             break
-        sections[h3.get_text(strip=True)] = _list_items(h3)
+        sections[h.get_text(strip=True)] = _list_items(h)
 
     required_experience = sections.get("Required Experience", [])
     # the fitness heading's own text carries the level (e.g. "Physical
@@ -200,12 +204,39 @@ def acquire_one(entry: dict, existing_by_code: dict) -> tuple[dict | None, dict 
             "role": "qualification_standard",
             "fixture": False,
         }
+    # These web pages publish no edition date (specs/acquisition.spec.md
+    # "Corpus refresh"): recorded explicitly as none, never guessed.
+    manifest_entry = {**manifest_entry, "edition_date": None, "edition_date_source": "none"}
 
     structured = structure_requirements_page(data, code)
     return manifest_entry, structured
 
 
-def main() -> int:
+def reparse_offline() -> int:
+    """Re-run only the structuring step over the raw HTML already in
+    corpus/raw/requirements/ (no network, manifest untouched) — for a parser
+    fix, where re-fetching would rewrite every page's sha256 for no reason
+    (see the idempotence note above)."""
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    n = 0
+    for html_path in sorted(RAW_DIR.glob("*.html")):
+        code = html_path.stem
+        structured = structure_requirements_page(html_path.read_bytes(), code)
+        (OUT_DIR / f"{code}.json").write_text(json.dumps(structured, indent=2), encoding="utf-8")
+        n += 1
+    print(f"Re-parsed {n} requirement pages offline (manifest untouched)", file=sys.stderr)
+    return 0
+
+
+def main(argv: list[str] | None = None) -> int:
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Acquire + structure PMS 310-1 qualification-requirement pages.")
+    parser.add_argument("--offline", action="store_true", help="re-parse corpus/raw/requirements/*.html only; no fetch, no manifest change")
+    args = parser.parse_args(argv)
+    if args.offline:
+        return reparse_offline()
+
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -220,11 +251,10 @@ def main() -> int:
     catalog = fetch_position_catalog()
     print(f"  {len(catalog)} positions found", file=sys.stderr)
 
-    other_documents = [
-        d
-        for d in manifest["documents"]
-        if not (d.get("role") == "qualification_standard" and d.get("pms_number") == "310-1")
-    ]
+    # Only this script's own per-position pages are replaced; acquire.py's
+    # PMS 310-1 PDF entry (same role and PMS number, filename pms310-1.pdf)
+    # is carried through untouched.
+    other_documents = [d for d in manifest["documents"] if not d["filename"].startswith("requirements/")]
     new_entries = []
     # Drop any prior PMS 310-1 pending note — including acquire.py's original
     # "no single PDF found" entry — since this script is precisely the

@@ -959,6 +959,7 @@
    "justification": null,
    "verbs": [
     "perform",
+    "repair",
     "apply"
    ]
   },
@@ -1296,7 +1297,7 @@
   {
    "normalized_text": "establish and maintain positive interpersonal and interagency working relationships",
    "canonical_text": "Establish and maintain positive interpersonal and interagency working relationships.",
-   "positions_using": 58,
+   "positions_using": 54,
    "level": 6,
    "level_name": "Create",
    "confidence": 0.6,
@@ -1358,7 +1359,7 @@
   {
    "normalized_text": "exhibit principles of duty",
    "canonical_text": "Exhibit principles of duty.",
-   "positions_using": 41,
+   "positions_using": 35,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.6,
@@ -1370,7 +1371,7 @@
   {
    "normalized_text": "exhibit principles of respect",
    "canonical_text": "Exhibit principles of respect.",
-   "positions_using": 44,
+   "positions_using": 38,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.6,
@@ -1382,7 +1383,7 @@
   {
    "normalized_text": "exhibit principles of integrity",
    "canonical_text": "Exhibit principles of integrity.",
-   "positions_using": 45,
+   "positions_using": 39,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.6,
@@ -1454,7 +1455,7 @@
   {
    "normalized_text": "brief and keep subordinates informed and updated",
    "canonical_text": "Brief and keep subordinates informed and updated.",
-   "positions_using": 19,
+   "positions_using": 16,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.85,
@@ -1763,7 +1764,7 @@
   {
    "normalized_text": "a new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. they begin to implement team cohesion, accept responsibility for self and team, and apply effective communications",
    "canonical_text": "A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications.",
-   "positions_using": 10,
+   "positions_using": 16,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.5,
@@ -1787,7 +1788,7 @@
   {
    "normalized_text": "establish and communicate chain of command, reporting procedures, risk management processes, and radio frequency management",
    "canonical_text": "Establish and communicate chain of command, reporting procedures, risk management processes, and radio frequency management.",
-   "positions_using": 1,
+   "positions_using": 2,
    "level": 6,
    "level_name": "Create",
    "confidence": 0.6,
@@ -1838,7 +1839,7 @@
   {
    "normalized_text": "identify, analyze, and use relevant situational information to make informed decisions and take appropriate actions",
    "canonical_text": "Identify, analyze, and use relevant situational information to make informed decisions and take appropriate actions.",
-   "positions_using": 2,
+   "positions_using": 4,
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.75,
@@ -1953,7 +1954,7 @@
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.52,
-   "justification": "Verbs found: 'lead' (Evaluate), 'scout' (Analyze), 'communicate' (Apply), 'coordinate' (Apply). Verb(s) 'lead' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand. Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
+   "justification": "Verbs found: 'lead' (Evaluate), 'scout' (Analyze), 'coordinate' (Apply), 'communicate' (Apply). Verb(s) 'lead' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand. Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
    "verbs": [
     "lead",
     "scout",
@@ -2031,7 +2032,7 @@
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.55,
-   "justification": "Verbs found: 'direct' (Evaluate), 'provide' (Apply), 'request' (Apply). Verb(s) 'direct' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
+   "justification": "Verbs found: 'direct' (Evaluate), 'request' (Apply), 'provide' (Apply). Verb(s) 'direct' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
    "verbs": [
     "request",
     "direct",
@@ -2090,7 +2091,7 @@
   {
    "normalized_text": "follow established processes and chain of command for collecting, producing, and distributing information",
    "canonical_text": "Follow established processes and chain of command for collecting, producing, and distributing information.",
-   "positions_using": 2,
+   "positions_using": 4,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.85,
@@ -2118,7 +2119,7 @@
    "level": 6,
    "level_name": "Create",
    "confidence": 0.6,
-   "justification": "Verbs found: 'establish' (Create), 'support' (Apply), 'exchange' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "justification": "Verbs found: 'establish' (Create), 'exchange' (Apply), 'support' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
    "verbs": [
     "establish",
     "exchange",
@@ -2128,7 +2129,7 @@
   {
    "normalized_text": "conduct and/or participate in after action reviews (aar)",
    "canonical_text": "Conduct and/or participate in After Action Reviews (AAR).",
-   "positions_using": 10,
+   "positions_using": 12,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.95,
@@ -2225,7 +2226,7 @@
   {
    "normalized_text": "complete all administrative tasks and documentation in an accurate and timely manner",
    "canonical_text": "Complete all administrative tasks and documentation in an accurate and timely manner.",
-   "positions_using": 14,
+   "positions_using": 23,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.85,
@@ -2237,7 +2238,7 @@
   {
    "normalized_text": "obtain and assemble information and materials needed for kit. suggested items:",
    "canonical_text": "Obtain and assemble information and materials needed for kit. Suggested items:",
-   "positions_using": 18,
+   "positions_using": 14,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.75,
@@ -2375,7 +2376,7 @@
   {
    "normalized_text": "apply the ics",
    "canonical_text": "Apply the ICS.",
-   "positions_using": 31,
+   "positions_using": 24,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.9,
@@ -2436,7 +2437,7 @@
   {
    "normalized_text": "establish cohesiveness among assigned resources",
    "canonical_text": "Establish cohesiveness among assigned resources.",
-   "positions_using": 39,
+   "positions_using": 35,
    "level": 6,
    "level_name": "Create",
    "confidence": 0.65,
@@ -2770,7 +2771,7 @@
   {
    "normalized_text": "anticipate demobilization of resources",
    "canonical_text": "Anticipate demobilization of resources.",
-   "positions_using": 18,
+   "positions_using": 16,
    "level": 4,
    "level_name": "Analyze",
    "confidence": 0.7,
@@ -2782,7 +2783,7 @@
   {
    "normalized_text": "ensure demobilization of resources",
    "canonical_text": "Ensure demobilization of resources.",
-   "positions_using": 24,
+   "positions_using": 22,
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.75,
@@ -2873,7 +2874,7 @@
   {
    "normalized_text": "ensure subordinates understand assignment for operational period",
    "canonical_text": "Ensure subordinates understand assignment for operational period.",
-   "positions_using": 25,
+   "positions_using": 22,
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.75,
@@ -2885,7 +2886,7 @@
   {
    "normalized_text": "continually evaluate performance",
    "canonical_text": "Continually evaluate performance.",
-   "positions_using": 26,
+   "positions_using": 23,
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.9,
@@ -3146,7 +3147,7 @@
   {
    "normalized_text": "coordinate with functional areas within the ics structure",
    "canonical_text": "Coordinate with functional areas within the ICS structure.",
-   "positions_using": 10,
+   "positions_using": 9,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.68,
@@ -3278,7 +3279,7 @@
   {
    "normalized_text": "participate in functional area briefings and after action reviews (aar)",
    "canonical_text": "Participate in functional area briefings and After Action Reviews (AARs).",
-   "positions_using": 11,
+   "positions_using": 8,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.9,
@@ -3401,7 +3402,7 @@
   {
    "normalized_text": "apply the risk management process found in the irpg and fireline handbook",
    "canonical_text": "Apply the Risk Management Process found in the IRPG and Fireline Handbook.",
-   "positions_using": 12,
+   "positions_using": 9,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.9,
@@ -3502,7 +3503,7 @@
   {
    "normalized_text": "coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming incident management team (imt), host agency)",
    "canonical_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",
-   "positions_using": 15,
+   "positions_using": 9,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.68,
@@ -3646,7 +3647,7 @@
   {
    "normalized_text": "provide for the safety and welfare of assigned resources",
    "canonical_text": "Provide for the safety and welfare of assigned resources.",
-   "positions_using": 38,
+   "positions_using": 35,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.8,
@@ -4132,7 +4133,7 @@
   {
    "normalized_text": "ensure individual readiness",
    "canonical_text": "Ensure individual readiness.",
-   "positions_using": 12,
+   "positions_using": 21,
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.75,
@@ -4144,7 +4145,7 @@
   {
    "normalized_text": "travel to and check in at assignment",
    "canonical_text": "Travel to and check in at assignment.",
-   "positions_using": 4,
+   "positions_using": 11,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.95,
@@ -4158,7 +4159,7 @@
   {
    "normalized_text": "gather critical information pertinent to the assignment",
    "canonical_text": "Gather critical information pertinent to the assignment.",
-   "positions_using": 13,
+   "positions_using": 18,
    "level": 1,
    "level_name": "Remember",
    "confidence": 0.8,
@@ -4335,7 +4336,7 @@
   {
    "normalized_text": "apply the risk management process",
    "canonical_text": "Apply the Risk Management Process.",
-   "positions_using": 6,
+   "positions_using": 12,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.9,
@@ -4347,7 +4348,7 @@
   {
    "normalized_text": "account for location, health, safety, and welfare of assigned personnel",
    "canonical_text": "Account for location, health, safety, and welfare of assigned personnel.",
-   "positions_using": 5,
+   "positions_using": 8,
    "level": 4,
    "level_name": "Analyze",
    "confidence": 0.7,
@@ -4372,7 +4373,7 @@
   {
    "normalized_text": "prepare for and implement demobilization",
    "canonical_text": "Prepare for and implement demobilization.",
-   "positions_using": 9,
+   "positions_using": 15,
    "level": 6,
    "level_name": "Create",
    "confidence": 0.63,
@@ -4423,7 +4424,7 @@
   {
    "normalized_text": "develop schedule/assignments based on incident action plan (iap) or relevant plan",
    "canonical_text": "Develop schedule/assignments based on Incident Action Plan (IAP) or relevant plan.",
-   "positions_using": 5,
+   "positions_using": 4,
    "level": 6,
    "level_name": "Create",
    "confidence": 0.9,
@@ -5340,7 +5341,7 @@
   {
    "normalized_text": "complete daily review of staffing requirements",
    "canonical_text": "Complete daily review of staffing requirements.",
-   "positions_using": 11,
+   "positions_using": 9,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.85,
@@ -5475,7 +5476,7 @@
   {
    "normalized_text": "review and approve subordinate time reports",
    "canonical_text": "Review and approve subordinate time reports.",
-   "positions_using": 9,
+   "positions_using": 8,
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.95,
@@ -5526,7 +5527,7 @@
   {
    "normalized_text": "demobilize and check out",
    "canonical_text": "Demobilize and check out.",
-   "positions_using": 21,
+   "positions_using": 14,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.95,
@@ -5603,7 +5604,7 @@
    "level": 6,
    "level_name": "Create",
    "confidence": 0.65,
-   "justification": "Verbs found: 'schedule' (Create), 'provide' (Apply), 'arrange' (Apply).",
+   "justification": "Verbs found: 'schedule' (Create), 'arrange' (Apply), 'provide' (Apply).",
    "verbs": [
     "arrange",
     "schedule",
@@ -5922,6 +5923,7 @@
    "confidence": 0.85,
    "justification": null,
    "verbs": [
+    "model",
     "provide",
     "emphasize"
    ]
@@ -5929,11 +5931,11 @@
   {
    "normalized_text": "establish and communicate objectives, priorities, work assignments, and performance expectations",
    "canonical_text": "Establish and communicate objectives, priorities, work assignments, and performance expectations.",
-   "positions_using": 5,
+   "positions_using": 6,
    "level": 6,
    "level_name": "Create",
    "confidence": 0.6,
-   "justification": "Verbs found: 'establish' (Create), 'communicate' (Apply), 'work' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "justification": "Verbs found: 'establish' (Create), 'work' (Apply), 'communicate' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
    "verbs": [
     "establish",
     "communicate",
@@ -7764,6 +7766,200 @@
    ]
   },
   {
+   "normalized_text": "followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communications skills",
+   "canonical_text": "Followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communications skills.",
+   "positions_using": 10,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.5,
+   "justification": "Role-embodiment narrative (Leadership Level text) rather than a measurable action statement; treated as Apply (living out described leadership behaviors), but the text is a description, so any single Bloom level is a judgment call.",
+   "verbs": [
+    "<narrative>"
+   ]
+  },
+  {
+   "normalized_text": "establish a common operating picture with supervisors and fireline personnel",
+   "canonical_text": "Establish a common operating picture with supervisors and fireline personnel.",
+   "positions_using": 1,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.65,
+   "justification": "Verbs found: 'establish' (Create). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "verbs": [
+    "establish"
+   ]
+  },
+  {
+   "normalized_text": "share subject matter expertise to create a shared value of resources",
+   "canonical_text": "Share subject matter expertise to create a shared value of resources.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "share"
+   ]
+  },
+  {
+   "normalized_text": "gather incident-specific resource information",
+   "canonical_text": "Gather incident-specific resource information.",
+   "positions_using": 1,
+   "level": 1,
+   "level_name": "Remember",
+   "confidence": 0.8,
+   "justification": null,
+   "verbs": [
+    "gather"
+   ]
+  },
+  {
+   "normalized_text": "design resource protection measures (rpms)",
+   "canonical_text": "Design resource protection measures (RPMs).",
+   "positions_using": 1,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.9,
+   "justification": null,
+   "verbs": [
+    "design"
+   ]
+  },
+  {
+   "normalized_text": "communicate resources of concern and resource protection measures (rpms) to incident personnel",
+   "canonical_text": "Communicate resources of concern and resource protection measures (RPMs) to incident personnel.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "communicate"
+   ]
+  },
+  {
+   "normalized_text": "document resource data",
+   "canonical_text": "Document resource data.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.8,
+   "justification": null,
+   "verbs": [
+    "document"
+   ]
+  },
+  {
+   "normalized_text": "conduct resource protection measure (rpm) compliance checks",
+   "canonical_text": "Conduct resource protection measure (RPM) compliance checks.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "conduct"
+   ]
+  },
+  {
+   "normalized_text": "develop suppression repair specifications",
+   "canonical_text": "Develop suppression repair specifications.",
+   "positions_using": 1,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.9,
+   "justification": null,
+   "verbs": [
+    "develop"
+   ]
+  },
+  {
+   "normalized_text": "advise on strategy and tactics for suppression repair",
+   "canonical_text": "Advise on strategy and tactics for suppression repair.",
+   "positions_using": 1,
+   "level": 5,
+   "level_name": "Evaluate",
+   "confidence": 0.75,
+   "justification": null,
+   "verbs": [
+    "advise"
+   ]
+  },
+  {
+   "normalized_text": "conduct compliance checks on suppression repair",
+   "canonical_text": "Conduct compliance checks on suppression repair.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "conduct"
+   ]
+  },
+  {
+   "normalized_text": "document suppression repair",
+   "canonical_text": "Document suppression repair.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.8,
+   "justification": null,
+   "verbs": [
+    "document"
+   ]
+  },
+  {
+   "normalized_text": "establish communications and exchange necessary information",
+   "canonical_text": "Establish communications and exchange necessary information.",
+   "positions_using": 1,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.6,
+   "justification": "Verbs found: 'establish' (Create), 'exchange' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "verbs": [
+    "establish",
+    "exchange"
+   ]
+  },
+  {
+   "normalized_text": "communicate effectively using multichannel radios",
+   "canonical_text": "Communicate effectively using multichannel radios.",
+   "positions_using": 4,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "communicate"
+   ]
+  },
+  {
+   "normalized_text": "manage risk on the fireline",
+   "canonical_text": "Manage risk on the fireline.",
+   "positions_using": 1,
+   "level": 5,
+   "level_name": "Evaluate",
+   "confidence": 0.65,
+   "justification": "Verbs found: 'manage' (Evaluate). Verb(s) 'manage' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
+   "verbs": [
+    "manage"
+   ]
+  },
+  {
+   "normalized_text": "manage administrative tasks and documentation and ensure timely completion",
+   "canonical_text": "Manage administrative tasks and documentation and ensure timely completion.",
+   "positions_using": 1,
+   "level": 5,
+   "level_name": "Evaluate",
+   "confidence": 0.8,
+   "justification": null,
+   "verbs": [
+    "manage",
+    "ensure"
+   ]
+  },
+  {
    "normalized_text": "obtain and assemble materials needed for an information kit. suggested items:",
    "canonical_text": "Obtain and assemble materials needed for an Information kit. Suggested items:",
    "positions_using": 1,
@@ -7803,7 +7999,7 @@
   {
    "normalized_text": "arrive at incident and check in",
    "canonical_text": "Arrive at incident and check in.",
-   "positions_using": 19,
+   "positions_using": 14,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.95,
@@ -7874,7 +8070,8 @@
    "justification": null,
    "verbs": [
     "assess",
-    "maintain"
+    "maintain",
+    "transition"
    ]
   },
   {
@@ -8401,7 +8598,7 @@
   {
    "normalized_text": "ensure incident objectives and performance standards are met",
    "canonical_text": "Ensure incident objectives and performance standards are met.",
-   "positions_using": 2,
+   "positions_using": 3,
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.75,
@@ -8563,7 +8760,7 @@
   {
    "normalized_text": "brief assigned personnel",
    "canonical_text": "Brief assigned personnel.",
-   "positions_using": 5,
+   "positions_using": 7,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.75,
@@ -8716,7 +8913,7 @@
   {
    "normalized_text": "ensure lookouts, communications, escape routes, and safety zones (lces) are established and known",
    "canonical_text": "Ensure Lookouts, Communications, Escape Routes, and Safety Zones (LCES) are established and known.",
-   "positions_using": 2,
+   "positions_using": 3,
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.7,
@@ -8741,7 +8938,7 @@
   {
    "normalized_text": "plan for medical emergencies",
    "canonical_text": "Plan for medical emergencies.",
-   "positions_using": 2,
+   "positions_using": 3,
    "level": 6,
    "level_name": "Create",
    "confidence": 0.75,
@@ -8753,7 +8950,7 @@
   {
    "normalized_text": "obtain briefing from previous shift/assignment position as necessary",
    "canonical_text": "Obtain briefing from previous shift/assignment position as necessary.",
-   "positions_using": 3,
+   "positions_using": 4,
    "level": 1,
    "level_name": "Remember",
    "confidence": 0.75,
@@ -8778,7 +8975,7 @@
   {
    "normalized_text": "ensure daily operational objectives and performance standards are met",
    "canonical_text": "Ensure daily operational objectives and performance standards are met.",
-   "positions_using": 1,
+   "positions_using": 3,
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.75,
@@ -8867,7 +9064,7 @@
   {
    "normalized_text": "establish communications and exchange necessary information with other resources",
    "canonical_text": "Establish communications and exchange necessary information with other resources.",
-   "positions_using": 1,
+   "positions_using": 3,
    "level": 6,
    "level_name": "Create",
    "confidence": 0.6,
@@ -8966,7 +9163,7 @@
   {
    "normalized_text": "obtain initial briefing from supervisor",
    "canonical_text": "Obtain initial briefing from supervisor.",
-   "positions_using": 5,
+   "positions_using": 4,
    "level": 1,
    "level_name": "Remember",
    "confidence": 0.75,
@@ -8978,7 +9175,7 @@
   {
    "normalized_text": "follow safety guidelines",
    "canonical_text": "Follow safety guidelines.",
-   "positions_using": 5,
+   "positions_using": 4,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.85,
@@ -9029,7 +9226,7 @@
   {
    "normalized_text": "attend briefings and meetings as directed",
    "canonical_text": "Attend briefings and meetings as directed.",
-   "positions_using": 5,
+   "positions_using": 3,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.9,
@@ -9151,17 +9348,16 @@
    ]
   },
   {
-   "normalized_text": "recognize and adapt to an incident within an incident. behavior: follow established procedures and/or safety procedures relevant to given assignment",
-   "canonical_text": "Recognize and adapt to an incident within an incident. Behavior: Follow established procedures and/or safety procedures relevant to given assignment.",
-   "positions_using": 1,
+   "normalized_text": "recognize and adapt to an incident within an incident",
+   "canonical_text": "Recognize and adapt to an incident within an incident.",
+   "positions_using": 3,
    "level": 5,
    "level_name": "Evaluate",
-   "confidence": 0.58,
-   "justification": "Verbs found: 'adapt' (Evaluate), 'recognize' (Analyze), 'follow' (Apply). Verb(s) 'adapt' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand. Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
+   "confidence": 0.63,
+   "justification": "Verbs found: 'adapt' (Evaluate), 'recognize' (Analyze). Verb(s) 'adapt' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
    "verbs": [
     "recognize",
-    "adapt",
-    "follow"
+    "adapt"
    ]
   },
   {
@@ -9189,8 +9385,8 @@
    ]
   },
   {
-   "normalized_text": "develop a felling plan and present a briefing to personnel assigned to the operation. behavior: follow established procedures and/or safety procedures relevant to given assignment",
-   "canonical_text": "Develop a felling plan and present a briefing to personnel assigned to the operation. Behavior: Follow established procedures and/or safety procedures relevant to given assignment.",
+   "normalized_text": "develop a felling plan and present a briefing to personnel assigned to the operation",
+   "canonical_text": "Develop a felling plan and present a briefing to personnel assigned to the operation.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -9198,8 +9394,7 @@
    "justification": null,
    "verbs": [
     "develop",
-    "present",
-    "follow"
+    "present"
    ]
   },
   {
@@ -9325,7 +9520,7 @@
   {
    "normalized_text": "followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communication skills",
    "canonical_text": "Followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communication skills.",
-   "positions_using": 2,
+   "positions_using": 3,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.5,
@@ -9362,7 +9557,7 @@
   {
    "normalized_text": "ensure individual and equipment readiness. have proper ppe, chainsaw kit, necessary forms, and reference material (e.g., ptb, irpg)",
    "canonical_text": "Ensure individual and equipment readiness. Have proper PPE, chainsaw kit, necessary forms, and reference material (e.g., PTB, IRPG).",
-   "positions_using": 1,
+   "positions_using": 2,
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.7,
@@ -9485,48 +9680,48 @@
    ]
   },
   {
-   "normalized_text": "identify tree species groups and common structural defects that may contribute to failure. perform the required elements of a procedural sizeup, and any critical considerations that could affect each element",
-   "canonical_text": "Identify tree species groups and common structural defects that may contribute to failure. Perform the required elements of a procedural sizeup, and any critical considerations that could affect each element.",
+   "normalized_text": "identify tree species groups and common structural defects that may contribute to failure",
+   "canonical_text": "Identify tree species groups and common structural defects that may contribute to failure.",
    "positions_using": 1,
    "level": 4,
    "level_name": "Analyze",
+   "confidence": 0.75,
+   "justification": null,
+   "verbs": [
+    "identify"
+   ]
+  },
+  {
+   "normalized_text": "perform the required elements of a procedural sizeup, and any critical considerations that could affect each element. • identify the objective of the cutting operation. • identify the known hazards of the operation. • recognize leans or binds that may be present. • develop an escape plan. • develop a cutting plan. • determine complexity. • make a go/no-go decision",
+   "canonical_text": "Perform the required elements of a procedural sizeup, and any critical considerations that could affect each element. • Identify the objective of the cutting operation. • Identify the known hazards of the operation. • Recognize leans or binds that may be present. • Develop an escape plan. • Develop a cutting plan. • Determine complexity. • Make a Go/No-Go decision.",
+   "positions_using": 1,
+   "level": 6,
+   "level_name": "Create",
    "confidence": 0.8,
    "justification": null,
    "verbs": [
     "[\\bsize.?up\\b]",
-    "identify",
-    "perform"
-   ]
-  },
-  {
-   "normalized_text": "• identify the objective of the cutting operation. • identify the known hazards of the operation. • recognize leans or binds that may be present. • develop an escape plan. • develop a cutting plan",
-   "canonical_text": "• Identify the objective of the cutting operation. • Identify the known hazards of the operation. • Recognize leans or binds that may be present. • Develop an escape plan. • Develop a cutting plan.",
-   "positions_using": 1,
-   "level": 6,
-   "level_name": "Create",
-   "confidence": 0.9,
-   "justification": null,
-   "verbs": [
+    "[make .{0,30}decision]",
+    "perform",
     "identify",
     "identify",
     "recognize",
     "develop",
-    "develop"
+    "develop",
+    "determine",
+    "make"
    ]
   },
   {
-   "normalized_text": "• determine complexity. • make a go/no-go decision. after performing a procedural sizeup, safely execute a cut plan to resolve a low complexity bucking operation using accepted practices",
-   "canonical_text": "• Determine complexity. • Make a Go/No-Go decision. After performing a procedural sizeup, safely execute a cut plan to resolve a low complexity bucking operation using accepted practices.",
+   "normalized_text": "after performing a procedural sizeup, safely execute a cut plan to resolve a low complexity bucking operation using accepted practices",
+   "canonical_text": "After performing a procedural sizeup, safely execute a cut plan to resolve a low complexity bucking operation using accepted practices.",
    "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
+   "level": 4,
+   "level_name": "Analyze",
    "confidence": 0.75,
    "justification": null,
    "verbs": [
     "[\\bsize.?up\\b]",
-    "[make .{0,30}decision]",
-    "determine",
-    "make",
     "execute"
    ]
   },
@@ -9749,7 +9944,7 @@
   {
    "normalized_text": "leaders of people have increasing challenges. they accept responsibility, not only for their own actions, but for those of their team. leaders of people act to develop credibility as leaders: placing the team ahead of themselves, demonstrating trustworthiness, mastering essential technical skills, and instilling the values of the organization in their teams",
    "canonical_text": "Leaders of people have increasing challenges. They accept responsibility, not only for their own actions, but for those of their team. Leaders of people act to develop credibility as leaders: placing the team ahead of themselves, demonstrating trustworthiness, mastering essential technical skills, and instilling the values of the organization in their teams.",
-   "positions_using": 7,
+   "positions_using": 9,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.5,
@@ -9888,7 +10083,7 @@
    "level": 6,
    "level_name": "Create",
    "confidence": 0.6,
-   "justification": "Verbs found: 'establish' (Create), 'support' (Apply), 'exchange' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "justification": "Verbs found: 'establish' (Create), 'exchange' (Apply), 'support' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
    "verbs": [
     "establish",
     "exchange",
@@ -10636,7 +10831,7 @@
   {
    "normalized_text": "obtain briefing from incident supervisor",
    "canonical_text": "Obtain briefing from incident supervisor.",
-   "positions_using": 3,
+   "positions_using": 4,
    "level": 1,
    "level_name": "Remember",
    "confidence": 0.75,
@@ -10752,7 +10947,7 @@
   {
    "normalized_text": "ensure compliance with all safety practices and procedures for yourself and those around you",
    "canonical_text": "Ensure compliance with all safety practices and procedures for yourself and those around you.",
-   "positions_using": 4,
+   "positions_using": 5,
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.75,
@@ -10764,13 +10959,14 @@
   {
    "normalized_text": "plan for incident demobilization and transition",
    "canonical_text": "Plan for incident demobilization and transition.",
-   "positions_using": 2,
+   "positions_using": 3,
    "level": 6,
    "level_name": "Create",
-   "confidence": 0.75,
+   "confidence": 0.7,
    "justification": null,
    "verbs": [
-    "plan"
+    "plan",
+    "transition"
    ]
   },
   {
@@ -10811,18 +11007,6 @@
    "justification": null,
    "verbs": [
     "process"
-   ]
-  },
-  {
-   "normalized_text": "followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communications skills",
-   "canonical_text": "Followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communications skills.",
-   "positions_using": 7,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.5,
-   "justification": "Role-embodiment narrative (Leadership Level text) rather than a measurable action statement; treated as Apply (living out described leadership behaviors), but the text is a description, so any single Bloom level is a judgment call.",
-   "verbs": [
-    "<narrative>"
    ]
   },
   {
@@ -10946,7 +11130,7 @@
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.6,
-   "justification": "Verbs found: 'manage' (Evaluate), 'maintain' (Apply), 'store' (Apply). Verb(s) 'manage' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
+   "justification": "Verbs found: 'manage' (Evaluate), 'store' (Apply), 'maintain' (Apply). Verb(s) 'manage' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
    "verbs": [
     "store",
     "manage",
@@ -10978,21 +11162,9 @@
    ]
   },
   {
-   "normalized_text": "communicate effectively using multichannel radios",
-   "canonical_text": "Communicate effectively using multichannel radios.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.85,
-   "justification": null,
-   "verbs": [
-    "communicate"
-   ]
-  },
-  {
    "normalized_text": "participate in after action reviews (aar)",
    "canonical_text": "Participate in After Action Reviews (AARs).",
-   "positions_using": 5,
+   "positions_using": 6,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.9,
@@ -11181,7 +11353,7 @@
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.65,
-   "justification": "Verbs found: 'supervise' (Evaluate), 'manage' (Evaluate), 'perform' (Apply). Verb(s) 'manage', 'supervise' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
+   "justification": "Verbs found: 'manage' (Evaluate), 'supervise' (Evaluate), 'perform' (Apply). Verb(s) 'manage', 'supervise' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
    "verbs": [
     "supervise",
     "manage",
@@ -11325,94 +11497,20 @@
    ]
   },
   {
-   "normalized_text": "obtain information from assigned resources",
-   "canonical_text": "Obtain information from assigned resources.",
-   "positions_using": 1,
-   "level": 1,
-   "level_name": "Remember",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "obtain"
-   ]
-  },
-  {
-   "normalized_text": "inform dispatch of resource status and departure time",
-   "canonical_text": "Inform dispatch of resource status and departure time.",
+   "normalized_text": "consult with crew boss, single resource (crwb) personnel to validate readiness of assigned crew(s) and equipment",
+   "canonical_text": "Consult with Crew Boss, Single Resource (CRWB) personnel to validate readiness of assigned crew(s) and equipment.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.85,
+   "confidence": 0.7,
    "justification": null,
    "verbs": [
-    "inform"
-   ]
-  },
-  {
-   "normalized_text": "brief assigned crew supervisors",
-   "canonical_text": "Brief assigned crew supervisors.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "brief"
-   ]
-  },
-  {
-   "normalized_text": "inspect and/or monitor resources to ensure they are in a state of readiness (e.g., rest, repairs, tools, fuel) and consult crew supervisor(s)",
-   "canonical_text": "Inspect and/or monitor resources to ensure they are in a state of readiness (e.g., rest, repairs, tools, fuel) and consult crew supervisor(s).",
-   "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.6,
-   "justification": "Verbs found: 'inspect' (Evaluate), 'monitor' (Analyze), 'consult' (Apply).  Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
-   "verbs": [
-    "inspect",
-    "monitor",
     "consult"
    ]
   },
   {
-   "normalized_text": "request additional crew representatives if assigned crews are separated by location or operational period and their crew representative needs cannot be met",
-   "canonical_text": "Request additional Crew Representatives if assigned crews are separated by location or operational period and their Crew Representative needs cannot be met.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.85,
-   "justification": null,
-   "verbs": [
-    "request"
-   ]
-  },
-  {
-   "normalized_text": "conduct self in a professional manner",
-   "canonical_text": "Conduct self in a professional manner.",
-   "positions_using": 24,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.85,
-   "justification": null,
-   "verbs": [
-    "conduct"
-   ]
-  },
-  {
-   "normalized_text": "serve as liaison or advisor between crew(s) and supervisor",
-   "canonical_text": "Serve as liaison or advisor between crew(s) and supervisor.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.8,
-   "justification": null,
-   "verbs": [
-    "serve"
-   ]
-  },
-  {
-   "normalized_text": "adhere to appropriate crew management guides",
-   "canonical_text": "Adhere to appropriate crew management guides.",
+   "normalized_text": "adhere to appropriate crew management guidelines",
+   "canonical_text": "Adhere to appropriate crew management guidelines.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
@@ -11423,105 +11521,68 @@
    ]
   },
   {
-   "normalized_text": "report to interagency resource representative or home unit dispatch",
-   "canonical_text": "Report to Interagency Resource Representative or home unit dispatch.",
+   "normalized_text": "obtain crew information and manifests",
+   "canonical_text": "Obtain crew information and manifests.",
+   "positions_using": 1,
+   "level": 1,
+   "level_name": "Remember",
+   "confidence": 0.75,
+   "justification": null,
+   "verbs": [
+    "obtain"
+   ]
+  },
+  {
+   "normalized_text": "serve as a liaison or advisor between crew(s) and the incident management team (imt) and home unit",
+   "canonical_text": "Serve as a liaison or advisor between crew(s) and the Incident Management Team (IMT) and home unit.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.8,
    "justification": null,
    "verbs": [
-    "report"
+    "serve"
    ]
   },
   {
-   "normalized_text": "inform planning and operations sections of crew capabilities at time of check-in",
-   "canonical_text": "Inform Planning and Operations Sections of crew capabilities at time of check-in.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.95,
-   "justification": null,
-   "verbs": [
-    "[\\bcheck.?in\\b]",
-    "inform"
-   ]
-  },
-  {
-   "normalized_text": "coordinate with home unit dispatch prior to disassembly of crew(s)",
-   "canonical_text": "Coordinate with home unit dispatch prior to disassembly of crew(s).",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
-   "verbs": [
-    "coordinate"
-   ]
-  },
-  {
-   "normalized_text": "coordinate completion of accident and injury forms and other claims",
-   "canonical_text": "Coordinate completion of accident and injury forms and other claims.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
-   "verbs": [
-    "coordinate"
-   ]
-  },
-  {
-   "normalized_text": "ensure crew supervisor(s) complete personnel evaluations and ics 214, unit log",
-   "canonical_text": "Ensure crew supervisor(s) complete personnel evaluations and ICS 214, Unit Log.",
-   "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "ensure"
-   ]
-  },
-  {
-   "normalized_text": "report crews' performance and problems to home unit dispatch",
-   "canonical_text": "Report crews’ performance and problems to home unit dispatch.",
+   "normalized_text": "provide logistical support, as necessary",
+   "canonical_text": "Provide logistical support, as necessary.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.8,
    "justification": null,
    "verbs": [
-    "report"
+    "provide"
    ]
   },
   {
-   "normalized_text": "ensure crew supervisor(s) time reports are retrieved from time unit",
-   "canonical_text": "Ensure crew supervisor(s) time reports are retrieved from Time Unit.",
+   "normalized_text": "provide support to finance/administration section, as necessary",
+   "canonical_text": "Provide support to Finance/Administration Section, as necessary.",
    "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.75,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.8,
    "justification": null,
    "verbs": [
-    "ensure"
+    "provide"
    ]
   },
   {
-   "normalized_text": "ensure copy of crew performance evaluation, individual time report and other relevant documentation is given to crew bosses upon completion of assignment",
-   "canonical_text": "Ensure copy of crew performance evaluation, individual time report and other relevant documentation is given to Crew Bosses upon completion of assignment.",
+   "normalized_text": "provide support to planning section, as necessary",
+   "canonical_text": "Provide support to Planning Section, as necessary.",
    "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.75,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.8,
    "justification": null,
    "verbs": [
-    "ensure"
+    "provide"
    ]
   },
   {
-   "normalized_text": "represent agency in absence of interagency resource representative to make agency specific decisions",
-   "canonical_text": "Represent agency in absence of Interagency Resource Representative to make agency specific decisions.",
+   "normalized_text": "make appropriate decisions based on analysis of gathered information",
+   "canonical_text": "Make appropriate decisions based on analysis of gathered information.",
    "positions_using": 1,
    "level": 5,
    "level_name": "Evaluate",
@@ -11529,68 +11590,46 @@
    "justification": null,
    "verbs": [
     "[make .{0,30}decision]",
-    "represent"
-   ]
-  },
-  {
-   "normalized_text": "ensure established guidelines are followed",
-   "canonical_text": "Ensure established guidelines are followed.",
-   "positions_using": 11,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "ensure"
-   ]
-  },
-  {
-   "normalized_text": "advise crew supervisors how to obtain logistical support and/or make necessary arrangements for logistical support",
-   "canonical_text": "Advise crew supervisors how to obtain logistical support and/or make necessary arrangements for logistical support.",
-   "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.7,
-   "justification": null,
-   "verbs": [
-    "advise",
     "make"
    ]
   },
   {
-   "normalized_text": "facilitate special transportation needs",
-   "canonical_text": "Facilitate special transportation needs.",
+   "normalized_text": "continuously monitor incident environment and communicate critical updates",
+   "canonical_text": "Continuously monitor incident environment and communicate critical updates.",
    "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.65,
-   "justification": "Verbs found: 'facilitate' (Evaluate). Verb(s) 'facilitate' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
+   "level": 4,
+   "level_name": "Analyze",
+   "confidence": 0.7,
+   "justification": null,
    "verbs": [
-    "facilitate"
+    "monitor",
+    "communicate"
    ]
   },
   {
-   "normalized_text": "resolve problems, conflicts, and complaints",
-   "canonical_text": "Resolve problems, conflicts, and complaints.",
+   "normalized_text": "ensure organizational requirements are met and provide administrative oversight",
+   "canonical_text": "Ensure organizational requirements are met and provide administrative oversight.",
    "positions_using": 1,
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.7,
    "justification": null,
    "verbs": [
-    "resolve"
+    "ensure",
+    "provide"
    ]
   },
   {
-   "normalized_text": "brief interagency resource representative and subordinates on demobilization procedures and responsibilities",
-   "canonical_text": "Brief Interagency Resource Representative and subordinates on demobilization procedures and responsibilities.",
+   "normalized_text": "establish communications and exchange necessary briefings/information with other resources",
+   "canonical_text": "Establish communications and exchange necessary briefings/information with other resources.",
    "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.75,
-   "justification": null,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.6,
+   "justification": "Verbs found: 'establish' (Create), 'exchange' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
    "verbs": [
-    "brief"
+    "establish",
+    "exchange"
    ]
   },
   {
@@ -11838,7 +11877,7 @@
   {
    "normalized_text": "obtain complete information from dispatch upon assignment",
    "canonical_text": "Obtain complete information from dispatch upon assignment.",
-   "positions_using": 22,
+   "positions_using": 17,
    "level": 1,
    "level_name": "Remember",
    "confidence": 0.75,
@@ -11896,6 +11935,18 @@
    ]
   },
   {
+   "normalized_text": "conduct self in a professional manner",
+   "canonical_text": "Conduct self in a professional manner.",
+   "positions_using": 16,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "conduct"
+   ]
+  },
+  {
    "normalized_text": "ensure subordinates understand operational period assignments",
    "canonical_text": "Ensure subordinates understand operational period assignments.",
    "positions_using": 2,
@@ -11910,7 +11961,7 @@
   {
    "normalized_text": "establish crew cohesiveness",
    "canonical_text": "Establish crew cohesiveness.",
-   "positions_using": 4,
+   "positions_using": 3,
    "level": 6,
    "level_name": "Create",
    "confidence": 0.65,
@@ -12046,7 +12097,7 @@
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.55,
-   "justification": "Verbs found: 'direct' (Evaluate), 'provide' (Apply), 'request' (Apply). Verb(s) 'direct' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
+   "justification": "Verbs found: 'direct' (Evaluate), 'request' (Apply), 'provide' (Apply). Verb(s) 'direct' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
    "verbs": [
     "request",
     "direct",
@@ -12114,19 +12165,6 @@
    "verbs": [
     "maintain",
     "adjust"
-   ]
-  },
-  {
-   "normalized_text": "recognize and adapt to an incident within an incident",
-   "canonical_text": "Recognize and adapt to an incident within an incident.",
-   "positions_using": 2,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.63,
-   "justification": "Verbs found: 'adapt' (Evaluate), 'recognize' (Analyze). Verb(s) 'adapt' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
-   "verbs": [
-    "recognize",
-    "adapt"
    ]
   },
   {
@@ -12974,239 +13012,137 @@
    ]
   },
   {
-   "normalized_text": "determine need for assistance by assessing span of control",
-   "canonical_text": "Determine need for assistance by assessing span of control.",
-   "positions_using": 1,
-   "level": 4,
-   "level_name": "Analyze",
-   "confidence": 0.8,
-   "justification": null,
+   "normalized_text": "review incident action plan (iap) and obtain briefing, objectives, and intent from supervisor",
+   "canonical_text": "Review Incident Action Plan (IAP) and obtain briefing, objectives, and intent from supervisor.",
+   "positions_using": 5,
+   "level": 5,
+   "level_name": "Evaluate",
+   "confidence": 0.5,
+   "justification": "Verbs found: 'review' (Evaluate), 'obtain' (Remember). \"Review the plan and obtain briefing\" is mobilization familiarization (Understand), not a quality-control review; Understand assigned over the review-as-Evaluate default.",
    "verbs": [
-    "determine"
-   ]
-  },
-  {
-   "normalized_text": "determine and order support needs",
-   "canonical_text": "Determine and order support needs.",
-   "positions_using": 1,
-   "level": 4,
-   "level_name": "Analyze",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "determine",
-    "order"
-   ]
-  },
-  {
-   "normalized_text": "obtain initial briefing from operations section chief",
-   "canonical_text": "Obtain initial briefing from Operations Section Chief.",
-   "positions_using": 2,
-   "level": 1,
-   "level_name": "Remember",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
+    "[review .{0,80}and obtain]",
+    "review",
     "obtain"
    ]
   },
   {
-   "normalized_text": "obtain information from incident action plans (iaps) or relevant plans",
-   "canonical_text": "Obtain information from Incident Action Plans (IAPs) or relevant plans.",
-   "positions_using": 1,
-   "level": 1,
-   "level_name": "Remember",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "obtain"
-   ]
-  },
-  {
-   "normalized_text": "establish staging area procedures",
-   "canonical_text": "Establish staging area procedures.",
+   "normalized_text": "assemble, organize, and maintain accountability for assigned resources (personnel and equipment)",
+   "canonical_text": "Assemble, organize, and maintain accountability for assigned resources (personnel and equipment).",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
-   "confidence": 0.65,
-   "justification": "Verbs found: 'establish' (Create). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "confidence": 0.6,
+   "justification": "Verbs found: 'organize' (Create), 'assemble' (Apply), 'maintain' (Apply). Verb(s) 'organize' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
    "verbs": [
-    "establish"
+    "assemble",
+    "organize",
+    "maintain"
    ]
   },
   {
-   "normalized_text": "provide for the safety and welfare, of assigned resources",
-   "canonical_text": "Provide for the safety and welfare, of assigned resources.",
+   "normalized_text": "adapt and respond to significant changes, deficiencies, or hazardous conditions that affect staging area operations",
+   "canonical_text": "Adapt and respond to significant changes, deficiencies, or hazardous conditions that affect staging area operations.",
    "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.8,
-   "justification": null,
+   "level": 5,
+   "level_name": "Evaluate",
+   "confidence": 0.63,
+   "justification": "Verbs found: 'adapt' (Evaluate), 'respond' (Apply). Verb(s) 'adapt' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
    "verbs": [
-    "provide"
-   ]
-  },
-  {
-   "normalized_text": "develop schedule/assignments based on iap or relevant plan",
-   "canonical_text": "Develop schedule/assignments based on IAP or relevant plan.",
-   "positions_using": 11,
-   "level": 6,
-   "level_name": "Create",
-   "confidence": 0.9,
-   "justification": null,
-   "verbs": [
-    "develop"
-   ]
-  },
-  {
-   "normalized_text": "coordinate with planning section",
-   "canonical_text": "Coordinate with Planning Section.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
-   "verbs": [
-    "coordinate"
-   ]
-  },
-  {
-   "normalized_text": "coordinate with logistics",
-   "canonical_text": "Coordinate with Logistics.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
-   "verbs": [
-    "coordinate"
-   ]
-  },
-  {
-   "normalized_text": "coordinate with finance/administration",
-   "canonical_text": "Coordinate with Finance/Administration.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
-   "verbs": [
-    "coordinate"
-   ]
-  },
-  {
-   "normalized_text": "compile list of resources assigned to staging area",
-   "canonical_text": "Compile list of resources assigned to staging area.",
-   "positions_using": 1,
-   "level": 6,
-   "level_name": "Create",
-   "confidence": 0.7,
-   "justification": null,
-   "verbs": [
-    "compile"
-   ]
-  },
-  {
-   "normalized_text": "complete and submit evaluation and documentation forms through supervisor to documentation unit as required",
-   "canonical_text": "Complete and submit evaluation and documentation forms through supervisor to Documentation Unit as required.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.95,
-   "justification": null,
-   "verbs": [
-    "complete",
-    "submit"
-   ]
-  },
-  {
-   "normalized_text": "provide a copy of staging area layout map to planning and logistics sections",
-   "canonical_text": "Provide a copy of staging area layout map to Planning and Logistics Sections.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.8,
-   "justification": null,
-   "verbs": [
-    "provide"
-   ]
-  },
-  {
-   "normalized_text": "determine and report resource deficiencies to operations section chief",
-   "canonical_text": "Determine and report resource deficiencies to Operations Section Chief.",
-   "positions_using": 1,
-   "level": 4,
-   "level_name": "Analyze",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "determine",
-    "report"
-   ]
-  },
-  {
-   "normalized_text": "establish a layout for staging area",
-   "canonical_text": "Establish a layout for staging area.",
-   "positions_using": 1,
-   "level": 6,
-   "level_name": "Create",
-   "confidence": 0.65,
-   "justification": "Verbs found: 'establish' (Create). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
-   "verbs": [
-    "establish"
-   ]
-  },
-  {
-   "normalized_text": "prepare a map of the staging area",
-   "canonical_text": "Prepare a map of the staging area.",
-   "positions_using": 1,
-   "level": 6,
-   "level_name": "Create",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'prepare' (Create). Verb(s) 'prepare' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
-   "verbs": [
-    "prepare"
-   ]
-  },
-  {
-   "normalized_text": "respond to requests for resource assignments",
-   "canonical_text": "Respond to requests for resource assignments.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.7,
-   "justification": null,
-   "verbs": [
+    "adapt",
     "respond"
    ]
   },
   {
-   "normalized_text": "administer dispatch procedures",
-   "canonical_text": "Administer dispatch procedures.",
-   "positions_using": 1,
+   "normalized_text": "model leadership values and principles",
+   "canonical_text": "Model leadership values and principles.",
+   "positions_using": 2,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.75,
+   "confidence": 0.7,
    "justification": null,
    "verbs": [
-    "administer"
+    "model"
    ]
   },
   {
-   "normalized_text": "take appropriate actions to relocate the staging area",
-   "canonical_text": "Take appropriate actions to relocate the staging area.",
+   "normalized_text": "coordinate with relevant personnel",
+   "canonical_text": "Coordinate with relevant personnel.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.65,
-   "justification": "Verbs found: 'take' (Apply). Verb(s) 'take' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
+   "confidence": 0.68,
+   "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
    "verbs": [
-    "take"
+    "coordinate"
    ]
   },
   {
-   "normalized_text": "prepare for weather contingencies or other emergency situations",
-   "canonical_text": "Prepare for weather contingencies or other emergency situations.",
+   "normalized_text": "establish and maintain the staging area",
+   "canonical_text": "Establish and maintain the staging area.",
+   "positions_using": 1,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.6,
+   "justification": "Verbs found: 'establish' (Create), 'maintain' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "verbs": [
+    "establish",
+    "maintain"
+   ]
+  },
+  {
+   "normalized_text": "close out or transfer the staging area",
+   "canonical_text": "Close out or transfer the staging area.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "[close.?out|close out]",
+    "transfer"
+   ]
+  },
+  {
+   "normalized_text": "ensure clear understanding of expectations and maintain timely co mmunication within and across incident command system (ics) functional areas and chain of command",
+   "canonical_text": "Ensure clear understanding of expectations and maintain timely co mmunication within and across Incident Command System (ICS) functional areas and chain of command.",
+   "positions_using": 1,
+   "level": 5,
+   "level_name": "Evaluate",
+   "confidence": 0.7,
+   "justification": null,
+   "verbs": [
+    "ensure",
+    "maintain"
+   ]
+  },
+  {
+   "normalized_text": "communicate effectively using multichannel radios (and other methods as approved/directed)",
+   "canonical_text": "Communicate effectively using multichannel radios (and other methods as approved/directed).",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "communicate"
+   ]
+  },
+  {
+   "normalized_text": "plan for and support medical emergencies",
+   "canonical_text": "Plan for and support medical emergencies.",
+   "positions_using": 1,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.7,
+   "justification": null,
+   "verbs": [
+    "plan",
+    "support"
+   ]
+  },
+  {
+   "normalized_text": "prepare for demobilization",
+   "canonical_text": "Prepare for demobilization.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -13218,16 +13154,15 @@
    ]
   },
   {
-   "normalized_text": "demobilize staging area in timely and orderly manner",
-   "canonical_text": "Demobilize staging area in timely and orderly manner.",
+   "normalized_text": "implement demobilization",
+   "canonical_text": "Implement demobilization.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.95,
+   "confidence": 0.85,
    "justification": null,
    "verbs": [
-    "demobilize",
-    "order"
+    "implement"
    ]
   },
   {
@@ -13267,6 +13202,18 @@
    "justification": null,
    "verbs": [
     "ensure"
+   ]
+  },
+  {
+   "normalized_text": "obtain initial briefing from operations section chief",
+   "canonical_text": "Obtain initial briefing from Operations Section Chief.",
+   "positions_using": 1,
+   "level": 1,
+   "level_name": "Remember",
+   "confidence": 0.75,
+   "justification": null,
+   "verbs": [
+    "obtain"
    ]
   },
   {
@@ -13521,7 +13468,7 @@
   {
    "normalized_text": "obtain and assemble information and materials needed for kit",
    "canonical_text": "Obtain and assemble information and materials needed for kit.",
-   "positions_using": 7,
+   "positions_using": 4,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.75,
@@ -15214,6 +15161,18 @@
    ]
   },
   {
+   "normalized_text": "develop schedule/assignments based on iap or relevant plan",
+   "canonical_text": "Develop schedule/assignments based on IAP or relevant plan.",
+   "positions_using": 9,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.9,
+   "justification": null,
+   "verbs": [
+    "develop"
+   ]
+  },
+  {
    "normalized_text": "ensure adherence to pilot duty limitations and day-off schedules",
    "canonical_text": "Ensure adherence to pilot duty limitations and day-off schedules.",
    "positions_using": 1,
@@ -15487,7 +15446,7 @@
   {
    "normalized_text": "anticipate and correct potential actions or conditions that would affect safety",
    "canonical_text": "Anticipate and correct potential actions or conditions that would affect safety.",
-   "positions_using": 2,
+   "positions_using": 1,
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.65,
@@ -15688,7 +15647,7 @@
   {
    "normalized_text": "demonstrate strong verbal communication skills",
    "canonical_text": "Demonstrate strong verbal communication skills.",
-   "positions_using": 2,
+   "positions_using": 3,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.68,
@@ -15762,7 +15721,7 @@
   {
    "normalized_text": "organize assigned personnel to meet the needs of the unit",
    "canonical_text": "Organize assigned personnel to meet the needs of the unit.",
-   "positions_using": 8,
+   "positions_using": 7,
    "level": 6,
    "level_name": "Create",
    "confidence": 0.65,
@@ -15774,7 +15733,7 @@
   {
    "normalized_text": "complete daily review of staffing requirements and ensure adequate personnel to meet needs",
    "canonical_text": "Complete daily review of staffing requirements and ensure adequate personnel to meet needs.",
-   "positions_using": 7,
+   "positions_using": 6,
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.7,
@@ -15799,7 +15758,7 @@
   {
    "normalized_text": "coordinate with other units and sections for completion of work assignments",
    "canonical_text": "Coordinate with other units and sections for completion of work assignments.",
-   "positions_using": 8,
+   "positions_using": 6,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.68,
@@ -15811,7 +15770,7 @@
   {
    "normalized_text": "attend incident operational briefings and meetings as directed",
    "canonical_text": "Attend incident operational briefings and meetings as directed.",
-   "positions_using": 3,
+   "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.9,
@@ -15835,7 +15794,7 @@
   {
    "normalized_text": "compile unit documentation for final incident package",
    "canonical_text": "Compile unit documentation for final incident package.",
-   "positions_using": 3,
+   "positions_using": 1,
    "level": 6,
    "level_name": "Create",
    "confidence": 0.7,
@@ -15847,7 +15806,7 @@
   {
    "normalized_text": "prepare information for preplanning/strategy meeting",
    "canonical_text": "Prepare information for preplanning/strategy meeting.",
-   "positions_using": 3,
+   "positions_using": 1,
    "level": 6,
    "level_name": "Create",
    "confidence": 0.68,
@@ -15859,13 +15818,14 @@
   {
    "normalized_text": "prepare input to final narrative and transition plan as requested",
    "canonical_text": "Prepare input to final narrative and transition plan as requested.",
-   "positions_using": 3,
+   "positions_using": 1,
    "level": 6,
    "level_name": "Create",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'prepare' (Create). Verb(s) 'prepare' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "confidence": 0.63,
+   "justification": "Verbs found: 'prepare' (Create), 'transition' (Apply). Verb(s) 'prepare' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
    "verbs": [
-    "prepare"
+    "prepare",
+    "transition"
    ]
   },
   {
@@ -15929,6 +15889,18 @@
    "verbs": [
     "[make .{0,30}decision]",
     "make"
+   ]
+  },
+  {
+   "normalized_text": "ensure established guidelines are followed",
+   "canonical_text": "Ensure established guidelines are followed.",
+   "positions_using": 7,
+   "level": 5,
+   "level_name": "Evaluate",
+   "confidence": 0.75,
+   "justification": null,
+   "verbs": [
+    "ensure"
    ]
   },
   {
@@ -16832,205 +16804,112 @@
    ]
   },
   {
-   "normalized_text": "obtain appropriate work materials, supplies, and equipment to complete assignment",
-   "canonical_text": "Obtain appropriate work materials, supplies, and equipment to complete assignment.",
-   "positions_using": 2,
-   "level": 1,
-   "level_name": "Remember",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "obtain"
-   ]
-  },
-  {
-   "normalized_text": "obtain initial briefing from assignment supervisor",
-   "canonical_text": "Obtain initial briefing from assignment supervisor.",
-   "positions_using": 5,
-   "level": 1,
-   "level_name": "Remember",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "obtain"
-   ]
-  },
-  {
-   "normalized_text": "review agency wildland fire procedures, policies and regulations related to position",
-   "canonical_text": "Review agency wildland fire procedures, policies and regulations related to position.",
-   "positions_using": 2,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.6,
-   "justification": "Verbs found: 'review' (Evaluate). Verb(s) 'review' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
-   "verbs": [
-    "review"
-   ]
-  },
-  {
-   "normalized_text": "provide monitoring summary for assigned area",
-   "canonical_text": "Provide monitoring summary for assigned area.",
-   "positions_using": 2,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.8,
-   "justification": null,
-   "verbs": [
-    "provide"
-   ]
-  },
-  {
-   "normalized_text": "recon project or assigned area and plot the project area and/or fire perimeter on a map. review maps and overlays of reported data to ensure accuracy",
-   "canonical_text": "Recon project or assigned area and plot the project area and/or fire perimeter on a map. Review maps and overlays of reported data to ensure accuracy.",
-   "positions_using": 2,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.73,
-   "justification": null,
-   "verbs": [
-    "[review .{0,60}(for compl]",
-    "recon",
-    "assign",
-    "review"
-   ]
-  },
-  {
-   "normalized_text": "communicate effectively with supervisor, fire operations staff, and as appropriate, crew members and adjoining resources",
-   "canonical_text": "Communicate effectively with supervisor, fire operations staff, and as appropriate, crew members and adjoining resources.",
-   "positions_using": 2,
+   "normalized_text": "follow chain of command and reporting procedures",
+   "canonical_text": "Follow chain of command and reporting procedures.",
+   "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.85,
    "justification": null,
    "verbs": [
-    "communicate"
+    "follow"
    ]
   },
   {
-   "normalized_text": "review the project objectives, monitoring plan or management objectives as appropriate. communicate concerns to supervisor",
-   "canonical_text": "Review the project objectives, monitoring plan or management objectives as appropriate. Communicate concerns to supervisor.",
-   "positions_using": 2,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.55,
-   "justification": "Verbs found: 'review' (Evaluate), 'communicate' (Apply). Verb(s) 'review' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
-   "verbs": [
-    "review",
-    "communicate"
-   ]
-  },
-  {
-   "normalized_text": "monitor, obtain, and record weather data",
-   "canonical_text": "Monitor, obtain, and record weather data.",
-   "positions_using": 2,
-   "level": 4,
-   "level_name": "Analyze",
+   "normalized_text": "establish a common operating picture with supervisors and adjacent resources",
+   "canonical_text": "Establish a common operating picture with supervisors and adjacent resources.",
+   "positions_using": 1,
+   "level": 6,
+   "level_name": "Create",
    "confidence": 0.65,
-   "justification": "Verbs found: 'monitor' (Analyze), 'record' (Apply), 'obtain' (Remember).  Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
+   "justification": "Verbs found: 'establish' (Create). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
    "verbs": [
-    "monitor",
-    "obtain",
-    "record"
+    "establish"
    ]
   },
   {
-   "normalized_text": "monitor and record fire behavior data throughout the fire management operation",
-   "canonical_text": "Monitor and record fire behavior data throughout the fire management operation.",
-   "positions_using": 2,
-   "level": 4,
-   "level_name": "Analyze",
-   "confidence": 0.7,
+   "normalized_text": "obtain supplies and current information for operational period",
+   "canonical_text": "Obtain supplies and current information for operational period.",
+   "positions_using": 1,
+   "level": 1,
+   "level_name": "Remember",
+   "confidence": 0.75,
    "justification": null,
    "verbs": [
-    "monitor",
-    "record"
+    "obtain"
    ]
   },
   {
-   "normalized_text": "monitor and record smoke management information",
-   "canonical_text": "Monitor and record smoke management information.",
-   "positions_using": 2,
-   "level": 4,
-   "level_name": "Analyze",
-   "confidence": 0.7,
+   "normalized_text": "travel to and from the assigned work area",
+   "canonical_text": "Travel to and from the assigned work area.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.95,
    "justification": null,
    "verbs": [
-    "monitor",
+    "travel"
+   ]
+  },
+  {
+   "normalized_text": "assess project or assigned work area",
+   "canonical_text": "Assess project or assigned work area.",
+   "positions_using": 1,
+   "level": 4,
+   "level_name": "Analyze",
+   "confidence": 0.8,
+   "justification": null,
+   "verbs": [
+    "assess",
+    "assign"
+   ]
+  },
+  {
+   "normalized_text": "record relevant or appropriate features on a map",
+   "canonical_text": "Record relevant or appropriate features on a map.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
     "record"
    ]
   },
   {
-   "normalized_text": "recognize and report atmospheric characteristics that influence fire behavior",
-   "canonical_text": "Recognize and report atmospheric characteristics that influence fire behavior.",
-   "positions_using": 2,
-   "level": 4,
-   "level_name": "Analyze",
-   "confidence": 0.6,
-   "justification": "Verbs found: 'recognize' (Analyze), 'report' (Apply). Verb(s) 'recognize' sit between Bloom levels in operational use (doing vs judging vs designing); Analyze chosen as the governing cognitive demand.",
+   "normalized_text": "report weather and fire behavior data",
+   "canonical_text": "Report weather and fire behavior data.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.8,
+   "justification": null,
    "verbs": [
-    "recognize",
     "report"
    ]
   },
   {
-   "normalized_text": "conduct monitoring and observation operations according to the standard fire orders, watch out situations, and lces (lookouts, communications, escape routes, safety zones) principles",
-   "canonical_text": "Conduct monitoring and observation operations according to the Standard Fire Orders, Watch Out Situations, and LCES (Lookouts, Communications, Escape Routes, Safety Zones) principles.",
-   "positions_using": 2,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.85,
-   "justification": null,
-   "verbs": [
-    "conduct"
-   ]
-  },
-  {
-   "normalized_text": "identify the roles and responsibilities of the fire effects monitor on the incident",
-   "canonical_text": "Identify the roles and responsibilities of the Fire Effects Monitor on the incident.",
-   "positions_using": 2,
-   "level": 4,
-   "level_name": "Analyze",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "identify"
-   ]
-  },
-  {
-   "normalized_text": "document first order fire effects related to fire treatment or management objectives and constraints",
-   "canonical_text": "Document first order fire effects related to fire treatment or management objectives and constraints.",
-   "positions_using": 2,
+   "normalized_text": "report atmospheric characteristics and changes that influence fire behavior",
+   "canonical_text": "Report atmospheric characteristics and changes that influence fire behavior.",
+   "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.8,
    "justification": null,
    "verbs": [
-    "document"
+    "report"
    ]
   },
   {
-   "normalized_text": "collect appropriate fuel, soil, and vegetation samples for moisture analysis",
-   "canonical_text": "Collect appropriate fuel, soil, and vegetation samples for moisture analysis.",
-   "positions_using": 2,
-   "level": 1,
-   "level_name": "Remember",
+   "normalized_text": "report smoke characteristics and impacts",
+   "canonical_text": "Report smoke characteristics and impacts.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
    "confidence": 0.8,
    "justification": null,
    "verbs": [
-    "collect"
-   ]
-  },
-  {
-   "normalized_text": "contact and coordinate with appropriate personnel",
-   "canonical_text": "Contact and coordinate with appropriate personnel.",
-   "positions_using": 2,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.9,
-   "justification": null,
-   "verbs": [
-    "contact",
-    "coordinate"
+    "report"
    ]
   },
   {
@@ -17252,16 +17131,17 @@
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.9,
+   "confidence": 0.95,
    "justification": null,
    "verbs": [
-    "[\\bcheck.?in\\b]"
+    "[\\bcheck.?in\\b]",
+    "transition"
    ]
   },
   {
    "normalized_text": "complete demobilization checkout process before being released from the incident",
    "canonical_text": "Complete demobilization checkout process before being released from the incident.",
-   "positions_using": 3,
+   "positions_using": 2,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.85,
@@ -17861,10 +17741,11 @@
    "positions_using": 5,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.8,
+   "confidence": 0.85,
    "justification": null,
    "verbs": [
-    "provide"
+    "provide",
+    "repair"
    ]
   },
   {
@@ -17873,10 +17754,11 @@
    "positions_using": 5,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
+   "confidence": 0.85,
+   "justification": null,
    "verbs": [
-    "coordinate"
+    "coordinate",
+    "repair"
    ]
   },
   {
@@ -18461,10 +18343,11 @@
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.7,
+   "confidence": 0.75,
    "justification": null,
    "verbs": [
-    "assist"
+    "assist",
+    "transition"
    ]
   },
   {
@@ -18549,10 +18432,11 @@
    "positions_using": 3,
    "level": 4,
    "level_name": "Analyze",
-   "confidence": 0.65,
-   "justification": "Verbs found: 'consider' (Analyze). Verb(s) 'consider' sit between Bloom levels in operational use (doing vs judging vs designing); Analyze chosen as the governing cognitive demand.",
+   "confidence": 0.6,
+   "justification": "Verbs found: 'consider' (Analyze), 'transition' (Apply). Verb(s) 'consider' sit between Bloom levels in operational use (doing vs judging vs designing); Analyze chosen as the governing cognitive demand.",
    "verbs": [
-    "consider"
+    "consider",
+    "transition"
    ]
   },
   {
@@ -18983,7 +18867,7 @@
   {
    "normalized_text": "organize assigned personnel to meet the needs of the assignment",
    "canonical_text": "Organize assigned personnel to meet the needs of the assignment.",
-   "positions_using": 3,
+   "positions_using": 2,
    "level": 6,
    "level_name": "Create",
    "confidence": 0.65,
@@ -19111,7 +18995,7 @@
    "level": 6,
    "level_name": "Create",
    "confidence": 0.6,
-   "justification": "Verbs found: 'establish' (Create), 'communicate' (Apply), 'work' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "justification": "Verbs found: 'establish' (Create), 'work' (Apply), 'communicate' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
    "verbs": [
     "establish",
     "communicate",
@@ -19125,7 +19009,7 @@
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.65,
-   "justification": "Verbs found: 'ensure' (Evaluate), 'monitor' (Analyze), 'provide' (Apply), 'perform' (Apply).  Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
+   "justification": "Verbs found: 'ensure' (Evaluate), 'monitor' (Analyze), 'perform' (Apply), 'provide' (Apply).  Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
    "verbs": [
     "monitor",
     "provide",
@@ -19321,7 +19205,7 @@
   {
    "normalized_text": "submit completed original documents at appropriate time (e.g., each operational period, final package)",
    "canonical_text": "Submit completed original documents at appropriate time (e.g., each operational period, final package).",
-   "positions_using": 3,
+   "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.9,
@@ -19430,8 +19314,56 @@
    ]
   },
   {
-   "normalized_text": "coordinate with supply unit leader to obtain needed supplies and materials",
-   "canonical_text": "Coordinate with Supply Unit Leader to obtain needed supplies and materials.",
+   "normalized_text": "develop ordering standards and requirements for incident resources to follow",
+   "canonical_text": "Develop ordering standards and requirements for incident resources to follow.",
+   "positions_using": 1,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.9,
+   "justification": null,
+   "verbs": [
+    "develop"
+   ]
+  },
+  {
+   "normalized_text": "process all order requests in a timely and accurate manner",
+   "canonical_text": "Process all order requests in a timely and accurate manner.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "process"
+   ]
+  },
+  {
+   "normalized_text": "track resource requests in resource ordering application systems for overhead, equipment, crews, and supplies",
+   "canonical_text": "Track resource requests in resource ordering application systems for overhead, equipment, crews, and supplies.",
+   "positions_using": 1,
+   "level": 4,
+   "level_name": "Analyze",
+   "confidence": 0.7,
+   "justification": null,
+   "verbs": [
+    "track"
+   ]
+  },
+  {
+   "normalized_text": "ensure clear understanding of expectations and timely co mmunication within and across incident command system (ics) functional areas and chain of command",
+   "canonical_text": "Ensure clear understanding of expectations and timely co mmunication within and across Incident Command System (ICS) functional areas and chain of command.",
+   "positions_using": 1,
+   "level": 5,
+   "level_name": "Evaluate",
+   "confidence": 0.75,
+   "justification": null,
+   "verbs": [
+    "ensure"
+   ]
+  },
+  {
+   "normalized_text": "coordinate with expanded dispatch, center manager (cm), and incident procurement personnel as appropriate",
+   "canonical_text": "Coordinate with expanded dispatch, Center Manager (CM), and incident procurement personnel as appropriate.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
@@ -19442,34 +19374,86 @@
    ]
   },
   {
-   "normalized_text": "obtain initial briefing from supply unit leader or immediate supervisor",
-   "canonical_text": "Obtain initial briefing from Supply Unit Leader or immediate supervisor.",
-   "positions_using": 2,
-   "level": 1,
-   "level_name": "Remember",
+   "normalized_text": "reconcile incident supplies and equipment",
+   "canonical_text": "Reconcile incident supplies and equipment.",
+   "positions_using": 1,
+   "level": 4,
+   "level_name": "Analyze",
    "confidence": 0.75,
    "justification": null,
    "verbs": [
-    "obtain"
+    "reconcile"
    ]
   },
   {
-   "normalized_text": "brief and keep counterparts informed and updated",
-   "canonical_text": "Brief and keep counterparts informed and updated.",
+   "normalized_text": "establish and communicate expectations of the chain of command, reporting procedures, and risk management processes",
+   "canonical_text": "Establish and communicate expectations of the chain of command, reporting procedures, and risk management processes.",
    "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.85,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.6,
+   "justification": "Verbs found: 'establish' (Create), 'communicate' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "verbs": [
+    "establish",
+    "communicate"
+   ]
+  },
+  {
+   "normalized_text": "identify assigned resources and maintain accountability",
+   "canonical_text": "Identify assigned resources and maintain accountability.",
+   "positions_using": 1,
+   "level": 4,
+   "level_name": "Analyze",
+   "confidence": 0.7,
    "justification": null,
    "verbs": [
-    "brief",
-    "keep",
-    "update"
+    "identify",
+    "maintain"
    ]
   },
   {
-   "normalized_text": "set up and maintain filing system to track resources",
-   "canonical_text": "Set up and maintain filing system to track resources.",
+   "normalized_text": "establish and communicate objectives, priorities, work assignments, and performance expectations as applicable",
+   "canonical_text": "Establish and communicate objectives, priorities, work assignments, and performance expectations as applicable.",
+   "positions_using": 1,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.6,
+   "justification": "Verbs found: 'establish' (Create), 'work' (Apply), 'communicate' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "verbs": [
+    "establish",
+    "communicate",
+    "work"
+   ]
+  },
+  {
+   "normalized_text": "monitor performance and provide immediate and regular feedback to assigned personnel as applicable",
+   "canonical_text": "Monitor performance and provide immediate and regular feedback to assigned personnel as applicable.",
+   "positions_using": 1,
+   "level": 4,
+   "level_name": "Analyze",
+   "confidence": 0.7,
+   "justification": null,
+   "verbs": [
+    "monitor",
+    "provide"
+   ]
+  },
+  {
+   "normalized_text": "organize the physical layout of a safe and secure supply area",
+   "canonical_text": "Organize the physical layout of a safe and secure supply area.",
+   "positions_using": 1,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.6,
+   "justification": "Verbs found: 'organize' (Create), 'secure' (Apply). Verb(s) 'organize' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "verbs": [
+    "organize",
+    "secure"
+   ]
+  },
+  {
+   "normalized_text": "set up and maintain a system for tracking the distribution of consumable, durable, and accountable supplies",
+   "canonical_text": "Set up and maintain a system for tracking the distribution of consumable, durable, and accountable supplies.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -19481,158 +19465,60 @@
    ]
   },
   {
-   "normalized_text": "prepare and submit reports as required by the supply unit leader or immediate supervisor",
-   "canonical_text": "Prepare and submit reports as required by the Supply Unit Leader or immediate supervisor.",
-   "positions_using": 2,
+   "normalized_text": "ensure orders for materials and supplies are filled, prepared, and delivered in a timely manner",
+   "canonical_text": "Ensure orders for materials and supplies are filled, prepared, and delivered in a timely manner.",
+   "positions_using": 1,
    "level": 6,
    "level_name": "Create",
-   "confidence": 0.63,
-   "justification": "Verbs found: 'prepare' (Create), 'submit' (Apply). Verb(s) 'prepare' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "confidence": 0.58,
+   "justification": "Verbs found: 'prepare' (Create), 'ensure' (Evaluate), 'deliver' (Apply). Verb(s) 'prepare' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand. Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
    "verbs": [
+    "ensure",
     "prepare",
-    "submit"
-   ]
-  },
-  {
-   "normalized_text": "close out resource orders and records with appropriate units",
-   "canonical_text": "Close out resource orders and records with appropriate units.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.9,
-   "justification": null,
-   "verbs": [
-    "[close.?out|close out]",
-    "record"
-   ]
-  },
-  {
-   "normalized_text": "inform receiving and distribution manager and requestor of orders placed and pending delivery of supplies",
-   "canonical_text": "Inform Receiving and Distribution Manager and requestor of orders placed and pending delivery of supplies.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.9,
-   "justification": null,
-   "verbs": [
-    "inform",
-    "request"
-   ]
-  },
-  {
-   "normalized_text": "receive written request for supplies and resources from incident personnel",
-   "canonical_text": "Receive written request for supplies and resources from incident personnel.",
-   "positions_using": 1,
-   "level": 1,
-   "level_name": "Remember",
-   "confidence": 0.8,
-   "justification": null,
-   "verbs": [
-    "receive"
-   ]
-  },
-  {
-   "normalized_text": "establish and implement incident resource ordering system based on direction from supply unit leader",
-   "canonical_text": "Establish and implement incident resource ordering system based on direction from Supply Unit Leader.",
-   "positions_using": 1,
-   "level": 6,
-   "level_name": "Create",
-   "confidence": 0.6,
-   "justification": "Verbs found: 'establish' (Create), 'implement' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
-   "verbs": [
-    "establish",
-    "implement"
-   ]
-  },
-  {
-   "normalized_text": "process resource orders and track status (e.g., delivery times, method of delivery, location)",
-   "canonical_text": "Process resource orders and track status (e.g., delivery times, method of delivery, location).",
-   "positions_using": 1,
-   "level": 4,
-   "level_name": "Analyze",
-   "confidence": 0.65,
-   "justification": "Verbs found: 'track' (Analyze), 'deliver' (Apply), 'process' (Apply).",
-   "verbs": [
-    "process",
-    "track",
     "deliver"
    ]
   },
   {
-   "normalized_text": "reconcile resource orders",
-   "canonical_text": "Reconcile resource orders.",
+   "normalized_text": "ensure safe operations within the supply area",
+   "canonical_text": "Ensure safe operations within the supply area.",
    "positions_using": 1,
-   "level": 4,
-   "level_name": "Analyze",
+   "level": 5,
+   "level_name": "Evaluate",
    "confidence": 0.75,
    "justification": null,
    "verbs": [
-    "reconcile"
+    "ensure"
    ]
   },
   {
-   "normalized_text": "demobilize supplies and equipment",
-   "canonical_text": "Demobilize supplies and equipment.",
-   "positions_using": 2,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.9,
-   "justification": null,
-   "verbs": [
-    "demobilize"
-   ]
-  },
-  {
-   "normalized_text": "coordinate with supply unit leader to obtain necessary incident facility staffing levels and needed supplies and materials",
-   "canonical_text": "Coordinate with Supply Unit Leader to obtain necessary incident facility staffing levels and needed supplies and materials.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
-   "verbs": [
-    "coordinate"
-   ]
-  },
-  {
-   "normalized_text": "organize physical layout of a secure and safe supply area",
-   "canonical_text": "Organize physical layout of a secure and safe supply area.",
+   "normalized_text": "create and implement a procedure for the collection and shipping of damaged/used items",
+   "canonical_text": "Create and implement a procedure for the collection and shipping of damaged/used items.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
-   "confidence": 0.65,
-   "justification": "Verbs found: 'organize' (Create). Verb(s) 'organize' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "confidence": 0.85,
+   "justification": null,
    "verbs": [
-    "organize"
+    "create",
+    "implement"
    ]
   },
   {
-   "normalized_text": "inform ordering manager of receipt of supply and equipment",
-   "canonical_text": "Inform Ordering Manager of receipt of supply and equipment.",
+   "normalized_text": "maintain and provide daily inventory and any other reports as requested by the supply unit leader (spul)",
+   "canonical_text": "Maintain and provide daily inventory and any other reports as requested by the Supply Unit Leader (SPUL).",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.85,
    "justification": null,
    "verbs": [
-    "inform"
+    "maintain",
+    "provide"
    ]
   },
   {
-   "normalized_text": "coordinate with supply unit leader to release excess resources and supplies",
-   "canonical_text": "Coordinate with Supply Unit Leader to release excess resources and supplies.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
-   "verbs": [
-    "coordinate"
-   ]
-  },
-  {
-   "normalized_text": "maintain inventory of supplies and equipment",
-   "canonical_text": "Maintain inventory of supplies and equipment.",
+   "normalized_text": "maintain relationships with the ordering manager (ordm) and su pply unit leader (spul) regarding receipt of ordered supplies and equipment",
+   "canonical_text": "Maintain relationships with the Ordering Manager (ORDM) and Su pply Unit Leader (SPUL) regarding receipt of ordered supplies and equipment.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
@@ -19643,100 +19529,68 @@
    ]
   },
   {
-   "normalized_text": "reconcile inventory received and shipped",
-   "canonical_text": "Reconcile inventory received and shipped.",
-   "positions_using": 1,
-   "level": 4,
-   "level_name": "Analyze",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "reconcile"
-   ]
-  },
-  {
-   "normalized_text": "evaluate available information and make recommendations to support incident",
-   "canonical_text": "Evaluate available information and make recommendations to support incident.",
-   "positions_using": 3,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.85,
-   "justification": null,
-   "verbs": [
-    "evaluate",
-    "make"
-   ]
-  },
-  {
-   "normalized_text": "manage the receiving and distribution function",
-   "canonical_text": "Manage the receiving and distribution function.",
-   "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.65,
-   "justification": "Verbs found: 'manage' (Evaluate). Verb(s) 'manage' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
-   "verbs": [
-    "manage"
-   ]
-  },
-  {
-   "normalized_text": "comply with applicable health and safety regulations",
-   "canonical_text": "Comply with applicable health and safety regulations.",
+   "normalized_text": "conduct and/or participate in functional briefings and after action reviews (aar)",
+   "canonical_text": "Conduct and/or participate in functional briefings and After Action Reviews (AARs).",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.8,
+   "confidence": 0.95,
    "justification": null,
    "verbs": [
-    "comply"
+    "conduct",
+    "participate"
    ]
   },
   {
-   "normalized_text": "establish procedures for receiving supplies and equipment",
-   "canonical_text": "Establish procedures for receiving supplies and equipment.",
+   "normalized_text": "submit accident/incident reports with pertinent agency-specific forms through the established chain of command",
+   "canonical_text": "Submit accident/incident reports with pertinent agency-specific forms through the established chain of command.",
    "positions_using": 1,
-   "level": 6,
-   "level_name": "Create",
-   "confidence": 0.65,
-   "justification": "Verbs found: 'establish' (Create). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.9,
+   "justification": null,
    "verbs": [
-    "establish"
+    "submit"
    ]
   },
   {
-   "normalized_text": "establish procedures for distribution of supplies and equipment",
-   "canonical_text": "Establish procedures for distribution of supplies and equipment.",
-   "positions_using": 1,
-   "level": 6,
-   "level_name": "Create",
-   "confidence": 0.65,
-   "justification": "Verbs found: 'establish' (Create). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
-   "verbs": [
-    "establish"
-   ]
-  },
-  {
-   "normalized_text": "implement security procedures",
-   "canonical_text": "Implement security procedures.",
+   "normalized_text": "follow transport guidelines for hazardous material shipping",
+   "canonical_text": "Follow transport guidelines for hazardous material shipping.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.85,
    "justification": null,
    "verbs": [
+    "follow"
+   ]
+  },
+  {
+   "normalized_text": "prepare for and implement demobilization of supplies and equipment",
+   "canonical_text": "Prepare for and implement demobilization of supplies and equipment.",
+   "positions_using": 1,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.63,
+   "justification": "Verbs found: 'prepare' (Create), 'implement' (Apply). Verb(s) 'prepare' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "verbs": [
+    "[\\bprepare for\\b]",
+    "prepare",
     "implement"
    ]
   },
   {
-   "normalized_text": "ensure tools and equipment are serviceable",
-   "canonical_text": "Ensure tools and equipment are serviceable.",
+   "normalized_text": "prepare for and implement demobilization of personnel",
+   "canonical_text": "Prepare for and implement demobilization of personnel.",
    "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.75,
-   "justification": null,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.63,
+   "justification": "Verbs found: 'prepare' (Create), 'implement' (Apply). Verb(s) 'prepare' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
    "verbs": [
-    "ensure"
+    "[\\bprepare for\\b]",
+    "prepare",
+    "implement"
    ]
   },
   {
@@ -19793,10 +19647,11 @@
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
+   "confidence": 0.85,
+   "justification": null,
    "verbs": [
-    "coordinate"
+    "coordinate",
+    "repair"
    ]
   },
   {
@@ -19870,6 +19725,19 @@
    "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
    "verbs": [
     "coordinate"
+   ]
+  },
+  {
+   "normalized_text": "evaluate available information and make recommendations to support incident",
+   "canonical_text": "Evaluate available information and make recommendations to support incident.",
+   "positions_using": 1,
+   "level": 5,
+   "level_name": "Evaluate",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "evaluate",
+    "make"
    ]
   },
   {
@@ -19958,130 +19826,50 @@
    ]
   },
   {
-   "normalized_text": "coordinate with finance/administration section chief and other functional areas to obtain resources",
-   "canonical_text": "Coordinate with Finance/Administration Section Chief and other functional areas to obtain resources.",
-   "positions_using": 2,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
-   "verbs": [
-    "coordinate"
-   ]
-  },
-  {
-   "normalized_text": "organize work area to facilitate unit operations",
-   "canonical_text": "Organize work area to facilitate unit operations.",
-   "positions_using": 2,
+   "normalized_text": "obtain equipment/personnel to complete assigned tasks and organize workspace",
+   "canonical_text": "Obtain equipment/personnel to complete assigned tasks and organize workspace.",
+   "positions_using": 1,
    "level": 6,
    "level_name": "Create",
-   "confidence": 0.65,
-   "justification": "Verbs found: 'organize' (Create). Verb(s) 'organize' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "confidence": 0.6,
+   "justification": "Verbs found: 'organize' (Create), 'obtain' (Remember). Verb(s) 'organize' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
    "verbs": [
+    "obtain",
     "organize"
    ]
   },
   {
-   "normalized_text": "obtain initial briefing from finance section chief or supervisor",
-   "canonical_text": "Obtain initial briefing from Finance Section Chief or supervisor.",
-   "positions_using": 2,
-   "level": 1,
-   "level_name": "Remember",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "obtain"
-   ]
-  },
-  {
-   "normalized_text": "participate in functional area briefings and conduct after action reviews (aar), as appropriate",
-   "canonical_text": "Participate in functional area briefings and conduct After Action Reviews (AARs), as appropriate.",
+   "normalized_text": "model professionalism and leadership values and principles",
+   "canonical_text": "Model professionalism and leadership values and principles.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.95,
+   "confidence": 0.7,
    "justification": null,
    "verbs": [
-    "participate",
-    "conduct"
+    "model"
    ]
   },
   {
-   "normalized_text": "coordinate and efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming incident management team [imt], host agency)",
-   "canonical_text": "Coordinate and efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team [IMT], host agency).",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
-   "verbs": [
-    "coordinate"
-   ]
-  },
-  {
-   "normalized_text": "ensure financial documentation packages are submitted to the processing agency",
-   "canonical_text": "Ensure financial documentation packages are submitted to the processing agency.",
+   "normalized_text": "identify, analyze, and use relevant situational information to es tablish objectives, make informed decisions, and take appropriate actions",
+   "canonical_text": "Identify, analyze, and use relevant situational information to es tablish objectives, make informed decisions, and take appropriate actions.",
    "positions_using": 1,
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.75,
    "justification": null,
    "verbs": [
-    "ensure"
-   ]
-  },
-  {
-   "normalized_text": "provide relevant information to the time, cost, and procurement units for posting",
-   "canonical_text": "Provide relevant information to the Time, Cost, and Procurement Units for posting.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.8,
-   "justification": null,
-   "verbs": [
-    "provide"
-   ]
-  },
-  {
-   "normalized_text": "provide input for the ics 209, incident status summary",
-   "canonical_text": "Provide input for the ICS 209, Incident Status Summary.",
-   "positions_using": 2,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.8,
-   "justification": null,
-   "verbs": [
-    "provide"
-   ]
-  },
-  {
-   "normalized_text": "coordinate with safety officer and medical unit on injury/accident trends",
-   "canonical_text": "Coordinate with Safety Officer and Medical Unit on injury/accident trends.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
-   "verbs": [
-    "coordinate"
-   ]
-  },
-  {
-   "normalized_text": "identify and communicate issues of concern to supervisor",
-   "canonical_text": "Identify and communicate issues of concern to supervisor.",
-   "positions_using": 1,
-   "level": 4,
-   "level_name": "Analyze",
-   "confidence": 0.7,
-   "justification": null,
-   "verbs": [
+    "[make .{0,30}decision]",
     "identify",
-    "communicate"
+    "analyze",
+    "use",
+    "make",
+    "take"
    ]
   },
   {
-   "normalized_text": "establish system for documenting and processing injury/illness claims",
-   "canonical_text": "Establish system for documenting and processing injury/illness claims.",
+   "normalized_text": "establish a system for documentation",
+   "canonical_text": "Establish a system for documentation.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -20092,106 +19880,133 @@
    ]
   },
   {
-   "normalized_text": "review paperwork for accuracy and ensure case files are completed and transmitted to the appropriate administrative processing agency",
-   "canonical_text": "Review paperwork for accuracy and ensure case files are completed and transmitted to the appropriate administrative processing agency.",
+   "normalized_text": "ensure proper information and documentation are provided to and received from claimant",
+   "canonical_text": "Ensure proper information and documentation are provided to and received from claimant.",
    "positions_using": 1,
    "level": 5,
    "level_name": "Evaluate",
-   "confidence": 0.8,
+   "confidence": 0.7,
    "justification": null,
    "verbs": [
-    "review",
+    "ensure",
+    "receive"
+   ]
+  },
+  {
+   "normalized_text": "ensure thorough documentation and investigation of actual and po tential claims are completed and provided for agency adjudication",
+   "canonical_text": "Ensure thorough documentation and investigation of actual and po tential claims are completed and provided for agency adjudication.",
+   "positions_using": 1,
+   "level": 5,
+   "level_name": "Evaluate",
+   "confidence": 0.7,
+   "justification": null,
+   "verbs": [
+    "ensure",
+    "provide"
+   ]
+  },
+  {
+   "normalized_text": "gather necessary information and ensure proper documentation and guidance are provided to injured/ill personnel",
+   "canonical_text": "Gather necessary information and ensure proper documentation and guidance are provided to injured/ill personnel.",
+   "positions_using": 1,
+   "level": 5,
+   "level_name": "Evaluate",
+   "confidence": 0.7,
+   "justification": null,
+   "verbs": [
+    "gather",
     "ensure"
    ]
   },
   {
-   "normalized_text": "provide information to personnel on injury/illness documentation requirements and procedures",
-   "canonical_text": "Provide information to personnel on injury/illness documentation requirements and procedures.",
+   "normalized_text": "stay informed and report on the status of injured/ill personnel",
+   "canonical_text": "Stay informed and report on the status of injured/ill personnel.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.8,
    "justification": null,
    "verbs": [
-    "provide"
+    "report"
    ]
   },
   {
-   "normalized_text": "coordinate with incident/agency units and medical facilities to obtain and exchange information",
-   "canonical_text": "Coordinate with incident/agency units and medical facilities to obtain and exchange information.",
+   "normalized_text": "attend and participate in incident briefings and meetings as directed",
+   "canonical_text": "Attend and participate in incident briefings and meetings as directed.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.95,
+   "justification": null,
+   "verbs": [
+    "attend",
+    "participate"
+   ]
+  },
+  {
+   "normalized_text": "ensure compliance with all safety practices and procedures",
+   "canonical_text": "Ensure compliance with all safety practices and procedures.",
+   "positions_using": 1,
+   "level": 5,
+   "level_name": "Evaluate",
+   "confidence": 0.75,
+   "justification": null,
+   "verbs": [
+    "ensure"
+   ]
+  },
+  {
+   "normalized_text": "complete demobilization check-out process before being released from the incident",
+   "canonical_text": "Complete demobilization check-out process before being released from the incident.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "complete"
+   ]
+  },
+  {
+   "normalized_text": "participate in operational briefings as directed",
+   "canonical_text": "Participate in operational briefings as directed.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.9,
    "justification": null,
    "verbs": [
-    "coordinate",
-    "exchange"
+    "participate"
    ]
   },
   {
-   "normalized_text": "provide information to claimant on claim filing requirements",
-   "canonical_text": "Provide information to claimant on claim filing requirements.",
+   "normalized_text": "organize work area to facilitate unit operations",
+   "canonical_text": "Organize work area to facilitate unit operations.",
    "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.8,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.65,
+   "justification": "Verbs found: 'organize' (Create). Verb(s) 'organize' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "verbs": [
+    "organize"
+   ]
+  },
+  {
+   "normalized_text": "utilize incident cost system to analyze and validate data",
+   "canonical_text": "Utilize incident cost system to analyze and validate data.",
+   "positions_using": 1,
+   "level": 5,
+   "level_name": "Evaluate",
+   "confidence": 0.85,
    "justification": null,
    "verbs": [
-    "provide"
+    "utilize",
+    "validate"
    ]
   },
   {
-   "normalized_text": "provide daily cost estimates to appropriate agency personnel",
-   "canonical_text": "Provide daily cost estimates to appropriate agency personnel.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.8,
-   "justification": null,
-   "verbs": [
-    "provide"
-   ]
-  },
-  {
-   "normalized_text": "document incident costs according to direction, timeframes, and regulations",
-   "canonical_text": "Document incident costs according to direction, timeframes, and regulations.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.8,
-   "justification": null,
-   "verbs": [
-    "document"
-   ]
-  },
-  {
-   "normalized_text": "finalize cost documentation",
-   "canonical_text": "Finalize cost documentation.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "finalize"
-   ]
-  },
-  {
-   "normalized_text": "assist with the development of cost share agreements",
-   "canonical_text": "Assist with the development of cost share agreements.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.7,
-   "justification": null,
-   "verbs": [
-    "assist"
-   ]
-  },
-  {
-   "normalized_text": "track costs in accordance with established cost share agreements",
-   "canonical_text": "Track costs in accordance with established cost share agreements.",
+   "normalized_text": "track costs in accordance with established cost share agreement(s)",
+   "canonical_text": "Track costs in accordance with established cost share agreement(s).",
    "positions_using": 1,
    "level": 4,
    "level_name": "Analyze",
@@ -20202,20 +20017,20 @@
    ]
   },
   {
-   "normalized_text": "verify incident resources with planning section",
-   "canonical_text": "Verify incident resources with Planning Section.",
+   "normalized_text": "coordinate with incident cost centers to gather on- and off-site cost information",
+   "canonical_text": "Coordinate with incident cost centers to gather on- and off-site cost information",
    "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.9,
-   "justification": null,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.68,
+   "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
    "verbs": [
-    "verify"
+    "coordinate"
    ]
   },
   {
-   "normalized_text": "provide appropriate information for cost containment effort",
-   "canonical_text": "Provide appropriate information for cost containment effort.",
+   "normalized_text": "provide information to the incident management team (imt) and relevant agencies",
+   "canonical_text": "Provide information to the Incident Management Team (IMT) and relevant agencies.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
@@ -20226,34 +20041,8 @@
    ]
   },
   {
-   "normalized_text": "ensure resources are entered and tracked in the applicable cost reporting program",
-   "canonical_text": "Ensure resources are entered and tracked in the applicable cost reporting program.",
-   "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.7,
-   "justification": null,
-   "verbs": [
-    "ensure",
-    "track"
-   ]
-  },
-  {
-   "normalized_text": "ensure cost packages are completed and distributed in accordance with agency policy",
-   "canonical_text": "Ensure cost packages are completed and distributed in accordance with agency policy.",
-   "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.7,
-   "justification": null,
-   "verbs": [
-    "ensure",
-    "distribute"
-   ]
-  },
-  {
-   "normalized_text": "ensure accruals are reported in accordance with agency policy",
-   "canonical_text": "Ensure accruals are reported in accordance with agency policy.",
+   "normalized_text": "ensure cost-management measures are in place as outlined in applicable agency guidelines",
+   "canonical_text": "Ensure cost-management measures are in place as outlined in applicable agency guidelines.",
    "positions_using": 1,
    "level": 5,
    "level_name": "Evaluate",
@@ -20264,15 +20053,51 @@
    ]
   },
   {
-   "normalized_text": "ensure financial documentation packages are submitted to processing agency",
-   "canonical_text": "Ensure financial documentation packages are submitted to processing agency.",
+   "normalized_text": "maintain situational awareness to make appropriate cost adjustments",
+   "canonical_text": "Maintain situational awareness to make appropriate cost adjustments.",
    "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.75,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.8,
    "justification": null,
    "verbs": [
-    "ensure"
+    "maintain"
+   ]
+  },
+  {
+   "normalized_text": "coordinate with other units and sections to complete work assignments",
+   "canonical_text": "Coordinate with other units and sections to complete work assignments.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.68,
+   "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
+   "verbs": [
+    "coordinate"
+   ]
+  },
+  {
+   "normalized_text": "document rationales for cost estimate methodologies",
+   "canonical_text": "Document rationales for cost estimate methodologies.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.8,
+   "justification": null,
+   "verbs": [
+    "document"
+   ]
+  },
+  {
+   "normalized_text": "coordinate an efficient transfer of command",
+   "canonical_text": "Coordinate an efficient transfer of command.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.68,
+   "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
+   "verbs": [
+    "coordinate"
    ]
   },
   {
@@ -23450,10 +23275,11 @@
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.85,
+   "confidence": 0.9,
    "justification": null,
    "verbs": [
-    "conduct"
+    "conduct",
+    "transition"
    ]
   },
   {
@@ -25061,6 +24887,115 @@
    ]
   },
   {
+   "normalized_text": "participate in functional briefings",
+   "canonical_text": "Participate in functional briefings.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.9,
+   "justification": null,
+   "verbs": [
+    "participate"
+   ]
+  },
+  {
+   "normalized_text": "determine equipment and logistical needs for monitoring, based on objectives",
+   "canonical_text": "Determine equipment and logistical needs for monitoring, based on objectives.",
+   "positions_using": 1,
+   "level": 4,
+   "level_name": "Analyze",
+   "confidence": 0.8,
+   "justification": null,
+   "verbs": [
+    "determine"
+   ]
+  },
+  {
+   "normalized_text": "record pre- and post-fire conditions at sample locations representative of measurable objectives",
+   "canonical_text": "Record pre- and post-fire conditions at sample locations representative of measurable objectives.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.95,
+   "justification": null,
+   "verbs": [
+    "record",
+    "post"
+   ]
+  },
+  {
+   "normalized_text": "collect fuel moisture data based on objectives",
+   "canonical_text": "Collect fuel moisture data based on objectives.",
+   "positions_using": 1,
+   "level": 1,
+   "level_name": "Remember",
+   "confidence": 0.8,
+   "justification": null,
+   "verbs": [
+    "collect"
+   ]
+  },
+  {
+   "normalized_text": "report weather and atmospheric characteristics that influence fire behavior",
+   "canonical_text": "Report weather and atmospheric characteristics that influence fire behavior.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.8,
+   "justification": null,
+   "verbs": [
+    "report"
+   ]
+  },
+  {
+   "normalized_text": "report fire behavior throughout the operational period",
+   "canonical_text": "Report fire behavior throughout the operational period.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.8,
+   "justification": null,
+   "verbs": [
+    "report"
+   ]
+  },
+  {
+   "normalized_text": "record smoke dispersion",
+   "canonical_text": "Record smoke dispersion.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "record"
+   ]
+  },
+  {
+   "normalized_text": "plot pertinent information on a map",
+   "canonical_text": "Plot pertinent information on a map.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "plot"
+   ]
+  },
+  {
+   "normalized_text": "provide monitoring summary for assigned area",
+   "canonical_text": "Provide monitoring summary for assigned area.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.8,
+   "justification": null,
+   "verbs": [
+    "provide"
+   ]
+  },
+  {
    "normalized_text": "review agency procedures, policies, and regulations for managing wildland fire to achieve land use objectives as related to the position",
    "canonical_text": "Review agency procedures, policies, and regulations for managing wildland fire to achieve land use objectives as related to the position.",
    "positions_using": 1,
@@ -26107,7 +26042,7 @@
    "level": 6,
    "level_name": "Create",
    "confidence": 0.6,
-   "justification": "Verbs found: 'establish' (Create), 'dispatch' (Apply), 'maintain' (Apply), 'document' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "justification": "Verbs found: 'establish' (Create), 'document' (Apply), 'dispatch' (Apply), 'maintain' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
    "verbs": [
     "establish",
     "maintain",
@@ -26296,7 +26231,7 @@
    "level": 6,
    "level_name": "Create",
    "confidence": 0.6,
-   "justification": "Verbs found: 'establish' (Create), 'maintain' (Apply), 'document' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "justification": "Verbs found: 'establish' (Create), 'document' (Apply), 'maintain' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
    "verbs": [
     "establish",
     "maintain",
@@ -26330,21 +26265,8 @@
    ]
   },
   {
-   "normalized_text": "read and demonstrate understanding of the nwcg standards for geospatial operations pms 936 (geoops), https://www.nwcg.gov/publications/pms936 and nwcg giss workflow pms 936-1, https://www.nwcg.gov/publications/pms936-1",
-   "canonical_text": "Read and demonstrate understanding of the NWCG Standards for Geospatial Operations PMS 936 (GeoOps), https://www.nwcg.gov/publications/pms936 and NWCG GISS Workflow PMS 936-1, https://www.nwcg.gov/publications/pms936-1.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.63,
-   "justification": "Verbs found: 'demonstrate' (Apply). Verb(s) 'demonstrate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
-   "verbs": [
-    "[demonstrates? (a |the )?]",
-    "demonstrate"
-   ]
-  },
-  {
-   "normalized_text": "secure required hardware including laptop, mouse, power strip, mobile device, and suggested hardware including external monitor, mobile internet hot spot",
-   "canonical_text": "Secure required hardware including laptop, mouse, power strip, mobile device, and suggested hardware including external monitor, mobile internet hot spot.",
+   "normalized_text": "secure required software (e.g., arcgis pro) and suggested hardware, including laptop, mouse, power strip, mobile device, external monitor, and mobile internet hotspot",
+   "canonical_text": "Secure required software (e.g., ArcGIS Pro) and suggested hardware, including laptop, mouse, power strip, mobile device, external monitor, and mobile internet hotspot.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
@@ -26355,32 +26277,8 @@
    ]
   },
   {
-   "normalized_text": "have required software installed (arcgis pro and ftp client)",
-   "canonical_text": "Have required software installed (ArcGIS Pro and FTP client).",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.6,
-   "justification": "Verbs found: 'have' (Apply). Verb(s) 'have' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
-   "verbs": [
-    "have"
-   ]
-  },
-  {
-   "normalized_text": "pack gear bag with supplies for 14 days for expected weather at camp",
-   "canonical_text": "Pack gear bag with supplies for 14 days for expected weather at camp.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.9,
-   "justification": null,
-   "verbs": [
-    "pack"
-   ]
-  },
-  {
-   "normalized_text": "ensure appropriate account credentials. refer to pms 936-1",
-   "canonical_text": "Ensure appropriate account credentials. Refer to PMS 936-1.",
+   "normalized_text": "ensure appropriate account credentials",
+   "canonical_text": "Ensure appropriate account credentials.",
    "positions_using": 1,
    "level": 5,
    "level_name": "Evaluate",
@@ -26391,41 +26289,15 @@
    ]
   },
   {
-   "normalized_text": "support a minimum of one type 1 or type 2 wildfire incident onsite",
-   "canonical_text": "Support a minimum of one Type 1 or Type 2 wildfire incident onsite.",
+   "normalized_text": "obtain initial briefing from situation unit leader (sitl) or other incident supervisor",
+   "canonical_text": "Obtain initial briefing from Situation Unit Leader (SITL) or other incident supervisor.",
    "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.7,
+   "level": 1,
+   "level_name": "Remember",
+   "confidence": 0.75,
    "justification": null,
    "verbs": [
-    "support"
-   ]
-  },
-  {
-   "normalized_text": "check in at incident",
-   "canonical_text": "Check in at incident.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.95,
-   "justification": null,
-   "verbs": [
-    "[\\bcheck.?in\\b]",
-    "check"
-   ]
-  },
-  {
-   "normalized_text": "obtain initial briefing from situation unit leader (sitl). cover the following: schedule and attendance expectations for planning section meetings. priorities, standards, time limits for completion, and methods of communication to accomplish role in assigned tasks. time frames for inputs into incident action plan (iap) or other relevant plan and creating and updating incident mapping displays. needs for personnel and facilities. location of work area",
-   "canonical_text": "Obtain initial briefing from Situation Unit Leader (SITL). Cover the following: Schedule and attendance expectations for Planning Section meetings. Priorities, standards, time limits for completion, and methods of communication to accomplish role in assigned tasks. Time frames for inputs into Incident Action Plan (IAP) or other relevant plan and creating and updating incident mapping displays. Needs for personnel and facilities. Location of work area.",
-   "positions_using": 1,
-   "level": 6,
-   "level_name": "Create",
-   "confidence": 0.65,
-   "justification": "Verbs found: 'schedule' (Create), 'obtain' (Remember).",
-   "verbs": [
-    "obtain",
-    "schedule"
+    "obtain"
    ]
   },
   {
@@ -26441,20 +26313,20 @@
    ]
   },
   {
-   "normalized_text": "fully populate the geoops file namer with required data elements",
-   "canonical_text": "Fully populate the GeoOps File Namer with required data elements.",
+   "normalized_text": "support a minimum of one type 1 or type 2 wildfire incident on- site",
+   "canonical_text": "Support a minimum of one Type 1 or Type 2 wildfire incident on- site.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.85,
+   "confidence": 0.7,
    "justification": null,
    "verbs": [
-    "populate"
+    "support"
    ]
   },
   {
-   "normalized_text": "copy geoops incident directory to hard drive, network attached storage (nas) or sharepoint for onedrive. rename files and folders for incident",
-   "canonical_text": "Copy GeoOps incident directory to hard drive, network attached storage (NAS) or SharePoint for OneDrive. Rename files and folders for incident.",
+   "normalized_text": "copy the nwcg standards for geospatial operations, pms 936 incident directory to hard drive, network attached storage (nas), or microsoft sharepoint/onedrive, and rename files and folders for incident",
+   "canonical_text": "Copy the NWCG Standards for Geospatial Operations, PMS 936 incident directory to hard drive, network attached storage (NAS), or Microsoft SharePoint/OneDrive, and rename files and folders for incident.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
@@ -26465,20 +26337,8 @@
    ]
   },
   {
-   "normalized_text": "configure the arcgis pro project template for incident",
-   "canonical_text": "Configure the ArcGIS Pro Project Template for incident.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.85,
-   "justification": null,
-   "verbs": [
-    "configure"
-   ]
-  },
-  {
-   "normalized_text": "populate base data folder with data relevant to fire area including (but not limited to) 24k topographic map and aerial imagery",
-   "canonical_text": "Populate base data folder with data relevant to fire area including (but not limited to) 24K topographic map and aerial imagery.",
+   "normalized_text": "fully populate the nwcg standards for geospatial operations, pms 936 file namer with required data elements",
+   "canonical_text": "Fully populate the NWCG Standards for Geospatial Operations, PMS 936 File Namer with required data elements.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
@@ -26489,23 +26349,46 @@
    ]
   },
   {
-   "normalized_text": "create edit project using the pro project template, set an appropriate coordinate system, populate the dynamictextupdate table, and name per geoops",
-   "canonical_text": "Create Edit Project using the Pro Project template, set an appropriate coordinate system, populate the DynamicTextUpdate table, and name per GeoOps.",
+   "normalized_text": "configure the arcgis pro project template for the incident and set an appropriate coordinate system",
+   "canonical_text": "Configure the ArcGIS Pro Project Template for the incident and set an appropriate coordinate system.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
-   "confidence": 0.9,
-   "justification": null,
+   "confidence": 0.55,
+   "justification": "Verbs found: 'set' (Create), 'configure' (Apply). Verb(s) 'set' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
    "verbs": [
-    "create",
-    "set",
-    "populate",
-    "name"
+    "configure",
+    "set"
    ]
   },
   {
-   "normalized_text": "create offline copy of nifs",
-   "canonical_text": "Create Offline copy of NIFS.",
+   "normalized_text": "populate the base_data folder with data relevant to fire area including, but not limited to, 24k topographic map and aerial imagery",
+   "canonical_text": "Populate the base_data folder with data relevant to fire area including, but not limited to, 24K topographic map and aerial imagery.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "populate"
+   ]
+  },
+  {
+   "normalized_text": "create edit project using the arcgis pro project template and populate the dynamictextupdate table",
+   "canonical_text": "Create Edit Project using the ArcGIS Pro Project Template and populate the DynamicTextUpdate table.",
+   "positions_using": 1,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "create",
+    "populate"
+   ]
+  },
+  {
+   "normalized_text": "create offline copy of national incident feature service (nifs)",
+   "canonical_text": "Create Offline Copy of National Incident Feature Service (NIFS).",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -26516,20 +26399,20 @@
    ]
   },
   {
-   "normalized_text": "add template layer and repair feature paths to offline copy",
-   "canonical_text": "Add template layer and repair feature paths to Offline Copy.",
+   "normalized_text": "repair event layers to offline copy",
+   "canonical_text": "Repair Event Layers to Offline Copy.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.85,
+   "confidence": 0.8,
    "justification": null,
    "verbs": [
-    "add"
+    "repair"
    ]
   },
   {
-   "normalized_text": "configure the event point, line and polygon feature class feature templates and save as a group layer file with appropriate name",
-   "canonical_text": "Configure the Event Point, Line and Polygon feature class Feature Templates and save as a group layer file with appropriate name.",
+   "normalized_text": "configure feature templates for all event layers and save as a group layer file",
+   "canonical_text": "Configure Feature Templates for all Event Layers and save as a group layer file.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
@@ -26541,8 +26424,8 @@
    ]
   },
   {
-   "normalized_text": "set up the basic web map workflow using current nifc web map templates. share into the appropriate mobile editing group",
-   "canonical_text": "Set up the Basic Web Map Workflow using current NIFC web map templates. Share into the appropriate Mobile Editing group.",
+   "normalized_text": "set up the incident web map using current national interagency fire center arcgis online organization (nifc org) web map templates and share with the appropriate mobile edit group",
+   "canonical_text": "Set up the Incident Web Map using current National Interagency Fire Center ArcGIS Online Organization (NIFC Org) web map templates and share with the appropriate Mobile Edit group.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -26554,21 +26437,22 @@
    ]
   },
   {
-   "normalized_text": "process/convert/import incoming data from sources outside nifs. work with sitl to approve new data",
-   "canonical_text": "Process/convert/import incoming data from sources outside NIFS. Work with SITL to approve new data.",
+   "normalized_text": "process, convert, and import incoming data from sources outside the national incident feature service (nifs) and work with the situation unit leader (sitl) or other incident supervisor to approve new data",
+   "canonical_text": "Process, convert, and import incoming data from sources outside the National Incident Feature Service (NIFS) and work with the Situation Unit Leader (SITL) or other incident supervisor to approve new data.",
    "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.9,
-   "justification": null,
+   "level": 5,
+   "level_name": "Evaluate",
+   "confidence": 0.57,
+   "justification": "Verbs found: 'convert' (Evaluate), 'process' (Apply), 'work' (Apply). Verb(s) 'convert' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
    "verbs": [
     "process",
+    "convert",
     "work"
    ]
   },
   {
-   "normalized_text": "always store incident data per geoops file structure and naming conventions",
-   "canonical_text": "Always store incident data per GeoOps file structure and naming conventions.",
+   "normalized_text": "store incident data per nwcg standards for geospatial operations, pms 936 file structure and naming conventions",
+   "canonical_text": "Store incident data per NWCG Standards for Geospatial Operations, PMS 936 file structure and naming conventions.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
@@ -26591,8 +26475,8 @@
    ]
   },
   {
-   "normalized_text": "edit event polygon, event line, and event point features and attributes. calculate polygon acres, line length, and point latitude and longitude",
-   "canonical_text": "Edit Event Polygon, Event Line, and Event Point features and attributes. Calculate polygon acres, line length, and point latitude and longitude.",
+   "normalized_text": "edit event polygon, event line, and event point features and at tributes; calculate polygon acres, line length, and point latitude and longitude",
+   "canonical_text": "Edit Event Polygon, Event Line, and Event Point features and at tributes; calculate polygon acres, line length, and point latitude and longitude.",
    "positions_using": 1,
    "level": 4,
    "level_name": "Analyze",
@@ -26603,20 +26487,8 @@
    ]
   },
   {
-   "normalized_text": "populate the progression gdb following the giss workflow",
-   "canonical_text": "Populate the Progression GDB following the GISS Workflow.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.85,
-   "justification": null,
-   "verbs": [
-    "populate"
-   ]
-  },
-  {
-   "normalized_text": "calculate acres burned by ownership",
-   "canonical_text": "Calculate acres burned by ownership.",
+   "normalized_text": "calculate acres burned by ownership/jurisdiction/protection",
+   "canonical_text": "Calculate acres burned by ownership/jurisdiction/protection.",
    "positions_using": 1,
    "level": 4,
    "level_name": "Analyze",
@@ -26651,20 +26523,44 @@
    ]
   },
   {
-   "normalized_text": "backup offline copy and replace the master incident gdb following giss workflow",
-   "canonical_text": "Backup Offline Copy and replace the Master Incident GDB following GISS Workflow.",
+   "normalized_text": "populate the progression geodatabase (gdb)",
+   "canonical_text": "Populate the Progression Geodatabase (GDB).",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "populate"
+   ]
+  },
+  {
+   "normalized_text": "back up the offline copy of national incident feature service (nifs)",
+   "canonical_text": "Back up the Offline Copy of National Incident Feature Service (NIFS).",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.9,
    "justification": null,
    "verbs": [
-    "backup"
+    "back"
    ]
   },
   {
-   "normalized_text": "create a master project following the giss workflow and geoops",
-   "canonical_text": "Create a master project following the GISS Workflow and GeoOps.",
+   "normalized_text": "replace the master incident geodatabase (gdb)",
+   "canonical_text": "Replace the Master Incident Geodatabase (GDB).",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "replace"
+   ]
+  },
+  {
+   "normalized_text": "create a master project",
+   "canonical_text": "Create a Master Project.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -26676,7 +26572,7 @@
   },
   {
    "normalized_text": "use dynamic text to populate map elements from the dynamictexttable and map view metadata",
-   "canonical_text": "Use Dynamic Text to populate map elements from the DynamicTextTable and Map View Metadata.",
+   "canonical_text": "Use dynamic text to populate map elements from the DynamicTextTable and Map View metadata.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
@@ -26688,7 +26584,7 @@
   },
   {
    "normalized_text": "use definition queries to display only the event features appropriate for the intended map audience",
-   "canonical_text": "Use definition queries to display only the Event features appropriate for the intended map audience.",
+   "canonical_text": "Use definition queries to display only the Event Features appropriate for the intended map audience.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
@@ -26699,8 +26595,8 @@
    ]
   },
   {
-   "normalized_text": "create a single-page iap or operations map following geoops and the giss workflow",
-   "canonical_text": "Create a single-page IAP or Operations Map following GeoOps and the GISS Workflow.",
+   "normalized_text": "create a single-page incident action plan (iap) or operations map",
+   "canonical_text": "Create a single-page Incident Action Plan (IAP) or Operations Map.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -26711,8 +26607,8 @@
    ]
   },
   {
-   "normalized_text": "create a multi-page iap or operations maps using a map series following geoops and the giss workflow. include an index page map",
-   "canonical_text": "Create a multi-page IAP or Operations Maps using a Map Series following GeoOps and the GISS Workflow. Include an index page map.",
+   "normalized_text": "create a multi-page map using a map series that includes an index page or vicinity map",
+   "canonical_text": "Create a multi-page map using a Map Series that includes an index page or vicinity map.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -26723,8 +26619,8 @@
    ]
   },
   {
-   "normalized_text": "demonstrate the use of annotation, https://www.nwcg.gov/publications/pms936-1/create- incident/labeling-and-annotation, for division and branch labeling in a map series",
-   "canonical_text": "Demonstrate the use of Annotation, https://www.nwcg.gov/publications/pms936-1/create- incident/labeling-and-annotation, for Division and Branch labeling in a Map Series.",
+   "normalized_text": "demonstrate the use of label lines for division and branch labeling in a map series",
+   "canonical_text": "Demonstrate the use of label lines for Division and Branch labeling in a Map Series.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
@@ -26735,8 +26631,8 @@
    ]
   },
   {
-   "normalized_text": "create a briefing map following geoops and the giss workflow",
-   "canonical_text": "Create a Briefing Map following GeoOps and the GISS Workflow.",
+   "normalized_text": "create a briefing map",
+   "canonical_text": "Create a Briefing Map.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -26747,8 +26643,8 @@
    ]
   },
   {
-   "normalized_text": "create a situation map following geoops and the giss workflow",
-   "canonical_text": "Create a Situation Map following GeoOps and the GISS Workflow.",
+   "normalized_text": "create a transportation map",
+   "canonical_text": "Create a Transportation Map.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -26759,21 +26655,8 @@
    ]
   },
   {
-   "normalized_text": "create a specialized, non-operations map used during the planning cycle by non-operations positions. potential examples include areas of special concerns, strategic planning, ownership, evacuation, fire behavior, etc. follow geoops and the giss workflow",
-   "canonical_text": "Create a specialized, non-operations map used during the planning cycle by non-operations positions. Potential examples include Areas of Special Concerns, strategic planning, ownership, evacuation, fire behavior, etc. Follow GeoOps and the GISS Workflow.",
-   "positions_using": 1,
-   "level": 6,
-   "level_name": "Create",
-   "confidence": 0.85,
-   "justification": null,
-   "verbs": [
-    "create",
-    "follow"
-   ]
-  },
-  {
-   "normalized_text": "create a transportation map following geoops and the giss workflow",
-   "canonical_text": "Create a Transportation Map following GeoOps and the GISS Workflow.",
+   "normalized_text": "create an ownership map",
+   "canonical_text": "Create an Ownership Map.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -26784,8 +26667,8 @@
    ]
   },
   {
-   "normalized_text": "create a progression map following geoops and the giss workflow",
-   "canonical_text": "Create a Progression Map following GeoOps and the GISS Workflow.",
+   "normalized_text": "create a progression map",
+   "canonical_text": "Create a Progression Map.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -26796,8 +26679,8 @@
    ]
   },
   {
-   "normalized_text": "create an air operations map following geoops and the giss workflow. include a coordinate point table",
-   "canonical_text": "Create an Air Operations Map following GeoOps and the GISS Workflow. Include a coordinate point table.",
+   "normalized_text": "create an air operations map that includes a coordinate point table",
+   "canonical_text": "Create an Air Operations Map that includes a coordinate point table.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -26808,8 +26691,8 @@
    ]
   },
   {
-   "normalized_text": "create a public information officer (pio) map following geoops and the giss workflow",
-   "canonical_text": "Create a Public Information Officer (PIO) Map following GeoOps and the GISS Workflow.",
+   "normalized_text": "create a public information map",
+   "canonical_text": "Create a Public Information Map.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -26820,8 +26703,8 @@
    ]
   },
   {
-   "normalized_text": "create a suppression repair map or dashboard following geoops and the giss workflow",
-   "canonical_text": "Create a Suppression Repair Map or Dashboard following GeoOps and the GISS Workflow.",
+   "normalized_text": "create a suppression repair map",
+   "canonical_text": "Create a Suppression Repair Map.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -26832,71 +26715,45 @@
    ]
   },
   {
-   "normalized_text": "demonstrate the creation and production of map products that can be used digitally in the field (avenza, fieldmaps, etc.)",
-   "canonical_text": "Demonstrate the creation and production of map products that can be used digitally in the field (Avenza, FieldMaps, etc.)",
+   "normalized_text": "create a specialized map (e.g., areas of special concern, ev acuation, facilities, strategic operations, structure triage, accountable property)",
+   "canonical_text": "Create a specialized map (e.g., areas of special concern, ev acuation, Facilities, Strategic Operations, Structure Triage, Accountable Property).",
+   "positions_using": 1,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.9,
+   "justification": null,
+   "verbs": [
+    "create"
+   ]
+  },
+  {
+   "normalized_text": "export, name, and file geospatial portable document format (pdf) maps in the products folder",
+   "canonical_text": "Export, name, and file geospatial portable document format (PDF) maps in the products folder.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'demonstrate' (Apply). Verb(s) 'demonstrate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
+   "confidence": 0.9,
+   "justification": null,
    "verbs": [
-    "demonstrate"
+    "name",
+    "file"
    ]
   },
   {
-   "normalized_text": "print maps using large format plotters at a size needed for briefings or other meetings. demonstrate ability to perform basic troubleshooting and maintenance of plotter",
-   "canonical_text": "Print maps using large format plotters at a size needed for briefings or other meetings. Demonstrate ability to perform basic troubleshooting and maintenance of plotter.",
+   "normalized_text": "effectively utilize large format plotters (e.g., printing maps and multi-panel maps, maintenance, troubleshooting)",
+   "canonical_text": "Effectively utilize large format plotters (e.g., printing maps and multi-panel maps, maintenance, troubleshooting).",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'demonstrate' (Apply). Verb(s) 'demonstrate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
-   "verbs": [
-    "demonstrate"
-   ]
-  },
-  {
-   "normalized_text": "save and name geospatial pdf in products folder per geoops. optimize pdf as necessary",
-   "canonical_text": "Save and name geospatial PDF in products folder per GeoOps. Optimize PDF as necessary.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.95,
+   "confidence": 0.9,
    "justification": null,
    "verbs": [
-    "save",
-    "name"
+    "utilize"
    ]
   },
   {
-   "normalized_text": "back up and name map projects in backup folder per geoops",
-   "canonical_text": "Back up and name map projects in backup folder per GeoOps.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.95,
-   "justification": null,
-   "verbs": [
-    "back",
-    "name"
-   ]
-  },
-  {
-   "normalized_text": "post maps to appropriate ftp and/or web sites. develop qr codes to link to appropriate folder for incident use",
-   "canonical_text": "Post maps to appropriate FTP and/or web sites. Develop QR codes to link to appropriate folder for incident use.",
-   "positions_using": 1,
-   "level": 6,
-   "level_name": "Create",
-   "confidence": 0.85,
-   "justification": null,
-   "verbs": [
-    "post",
-    "develop"
-   ]
-  },
-  {
-   "normalized_text": "back up incident directory to a secondary physical drive",
-   "canonical_text": "Back up incident directory to a secondary physical drive.",
+   "normalized_text": "back up map projects in the backups folder",
+   "canonical_text": "Back up map projects in the backups folder.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
@@ -26907,8 +26764,33 @@
    ]
   },
   {
-   "normalized_text": "download and back up external incident data sources, custom hosted feature services, data collection forms",
-   "canonical_text": "Download and back up external incident data sources, custom hosted feature services, data collection forms.",
+   "normalized_text": "post maps to the appropriate file sharing locations (e.g., national interagency fire center [nifc] file share, firenet) and create quick response (qr) codes to link to the appropriate folder for incident use",
+   "canonical_text": "Post maps to the appropriate file sharing locations (e.g., National Interagency Fire Center [NIFC] File Share, FireNet) and create Quick Response (QR) codes to link to the appropriate folder for incident use.",
+   "positions_using": 1,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "post",
+    "create"
+   ]
+  },
+  {
+   "normalized_text": "back up the incident directory to a secondary physical drive",
+   "canonical_text": "Back up the incident directory to a secondary physical drive.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.9,
+   "justification": null,
+   "verbs": [
+    "back"
+   ]
+  },
+  {
+   "normalized_text": "download and back up external incident data sources, hosted feature services, and data collection forms",
+   "canonical_text": "Download and back up external incident data sources, hosted feature services, and data collection forms.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
@@ -26920,102 +26802,27 @@
    ]
   },
   {
-   "normalized_text": "transfer online content to incoming team or local unit. this includes non-nifs data embedded in web maps/apps, incident specific web maps/apps, services, firenet content, as well as any other incident data or products not contained in the incident directory structure",
-   "canonical_text": "Transfer online content to incoming team or local unit. This includes non-NIFS data embedded in web maps/apps, incident specific web maps/apps, services, FireNet content, as well as any other incident data or products not contained in the incident directory structure.",
+   "normalized_text": "maintain awareness of changing responsibilities and expectations",
+   "canonical_text": "Maintain awareness of changing responsibilities and expectations.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.8,
    "justification": null,
    "verbs": [
-    "transfer"
-   ]
-  },
-  {
-   "normalized_text": "assist giss lead to write giss section of team transition plan for use by incoming team",
-   "canonical_text": "Assist GISS lead to write GISS section of team transition plan for use by incoming team.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.7,
-   "justification": null,
-   "verbs": [
-    "assist"
-   ]
-  },
-  {
-   "normalized_text": "communicate field data collection procedures to field observers (fobs), resource advisors (reads), and other incident staff",
-   "canonical_text": "Communicate field data collection procedures to Field Observers (FOBS), Resource Advisors (READs), and other incident staff.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.85,
-   "justification": null,
-   "verbs": [
-    "communicate"
-   ]
-  },
-  {
-   "normalized_text": "maintain awareness of the changing responsibilities and expectations throughout the assignment. communicate when expectations exceed capacity, and work with sitl to adjust expectations or augment resources",
-   "canonical_text": "Maintain awareness of the changing responsibilities and expectations throughout the assignment. Communicate when expectations exceed capacity, and work with SITL to adjust expectations or augment resources.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.9,
-   "justification": null,
-   "verbs": [
-    "maintain",
-    "communicate",
-    "work"
-   ]
-  },
-  {
-   "normalized_text": "communicate to sitl when map and task requests are made outside the ics chain of command",
-   "canonical_text": "Communicate to SITL when map and task requests are made outside the ICS chain of command.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.85,
-   "justification": null,
-   "verbs": [
-    "communicate"
-   ]
-  },
-  {
-   "normalized_text": "participate in functional area (section) meetings",
-   "canonical_text": "Participate in functional area (section) meetings.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.9,
-   "justification": null,
-   "verbs": [
-    "participate"
-   ]
-  },
-  {
-   "normalized_text": "participate in an after-action review (aar)",
-   "canonical_text": "Participate in an After-Action Review (AAR).",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.9,
-   "justification": null,
-   "verbs": [
-    "participate"
-   ]
-  },
-  {
-   "normalized_text": "demonstrate skills that establish and maintain a positive team climate",
-   "canonical_text": "Demonstrate skills that establish and maintain a positive team climate.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.85,
-   "justification": null,
-   "verbs": [
-    "demonstrate",
     "maintain"
+   ]
+  },
+  {
+   "normalized_text": "communicate to the situation unit leader (sitl) or other in cident supervisor when map and task requests are made outside the incident command system (ics) chain of command",
+   "canonical_text": "Communicate to the Situation Unit Leader (SITL) or other in cident supervisor when map and task requests are made outside the Incident Command System (ICS) chain of command.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.85,
+   "justification": null,
+   "verbs": [
+    "communicate"
    ]
   },
   {
@@ -27031,33 +26838,21 @@
    ]
   },
   {
-   "normalized_text": "perform assigned giss duties within the constraints and deadlines of typical incident conditions. communicate with giss lead or sitl if deadlines cannot be met",
-   "canonical_text": "Perform assigned GISS duties within the constraints and deadlines of typical incident conditions. Communicate with GISS lead or SITL if deadlines cannot be met.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.95,
-   "justification": null,
-   "verbs": [
-    "perform",
-    "communicate"
-   ]
-  },
-  {
-   "normalized_text": "properly uses general message form, ics 213",
-   "canonical_text": "Properly uses General Message form, ICS 213.",
+   "normalized_text": "communicate and exchange technical information with incident personnel inside and outside the situation unit",
+   "canonical_text": "Communicate and exchange technical information with incident personnel inside and outside the Situation Unit.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.9,
    "justification": null,
    "verbs": [
-    "use"
+    "communicate",
+    "exchange"
    ]
   },
   {
-   "normalized_text": "prepare maps and other documents for the incident documentation package as required by the docl",
-   "canonical_text": "Prepare maps and other documents for the incident documentation package as required by the DOCL.",
+   "normalized_text": "prepare maps and other documents for the incident do cumentation package as required by the document unit leader (docl)",
+   "canonical_text": "Prepare maps and other documents for the incident do cumentation package as required by the Document Unit Leader (DOCL).",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -27068,15 +26863,27 @@
    ]
   },
   {
-   "normalized_text": "communicate with sitl and/or giss lead to confirm your last shift and to understand the check-out process for the incident",
-   "canonical_text": "Communicate with SITL and/or GISS lead to confirm your last shift and to understand the check-out process for the incident.",
+   "normalized_text": "provide inputs to the giss section of team transition plan for use by the incoming team",
+   "canonical_text": "Provide inputs to the GISS section of team transition plan for use by the incoming team.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.85,
+   "confidence": 0.8,
    "justification": null,
    "verbs": [
-    "communicate"
+    "provide"
+   ]
+  },
+  {
+   "normalized_text": "transfer online content to the incoming team or local unit (e.g., non-national incident feature service [nifs] data embedded in w eb maps/applications, incident-specific web maps/applications, hosted feature services, firenet content, other incident data or products not contained in the incident directory structure)",
+   "canonical_text": "Transfer online content to the incoming team or local unit (e.g., non-National Incident Feature Service [NIFS] data embedded in w eb maps/applications, incident-specific web maps/applications, hosted feature services, FireNet content, other incident data or products not contained in the incident directory structure).",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.8,
+   "justification": null,
+   "verbs": [
+    "transfer"
    ]
   },
   {
@@ -27125,7 +26932,7 @@
    "level": 6,
    "level_name": "Create",
    "confidence": 0.5,
-   "justification": "Verbs found: 'establish' (Create), 'analyze' (Analyze), 'identify' (Analyze), 'work' (Apply), 'communicate' (Apply), 'perform' (Apply), 'take' (Apply), 'use' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand. Compound objective spans 4 Bloom levels; highest level assigned per multi-verb convention.",
+   "justification": "Verbs found: 'establish' (Create), 'analyze' (Analyze), 'identify' (Analyze), 'work' (Apply), 'use' (Apply), 'take' (Apply), 'communicate' (Apply), 'perform' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand. Compound objective spans 4 Bloom levels; highest level assigned per multi-verb convention.",
    "verbs": [
     "[make .{0,30}decision]",
     "establish",
@@ -27290,7 +27097,7 @@
    "level": 6,
    "level_name": "Create",
    "confidence": 0.58,
-   "justification": "Verbs found: 'prepare' (Create), 'ensure' (Evaluate), 'communicate' (Apply), 'program' (Apply), 'use' (Apply). Verb(s) 'prepare' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand. Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
+   "justification": "Verbs found: 'prepare' (Create), 'ensure' (Evaluate), 'program' (Apply), 'communicate' (Apply), 'use' (Apply). Verb(s) 'prepare' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand. Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
    "verbs": [
     "communicate",
     "prepare",
@@ -27447,9 +27254,10 @@
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.9,
+   "confidence": 0.95,
    "justification": null,
    "verbs": [
+    "model",
     "perform"
    ]
   },
@@ -28722,155 +28530,33 @@
    ]
   },
   {
-   "normalized_text": "ensure radio communications for deck personnel are adequate",
-   "canonical_text": "Ensure radio communications for deck personnel are adequate.",
+   "normalized_text": "establish and communicate chain of command, reporting pr ocedures, risk management processes, and radio frequency management",
+   "canonical_text": "Establish and communicate chain of command, reporting pr ocedures, risk management processes, and radio frequency management.",
    "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.75,
-   "justification": null,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.6,
+   "justification": "Verbs found: 'establish' (Create), 'communicate' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
    "verbs": [
-    "ensure"
+    "establish",
+    "communicate"
    ]
   },
   {
-   "normalized_text": "ensure personnel are trained and qualified in the use of extinguishers, crash-rescue and evacuation kits",
-   "canonical_text": "Ensure personnel are trained and qualified in the use of extinguishers, crash-rescue and evacuation kits.",
-   "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "ensure"
-   ]
-  },
-  {
-   "normalized_text": "ensure deck personnel understand their responsibilities",
-   "canonical_text": "Ensure deck personnel understand their responsibilities.",
-   "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "ensure"
-   ]
-  },
-  {
-   "normalized_text": "monitor assigned personnel to ensure duties are correctly performed",
-   "canonical_text": "Monitor assigned personnel to ensure duties are correctly performed.",
-   "positions_using": 1,
-   "level": 4,
-   "level_name": "Analyze",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "monitor"
-   ]
-  },
-  {
-   "normalized_text": "ensure hand signals are understood by everyone on the deck",
-   "canonical_text": "Ensure hand signals are understood by everyone on the deck.",
-   "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "ensure"
-   ]
-  },
-  {
-   "normalized_text": "brief subordinates on daily activities and anticipated problems or timeframes",
-   "canonical_text": "Brief subordinates on daily activities and anticipated problems or timeframes.",
-   "positions_using": 1,
-   "level": 4,
-   "level_name": "Analyze",
-   "confidence": 0.65,
-   "justification": "Verbs found: 'anticipate' (Analyze), 'brief' (Apply).",
-   "verbs": [
-    "brief",
-    "anticipate"
-   ]
-  },
-  {
-   "normalized_text": "participate in briefings and after action review (aar)",
-   "canonical_text": "Participate in briefings and After Action Review (AAR).",
+   "normalized_text": "use incident command system (ics) terminology, organization, and command structure",
+   "canonical_text": "Use Incident Command System (ICS) terminology, organization, and command structure.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.9,
    "justification": null,
    "verbs": [
-    "participate"
+    "use"
    ]
   },
   {
-   "normalized_text": "ensure passenger/cargo manifests are totaled and summarized at the end of the operational period",
-   "canonical_text": "Ensure passenger/cargo manifests are totaled and summarized at the end of the operational period.",
-   "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "ensure"
-   ]
-  },
-  {
-   "normalized_text": "assist helibase manager in developing the helibase facilities, hazard, and flight route map",
-   "canonical_text": "Assist Helibase Manager in developing the Helibase Facilities, Hazard, and Flight Route Map.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.7,
-   "justification": null,
-   "verbs": [
-    "assist"
-   ]
-  },
-  {
-   "normalized_text": "assist helibase manager in completing the daily helicopter operations briefing/debriefing checklist",
-   "canonical_text": "Assist Helibase Manager in completing the Daily Helicopter Operations Briefing/Debriefing Checklist.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.7,
-   "justification": null,
-   "verbs": [
-    "assist"
-   ]
-  },
-  {
-   "normalized_text": "ensure load calculations for helispots to be used are properly completed, updated, and posted",
-   "canonical_text": "Ensure load calculations for helispots to be used are properly completed, updated, and posted.",
-   "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.7,
-   "justification": null,
-   "verbs": [
-    "ensure",
-    "update",
-    "post"
-   ]
-  },
-  {
-   "normalized_text": "ensure helicopter display board is accurate",
-   "canonical_text": "Ensure helicopter display board is accurate.",
-   "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "ensure"
-   ]
-  },
-  {
-   "normalized_text": "coordinate with take-off and landing coordinator and aircraft base radio operator before and during daily operations",
-   "canonical_text": "Coordinate with Take-Off and Landing Coordinator and Aircraft Base Radio Operator before and during daily operations.",
+   "normalized_text": "coordinate with helibase manager (hebm) on helibase layout and operations",
+   "canonical_text": "Coordinate with Helibase Manager (HEBM) on helibase layout and operations.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
@@ -28881,8 +28567,57 @@
    ]
   },
   {
-   "normalized_text": "ensure dust abatement needs are met",
-   "canonical_text": "Ensure dust abatement needs are met.",
+   "normalized_text": "promote and maintain the safety of deck operations",
+   "canonical_text": "Promote and maintain the safety of deck operations.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.8,
+   "justification": null,
+   "verbs": [
+    "maintain"
+   ]
+  },
+  {
+   "normalized_text": "manage the deck",
+   "canonical_text": "Manage the deck.",
+   "positions_using": 1,
+   "level": 5,
+   "level_name": "Evaluate",
+   "confidence": 0.65,
+   "justification": "Verbs found: 'manage' (Evaluate). Verb(s) 'manage' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
+   "verbs": [
+    "manage"
+   ]
+  },
+  {
+   "normalized_text": "coordinate movement of all aircraft, vehicles, equipment, and personnel on the deck",
+   "canonical_text": "Coordinate movement of all aircraft, vehicles, equipment, and personnel on the deck.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.68,
+   "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
+   "verbs": [
+    "coordinate"
+   ]
+  },
+  {
+   "normalized_text": "maintain communications and exchange necessary information w ith other resources",
+   "canonical_text": "Maintain communications and exchange necessary information w ith other resources.",
+   "positions_using": 1,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.9,
+   "justification": null,
+   "verbs": [
+    "maintain",
+    "exchange"
+   ]
+  },
+  {
+   "normalized_text": "ensure own and others' safety and welfare",
+   "canonical_text": "Ensure own and others’ safety and welfare.",
    "positions_using": 1,
    "level": 5,
    "level_name": "Evaluate",
@@ -28893,75 +28628,39 @@
    ]
   },
   {
-   "normalized_text": "ensure adequate personnel for deck operations",
-   "canonical_text": "Ensure adequate personnel for deck operations.",
+   "normalized_text": "plan for aircraft and/or medical emergencies",
+   "canonical_text": "Plan for aircraft and/or medical emergencies.",
    "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
+   "level": 6,
+   "level_name": "Create",
    "confidence": 0.75,
    "justification": null,
    "verbs": [
-    "ensure"
+    "plan"
    ]
   },
   {
-   "normalized_text": "ensure adequate personal protective equipment (ppe) for assigned personnel and individuals being transported",
-   "canonical_text": "Ensure adequate personal protective equipment (PPE) for assigned personnel and individuals being transported.",
+   "normalized_text": "respond to aircraft and/or medical emergencies",
+   "canonical_text": "Respond to aircraft and/or medical emergencies.",
    "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.75,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.7,
    "justification": null,
    "verbs": [
-    "ensure"
+    "respond"
    ]
   },
   {
-   "normalized_text": "ensure vehicle traffic, and parking and staging areas are kept separate from flight operations and overflights by departing and arriving helicopters",
-   "canonical_text": "Ensure vehicle traffic, and parking and staging areas are kept separate from flight operations and overflights by departing and arriving helicopters.",
+   "normalized_text": "transition with replacement personnel",
+   "canonical_text": "Transition with replacement personnel.",
    "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.75,
+   "level": 3,
+   "level_name": "Apply",
+   "confidence": 0.7,
    "justification": null,
    "verbs": [
-    "ensure"
-   ]
-  },
-  {
-   "normalized_text": "ensure crash-rescue requirements are understood by assigned personnel",
-   "canonical_text": "Ensure crash-rescue requirements are understood by assigned personnel.",
-   "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "ensure"
-   ]
-  },
-  {
-   "normalized_text": "ensure safe and efficient manifesting of personnel and cargo",
-   "canonical_text": "Ensure safe and efficient manifesting of personnel and cargo.",
-   "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "ensure"
-   ]
-  },
-  {
-   "normalized_text": "ensure fueling is performed according to standards and procedures",
-   "canonical_text": "Ensure fueling is performed according to standards and procedures.",
-   "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
-    "ensure"
+    "transition"
    ]
   },
   {
@@ -29545,7 +29244,7 @@
    "level": 6,
    "level_name": "Create",
    "confidence": 0.55,
-   "justification": "Verbs found: 'organize' (Create), 'coordinate' (Apply), 'record' (Apply), 'use' (Apply), 'conduct' (Apply), 'obtain' (Remember). Verb(s) 'organize' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand. Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
+   "justification": "Verbs found: 'organize' (Create), 'coordinate' (Apply), 'record' (Apply), 'conduct' (Apply), 'use' (Apply), 'obtain' (Remember). Verb(s) 'organize' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand. Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
    "verbs": [
     "organize",
     "coordinate",
@@ -29633,8 +29332,8 @@
    ]
   },
   {
-   "normalized_text": "comply with fal2 position standards as defined in nwcg st andards for wildland fire chainsaw operations, pms 212, and established agency standards for saw operating procedures",
-   "canonical_text": "Comply with FAL2 position standards as defined in NWCG St andards for Wildland Fire Chainsaw Operations, PMS 212, and established agency standards for saw operating procedures.",
+   "normalized_text": "comply with fal2 position standards as defined in nwcg standards for wildland fire chainsaw operations, pms 212, and established agency standards for saw operating procedures",
+   "canonical_text": "Comply with FAL2 position standards as defined in NWCG Standards for Wildland Fire Chainsaw Operations, PMS 212, and established agency standards for saw operating procedures.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -29643,19 +29342,6 @@
    "verbs": [
     "comply",
     "establish"
-   ]
-  },
-  {
-   "normalized_text": "ensure individual and equipment readiness. have proper ppe, ch ainsaw kit, necessary forms, and reference material (e.g., ptb, irpg)",
-   "canonical_text": "Ensure individual and equipment readiness. Have proper PPE, ch ainsaw kit, necessary forms, and reference material (e.g., PTB, IRPG).",
-   "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.7,
-   "justification": null,
-   "verbs": [
-    "ensure",
-    "have"
    ]
   },
   {
@@ -29701,10 +29387,11 @@
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'demonstrate' (Apply). Verb(s) 'demonstrate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
+   "confidence": 0.85,
+   "justification": null,
    "verbs": [
-    "demonstrate"
+    "demonstrate",
+    "repair"
    ]
   },
   {
@@ -29745,34 +29432,34 @@
    ]
   },
   {
-   "normalized_text": "determine tree structural stability and potential fiber characteristics through use of boring techniques and sounding. accurately determine both the natural and calculated leans in a",
-   "canonical_text": "Determine tree structural stability and potential fiber characteristics through use of boring techniques and sounding. Accurately determine both the natural and calculated leans in a",
+   "normalized_text": "determine tree structural stability and potential fiber characteristics through use of boring techniques and sounding",
+   "canonical_text": "Determine tree structural stability and potential fiber characteristics through use of boring techniques and sounding.",
    "positions_using": 1,
    "level": 4,
    "level_name": "Analyze",
-   "confidence": 0.95,
+   "confidence": 0.8,
    "justification": null,
    "verbs": [
-    "determine",
-    "determine",
-    "calculate"
+    "determine"
    ]
   },
   {
-   "normalized_text": "moderate complexity felling operation. • quantify and verbalize the calculated lean, in feet, for both forward/back lean and side to side lean relative to the objective. • demonstrate the ability to use a plumb bob, axe, or limb-",
-   "canonical_text": "moderate complexity felling operation. • Quantify and verbalize the calculated lean, in feet, for both forward/back lean and side to side lean relative to the objective. • Demonstrate the ability to use a plumb bob, axe, or limb-",
+   "normalized_text": "accurately determine both the natural and calculated leans in a moderate complexity felling operation. • quantify and verbalize the calculated lean, in feet, for both forward/back lean and side to side lean relative to the objective. • demonstrate the ability to use a plumb bob, axe, or limb- weight distribution method to determine leans",
+   "canonical_text": "Accurately determine both the natural and calculated leans in a moderate complexity felling operation. • Quantify and verbalize the calculated lean, in feet, for both forward/back lean and side to side lean relative to the objective. • Demonstrate the ability to use a plumb bob, axe, or limb- weight distribution method to determine leans.",
    "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'demonstrate' (Apply). Verb(s) 'demonstrate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
+   "level": 4,
+   "level_name": "Analyze",
+   "confidence": 0.9,
+   "justification": null,
    "verbs": [
+    "determine",
+    "calculate",
     "demonstrate"
    ]
   },
   {
-   "normalized_text": "weight distribution method to determine leans. develop an escape plan, free of obstructions, that takes into consideration the good side and bad side of the tree. multiple escape paths are preferred but may not be available",
-   "canonical_text": "weight distribution method to determine leans. Develop an escape plan, free of obstructions, that takes into consideration the good side and bad side of the tree. Multiple escape paths are preferred but may not be available.",
+   "normalized_text": "develop an escape plan, free of obstructions, that takes into consideration the good side and bad side of the tree. multiple escape paths are preferred but may not be available",
+   "canonical_text": "Develop an escape plan, free of obstructions, that takes into consideration the good side and bad side of the tree. Multiple escape paths are preferred but may not be available.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -30123,7 +29810,7 @@
   {
    "normalized_text": "travel for assignment",
    "canonical_text": "Travel for assignment",
-   "positions_using": 2,
+   "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.95,
@@ -30147,7 +29834,7 @@
   {
    "normalized_text": "demonstrate professionalism",
    "canonical_text": "Demonstrate professionalism.",
-   "positions_using": 2,
+   "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.68,
@@ -30208,7 +29895,7 @@
   {
    "normalized_text": "decision making",
    "canonical_text": "Decision Making",
-   "positions_using": 2,
+   "positions_using": 1,
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.5,
@@ -30290,139 +29977,82 @@
    ]
   },
   {
-   "normalized_text": "obtain and assemble information and materials needed for assignment",
-   "canonical_text": "Obtain and assemble information and materials needed for assignment.",
+   "normalized_text": "review local airtanker base operations plan (abop) and obtain briefing from base manager",
+   "canonical_text": "Review local Airtanker Base Operations Plan (ABOP) and obtain briefing from base manager.",
    "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.75,
-   "justification": null,
+   "level": 5,
+   "level_name": "Evaluate",
+   "confidence": 0.5,
+   "justification": "Verbs found: 'review' (Evaluate), 'obtain' (Remember). \"Review the plan and obtain briefing\" is mobilization familiarization (Understand), not a quality-control review; Understand assigned over the review-as-Evaluate default.",
    "verbs": [
-    "obtain",
-    "assemble"
-   ]
-  },
-  {
-   "normalized_text": "obtain initial briefing from airtanker/fixed-wing base manager or supervisor",
-   "canonical_text": "Obtain initial briefing from Airtanker/Fixed-Wing Base Manager or supervisor.",
-   "positions_using": 1,
-   "level": 1,
-   "level_name": "Remember",
-   "confidence": 0.75,
-   "justification": null,
-   "verbs": [
+    "[review .{0,80}and obtain]",
+    "review",
     "obtain"
    ]
   },
   {
-   "normalized_text": "demonstrates knowledge of agency policy and appropriate behavior while on assignment",
-   "canonical_text": "Demonstrates knowledge of agency policy and appropriate behavior while on assignment.",
+   "normalized_text": "communicate updates regarding changing conditions to relevant pe rsonnel and implement further instructions provided by the base manager",
+   "canonical_text": "Communicate updates regarding changing conditions to relevant pe rsonnel and implement further instructions provided by the base manager.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.63,
-   "justification": "Verbs found: 'demonstrate' (Apply). Verb(s) 'demonstrate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
-   "verbs": [
-    "[demonstrates? (a |the )?]",
-    "demonstrate"
-   ]
-  },
-  {
-   "normalized_text": "follow chain of command",
-   "canonical_text": "Follow chain of command.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.85,
+   "confidence": 0.9,
    "justification": null,
    "verbs": [
-    "follow"
+    "communicate",
+    "implement"
    ]
   },
   {
-   "normalized_text": "coordinate with airtanker/fixed-wing base manager",
-   "canonical_text": "Coordinate with Airtanker/Fixed-Wing Base Manager.",
+   "normalized_text": "maintain and manage real-time communications using multiple devices and platforms",
+   "canonical_text": "Maintain and manage real-time communications using multiple devices and platforms.",
    "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.68,
-   "justification": "Verbs found: 'coordinate' (Apply). Verb(s) 'coordinate' sit between Bloom levels in operational use (doing vs judging vs designing); Apply chosen as the governing cognitive demand.",
+   "level": 5,
+   "level_name": "Evaluate",
+   "confidence": 0.6,
+   "justification": "Verbs found: 'manage' (Evaluate), 'maintain' (Apply). Verb(s) 'manage' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
    "verbs": [
-    "coordinate"
+    "maintain",
+    "manage"
    ]
   },
   {
-   "normalized_text": "timekeeping operations",
-   "canonical_text": "Timekeeping operations.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.5,
-   "justification": "Noun-phrase heading with no printed action verb (print-format artifact); read as performing the named function, but without a verb the Bloom level is a judgment call.",
-   "verbs": [
-    "<noun-heading>"
-   ]
-  },
-  {
-   "normalized_text": "maintain radio or message links with appropriate incident functions",
-   "canonical_text": "Maintain radio or message links with appropriate incident functions.",
+   "normalized_text": "provide daily administrative support for base operations",
+   "canonical_text": "Provide daily administrative support for base operations.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
    "confidence": 0.8,
    "justification": null,
    "verbs": [
-    "maintain"
+    "provide"
    ]
   },
   {
-   "normalized_text": "verify radio frequencies daily with supervisor, dispatch, gacc, and iap",
-   "canonical_text": "Verify radio frequencies daily with supervisor, dispatch, GACC, and IAP.",
+   "normalized_text": "record, compile, and distribute relevant contract and cost data",
+   "canonical_text": "Record, compile, and distribute relevant contract and cost data.",
    "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.85,
-   "justification": null,
+   "level": 6,
+   "level_name": "Create",
+   "confidence": 0.65,
+   "justification": "Verbs found: 'compile' (Create), 'record' (Apply), 'distribute' (Apply).",
    "verbs": [
-    "verify",
-    "dispatch"
+    "record",
+    "compile",
+    "distribute"
    ]
   },
   {
-   "normalized_text": "check assigned equipment prior to daily operations",
-   "canonical_text": "Check assigned equipment prior to daily operations.",
-   "positions_using": 1,
-   "level": 3,
-   "level_name": "Apply",
-   "confidence": 0.85,
-   "justification": null,
-   "verbs": [
-    "check"
-   ]
-  },
-  {
-   "normalized_text": "review and understand emergency response plans",
-   "canonical_text": "Review and understand emergency response plans.",
-   "positions_using": 1,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.55,
-   "justification": "Verbs found: 'review' (Evaluate), 'understand' (Understand). Verb(s) 'review' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
-   "verbs": [
-    "review",
-    "understand"
-   ]
-  },
-  {
-   "normalized_text": "notify airtanker/fixed-wing base manager immediately of any overdue or missing aircraft",
-   "canonical_text": "Notify Airtanker/Fixed-Wing Base Manager immediately of any overdue or missing aircraft.",
+   "normalized_text": "gather and disseminate operational information with resources",
+   "canonical_text": "Gather and disseminate operational information with resources.",
    "positions_using": 1,
    "level": 3,
    "level_name": "Apply",
-   "confidence": 0.85,
+   "confidence": 0.8,
    "justification": null,
    "verbs": [
-    "notify"
+    "gather",
+    "disseminate"
    ]
   },
   {
@@ -30449,6 +30079,18 @@
     "[\\bcheck.?in\\b]",
     "arrive",
     "check"
+   ]
+  },
+  {
+   "normalized_text": "obtain initial briefing from assignment supervisor",
+   "canonical_text": "Obtain initial briefing from assignment supervisor.",
+   "positions_using": 2,
+   "level": 1,
+   "level_name": "Remember",
+   "confidence": 0.75,
+   "justification": null,
+   "verbs": [
+    "obtain"
    ]
   },
   {

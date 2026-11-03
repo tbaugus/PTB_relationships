@@ -162,6 +162,31 @@ gap-analysis.spec.md for the split handling.
 
 ## Changelog
 
+- 2026-11-03 (corpus refresh re-run): the pipeline in "Re-running the
+  pipeline" was exercised end to end for the first time, after the
+  2026-11-02 refresh replaced 12 positions' task books (10 republished as
+  Next Gen, FEMO/FOBS split, REAF new) and corrected FAL3 #15-17
+  (extraction.spec.md changelog). Thresholds, model and revision pins are
+  unchanged. Outcome: 2,472 distinct tasks (was 2,503) → 1,410 candidate
+  pairs incl. the 3 grounded seeds (was 1,352); 1,237 pairs carried their
+  existing text-keyed verdict across the rebuild untouched, 115 verdicts in
+  `data/adjudications.json` now describe texts no longer in the corpus
+  (kept — the store is append-only), and 173 genuinely new pairs were
+  adjudicated by Claude against rules 1-6 (46 equivalent, 40 subsumes, 87
+  related_not_equivalent), then rule 6 was applied mechanically
+  (`context.py --apply --protect-file <every pair already probable before
+  the refresh>`) over the new pairs only, demoting 37; no pre-refresh
+  verdict changed. Final table: 1,410 rows — 547 tier-2 probable, 863
+  tier-3 rejected, 0 confirmed (human review still pending; the regenerated
+  `reports/tier2_review_checklist.md` and `reports/tier2_review_sheet.xlsx`
+  list the 547). (The extraction re-audit's FAL1 fix merged two
+  wrongly-extracted texts into existing ones, which is why the counts are
+  one lower than in the first run of this re-run: 2,473/1,411/548.) Adjudicator convention recorded for the briefing family
+  that dominates the new pairs: "conduct and/or participate in X" is
+  satisfied by participation, so against "participate in X" it is
+  equivalent, and a side that requires conducting subsumes it (rules 1-3);
+  briefing pairs whose named sources share no role stay
+  related_not_equivalent per the Phase 4 briefing-source policy.
 - 2026-07-12 (context rule, SME-calibrated): added rubric rule 6 — **category
   framing governs over wording**: a candidate pair whose two sides' task-book
   category families share nothing (e.g. "Gather, analyze, and validate" vs

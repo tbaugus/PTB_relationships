@@ -101,8 +101,10 @@
       "behavior": null,
       "level": null,
       "verbatim_text": "Use appropriate NWCG Standards for Helicopter Operations (NSHO), PMS 510 forms to document relevant flight and mission related information.",
-      "code_raw": "RX",
+      "code_raw": "I, W, RX",
       "code_alternatives": [
+        "I",
+        "W",
         "RX"
       ],
       "clarifications": [],
@@ -115,8 +117,9 @@
       "behavior": null,
       "level": null,
       "verbatim_text": "Plan for and respond to medical and aircraft emergencies as stated in the Incident Action Plan (IAP)/Helibase Mishap Response Plan.",
-      "code_raw": "S",
+      "code_raw": "R, S",
       "code_alternatives": [
+        "R",
         "S"
       ],
       "clarifications": [],
@@ -129,8 +132,10 @@
       "behavior": null,
       "level": null,
       "verbatim_text": "Demonstrate strong verbal communication skills.",
-      "code_raw": "RX",
+      "code_raw": "I, W, RX",
       "code_alternatives": [
+        "I",
+        "W",
         "RX"
       ],
       "clarifications": [],
@@ -143,8 +148,10 @@
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure proper use of radios.",
-      "code_raw": "RX",
+      "code_raw": "I, W, RX",
       "code_alternatives": [
+        "I",
+        "W",
         "RX"
       ],
       "clarifications": [],

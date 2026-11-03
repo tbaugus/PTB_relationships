@@ -1,17 +1,17 @@
 {
   "document": {
     "filename": "pms311-77_GISS.pdf",
-    "sha256": "2ff7cf5780ea5eed859f5d8b3b3f81143517ee320120a8d4de9c4791f7d49fe6",
+    "sha256": "d80521c8a54dec7ce0da17b524ebadec13e9962913cb7a355a0c2ecc14fd521c",
     "pms_number": "311-77",
-    "format": "nwcg_legacy",
+    "format": "nwcg_nextgen",
     "position_codes": [
       "GISS"
     ],
     "title": "Geographic Information System Specialist",
-    "edition_date": "MARCH 2022",
-    "ips_reference": null,
+    "edition_date": "SEPTEMBER 2026",
+    "ips_reference": "350-77",
     "official": true,
-    "page_count": 14
+    "page_count": 13
   },
   "positions": [
     {
@@ -27,10 +27,10 @@
     {
       "position_code": "GISS",
       "task_number": 1,
-      "category": "Ensure individual readiness for assignment.",
+      "category": "Leadership Level 1, Follower (Provide Action)",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Read and demonstrate understanding of the NWCG Standards for Geospatial Operations PMS 936 (GeoOps), https://www.nwcg.gov/publications/pms936 and NWCG GISS Workflow PMS 936-1, https://www.nwcg.gov/publications/pms936-1.",
+      "verbatim_text": "Followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communications skills.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
@@ -41,10 +41,10 @@
     {
       "position_code": "GISS",
       "task_number": 2,
-      "category": "Ensure individual readiness for assignment.",
+      "category": "Prepare and Mobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Secure required hardware including laptop, mouse, power strip, mobile device, and suggested hardware including external monitor, mobile internet hot spot.",
+      "verbatim_text": "Ensure individual readiness.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
@@ -55,10 +55,10 @@
     {
       "position_code": "GISS",
       "task_number": 3,
-      "category": "Ensure individual readiness for assignment.",
+      "category": "Prepare and Mobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Have required software installed (ArcGIS Pro and FTP client).",
+      "verbatim_text": "Secure required software (e.g., ArcGIS Pro) and suggested hardware, including laptop, mouse, power strip, mobile device, external monitor, and mobile internet hotspot.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
@@ -69,10 +69,10 @@
     {
       "position_code": "GISS",
       "task_number": 4,
-      "category": "Ensure individual readiness for assignment.",
+      "category": "Prepare and Mobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Pack gear bag with supplies for 14 days for expected weather at camp.",
+      "verbatim_text": "Ensure appropriate account credentials.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
@@ -83,10 +83,10 @@
     {
       "position_code": "GISS",
       "task_number": 5,
-      "category": "Ensure individual readiness for assignment.",
+      "category": "Prepare and Mobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Ensure appropriate account credentials. Refer to PMS 936-1.",
+      "verbatim_text": "Gather critical information pertinent to the assignment.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
@@ -97,13 +97,13 @@
     {
       "position_code": "GISS",
       "task_number": 6,
-      "category": "Ensure individual readiness for assignment.",
+      "category": "Prepare and Mobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Support a minimum of one Type 1 or Type 2 wildfire incident onsite.",
-      "code_raw": "W",
+      "verbatim_text": "Travel to and check in at assignment.",
+      "code_raw": "I",
       "code_alternatives": [
-        "W"
+        "I"
       ],
       "clarifications": [],
       "page": 5
@@ -111,35 +111,21 @@
     {
       "position_code": "GISS",
       "task_number": 7,
-      "category": "Travel to and check in at assignment.",
+      "category": "Prepare and Mobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Check in at incident.",
+      "verbatim_text": "Obtain initial briefing from Situation Unit Leader (SITL) or other incident supervisor.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 5
+      "page": 6
     },
     {
       "position_code": "GISS",
       "task_number": 8,
-      "category": "Travel to and check in at assignment.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Obtain initial briefing from Situation Unit Leader (SITL). Cover the following: Schedule and attendance expectations for Planning Section meetings. Priorities, standards, time limits for completion, and methods of communication to accomplish role in assigned tasks. Time frames for inputs into Incident Action Plan (IAP) or other relevant plan and creating and updating incident mapping displays. Needs for personnel and facilities. Location of work area.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 5
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 9,
-      "category": "Gather logistical information.",
+      "category": "Prepare and Mobilize",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain information for ordering or securing equipment and supplies (e.g., plotter, paper, ink, mobile devices).",
@@ -152,14 +138,28 @@
     },
     {
       "position_code": "GISS",
-      "task_number": 10,
-      "category": "Gather Incident Information data elements required to populate the National",
+      "task_number": 9,
+      "category": "Prepare and Mobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Fully populate the GeoOps File Namer with required data elements.",
-      "code_raw": "O",
+      "verbatim_text": "Obtain briefing from previous shift/assignment position as necessary.",
+      "code_raw": "I",
       "code_alternatives": [
-        "O"
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "GISS",
+      "task_number": 10,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Support a minimum of one Type 1 or Type 2 wildfire incident on- site.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
       ],
       "clarifications": [],
       "page": 6
@@ -167,13 +167,14 @@
     {
       "position_code": "GISS",
       "task_number": 11,
-      "category": "Prepare GeoOps incident directory,",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Copy GeoOps incident directory to hard drive, network attached storage (NAS) or SharePoint for OneDrive. Rename files and folders for incident.",
-      "code_raw": "O",
+      "verbatim_text": "Copy the NWCG Standards for Geospatial Operations, PMS 936 incident directory to hard drive, network attached storage (NAS), or Microsoft SharePoint/OneDrive, and rename files and folders for incident.",
+      "code_raw": "I/S",
       "code_alternatives": [
-        "O"
+        "I",
+        "S"
       ],
       "clarifications": [],
       "page": 6
@@ -181,13 +182,14 @@
     {
       "position_code": "GISS",
       "task_number": 12,
-      "category": "Prepare GeoOps incident directory,",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Configure the ArcGIS Pro Project Template for incident.",
-      "code_raw": "O",
+      "verbatim_text": "Fully populate the NWCG Standards for Geospatial Operations, PMS 936 File Namer with required data elements.",
+      "code_raw": "I/S",
       "code_alternatives": [
-        "O"
+        "I",
+        "S"
       ],
       "clarifications": [],
       "page": 6
@@ -195,13 +197,14 @@
     {
       "position_code": "GISS",
       "task_number": 13,
-      "category": "Populate Base Data folders, https://www.nwcg.gov/publications/pms936-",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Populate base data folder with data relevant to fire area including (but not limited to) 24K topographic map and aerial imagery.",
-      "code_raw": "O",
+      "verbatim_text": "Configure the ArcGIS Pro Project Template for the incident and set an appropriate coordinate system.",
+      "code_raw": "I/S",
       "code_alternatives": [
-        "O"
+        "I",
+        "S"
       ],
       "clarifications": [],
       "page": 6
@@ -209,13 +212,14 @@
     {
       "position_code": "GISS",
       "task_number": 14,
-      "category": "Create and prepare an Edit Project,",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Create Edit Project using the Pro Project template, set an appropriate coordinate system, populate the DynamicTextUpdate table, and name per GeoOps.",
-      "code_raw": "O",
+      "verbatim_text": "Populate the base_data folder with data relevant to fire area including, but not limited to, 24K topographic map and aerial imagery.",
+      "code_raw": "I/S",
       "code_alternatives": [
-        "O"
+        "I",
+        "S"
       ],
       "clarifications": [],
       "page": 6
@@ -223,80 +227,94 @@
     {
       "position_code": "GISS",
       "task_number": 15,
-      "category": "Create an Offline Copy, https://www.nwcg.gov/publications/pms936-1/data-",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Create Offline copy of NIFS.",
-      "code_raw": "O",
+      "verbatim_text": "Create Edit Project using the ArcGIS Pro Project Template and populate the DynamicTextUpdate table.",
+      "code_raw": "I",
       "code_alternatives": [
-        "O"
+        "I"
       ],
       "clarifications": [],
-      "page": 7
+      "page": 6
     },
     {
       "position_code": "GISS",
       "task_number": 16,
-      "category": "Apply Layer Files, https://www.nwcg.gov/publications/pms936-1/data-",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Add template layer and repair feature paths to Offline Copy.",
-      "code_raw": "O",
+      "verbatim_text": "Create Offline Copy of National Incident Feature Service (NIFS).",
+      "code_raw": "I",
       "code_alternatives": [
-        "O"
+        "I"
       ],
       "clarifications": [],
-      "page": 7
+      "page": 6
     },
     {
       "position_code": "GISS",
       "task_number": 17,
-      "category": "Configure Feature Templates, https://www.nwcg.gov/publications/pms936-",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Configure the Event Point, Line and Polygon feature class Feature Templates and save as a group layer file with appropriate name.",
-      "code_raw": "O",
+      "verbatim_text": "Repair Event Layers to Offline Copy.",
+      "code_raw": "I",
       "code_alternatives": [
-        "O"
+        "I"
       ],
       "clarifications": [],
-      "page": 7
+      "page": 6
     },
     {
       "position_code": "GISS",
       "task_number": 18,
-      "category": "Create and Share Web Maps, https://www.nwcg.gov/publications/pms936-",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Set up the Basic Web Map Workflow using current NIFC web map templates. Share into the appropriate Mobile Editing group.",
+      "verbatim_text": "Configure Feature Templates for all Event Layers and save as a group layer file.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 7
+      "page": 6
     },
     {
       "position_code": "GISS",
       "task_number": 19,
-      "category": "Secure incident information, https://www.nwcg.gov/publications/pms936-1/edit-",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Process/convert/import incoming data from sources outside NIFS. Work with SITL to approve new data.",
+      "verbatim_text": "Set up the Incident Web Map using current National Interagency Fire Center ArcGIS Online Organization (NIFC Org) web map templates and share with the appropriate Mobile Edit group.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 7
+      "page": 6
     },
     {
       "position_code": "GISS",
       "task_number": 20,
-      "category": "Secure incident information, https://www.nwcg.gov/publications/pms936-1/edit-",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Always store incident data per GeoOps file structure and naming conventions.",
+      "verbatim_text": "Process, convert, and import incoming data from sources outside the National Incident Feature Service (NIFS) and work with the Situation Unit Leader (SITL) or other incident supervisor to approve new data.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "GISS",
+      "task_number": 21,
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Store incident data per NWCG Standards for Geospatial Operations, PMS 936 file structure and naming conventions.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
@@ -306,8 +324,8 @@
     },
     {
       "position_code": "GISS",
-      "task_number": 21,
-      "category": "Edit incident data, https://www.nwcg.gov/publications/pms936-1/edit-incident-",
+      "task_number": 22,
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
       "verbatim_text": "Sync Offline Copy before and after each edit session.",
@@ -320,50 +338,36 @@
     },
     {
       "position_code": "GISS",
-      "task_number": 22,
-      "category": "Edit incident data, https://www.nwcg.gov/publications/pms936-1/edit-incident-",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Edit Event Polygon, Event Line, and Event Point features and attributes. Calculate polygon acres, line length, and point latitude and longitude.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 8
-    },
-    {
-      "position_code": "GISS",
       "task_number": 23,
-      "category": "Populate Progression GDB, https://www.nwcg.gov/publications/pms936-1/edit-",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Populate the Progression GDB following the GISS Workflow.",
+      "verbatim_text": "Edit Event Polygon, Event Line, and Event Point features and at tributes; calculate polygon acres, line length, and point latitude and longitude.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 8
+      "page": 7
     },
     {
       "position_code": "GISS",
       "task_number": 24,
-      "category": "Perform common incident analysis,",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Calculate acres burned by ownership.",
-      "code_raw": "I",
+      "verbatim_text": "Calculate acres burned by ownership/jurisdiction/protection.",
+      "code_raw": "W",
       "code_alternatives": [
-        "I"
+        "W"
       ],
       "clarifications": [],
-      "page": 8
+      "page": 7
     },
     {
       "position_code": "GISS",
       "task_number": 25,
-      "category": "Perform common incident analysis,",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
       "verbatim_text": "Calculate line lengths by feature category.",
@@ -372,57 +376,211 @@
         "I"
       ],
       "clarifications": [],
-      "page": 8
+      "page": 7
     },
     {
       "position_code": "GISS",
       "task_number": 26,
-      "category": "Perform common incident analysis,",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
       "verbatim_text": "Calculate percent containment.",
-      "code_raw": "I",
+      "code_raw": "W",
       "code_alternatives": [
-        "I"
+        "W"
       ],
       "clarifications": [],
-      "page": 8
+      "page": 7
     },
     {
       "position_code": "GISS",
       "task_number": 27,
-      "category": "Perform common incident analysis,",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Backup Offline Copy and replace the Master Incident GDB following GISS Workflow.",
-      "code_raw": "I",
+      "verbatim_text": "Populate the Progression Geodatabase (GDB).",
+      "code_raw": "W",
       "code_alternatives": [
-        "I"
+        "W"
       ],
       "clarifications": [],
-      "page": 8
+      "page": 7
     },
     {
       "position_code": "GISS",
       "task_number": 28,
-      "category": "Create and prepare a Master Map Project,",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Create a master project following the GISS Workflow and GeoOps.",
+      "verbatim_text": "Back up the Offline Copy of National Incident Feature Service (NIFS).",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 8
+      "page": 7
     },
     {
       "position_code": "GISS",
       "task_number": 29,
-      "category": "Create and prepare a Master Map Project,",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Use Dynamic Text to populate map elements from the DynamicTextTable and Map View Metadata.",
+      "verbatim_text": "Replace the Master Incident Geodatabase (GDB).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "GISS",
+      "task_number": 30,
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create a Master Project.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "GISS",
+      "task_number": 31,
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Use dynamic text to populate map elements from the DynamicTextTable and Map View metadata.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "GISS",
+      "task_number": 32,
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Use definition queries to display only the Event Features appropriate for the intended map audience.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "GISS",
+      "task_number": 33,
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create a single-page Incident Action Plan (IAP) or Operations Map.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "GISS",
+      "task_number": 34,
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create a multi-page map using a Map Series that includes an index page or vicinity map.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "GISS",
+      "task_number": 35,
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Demonstrate the use of label lines for Division and Branch labeling in a Map Series.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "GISS",
+      "task_number": 36,
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create a Briefing Map.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "GISS",
+      "task_number": 37,
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create a Transportation Map.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "GISS",
+      "task_number": 38,
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create an Ownership Map.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "GISS",
+      "task_number": 39,
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create a Progression Map.",
+      "code_raw": "W",
+      "code_alternatives": [
+        "W"
+      ],
+      "clarifications": [],
+      "page": 7
+    },
+    {
+      "position_code": "GISS",
+      "task_number": 40,
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create an Air Operations Map that includes a coordinate point table.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
@@ -432,387 +590,176 @@
     },
     {
       "position_code": "GISS",
-      "task_number": 30,
-      "category": "Create and prepare a Master Map Project,",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Use definition queries to display only the Event features appropriate for the intended map audience.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 9
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 31,
-      "category": "Create Incident Map Products,",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Create a single-page IAP or Operations Map following GeoOps and the GISS Workflow.",
-      "code_raw": "W/RX",
-      "code_alternatives": [
-        "W",
-        "RX"
-      ],
-      "clarifications": [],
-      "page": 9
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 32,
-      "category": "Create Incident Map Products,",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Create a multi-page IAP or Operations Maps using a Map Series following GeoOps and the GISS Workflow. Include an index page map.",
-      "code_raw": "W",
-      "code_alternatives": [
-        "W"
-      ],
-      "clarifications": [],
-      "page": 9
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 33,
-      "category": "Create Incident Map Products,",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Demonstrate the use of Annotation, https://www.nwcg.gov/publications/pms936-1/create- incident/labeling-and-annotation, for Division and Branch labeling in a Map Series.",
-      "code_raw": "W",
-      "code_alternatives": [
-        "W"
-      ],
-      "clarifications": [],
-      "page": 9
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 34,
-      "category": "Create Incident Map Products,",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Create a Briefing Map following GeoOps and the GISS Workflow.",
-      "code_raw": "W",
-      "code_alternatives": [
-        "W"
-      ],
-      "clarifications": [],
-      "page": 9
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 35,
-      "category": "Create Incident Map Products,",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Create a Situation Map following GeoOps and the GISS Workflow.",
-      "code_raw": "W",
-      "code_alternatives": [
-        "W"
-      ],
-      "clarifications": [],
-      "page": 9
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 36,
-      "category": "Create Incident Map Products,",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Create a specialized, non-operations map used during the planning cycle by non-operations positions. Potential examples include Areas of Special Concerns, strategic planning, ownership, evacuation, fire behavior, etc. Follow GeoOps and the GISS Workflow.",
-      "code_raw": "W",
-      "code_alternatives": [
-        "W"
-      ],
-      "clarifications": [],
-      "page": 9
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 37,
-      "category": "Create Incident Map Products,",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Create a Transportation Map following GeoOps and the GISS Workflow.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 9
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 38,
-      "category": "Create Incident Map Products,",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Create a Progression Map following GeoOps and the GISS Workflow.",
-      "code_raw": "W",
-      "code_alternatives": [
-        "W"
-      ],
-      "clarifications": [],
-      "page": 9
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 39,
-      "category": "Create Incident Map Products,",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Create an Air Operations Map following GeoOps and the GISS Workflow. Include a coordinate point table.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 9
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 40,
-      "category": "Create Incident Map Products,",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Create a Public Information Officer (PIO) Map following GeoOps and the GISS Workflow.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 9
-    },
-    {
-      "position_code": "GISS",
       "task_number": 41,
-      "category": "Create Incident Map Products,",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Create a Suppression Repair Map or Dashboard following GeoOps and the GISS Workflow.",
-      "code_raw": "W",
+      "verbatim_text": "Create a Public Information Map.",
+      "code_raw": "I",
       "code_alternatives": [
-        "W"
+        "I"
       ],
       "clarifications": [],
-      "page": 9
+      "page": 8
     },
     {
       "position_code": "GISS",
       "task_number": 42,
-      "category": "Export and back up",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Demonstrate the creation and production of map products that can be used digitally in the field (Avenza, FieldMaps, etc.)",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 10
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 43,
-      "category": "Export and back up",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Print maps using large format plotters at a size needed for briefings or other meetings. Demonstrate ability to perform basic troubleshooting and maintenance of plotter.",
+      "verbatim_text": "Create a Suppression Repair Map.",
       "code_raw": "W",
       "code_alternatives": [
         "W"
       ],
       "clarifications": [],
-      "page": 10
+      "page": 8
+    },
+    {
+      "position_code": "GISS",
+      "task_number": 43,
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Create a specialized map (e.g., areas of special concern, ev acuation, Facilities, Strategic Operations, Structure Triage, Accountable Property).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
     },
     {
       "position_code": "GISS",
       "task_number": 44,
-      "category": "Export and back up",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Save and name geospatial PDF in products folder per GeoOps. Optimize PDF as necessary.",
+      "verbatim_text": "Export, name, and file geospatial portable document format (PDF) maps in the products folder.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 10
+      "page": 8
     },
     {
       "position_code": "GISS",
       "task_number": 45,
-      "category": "Export and back up",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Back up and name map projects in backup folder per GeoOps.",
+      "verbatim_text": "Effectively utilize large format plotters (e.g., printing maps and multi-panel maps, maintenance, troubleshooting).",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 10
+      "page": 8
     },
     {
       "position_code": "GISS",
       "task_number": 46,
-      "category": "Post digital map products, https://www.nwcg.gov/publications/pms936-",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Post maps to appropriate FTP and/or web sites. Develop QR codes to link to appropriate folder for incident use.",
+      "verbatim_text": "Back up map projects in the backups folder.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 10
+      "page": 8
     },
     {
       "position_code": "GISS",
       "task_number": 47,
-      "category": "Back Up Incident Directory, https://www.nwcg.gov/publications/pms936-",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Back up incident directory to a secondary physical drive.",
+      "verbatim_text": "Post maps to the appropriate file sharing locations (e.g., National Interagency Fire Center [NIFC] File Share, FireNet) and create Quick Response (QR) codes to link to the appropriate folder for incident use.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 10
+      "page": 8
     },
     {
       "position_code": "GISS",
       "task_number": 48,
-      "category": "Back up external data, https://www.nwcg.gov/publications/pms936-1/backup-",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Download and back up external incident data sources, custom hosted feature services, data collection forms.",
+      "verbatim_text": "Back up the incident directory to a secondary physical drive.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 10
+      "page": 8
     },
     {
       "position_code": "GISS",
       "task_number": 49,
-      "category": "Transfer.",
+      "category": "Perform Geographic Information System Specialist-Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Transfer online content to incoming team or local unit. This includes non-NIFS data embedded in web maps/apps, incident specific web maps/apps, services, FireNet content, as well as any other incident data or products not contained in the incident directory structure.",
+      "verbatim_text": "Download and back up external incident data sources, hosted feature services, and data collection forms.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 11
+      "page": 8
     },
     {
       "position_code": "GISS",
       "task_number": 50,
-      "category": "Transfer.",
+      "category": "Communicate and Coordinate",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Assist GISS lead to write GISS section of team transition plan for use by incoming team.",
+      "verbatim_text": "Maintain awareness of changing responsibilities and expectations.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 11
+      "page": 8
     },
     {
       "position_code": "GISS",
       "task_number": 51,
-      "category": "Exchange technical information.",
+      "category": "Communicate and Coordinate",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Communicate field data collection procedures to Field Observers (FOBS), Resource Advisors (READs), and other incident staff.",
+      "verbatim_text": "Communicate to the Situation Unit Leader (SITL) or other in cident supervisor when map and task requests are made outside the Incident Command System (ICS) chain of command.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 11
+      "page": 8
     },
     {
       "position_code": "GISS",
       "task_number": 52,
-      "category": "Communicate following ICS concepts and principles.",
+      "category": "Communicate and Coordinate",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Maintain awareness of the changing responsibilities and expectations throughout the assignment. Communicate when expectations exceed capacity, and work with SITL to adjust expectations or augment resources.",
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 11
+      "page": 8
     },
     {
       "position_code": "GISS",
       "task_number": 53,
-      "category": "Communicate following ICS concepts and principles.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Communicate to SITL when map and task requests are made outside the ICS chain of command.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 11
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 54,
-      "category": "Communicate following ICS concepts and principles.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Participate in functional area (section) meetings.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 11
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 55,
-      "category": "Communicate following ICS concepts and principles.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Participate in an After-Action Review (AAR).",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 11
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 56,
-      "category": "Communicate following ICS concepts and principles.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Demonstrate skills that establish and maintain a positive team climate.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 11
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 57,
-      "category": "Communicate following ICS concepts and principles.",
+      "category": "Communicate and Coordinate",
       "behavior": null,
       "level": null,
       "verbatim_text": "Demonstrate critical thinking and decision-making skills.",
@@ -821,91 +768,105 @@
         "I"
       ],
       "clarifications": [],
-      "page": 12
+      "page": 8
+    },
+    {
+      "position_code": "GISS",
+      "task_number": 54,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Communicate and exchange technical information with incident personnel inside and outside the Situation Unit.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 8
+    },
+    {
+      "position_code": "GISS",
+      "task_number": 55,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Conduct and/or participate in After Action Reviews (AARs).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "GISS",
+      "task_number": 56,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Complete all administrative tasks and documentation in an accurate and timely manner.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
+    },
+    {
+      "position_code": "GISS",
+      "task_number": 57,
+      "category": "Document",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Prepare maps and other documents for the incident do cumentation package as required by the Document Unit Leader (DOCL).",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 9
     },
     {
       "position_code": "GISS",
       "task_number": 58,
-      "category": "Communicate following ICS concepts and principles.",
+      "category": "Document",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Conduct self in a professional manner.",
+      "verbatim_text": "Provide inputs to the GISS section of team transition plan for use by the incoming team.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 12
+      "page": 9
     },
     {
       "position_code": "GISS",
       "task_number": 59,
-      "category": "Complete, authorize, ensure timeliness of, and route as required,",
+      "category": "Demobilization",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Perform assigned GISS duties within the constraints and deadlines of typical incident conditions. Communicate with GISS lead or SITL if deadlines cannot be met.",
+      "verbatim_text": "Transfer online content to the incoming team or local unit (e.g., non-National Incident Feature Service [NIFS] data embedded in w eb maps/applications, incident-specific web maps/applications, hosted feature services, FireNet content, other incident data or products not contained in the incident directory structure).",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 12
+      "page": 9
     },
     {
       "position_code": "GISS",
       "task_number": 60,
-      "category": "Complete, authorize, ensure timeliness of, and route as required,",
+      "category": "Demobilization",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Properly uses General Message form, ICS 213.",
+      "verbatim_text": "Prepare for and implement demobilization.",
       "code_raw": "I",
       "code_alternatives": [
         "I"
       ],
       "clarifications": [],
-      "page": 12
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 61,
-      "category": "Complete, authorize, ensure timeliness of, and route as required,",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Prepare maps and other documents for the incident documentation package as required by the DOCL.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 12
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 62,
-      "category": "Demobilize.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Communicate with SITL and/or GISS lead to confirm your last shift and to understand the check-out process for the incident.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 12
-    },
-    {
-      "position_code": "GISS",
-      "task_number": 63,
-      "category": "Demobilize.",
-      "behavior": null,
-      "level": null,
-      "verbatim_text": "Complete demobilization checkout process before being released from the incident.",
-      "code_raw": "I",
-      "code_alternatives": [
-        "I"
-      ],
-      "clarifications": [],
-      "page": 12
+      "page": 9
     }
   ],
   "fields_observed": [
@@ -915,23 +876,47 @@
     },
     {
       "field_name": "signature_page_verification",
-      "page": 2
+      "page": 1
     },
     {
       "field_name": "signature_page_certification",
-      "page": 2
+      "page": 1
+    },
+    {
+      "field_name": "trainee_iqcs_number",
+      "page": 1
     },
     {
       "field_name": "code_definitions_block",
       "page": 3
     },
     {
-      "field_name": "per_task_evaluator_initials",
+      "field_name": "trainee_ips_review_checkbox",
       "page": 5
     },
     {
+      "field_name": "performance_rating_scale",
+      "page": 2
+    },
+    {
+      "field_name": "per_assignment_rating_columns",
+      "page": 5
+    },
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 10
+    },
+    {
+      "field_name": "ips_reviewed_flag",
+      "page": 10
+    },
+    {
       "field_name": "evaluator_position_on_incident",
-      "page": 13
+      "page": 10
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 10
     },
     {
       "field_name": "incident_name",
@@ -939,7 +924,7 @@
     },
     {
       "field_name": "incident_reference_code",
-      "page": 13
+      "page": 10
     },
     {
       "field_name": "assignment_duration",
@@ -951,11 +936,11 @@
     },
     {
       "field_name": "location_geographic_area",
-      "page": 13
+      "page": 10
     },
     {
       "field_name": "management_type",
-      "page": 4
+      "page": 10
     },
     {
       "field_name": "rx_complexity_level",
@@ -967,19 +952,23 @@
     },
     {
       "field_name": "evaluator_recommendation_block",
-      "page": 13
+      "page": 10
     },
     {
-      "field_name": "per_task_completion_date",
-      "page": 5
+      "field_name": "remarks_narrative",
+      "page": 4
     },
     {
       "field_name": "evaluator_relevant_qualification",
-      "page": 4
+      "page": 10
     },
     {
       "field_name": "edition_date",
       "page": 1
+    },
+    {
+      "field_name": "ips_reference",
+      "page": 2
     }
   ],
   "extra_fields": {}

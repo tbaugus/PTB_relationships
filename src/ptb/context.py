@@ -213,6 +213,12 @@ if __name__ == "__main__":
     parser.add_argument("--apply", action="store_true")
     parser.add_argument("--protect", default="",
                         help="comma-separated pair_keys never to demote (SME confirms)")
+    parser.add_argument("--protect-file", default=None,
+                        help="file with one pair_key per line never to demote (e.g. every pair "
+                             "already probable before a corpus refresh, so the rule only runs "
+                             "over newly adjudicated pairs)")
     args = parser.parse_args()
     protected = {k for k in args.protect.split(",") if k}
+    if args.protect_file:
+        protected |= {line.strip() for line in open(args.protect_file, encoding="utf-8") if line.strip()}
     print(json.dumps(apply_rule(protected, dry_run=not args.apply), indent=2))

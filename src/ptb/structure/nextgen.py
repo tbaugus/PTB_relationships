@@ -17,6 +17,12 @@ import re
 from collections import Counter
 
 CODE_TOKEN_RE = re.compile(r"^(I|W|RX|R|S|O|ALL)(/(I|W|RX|R|S|O|ALL))*$")
+
+
+def split_code_alternatives(code_raw: str) -> list[str]:
+    """'W/RX' -> ['W', 'RX']; 'I, S' -> ['I', 'S'] (both separators occur in
+    print; the parsed list is what matching/gap logic consumes)."""
+    return [a for a in re.split(r"[/,]\s*", code_raw) if a]
 IPS_REFERENCE_RE = re.compile(r"PMS\s*350-(\d+[A-Za-z]?)")
 
 
@@ -42,7 +48,11 @@ def _find_column_bands(words: list[dict]) -> dict | None:
         return None
     code_x0 = min(w["x0"] for w in code_headers)
 
-    grid_headers = [w for w in words if w["text"] in ("Record", "Number")]
+    # The "Record Number" grid header always sits right of the CODE header;
+    # a task whose text begins with "Record" (FOBS #9 "Record relevant or
+    # appropriate features on a map.", September 2026) must not be mistaken
+    # for it, or the code band collapses and the page yields no tasks.
+    grid_headers = [w for w in words if w["text"] in ("Record", "Number") and w["x0"] > code_x0]
     grid_x0 = min((w["x0"] for w in grid_headers), default=code_x0 + 60)
 
     # Body text words: left of the code column, excluding digit-only tokens
@@ -67,6 +77,34 @@ def _find_column_bands(words: list[dict]) -> dict | None:
 
 def _in(x0: float, band: tuple[float, float]) -> bool:
     return band[0] <= x0 < band[1]
+
+
+def _row_edges(page, min_length: float = 200.0, merge_tolerance: float = 3.0) -> list[float]:
+    """Y positions of the position-evaluation table's horizontal rulings
+    (long edges only; the double-stroked borders a few tenths of a point
+    apart are merged), sorted top to bottom. Empty when the page has none."""
+    tops = sorted(e["top"] for e in page.horizontal_edges if e["x1"] - e["x0"] >= min_length)
+    merged: list[float] = []
+    for t in tops:
+        if merged and t - merged[-1] <= merge_tolerance:
+            continue
+        merged.append(t)
+    return merged
+
+
+def _row_index(row_edges: list[float], top: float) -> int | None:
+    """Index of the ruling-bounded row containing a word/line top (None when
+    the page has no rulings or the top lies outside the ruled table)."""
+    if len(row_edges) < 2 or top < row_edges[0] or top >= row_edges[-1]:
+        return None
+    lo, hi = 0, len(row_edges) - 1
+    while hi - lo > 1:
+        mid = (lo + hi) // 2
+        if row_edges[mid] <= top:
+            lo = mid
+        else:
+            hi = mid
+    return lo
 
 
 def _drop_bracketed(lines: list[list[dict]]) -> list[list[dict]]:
@@ -104,6 +142,7 @@ def parse_page(page, page_number: int) -> list[dict]:
     bands = _find_column_bands(words)
     if bands is None:
         return []
+    row_edges = _row_edges(page)
 
     # The repeating "Position Evaluation" column label sits in its own
     # right-hand furniture column (outside the body-text band), never mixed
@@ -158,7 +197,10 @@ def parse_page(page, page_number: int) -> list[dict]:
             for w in block_words
             if _in(w["x0"], bands["code"]) and round(w["top"], 1) not in grid_digit_tops
         ]
-        code_words = [w for w in code_words if w["text"] != "CODE" and re.match(r"^[A-Z/]+$", w["text"])]
+        # Codes print as "W/RX" (one token, or "W/" + "RX" across two lines)
+        # and, in a few books, as a comma list "I, S" / "I, W, RX" (INCM,
+        # ABRO, RADO): the comma-bearing tokens must be kept, not dropped.
+        code_words = [w for w in code_words if w["text"] != "CODE" and re.match(r"^[A-Z/,]+$", w["text"])]
 
         text_lines = _drop_bracketed(_cluster_lines(text_words))
         category_lines = [line for line in text_lines if line[0]["top"] <= boundary_top + 1]
@@ -168,15 +210,31 @@ def parse_page(page, page_number: int) -> list[dict]:
         def nearest_anchor(top: float) -> int:
             return min(anchors, key=lambda a: abs(a[1] - top))[0]
 
+        # A task's number and code are vertically centred in their table
+        # row, so for a long wrapped task the row's last text line can sit
+        # closer to the NEXT task's number than to its own (GISS #59, five
+        # lines, September 2026 — its tail landed on #60). The table's own
+        # horizontal rulings define the rows exactly: a line belongs to the
+        # anchor that shares its row; nearest-anchor is only the fallback for
+        # pages without usable rulings.
+        anchor_row = {n: _row_index(row_edges, top) for n, top in anchors}
+        anchor_by_row = {r: n for n, r in anchor_row.items() if r is not None}
+
+        def owning_anchor(top: float) -> int:
+            r = _row_index(row_edges, top)
+            if r is not None and r in anchor_by_row:
+                return anchor_by_row[r]
+            return nearest_anchor(top)
+
         tasks_by_num: dict[int, dict] = {n: {"text_words": [], "code_words": []} for n, _ in anchors}
         for line in text_lines:
             line_top = line[0]["top"]
             if line_top <= boundary_top + 1:
                 continue  # category name, already consumed
-            n = nearest_anchor(line_top)
+            n = owning_anchor(line_top)
             tasks_by_num[n]["text_words"].extend(line)
         for w in code_words:
-            n = nearest_anchor(w["top"])
+            n = owning_anchor(w["top"])
             tasks_by_num[n]["code_words"].append(w)
 
         for n, _ in anchors:
@@ -184,7 +242,11 @@ def parse_page(page, page_number: int) -> list[dict]:
             lines = _cluster_lines(bucket["text_words"])
             verbatim = " ".join(" ".join(w["text"] for w in line) for line in lines)
             verbatim = re.sub(r"\s+", " ", verbatim).strip()
-            code_raw = "".join(w["text"] for w in sorted(bucket["code_words"], key=lambda w: w["top"]))
+            code_tokens = [w["text"] for w in sorted(bucket["code_words"], key=lambda w: (w["top"], w["x0"]))]
+            # Preserve the printed form: slash-joined pieces glue together
+            # ("W/" + "RX" -> "W/RX"); comma-separated pieces keep a space
+            # ("I," + "S" -> "I, S").
+            code_raw = "".join(t + (" " if t.endswith(",") else "") for t in code_tokens).strip()
             if not verbatim or not code_raw:
                 continue
             results.append(
@@ -215,7 +277,7 @@ def structure_nextgen(pdf, position_codes: list[str]) -> tuple[list[dict], str |
     tasks = []
     for code in position_codes:
         for t in raw_tasks:
-            code_alts = t["code_raw"].split("/")
+            code_alts = split_code_alternatives(t["code_raw"])
             tasks.append(
                 {
                     "position_code": code,

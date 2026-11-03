@@ -156,6 +156,30 @@ Future app-phase tables (`candidates`, `candidate_completions`,
 
 ## Changelog
 
+- 2026-11-02 (corpus refresh): (1) `source_documents.edition_date` is now
+  populated for every row and stored as ISO-8601 `YYYY-MM` (or
+  `YYYY-MM-DD`), honouring the "ISO-8601 TEXT dates" rule in this spec's
+  header that the previous printed-form values ("JUNE 2009") did not. The
+  loader converts the extraction layer's verbatim printed month, and when
+  extraction has none (the enhanced Google Doc prints no edition line) it
+  falls back to the manifest's `edition_date` (the DOCX core-properties
+  `modified` timestamp, recorded by acquisition with its source). The
+  printed month and the manifest's `edition_date` must agree on year-month,
+  else the load raises; where NWCG's catalog and the PDF disagree,
+  acquisition has already chosen the printed month and recorded the
+  conflict on the entry (acquisition.spec.md AC-A12), so the DB value is
+  always the document's own edition. No DDL change. (2) Known-gap list: PMS 311-112 (REAF, July
+  2025) is now in the corpus, so REAF has a `positions` row and its
+  requirements load; six requirements-only codes remain (AREP, EDRC, FFT2,
+  IARR, OPS3, PIOT), and the two skipped `position_implications` pairs
+  (DIVS→OPS3, ICT3→OPS3) are unchanged. (3) FEMO and FOBS are now two
+  `source_documents` rows (`pms311-71_FEMO.pdf`, `pms311-30_FOBS.pdf`,
+  both Next Gen) instead of one shared legacy row; the retired combined
+  book is not loaded (acquisition.spec.md "Corpus refresh"). (4) INV-7's
+  exception list is re-verified on the refreshed corpus: none of PSC3,
+  PSCC, FSCC was republished, so the list is expected to be unchanged; if a
+  refresh ever republishes one of them with the blank cell fixed, the
+  exception for that position is removed here in the same change.
 - 2026-07-11 (Phase 5 forced fix): `db.py` gained
   `load_enhanced_position_requirements()`, loading `position_requirements`
   rows for enhanced_gdoc (FireTech draft) positions from their inline

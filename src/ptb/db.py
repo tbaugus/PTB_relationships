@@ -12,9 +12,10 @@ field_coverage (Phase 6), which are created empty.
 
 Known, documented Phase-3 gaps (not bugs — see PLAN.md's acquisition/Phase-1
 notes for why these positions have no task book):
-- Seven codes have a qualification-requirements page but no PTB (AREP, EDRC,
-  FFT2, IARR, OPS3, PIOT, REAF). `positions` requires a source_document_id,
-  so these codes never get a `positions` row and their
+- Six codes have a qualification-requirements page but no PTB (AREP, EDRC,
+  FFT2, IARR, OPS3, PIOT; REAF left this list with the 2026-11-02 corpus
+  refresh, when NWCG's PMS 311-112 entered the corpus). `positions` requires
+  a source_document_id, so these codes never get a `positions` row and their
   extracted/requirements/<code>.json is not loaded into position_requirements
   in this phase.
 - `position_implications` pairs where either endpoint lacks a `positions` row
@@ -278,6 +279,47 @@ def _load_manifest() -> dict[str, dict]:
     return {d["filename"]: d for d in manifest["documents"]}
 
 
+_MONTHS = {
+    name: i
+    for i, name in enumerate(
+        ["january", "february", "march", "april", "may", "june", "july",
+         "august", "september", "october", "november", "december"],
+        start=1,
+    )
+}
+
+
+def printed_edition_to_iso(printed: str | None) -> str | None:
+    """'SEPTEMBER 2026' / 'October 2018' -> '2026-09' / '2018-10' (None if unparseable)."""
+    if not printed:
+        return None
+    parts = printed.strip().split()
+    if len(parts) != 2 or parts[0].lower() not in _MONTHS or not parts[1].isdigit():
+        return None
+    return f"{int(parts[1]):04d}-{_MONTHS[parts[0].lower()]:02d}"
+
+
+def resolve_edition_date(doc: ExtractedDocument, manifest_entry: dict) -> str | None:
+    """ISO-8601 edition date for a source_documents row (schema.spec.md
+    changelog 2026-11-02): the extraction layer's verbatim printed month,
+    normalized; else the manifest's `edition_date` (e.g. the DOCX modified
+    date acquisition recorded for the Google Doc, which prints none). The
+    printed month and the manifest value must agree unless the manifest
+    entry itself records the disagreement (`edition_date_conflict`, in
+    which case acquisition already chose the printed value) — any other
+    disagreement means extraction and acquisition read different files,
+    which is an error, not something to resolve silently."""
+    printed_iso = printed_edition_to_iso(doc.document.edition_date)
+    manifest_iso = manifest_entry.get("edition_date")
+    if printed_iso and manifest_iso and printed_iso != manifest_iso[:7]:
+        raise ValueError(
+            f"{doc.document.filename}: printed edition {doc.document.edition_date!r} ({printed_iso}) "
+            f"disagrees with the manifest's edition_date {manifest_iso!r} "
+            f"(source: {manifest_entry.get('edition_date_source')})"
+        )
+    return printed_iso or manifest_iso
+
+
 def _insert_source_document(conn: sqlite3.Connection, doc: ExtractedDocument, manifest_entry: dict) -> int:
     filename = doc.document.filename
     raw_path = CORPUS_RAW_DIR / filename
@@ -300,7 +342,7 @@ def _insert_source_document(conn: sqlite3.Connection, doc: ExtractedDocument, ma
             manifest_entry.get("role", "ptb"),
             1 if doc.document.official else 0,
             doc.document.pms_number,
-            doc.document.edition_date,
+            resolve_edition_date(doc, manifest_entry),
             manifest_entry["downloaded_at"],
         ),
     )

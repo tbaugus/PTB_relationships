@@ -1,0 +1,343 @@
+{
+  "document": {
+    "filename": "pms311-30_FOBS.pdf",
+    "sha256": "cef24a97b0b9facc5231a75dd850a29ddc3fd608d007424dbfaff2919bb67edd",
+    "pms_number": "311-30",
+    "format": "nwcg_nextgen",
+    "position_codes": [
+      "FOBS"
+    ],
+    "title": "Field Observer",
+    "edition_date": "SEPTEMBER 2026",
+    "ips_reference": "350-30",
+    "official": true,
+    "page_count": 10
+  },
+  "positions": [
+    {
+      "code": "FOBS",
+      "title": "Field Observer",
+      "provisional_code": false,
+      "requirements_text": null,
+      "attaches_to": null,
+      "extra_fields": {}
+    }
+  ],
+  "tasks": [
+    {
+      "position_code": "FOBS",
+      "task_number": 1,
+      "category": "Leadership Level 2, New Leader (Convey Intent)",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 2,
+      "category": "Prepare and Mobilize",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure individual readiness.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 3,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Follow chain of command and reporting procedures.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 5
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 4,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish a common operating picture with supervisors and adjacent resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 5,
+      "category": "Build the Team",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 6,
+      "category": "Perform Field Observer-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Obtain supplies and current information for operational period.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 7,
+      "category": "Perform Field Observer-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Travel to and from the assigned work area.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 8,
+      "category": "Perform Field Observer-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Assess project or assigned work area.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 9,
+      "category": "Perform Field Observer-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Record relevant or appropriate features on a map.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 10,
+      "category": "Perform Field Observer-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Report weather and fire behavior data.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 11,
+      "category": "Perform Field Observer-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Report atmospheric characteristics and changes that influence fire behavior.",
+      "code_raw": "O",
+      "code_alternatives": [
+        "O"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 12,
+      "category": "Perform Field Observer-Specific Duties",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Report smoke characteristics and impacts.",
+      "code_raw": "W/RX",
+      "code_alternatives": [
+        "W",
+        "RX"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 13,
+      "category": "Communicate and Coordinate",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Establish communications and exchange necessary information with other resources.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 14,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Apply the Risk Management Process.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    },
+    {
+      "position_code": "FOBS",
+      "task_number": 15,
+      "category": "Manage Risk",
+      "behavior": null,
+      "level": null,
+      "verbatim_text": "Ensure Lookouts, Communications, Escape Routes, and Safety Zones (LCES) are established and known.",
+      "code_raw": "I",
+      "code_alternatives": [
+        "I"
+      ],
+      "clarifications": [],
+      "page": 6
+    }
+  ],
+  "fields_observed": [
+    {
+      "field_name": "signature_page_initiation",
+      "page": 1
+    },
+    {
+      "field_name": "signature_page_verification",
+      "page": 1
+    },
+    {
+      "field_name": "signature_page_certification",
+      "page": 1
+    },
+    {
+      "field_name": "trainee_iqcs_number",
+      "page": 1
+    },
+    {
+      "field_name": "code_definitions_block",
+      "page": 3
+    },
+    {
+      "field_name": "trainee_ips_review_checkbox",
+      "page": 5
+    },
+    {
+      "field_name": "performance_rating_scale",
+      "page": 2
+    },
+    {
+      "field_name": "per_assignment_rating_columns",
+      "page": 5
+    },
+    {
+      "field_name": "virtual_assignment_flag",
+      "page": 7
+    },
+    {
+      "field_name": "ips_reviewed_flag",
+      "page": 7
+    },
+    {
+      "field_name": "evaluator_position_on_incident",
+      "page": 7
+    },
+    {
+      "field_name": "evaluator_iqcs_number",
+      "page": 7
+    },
+    {
+      "field_name": "incident_name",
+      "page": 4
+    },
+    {
+      "field_name": "incident_reference_code",
+      "page": 7
+    },
+    {
+      "field_name": "assignment_duration",
+      "page": 4
+    },
+    {
+      "field_name": "incident_kind",
+      "page": 4
+    },
+    {
+      "field_name": "location_geographic_area",
+      "page": 7
+    },
+    {
+      "field_name": "management_type",
+      "page": 7
+    },
+    {
+      "field_name": "rx_complexity_level",
+      "page": 4
+    },
+    {
+      "field_name": "fbps_fuel_model_group",
+      "page": 4
+    },
+    {
+      "field_name": "evaluator_recommendation_block",
+      "page": 7
+    },
+    {
+      "field_name": "remarks_narrative",
+      "page": 4
+    },
+    {
+      "field_name": "evaluator_relevant_qualification",
+      "page": 7
+    },
+    {
+      "field_name": "edition_date",
+      "page": 1
+    },
+    {
+      "field_name": "ips_reference",
+      "page": 2
+    }
+  ],
+  "extra_fields": {}
+}

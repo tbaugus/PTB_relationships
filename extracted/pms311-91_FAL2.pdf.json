@@ -1,14 +1,14 @@
 {
   "document": {
     "filename": "pms311-91_FAL2.pdf",
-    "sha256": "d2ec10c1cbdf0909fd3b16e640848c8ca013d2e919d83570cbdcef8c1d3d279e",
+    "sha256": "fcf625167ede93d17234eab295bb932f9a48b39cf90866511b2f7b5e1a856e33",
     "pms_number": "311-91",
     "format": "nwcg_nextgen",
     "position_codes": [
       "FAL2"
     ],
     "title": "Intermediate Faller",
-    "edition_date": "JANUARY 2026",
+    "edition_date": "JULY 2026",
     "ips_reference": null,
     "official": true,
     "page_count": 14
@@ -44,7 +44,7 @@
       "category": "Prepare and Mobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Comply with FAL2 position standards as defined in NWCG St andards for Wildland Fire Chainsaw Operations, PMS 212, and established agency standards for saw operating procedures.",
+      "verbatim_text": "Comply with FAL2 position standards as defined in NWCG Standards for Wildland Fire Chainsaw Operations, PMS 212, and established agency standards for saw operating procedures.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
@@ -58,7 +58,7 @@
       "category": "Prepare and Mobilize",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Ensure individual and equipment readiness. Have proper PPE, ch ainsaw kit, necessary forms, and reference material (e.g., PTB, IRPG).",
+      "verbatim_text": "Ensure individual and equipment readiness. Have proper PPE, chainsaw kit, necessary forms, and reference material (e.g., PTB, IRPG).",
       "code_raw": "O",
       "code_alternatives": [
         "O"
@@ -198,7 +198,7 @@
       "category": "Perform Intermediate Faller Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Determine tree structural stability and potential fiber characteristics through use of boring techniques and sounding. Accurately determine both the natural and calculated leans in a",
+      "verbatim_text": "Determine tree structural stability and potential fiber characteristics through use of boring techniques and sounding.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
@@ -212,7 +212,7 @@
       "category": "Perform Intermediate Faller Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "moderate complexity felling operation. • Quantify and verbalize the calculated lean, in feet, for both forward/back lean and side to side lean relative to the objective. • Demonstrate the ability to use a plumb bob, axe, or limb-",
+      "verbatim_text": "Accurately determine both the natural and calculated leans in a moderate complexity felling operation. • Quantify and verbalize the calculated lean, in feet, for both forward/back lean and side to side lean relative to the objective. • Demonstrate the ability to use a plumb bob, axe, or limb- weight distribution method to determine leans.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
@@ -226,7 +226,7 @@
       "category": "Perform Intermediate Faller Specific Duties",
       "behavior": null,
       "level": null,
-      "verbatim_text": "weight distribution method to determine leans. Develop an escape plan, free of obstructions, that takes into consideration the good side and bad side of the tree. Multiple escape paths are preferred but may not be available.",
+      "verbatim_text": "Develop an escape plan, free of obstructions, that takes into consideration the good side and bad side of the tree. Multiple escape paths are preferred but may not be available.",
       "code_raw": "O",
       "code_alternatives": [
         "O"

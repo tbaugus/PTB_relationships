@@ -2051,14 +2051,14 @@
       "clarifications": [
         "If the aerial supervisor will fly more than 4 hours on any one flight, order a relief.",
         "On multi-day incidents, assign a second aerial supervisor and rotate about every 3 hours.",
-        "Utilize appropriate ASM/HLCO/Lead/ATGS positions to provide coverage. Behavior: Plan for demobilization and ensure demobilization procedures are followed."
+        "Utilize appropriate ASM/HLCO/Lead/ATGS positions to provide coverage."
       ],
       "page": 40
     },
     {
       "position_code": "HLCO",
       "task_number": 112,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Manage the diversion of aerial resources to higher priority fires.",
@@ -4108,14 +4108,14 @@
       "clarifications": [
         "If the aerial supervisor will fly more than 4 hours on any one flight, order a relief.",
         "On multi-day incidents, assign a second aerial supervisor and rotate about every 3 hours.",
-        "Utilize appropriate ASM/HLCO/Lead/ATGS positions to provide coverage. Behavior: Plan for demobilization and ensure demobilization procedures are followed."
+        "Utilize appropriate ASM/HLCO/Lead/ATGS positions to provide coverage."
       ],
       "page": 40
     },
     {
       "position_code": "ATGS",
       "task_number": 112,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Plan for demobilization and ensure demobilization procedures are followed.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Manage the diversion of aerial resources to higher priority fires.",

@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sqlite3
 import sys
 from collections import deque
@@ -71,7 +72,9 @@ def code_satisfied(code_raw: str, context: str, is_enhanced_format: bool) -> boo
     context, never by NWCG's broader "any situation" contexts (which do NOT
     apply in reverse per the spec).
     """
-    for code in code_raw.split("/"):
+    # Alternatives print as "W/RX" or, in a few books, "I, S" (see
+    # extraction.spec.md changelog 2026-11-03).
+    for code in (c for c in re.split(r"[/,]\s*", code_raw) if c):
         if code == "O" and is_enhanced_format:
             if context == "developmental":
                 return True
@@ -427,20 +430,28 @@ def closest_positions(
                 ):
                     derivation = "direct"
 
+                if derivation is None and kind == "prerequisite_position":
+                    val_pos_id = ctx.code_to_id.get(value)
+                    if val_pos_id is not None and val_pos_id in prereq_chain_set and val_pos_id not in held_ids:
+                        derivation = "implied_by"
+                        derivation_position = ctx.positions[prereq_root[val_pos_id]]["code"]
+
                 if derivation is None:
-                    if kind == "prerequisite_position":
-                        val_pos_id = ctx.code_to_id.get(value)
-                        if val_pos_id is not None and val_pos_id in prereq_chain_set and val_pos_id not in held_ids:
+                    # Rule 4 by requirement text: the same (kind, value) sits in
+                    # the requirement set of a held qualification or of any
+                    # position in its chain. For prerequisite_position this is
+                    # the only route for codes with no `positions` row (FFT2,
+                    # EDRC, EMT — requirements pages but no task book), which
+                    # prereq_edges cannot reach; without it an ENGB holder was
+                    # re-demanded FFT2 although ENGB -> FFT1 -> FFT2 (found by
+                    # the 2026-11-03 spec-checker audit, AC-G2).
+                    for owner_pos_id in held_ids | prereq_chain_set:
+                        owner_reqs = ctx.requirements_by_position.get(owner_pos_id, [])
+                        if any(r["kind"] == kind and r["value"] == value for r in owner_reqs):
+                            root_id = prereq_root.get(owner_pos_id, owner_pos_id)
                             derivation = "implied_by"
-                            derivation_position = ctx.positions[prereq_root[val_pos_id]]["code"]
-                    else:
-                        for owner_pos_id in held_ids | prereq_chain_set:
-                            owner_reqs = ctx.requirements_by_position.get(owner_pos_id, [])
-                            if any(r["kind"] == kind and r["value"] == value for r in owner_reqs):
-                                root_id = prereq_root.get(owner_pos_id, owner_pos_id)
-                                derivation = "implied_by"
-                                derivation_position = ctx.positions[root_id]["code"]
-                                break
+                            derivation_position = ctx.positions[root_id]["code"]
+                            break
 
                 if derivation is None and kind == "prerequisite_position":
                     val_pos_id = ctx.code_to_id.get(value)
@@ -490,8 +501,68 @@ def closest_positions(
 # ---------------------------------------------------------------------------
 
 
-def format_report(profile: CandidateProfile, results: list[PositionGap], limit: int = 10) -> str:
-    lines = [DISCLAIMER, ""]
+@dataclass(frozen=True)
+class DataCurrency:
+    """What edition of the source data a report describes (gap-analysis.spec.md
+    "Data currency", AC-G9). Read from source_documents, never hardcoded."""
+
+    downloaded_at: str | None  # newest corpus download date
+    nwcg_edition_min: str | None  # oldest NWCG (official=1) task-book edition, ISO YYYY-MM
+    nwcg_edition_max: str | None  # newest NWCG task-book edition
+    nwcg_document_count: int
+    ntft_edition: str | None  # NTFT draft's own date (DOCX modified), if any
+
+    def line(self) -> str:
+        parts = [f"corpus downloaded {self.downloaded_at or 'unknown'}"]
+        if self.nwcg_edition_max:
+            span = (
+                f"{self.nwcg_edition_min} to {self.nwcg_edition_max}"
+                if self.nwcg_edition_min != self.nwcg_edition_max
+                else self.nwcg_edition_max
+            )
+            parts.append(f"NWCG task-book editions {span} ({self.nwcg_document_count} documents)")
+        if self.ntft_edition:
+            parts.append(f"{DRAFT_LABEL} draft dated {self.ntft_edition}")
+        return "Data as of: " + "; ".join(parts) + "."
+
+
+def data_currency(conn: sqlite3.Connection | None = None) -> DataCurrency:
+    owns_conn = conn is None
+    if owns_conn:
+        conn = db.connect()
+    try:
+        row = conn.execute(
+            """
+            SELECT MAX(downloaded_at) AS downloaded_at,
+                   MIN(CASE WHEN official = 1 THEN edition_date END) AS ed_min,
+                   MAX(CASE WHEN official = 1 THEN edition_date END) AS ed_max,
+                   SUM(CASE WHEN official = 1 THEN 1 ELSE 0 END) AS n_official,
+                   MAX(CASE WHEN official = 0 THEN edition_date END) AS ntft
+            FROM source_documents WHERE role = 'ptb'
+            """
+        ).fetchone()
+    finally:
+        if owns_conn:
+            conn.close()
+    return DataCurrency(
+        downloaded_at=row["downloaded_at"],
+        nwcg_edition_min=row["ed_min"],
+        nwcg_edition_max=row["ed_max"],
+        nwcg_document_count=row["n_official"] or 0,
+        ntft_edition=row["ntft"],
+    )
+
+
+def format_report(
+    profile: CandidateProfile,
+    results: list[PositionGap],
+    limit: int = 10,
+    currency: DataCurrency | None = None,
+) -> str:
+    lines = [DISCLAIMER]
+    # Honesty contract: say which edition of the data this report describes.
+    lines.append((currency or data_currency()).line())
+    lines.append("")
     for pg in results[:limit]:
         remaining = len(pg.gaps_tasks) + len(pg.gaps_context_only) + len(pg.gaps_requirements)
         draft_tag = f" ({DRAFT_LABEL})" if pg.draft else ""

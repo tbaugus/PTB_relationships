@@ -1,12 +1,12 @@
 # Format-Gap Evaluation
 
-> Generated: 2026-07-11 &middot; corpus hash: `8932ca5034749688`
+> Generated: 2026-11-03 &middot; corpus hash: `cd072062550552f1`
 > Regenerated whole by `src/ptb/report.py` from `extracted/*.json` on every run. Never hand-edited - fix the classifier in report.py and regenerate.
 
 ## 1. Corpus & format census
 
-- **NWCG Next Gen** (`nwcg_nextgen`): 39 document(s), 39 position(s), 864 task(s)
-- **NWCG Legacy** (`nwcg_legacy`): 59 document(s), 70 position(s), 3201 task(s)
+- **NWCG Next Gen** (`nwcg_nextgen`): 51 document(s), 51 position(s), 1126 task(s)
+- **NWCG Legacy** (`nwcg_legacy`): 49 document(s), 59 position(s), 2841 task(s)
 - **Enhanced (FireTech draft)** (`enhanced_gdoc`): 1 document(s), 11 position(s), 95 task(s)
 
 ## 2. Field-coverage matrix
@@ -74,7 +74,7 @@ the direct extraction evidence behind every cell.
 
 ### NWCG Next Gen (`nwcg_nextgen`)
 
-39 documents, 864 tasks in this corpus.
+51 documents, 1126 tasks in this corpus.
 
 **Captures** (28 fields): `signature_page_initiation`, `signature_page_verification`, `signature_page_certification`, `edition_date`, `ips_reference`, `trainee_ips_review_checkbox`, `trainee_iqcs_number`, `task_number`, `task_category`, `evaluation_context_code`, `performance_rating_scale`, `per_assignment_rating_columns`, `virtual_assignment_flag`, `ips_reviewed_flag`, `evaluator_position_on_incident`, `evaluator_iqcs_number`, `evaluator_relevant_qualification`, `incident_name`, `incident_reference_code`, `assignment_duration`, `incident_kind`, `location_geographic_area`, `management_type`, `rx_complexity_level`, `fbps_fuel_model_group`, `evaluator_recommendation_block`, `remarks_narrative`, `code_definitions_block`.
 
@@ -85,7 +85,7 @@ On its own, a Next Gen PTB tells you *how well* a trainee performed each task (N
 
 ### NWCG Legacy (`nwcg_legacy`)
 
-59 documents, 3201 tasks in this corpus.
+49 documents, 2841 tasks in this corpus.
 
 **Captures** (23 fields): `signature_page_initiation`, `signature_page_verification`, `signature_page_certification`, `edition_date`, `prerequisite_buildup_statement`, `task_number`, `task_behavior_grouping`, `evaluation_context_code`, `task_clarification_bullets`, `per_task_completion_date`, `per_task_evaluator_initials`, `evaluator_position_on_incident`, `evaluator_relevant_qualification`, `incident_name`, `incident_reference_code`, `assignment_duration`, `incident_kind`, `location_geographic_area`, `management_type`, `rx_complexity_level`, `fbps_fuel_model_group`, `evaluator_recommendation_block`, `code_definitions_block`.
 
@@ -125,11 +125,10 @@ This project takes no position on which option a future app should choose - it i
 
 ## 5. Intra-format variance findings
 
-- `trainee_ips_review_checkbox` in NWCG Next Gen: observed in 24/39 documents, not all - intra-format variance, not a bug (see evidence appendix).
-- `ips_reviewed_flag` in NWCG Next Gen: observed in 23/39 documents, not all - intra-format variance, not a bug (see evidence appendix).
-- `ips_reference` in NWCG Next Gen: observed in 37/39 documents, not all - intra-format variance, not a bug (see evidence appendix).
-- `prerequisite_buildup_statement` in NWCG Legacy: observed in 4/59 documents, not all - intra-format variance, not a bug (see evidence appendix).
-- `edition_date` in NWCG Legacy: observed in 52/59 documents, not all - intra-format variance, not a bug (see evidence appendix).
+- `trainee_ips_review_checkbox` in NWCG Next Gen: observed in 36/51 documents, not all - intra-format variance, not a bug (see evidence appendix).
+- `ips_reviewed_flag` in NWCG Next Gen: observed in 35/51 documents, not all - intra-format variance, not a bug (see evidence appendix).
+- `ips_reference` in NWCG Next Gen: observed in 49/51 documents, not all - intra-format variance, not a bug (see evidence appendix).
+- `prerequisite_buildup_statement` in NWCG Legacy: observed in 3/49 documents, not all - intra-format variance, not a bug (see evidence appendix).
 
 ## 6. No imputed values
 
@@ -145,43 +144,43 @@ from a different format.
 ## 7. Evidence appendix (every field &times; format cell)
 
 ### `signature_page_initiation`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.1 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.1 (observed in all 59/59 nwcg_legacy documents)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.1 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.1 (observed in all 49/49 nwcg_legacy documents)
 - **Enhanced (FireTech draft)** (absent_from_format): checked all 1 enhanced_gdoc documents (enhanced_ptbs_gdoc.docx)
 
 ### `signature_page_verification`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.1 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.2 (observed in all 59/59 nwcg_legacy documents)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.1 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.2 (observed in all 49/49 nwcg_legacy documents)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.4 (observed in all 1/1 enhanced_gdoc documents)
 
 ### `signature_page_certification`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.1 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.2 (observed in all 59/59 nwcg_legacy documents)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.1 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.2 (observed in all 49/49 nwcg_legacy documents)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.5 (observed in all 1/1 enhanced_gdoc documents)
 
 ### `edition_date`
 - **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.1 edition_date='MAY 2024'
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.1 edition_date='JUNE 2010'; intra-format variance: 52/59 documents have a parseable edition date
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.1 edition_date='JUNE 2010'
 - **Enhanced (FireTech draft)** (absent_from_format): checked all 1 enhanced_gdoc documents (enhanced_ptbs_gdoc.docx); enhanced_ptbs_gdoc.pdf has 0 occurrences of 'PMS' anywhere (no PMS-numbered edition-date convention exists for this draft format) and build_enhanced_document() hardcodes edition_date=None without attempting extraction - a genuine format difference, not sample blankness
 
 ### `ips_reference`
 - **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.2 ips_reference='350-98'; 2 documents have no companion IPS (pms311-119_FAL3.pdf, pms311-91_FAL2.pdf - confirmed no PMS 350-xxx standard exists, see PLAN.md Phase 1 known gaps)
-- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 55 more); 0 have ips_reference - legacy externalizes task detail via inline clarification bullets instead of an external IPS reference
+- **NWCG Legacy** (absent_from_format): checked all 49 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 45 more); 0 have ips_reference - legacy externalizes task detail via inline clarification bullets instead of an external IPS reference
 - **Enhanced (FireTech draft)** (absent_from_format): checked all 1 enhanced_gdoc documents (enhanced_ptbs_gdoc.docx); 0 have ips_reference - enhanced_gdoc drafts cite no official external IPS document
 
 ### `prerequisite_buildup_statement`
-- **NWCG Next Gen** (absent_from_format): checked all 39 nwcg_nextgen documents (pms-311-98_CRWB.pdf, pms311-103_ENGB.pdf, pms311-105_FIRB.pdf, pms311-107_FELB.pdf, + 35 more)
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.1; intra-format variance: observed in 4/59 nwcg_legacy documents (checked all 59: pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 55 more)
+- **NWCG Next Gen** (absent_from_format): checked all 51 nwcg_nextgen documents (pms-311-98_CRWB.pdf, pms311-103_ENGB.pdf, pms311-105_FIRB.pdf, pms311-107_FELB.pdf, + 47 more)
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.1; intra-format variance: observed in 3/49 nwcg_legacy documents (checked all 49: pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 45 more)
 - **Enhanced (FireTech draft)** (absent_from_format): checked all 1 enhanced_gdoc documents (enhanced_ptbs_gdoc.docx)
 
 ### `trainee_ips_review_checkbox`
-- **NWCG Next Gen** (captured): pms311-103_ENGB.pdf p.5; intra-format variance: observed in 24/39 nwcg_nextgen documents (checked all 39: pms-311-98_CRWB.pdf, pms311-103_ENGB.pdf, pms311-105_FIRB.pdf, pms311-107_FELB.pdf, + 35 more)
-- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 55 more)
+- **NWCG Next Gen** (captured): pms311-103_ENGB.pdf p.5; intra-format variance: observed in 36/51 nwcg_nextgen documents (checked all 51: pms-311-98_CRWB.pdf, pms311-103_ENGB.pdf, pms311-105_FIRB.pdf, pms311-107_FELB.pdf, + 47 more)
+- **NWCG Legacy** (absent_from_format): checked all 49 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 45 more)
 - **Enhanced (FireTech draft)** (absent_from_format): checked all 1 enhanced_gdoc documents (enhanced_ptbs_gdoc.docx)
 
 ### `trainee_iqcs_number`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.1 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 55 more)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.1 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (absent_from_format): checked all 49 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 45 more)
 - **Enhanced (FireTech draft)** (absent_from_format): checked all 1 enhanced_gdoc documents (enhanced_ptbs_gdoc.docx)
 
 ### `task_number`
@@ -191,11 +190,11 @@ from a different format.
 
 ### `task_category`
 - **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.5 category='Leadership Level 2, New Leader (Convey Intent)' (Next Gen functional category heading)
-- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 55 more); the `category` JSON slot holds the legacy Behavior: heading text (task_behavior_grouping), not a Next Gen functional category
+- **NWCG Legacy** (absent_from_format): checked all 49 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 45 more); the `category` JSON slot holds the legacy Behavior: heading text (task_behavior_grouping), not a Next Gen functional category
 - **Enhanced (FireTech draft)** (absent_from_format): checked all 1 enhanced_gdoc documents (enhanced_ptbs_gdoc.docx); e.g. enhanced_ptbs_gdoc.docx p.3 category='COMPETENCY: Assume position responsibilities. Successfully a'...; the `category` slot holds a COMPETENCY heading (task_competency_grouping), not a Next Gen functional category
 
 ### `task_behavior_grouping`
-- **NWCG Next Gen** (absent_from_format): checked all 39 nwcg_nextgen documents (pms-311-98_CRWB.pdf, pms311-103_ENGB.pdf, pms311-105_FIRB.pdf, pms311-107_FELB.pdf, + 35 more); Next Gen has no Behavior:-heading grouping level (category only)
+- **NWCG Next Gen** (absent_from_format): checked all 51 nwcg_nextgen documents (pms-311-98_CRWB.pdf, pms311-103_ENGB.pdf, pms311-105_FIRB.pdf, pms311-107_FELB.pdf, + 47 more); Next Gen has no Behavior:-heading grouping level (category only)
 - **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.6 category='Ensure readiness for assignment.' (legacy 'Behavior:' heading, stored in the `category` slot per extraction.spec.md's output contract)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.3 behavior='Ensure readiness for assignment' (Behavior: subheading, stored in the `behavior` slot)
 
@@ -205,177 +204,177 @@ from a different format.
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.3 task #1 code_raw='W/RX' (code_raw/code_alternatives required non-empty on every task)
 
 ### `task_clarification_bullets`
-- **NWCG Next Gen** (absent_from_format): checked all 864 nwcg_nextgen tasks across 39 documents; 0 have clarifications - Next Gen moves task detail to the external IPS document
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.6 task #1 clarifications=['Appropriate references for the incident (e.g., PMS 410-1, Fireline Handbook)'] (1961/3201 legacy tasks have clarification bullets; the rest genuinely have none printed)
+- **NWCG Next Gen** (absent_from_format): checked all 1126 nwcg_nextgen tasks across 51 documents; 0 have clarifications - Next Gen moves task detail to the external IPS document
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.6 task #1 clarifications=['Appropriate references for the incident (e.g., PMS 410-1, Fireline Handbook)'] (1753/2841 legacy tasks have clarification bullets; the rest genuinely have none printed)
 - **Enhanced (FireTech draft)** (absent_from_format): checked all 95 enhanced_gdoc tasks across 1 documents; 0 have clarifications - no clarification-bullet structure in this format's task rows
 
 ### `performance_rating_scale`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.2 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 55 more)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.2 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (absent_from_format): checked all 49 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 45 more)
 - **Enhanced (FireTech draft)** (absent_from_format): checked all 1 enhanced_gdoc documents (enhanced_ptbs_gdoc.docx)
 
 ### `per_task_completion_date`
-- **NWCG Next Gen** (absent_from_format): checked all 39 nwcg_nextgen documents (pms-311-98_CRWB.pdf, pms311-103_ENGB.pdf, pms311-105_FIRB.pdf, pms311-107_FELB.pdf, + 35 more)
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.6 (observed in all 59/59 nwcg_legacy documents)
+- **NWCG Next Gen** (absent_from_format): checked all 51 nwcg_nextgen documents (pms-311-98_CRWB.pdf, pms311-103_ENGB.pdf, pms311-105_FIRB.pdf, pms311-107_FELB.pdf, + 47 more)
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.6 (observed in all 49/49 nwcg_legacy documents)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.1 (observed in all 1/1 enhanced_gdoc documents)
 
 ### `per_task_evaluator_initials`
-- **NWCG Next Gen** (absent_from_format): checked all 39 nwcg_nextgen documents (pms-311-98_CRWB.pdf, pms311-103_ENGB.pdf, pms311-105_FIRB.pdf, pms311-107_FELB.pdf, + 35 more)
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.6 (observed in all 59/59 nwcg_legacy documents)
+- **NWCG Next Gen** (absent_from_format): checked all 51 nwcg_nextgen documents (pms-311-98_CRWB.pdf, pms311-103_ENGB.pdf, pms311-105_FIRB.pdf, pms311-107_FELB.pdf, + 47 more)
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.6 (observed in all 49/49 nwcg_legacy documents)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.3 (observed in all 1/1 enhanced_gdoc documents)
 
 ### `per_assignment_rating_columns`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.5 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 55 more)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.5 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (absent_from_format): checked all 49 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 45 more)
 - **Enhanced (FireTech draft)** (absent_from_format): checked all 1 enhanced_gdoc documents (enhanced_ptbs_gdoc.docx)
 
 ### `virtual_assignment_flag`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.9 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 55 more)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.9 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (absent_from_format): checked all 49 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 45 more)
 - **Enhanced (FireTech draft)** (absent_from_format): checked all 1 enhanced_gdoc documents (enhanced_ptbs_gdoc.docx)
 
 ### `ips_reviewed_flag`
-- **NWCG Next Gen** (captured): pms311-103_ENGB.pdf p.8; intra-format variance: observed in 23/39 nwcg_nextgen documents (checked all 39: pms-311-98_CRWB.pdf, pms311-103_ENGB.pdf, pms311-105_FIRB.pdf, pms311-107_FELB.pdf, + 35 more)
-- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 55 more)
+- **NWCG Next Gen** (captured): pms311-103_ENGB.pdf p.8; intra-format variance: observed in 35/51 nwcg_nextgen documents (checked all 51: pms-311-98_CRWB.pdf, pms311-103_ENGB.pdf, pms311-105_FIRB.pdf, pms311-107_FELB.pdf, + 47 more)
+- **NWCG Legacy** (absent_from_format): checked all 49 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 45 more)
 - **Enhanced (FireTech draft)** (absent_from_format): checked all 1 enhanced_gdoc documents (enhanced_ptbs_gdoc.docx)
 
 ### `evaluator_position_on_incident`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.9 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.18 (observed in all 59/59 nwcg_legacy documents)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.9 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.18 (observed in all 49/49 nwcg_legacy documents)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.2 (observed in all 1/1 enhanced_gdoc documents)
 
 ### `evaluator_iqcs_number`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.9 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 55 more)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.9 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (absent_from_format): checked all 49 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 45 more)
 - **Enhanced (FireTech draft)** (absent_from_format): checked all 1 enhanced_gdoc documents (enhanced_ptbs_gdoc.docx)
 
 ### `evaluator_relevant_qualification`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.9 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.5 (observed in all 59/59 nwcg_legacy documents)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.9 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.5 (observed in all 49/49 nwcg_legacy documents)
 - **Enhanced (FireTech draft)** (absent_from_format): checked all 1 enhanced_gdoc documents (enhanced_ptbs_gdoc.docx)
 
 ### `incident_name`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.4 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.4 (observed in all 59/59 nwcg_legacy documents)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.4 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.4 (observed in all 49/49 nwcg_legacy documents)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.2 (observed in all 1/1 enhanced_gdoc documents)
 
 ### `incident_reference_code`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.9 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.18 (observed in all 59/59 nwcg_legacy documents)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.9 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.18 (observed in all 49/49 nwcg_legacy documents)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.2 (observed in all 1/1 enhanced_gdoc documents)
 
 ### `assignment_duration`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.4 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.4 (observed in all 59/59 nwcg_legacy documents)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.4 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.4 (observed in all 49/49 nwcg_legacy documents)
 - **Enhanced (FireTech draft)** (absent_from_format): checked all 1 enhanced_gdoc documents (enhanced_ptbs_gdoc.docx)
 
 ### `incident_kind`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.4 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.4 (observed in all 59/59 nwcg_legacy documents)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.4 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.4 (observed in all 49/49 nwcg_legacy documents)
 - **Enhanced (FireTech draft)** (absent_from_format): checked all 1 enhanced_gdoc documents (enhanced_ptbs_gdoc.docx)
 
 ### `location_geographic_area`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.9 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.18 (observed in all 59/59 nwcg_legacy documents)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.9 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.18 (observed in all 49/49 nwcg_legacy documents)
 - **Enhanced (FireTech draft)** (absent_from_format): checked all 1 enhanced_gdoc documents (enhanced_ptbs_gdoc.docx)
 
 ### `management_type`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.9 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.4 (observed in all 59/59 nwcg_legacy documents)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.9 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.4 (observed in all 49/49 nwcg_legacy documents)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.2 (observed in all 1/1 enhanced_gdoc documents)
 
 ### `rx_complexity_level`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.4 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.4 (observed in all 59/59 nwcg_legacy documents)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.4 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.4 (observed in all 49/49 nwcg_legacy documents)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.2 (observed in all 1/1 enhanced_gdoc documents)
 
 ### `fbps_fuel_model_group`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.4 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.5 (observed in all 59/59 nwcg_legacy documents)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.4 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.5 (observed in all 49/49 nwcg_legacy documents)
 - **Enhanced (FireTech draft)** (absent_from_format): checked all 1 enhanced_gdoc documents (enhanced_ptbs_gdoc.docx)
 
 ### `evaluator_recommendation_block`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.9 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.18 (observed in all 59/59 nwcg_legacy documents)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.9 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.18 (observed in all 49/49 nwcg_legacy documents)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.4 (observed in all 1/1 enhanced_gdoc documents)
 
 ### `remarks_narrative`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.4 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 55 more)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.4 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (absent_from_format): checked all 49 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 45 more)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.2 (observed in all 1/1 enhanced_gdoc documents)
 
 ### `task_level_tier`
-- **NWCG Next Gen** (absent_from_format): checked all 864 nwcg_nextgen tasks across 39 documents; 0 have a Level tier
-- **NWCG Legacy** (absent_from_format): checked all 3201 nwcg_legacy tasks across 59 documents; 0 have a Level tier
+- **NWCG Next Gen** (absent_from_format): checked all 1126 nwcg_nextgen tasks across 51 documents; 0 have a Level tier
+- **NWCG Legacy** (absent_from_format): checked all 2841 nwcg_legacy tasks across 49 documents; 0 have a Level tier
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.3 task #1 level='Aspirant' (95/95 enhanced_gdoc tasks carry a Level tier)
 
 ### `task_competency_grouping`
-- **NWCG Next Gen** (absent_from_format): checked all 39 nwcg_nextgen documents (pms-311-98_CRWB.pdf, pms311-103_ENGB.pdf, pms311-105_FIRB.pdf, pms311-107_FELB.pdf, + 35 more); no two-level competency->behavior hierarchy in this format
-- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 55 more); no two-level competency->behavior hierarchy in this format
+- **NWCG Next Gen** (absent_from_format): checked all 51 nwcg_nextgen documents (pms-311-98_CRWB.pdf, pms311-103_ENGB.pdf, pms311-105_FIRB.pdf, pms311-107_FELB.pdf, + 47 more); no two-level competency->behavior hierarchy in this format
+- **NWCG Legacy** (absent_from_format): checked all 49 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 45 more); no two-level competency->behavior hierarchy in this format
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.3 category='COMPETENCY: Assume position responsibilities. Successfully a'... + behavior='Ensure readiness for assignment' (two-level COMPETENCY -> Behavior hierarchy)
 
 ### `attaches_to_positions`
-- **NWCG Next Gen** (absent_from_format): checked all 39 nwcg_nextgen positions across 39 documents; 0 have attaches_to
-- **NWCG Legacy** (absent_from_format): checked all 70 nwcg_legacy positions across 59 documents; 0 have attaches_to
+- **NWCG Next Gen** (absent_from_format): checked all 51 nwcg_nextgen positions across 51 documents; 0 have attaches_to
+- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy positions across 49 documents; 0 have attaches_to
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.3 position UAIS attaches_to=['UASP', 'FIRB'] (5/11 enhanced_gdoc positions link to an official NWCG position)
 
 ### `prerequisite_statement`
-- **NWCG Next Gen** (absent_from_format): checked all 39 nwcg_nextgen positions across 39 documents; 0 have requirements_text
-- **NWCG Legacy** (absent_from_format): checked all 70 nwcg_legacy positions across 59 documents; 0 have requirements_text
+- **NWCG Next Gen** (absent_from_format): checked all 51 nwcg_nextgen positions across 51 documents; 0 have requirements_text
+- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy positions across 49 documents; 0 have requirements_text
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.3 position UAIS requirements_text='Unmanned Aircraft System Pilot (UASP), qualified; Firing Boss, Single Resource ('... (11/11 positions)
 
 ### `required_experience`
-- **NWCG Next Gen** (absent_from_format): checked all 39 nwcg_nextgen positions across 39 documents; extra_fields.required_experience absent on all (Required experience lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
-- **NWCG Legacy** (absent_from_format): checked all 70 nwcg_legacy positions across 59 documents; extra_fields.required_experience absent on all (Required experience lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
+- **NWCG Next Gen** (absent_from_format): checked all 51 nwcg_nextgen positions across 51 documents; extra_fields.required_experience absent on all (Required experience lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
+- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy positions across 49 documents; extra_fields.required_experience absent on all (Required experience lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.3 position UAIS extra_fields.required_experience="Satisfactory performance as UASP on \u2265X incidents; participation in \u2265X ignition operations... (11/11 positions)
 
 ### `physical_fitness_requirement`
-- **NWCG Next Gen** (absent_from_format): checked all 39 nwcg_nextgen positions across 39 documents; extra_fields.physical_fitness absent on all (Physical fitness requirement lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
-- **NWCG Legacy** (absent_from_format): checked all 70 nwcg_legacy positions across 59 documents; extra_fields.physical_fitness absent on all (Physical fitness requirement lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
+- **NWCG Next Gen** (absent_from_format): checked all 51 nwcg_nextgen positions across 51 documents; extra_fields.physical_fitness absent on all (Physical fitness requirement lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
+- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy positions across 49 documents; extra_fields.physical_fitness absent on all (Physical fitness requirement lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.3 position UAIS extra_fields.physical_fitness="Light to Moderate."... (11/11 positions)
 
 ### `currency_requirement`
-- **NWCG Next Gen** (absent_from_format): checked all 39 nwcg_nextgen positions across 39 documents; extra_fields.currency absent on all (Currency requirement lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
-- **NWCG Legacy** (absent_from_format): checked all 70 nwcg_legacy positions across 59 documents; extra_fields.currency absent on all (Currency requirement lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
+- **NWCG Next Gen** (absent_from_format): checked all 51 nwcg_nextgen positions across 51 documents; extra_fields.currency absent on all (Currency requirement lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
+- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy positions across 49 documents; extra_fields.currency absent on all (Currency requirement lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.3 position UAIS extra_fields.currency="RT-373 (triennial); \u22651 aerial ignition mission per 3 years; maintain UASP currency."... (11/11 positions)
 
 ### `required_training_list`
-- **NWCG Next Gen** (absent_from_format): checked all 39 nwcg_nextgen positions across 39 documents; extra_fields.required_training absent on all (Required training list lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
-- **NWCG Legacy** (absent_from_format): checked all 70 nwcg_legacy positions across 59 documents; extra_fields.required_training absent on all (Required training list lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
+- **NWCG Next Gen** (absent_from_format): checked all 51 nwcg_nextgen positions across 51 documents; extra_fields.required_training absent on all (Required training list lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
+- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy positions across 49 documents; extra_fields.required_training absent on all (Required training list lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.3 position UAIS extra_fields.required_training=[{"training": "FAA Part 107 Remote Pilot Certificate", "source_provider": "FAA knowledge test (PSI/C... (11/11 positions)
 
 ### `training_source_provider`
-- **NWCG Next Gen** (absent_from_format): checked all 39 nwcg_nextgen positions across 39 documents; no required_training structure at all (training requirements live on the separate PMS 310-1 qualification-requirements page, not this PTB document)
-- **NWCG Legacy** (absent_from_format): checked all 70 nwcg_legacy positions across 59 documents; no required_training structure at all (training requirements live on the separate PMS 310-1 qualification-requirements page, not this PTB document)
+- **NWCG Next Gen** (absent_from_format): checked all 51 nwcg_nextgen positions across 51 documents; no required_training structure at all (training requirements live on the separate PMS 310-1 qualification-requirements page, not this PTB document)
+- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy positions across 49 documents; no required_training structure at all (training requirements live on the separate PMS 310-1 qualification-requirements page, not this PTB document)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.3 position UAIS required_training[].source_provider='FAA knowledge test (PSI/CATS centers); prep via Pilot Institute / Drone Pilot Ground School'
 
 ### `training_approx_cost`
-- **NWCG Next Gen** (absent_from_format): checked all 39 nwcg_nextgen positions across 39 documents; no required_training structure at all (training requirements live on the separate PMS 310-1 qualification-requirements page, not this PTB document)
-- **NWCG Legacy** (absent_from_format): checked all 70 nwcg_legacy positions across 59 documents; no required_training structure at all (training requirements live on the separate PMS 310-1 qualification-requirements page, not this PTB document)
+- **NWCG Next Gen** (absent_from_format): checked all 51 nwcg_nextgen positions across 51 documents; no required_training structure at all (training requirements live on the separate PMS 310-1 qualification-requirements page, not this PTB document)
+- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy positions across 49 documents; no required_training structure at all (training requirements live on the separate PMS 310-1 qualification-requirements page, not this PTB document)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.3 position UAIS required_training[].approx_cost='$175 test; prep $100–300; recurrent free'
 
 ### `qualification_stack_by_tier`
-- **NWCG Next Gen** (absent_from_format): checked all 39 nwcg_nextgen positions across 39 documents; extra_fields.qualification_stack absent on all (Qualification stack lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
-- **NWCG Legacy** (absent_from_format): checked all 70 nwcg_legacy positions across 59 documents; extra_fields.qualification_stack absent on all (Qualification stack lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
+- **NWCG Next Gen** (absent_from_format): checked all 51 nwcg_nextgen positions across 51 documents; extra_fields.qualification_stack absent on all (Qualification stack lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
+- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy positions across 49 documents; extra_fields.qualification_stack absent on all (Qualification stack lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.3 position UAIS extra_fields.qualification_stack={"Aspirant": "Interest in UAS/fire ops; ICS-100; basic fireline & aviation safety awareness.", "Begi... (11/11 positions)
 
 ### `employers_by_sector`
-- **NWCG Next Gen** (absent_from_format): checked all 39 nwcg_nextgen positions across 39 documents; extra_fields.employers_by_sector absent on all (Employers by sector lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
-- **NWCG Legacy** (absent_from_format): checked all 70 nwcg_legacy positions across 59 documents; extra_fields.employers_by_sector absent on all (Employers by sector lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
+- **NWCG Next Gen** (absent_from_format): checked all 51 nwcg_nextgen positions across 51 documents; extra_fields.employers_by_sector absent on all (Employers by sector lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
+- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy positions across 49 documents; extra_fields.employers_by_sector absent on all (Employers by sector lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.3 position UAIS extra_fields.employers_by_sector={"Private": "Drone Amplified (IGNIS); UAS service & prescribed-burn contractors; utility vegetation ... (11/11 positions)
 
 ### `workforce_estimate`
-- **NWCG Next Gen** (absent_from_format): checked all 39 nwcg_nextgen positions across 39 documents; extra_fields.workforce_estimate absent on all (Workforce estimate lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
-- **NWCG Legacy** (absent_from_format): checked all 70 nwcg_legacy positions across 59 documents; extra_fields.workforce_estimate absent on all (Workforce estimate lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
+- **NWCG Next Gen** (absent_from_format): checked all 51 nwcg_nextgen positions across 51 documents; extra_fields.workforce_estimate absent on all (Workforce estimate lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
+- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy positions across 49 documents; extra_fields.workforce_estimate absent on all (Workforce estimate lives on the separate PMS 310-1 qualification-requirements page for these positions, not this PTB document)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.3 position UAIS extra_fields.workforce_estimate="Approx. number performing this work in the USA (any title): ~100\u2013300 and growing (rough estima... (11/11 positions)
 
 ### `officiality_disclaimer`
-- **NWCG Next Gen** (absent_from_format): checked all 39 nwcg_nextgen documents (pms-311-98_CRWB.pdf, pms311-103_ENGB.pdf, pms311-105_FIRB.pdf, pms311-107_FELB.pdf, + 35 more); document.official is hardcoded true for every NWCG-published document, no disclaimer concept
-- **NWCG Legacy** (absent_from_format): checked all 59 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 55 more); document.official is hardcoded true for every NWCG-published document, no disclaimer concept
+- **NWCG Next Gen** (absent_from_format): checked all 51 nwcg_nextgen documents (pms-311-98_CRWB.pdf, pms311-103_ENGB.pdf, pms311-105_FIRB.pdf, pms311-107_FELB.pdf, + 47 more); document.official is hardcoded true for every NWCG-published document, no disclaimer concept
+- **NWCG Legacy** (absent_from_format): checked all 49 nwcg_legacy documents (pms-311-05_LOFR.pdf, pms311-02_ICT3.pdf, pms311-03_ICT4.pdf, pms311-09_DIVS.pdf, + 45 more); document.official is hardcoded true for every NWCG-published document, no disclaimer concept
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.1 document.official=False (self-describes as illustrative draft, NOT an official NWCG standard)
 
 ### `code_definitions_block`
-- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.3 (observed in all 39/39 nwcg_nextgen documents)
-- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.3 (observed in all 59/59 nwcg_legacy documents)
+- **NWCG Next Gen** (captured): pms-311-98_CRWB.pdf p.3 (observed in all 51/51 nwcg_nextgen documents)
+- **NWCG Legacy** (captured): pms-311-05_LOFR.pdf p.3 (observed in all 49/49 nwcg_legacy documents)
 - **Enhanced (FireTech draft)** (captured): enhanced_ptbs_gdoc.docx p.1 (observed in all 1/1 enhanced_gdoc documents)
 

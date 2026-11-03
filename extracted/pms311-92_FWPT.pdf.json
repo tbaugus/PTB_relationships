@@ -8,7 +8,7 @@
       "FWPT"
     ],
     "title": "Fixed Wing Parking Tender",
-    "edition_date": null,
+    "edition_date": "June 2026",
     "ips_reference": null,
     "official": true,
     "page_count": 13
@@ -449,6 +449,10 @@
     {
       "field_name": "evaluator_relevant_qualification",
       "page": 5
+    },
+    {
+      "field_name": "edition_date",
+      "page": 1
     }
   ],
   "extra_fields": {}

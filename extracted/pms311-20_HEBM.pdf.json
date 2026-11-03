@@ -8,7 +8,7 @@
       "HEBM"
     ],
     "title": "Helibase Manager",
-    "edition_date": null,
+    "edition_date": "October 2018",
     "ips_reference": null,
     "official": true,
     "page_count": 16
@@ -927,6 +927,10 @@
     {
       "field_name": "evaluator_relevant_qualification",
       "page": 5
+    },
+    {
+      "field_name": "edition_date",
+      "page": 1
     }
   ],
   "extra_fields": {}
