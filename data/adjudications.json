@@ -12773,6 +12773,103 @@
    "adjudicated_at": "2026-11-02",
    "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
    "bridge": "ntft"
+  },
+  {
+   "pair_key": "8c983a298432ff36",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 obtains its own mission objective and briefing (one-time intake on assignment); COST#7 attends operational briefings as directed (recurring attendance). Different action and scope (rules 1, 3); matches the bridge precedent for 'participate in operational briefings'.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "5579b87326a07ef5",
+   "relation": "related_not_equivalent",
+   "note": "CFMD#4 validates model output against observed progression and quantifies error; FEMO#8 reports observed fire behavior through the period. Reporting observations is an input to validation, not the validation itself (rule 1 action differs; rule 3 object differs).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "558055e40d77a9bd",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 adjusts ignition rate/pattern (an ignition action); FOBS#11 reports atmospheric characteristics (an observation/reporting action). Shared fire-behavior theme only (rule 1 action differs, rule 3 object differs).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "84724c192479b27e",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 adjusts ignition in response to fire behavior; FEMO#8 reports fire behavior through the period. Acting on observations vs reporting them (rule 1); same precedent as UAIS#9 vs 'gather and record fire behavior observations'.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "66c9bb11819e70be",
+   "relation": "subsumes",
+   "note": "RCDM#19 'conduct and/or participate in functional briefings and after action reviews' is satisfied by participating in AARs (and/or convention) but additionally requires functional briefings; UAIS#14 covers only AAR participation. Conjunctive briefing-and-AAR texts subsume plain AAR participation (rules 1-3; bridge precedent for 'participate in functional area briefings and after action reviews').",
+   "subsumer_normalized_text": "conduct and/or participate in functional briefings and after action reviews (aar)",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "292418b2068bac15",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#4 applies safety-critical software engineering practices to autonomy code; COMP#16 ensures compliance with incident safety practices and procedures. Different object and scope (rule 3); same verdict as ASWE#4 vs 'ensure safety procedures are followed'.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "6b4f86d770f87bfc",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 obtains its own briefing and command product priorities on assignment; COST#7 attends operational briefings as directed. Intake vs recurring attendance (rules 1, 3); matches precedent for 'participate in operational briefings'.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "5b99f3dadfd6132c",
+   "relation": "equivalent",
+   "note": "Both obtain the initial briefing/product requirement from the Situation Unit or command on assignment. 'or other incident supervisor' and '/ command' are phrasing for the same briefing source (rule 4); same verdict as RSEN#1 vs 'obtain initial briefing from situation unit leader or supervisor'.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "6f4fa91200ec4671",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 adjusts ignition in response to fire behavior; FEMO#7 reports weather and atmospheric characteristics. Acting vs reporting, different object (rules 1, 3); same as UAIS#9 vs FOBS#11.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "f67485e35533672b",
+   "relation": "related_not_equivalent",
+   "note": "RBFE#5 performs platform maintenance/repair with lockout procedures; COMP#16 ensures compliance with all incident safety practices. Different action and object (rules 1, 3); same verdict as RBFE#5 vs 'ensure safety procedures are followed'.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "556c26279a3adf2d",
+   "relation": "equivalent",
+   "note": "Both obtain the initial briefing from the assigning supervisor on assignment; the named source (SITL or other incident supervisor) and 'mission objective' are phrasing for the same intake briefing (rule 4). Same verdict as ASOP#1 vs 'obtain initial briefing from situation unit leader or supervisor'.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "ef5a2d479d97a0bf",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#2 establishes geospatial data standards, projections and versioning; ORDM#5 develops resource-ordering standards. Both set standards but for different objects (rule 3); related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
   }
  ]
 }
