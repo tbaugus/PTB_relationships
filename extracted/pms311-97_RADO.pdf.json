@@ -115,8 +115,9 @@
       "behavior": null,
       "level": null,
       "verbatim_text": "Respond to incident emergencies.",
-      "code_raw": "S",
+      "code_raw": "I, S",
       "code_alternatives": [
+        "I",
         "S"
       ],
       "clarifications": [],
@@ -171,8 +172,9 @@
       "behavior": null,
       "level": null,
       "verbatim_text": "Return equipment and supplies as appropriate.",
-      "code_raw": "S",
+      "code_raw": "I, S",
       "code_alternatives": [
+        "I",
         "S"
       ],
       "clarifications": [],

@@ -263,7 +263,15 @@ def structure_legacy(pdf, position_code: str) -> tuple[list[dict], str | None]:
                     "page": page_number,
                 }
                 in_bullet = False
-            elif abs(x0 - cols["margin"]) < 9 and text0 == "Behavior:":
+            elif text0 == "Behavior:" and x0 < cols["code"] - 30:
+                # A "Behavior:" heading is a section break wherever it is
+                # indented: FAL1 page 12 prints its heading at the text
+                # column (x0 84 vs margin 72), and with the margin-only test
+                # it was read as a continuation of the task still open from
+                # page 11 (#20) — or, after a bullet, as bullet text (#22).
+                # The open task must close here; the heading's own wrapped
+                # continuation lines are not task text.
+                close_task()
                 current_category = " ".join(w["text"] for w in line[1:])
                 in_bullet = False
             elif abs(x0 - cols["margin"]) < 9 and text0 in ("Competency:", "Description:"):

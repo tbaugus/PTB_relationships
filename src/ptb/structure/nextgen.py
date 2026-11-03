@@ -17,6 +17,12 @@ import re
 from collections import Counter
 
 CODE_TOKEN_RE = re.compile(r"^(I|W|RX|R|S|O|ALL)(/(I|W|RX|R|S|O|ALL))*$")
+
+
+def split_code_alternatives(code_raw: str) -> list[str]:
+    """'W/RX' -> ['W', 'RX']; 'I, S' -> ['I', 'S'] (both separators occur in
+    print; the parsed list is what matching/gap logic consumes)."""
+    return [a for a in re.split(r"[/,]\s*", code_raw) if a]
 IPS_REFERENCE_RE = re.compile(r"PMS\s*350-(\d+[A-Za-z]?)")
 
 
@@ -191,7 +197,10 @@ def parse_page(page, page_number: int) -> list[dict]:
             for w in block_words
             if _in(w["x0"], bands["code"]) and round(w["top"], 1) not in grid_digit_tops
         ]
-        code_words = [w for w in code_words if w["text"] != "CODE" and re.match(r"^[A-Z/]+$", w["text"])]
+        # Codes print as "W/RX" (one token, or "W/" + "RX" across two lines)
+        # and, in a few books, as a comma list "I, S" / "I, W, RX" (INCM,
+        # ABRO, RADO): the comma-bearing tokens must be kept, not dropped.
+        code_words = [w for w in code_words if w["text"] != "CODE" and re.match(r"^[A-Z/,]+$", w["text"])]
 
         text_lines = _drop_bracketed(_cluster_lines(text_words))
         category_lines = [line for line in text_lines if line[0]["top"] <= boundary_top + 1]
@@ -233,7 +242,11 @@ def parse_page(page, page_number: int) -> list[dict]:
             lines = _cluster_lines(bucket["text_words"])
             verbatim = " ".join(" ".join(w["text"] for w in line) for line in lines)
             verbatim = re.sub(r"\s+", " ", verbatim).strip()
-            code_raw = "".join(w["text"] for w in sorted(bucket["code_words"], key=lambda w: w["top"]))
+            code_tokens = [w["text"] for w in sorted(bucket["code_words"], key=lambda w: (w["top"], w["x0"]))]
+            # Preserve the printed form: slash-joined pieces glue together
+            # ("W/" + "RX" -> "W/RX"); comma-separated pieces keep a space
+            # ("I," + "S" -> "I, S").
+            code_raw = "".join(t + (" " if t.endswith(",") else "") for t in code_tokens).strip()
             if not verbatim or not code_raw:
                 continue
             results.append(
@@ -264,7 +277,7 @@ def structure_nextgen(pdf, position_codes: list[str]) -> tuple[list[dict], str |
     tasks = []
     for code in position_codes:
         for t in raw_tasks:
-            code_alts = t["code_raw"].split("/")
+            code_alts = split_code_alternatives(t["code_raw"])
             tasks.append(
                 {
                     "position_code": code,

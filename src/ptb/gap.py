@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sqlite3
 import sys
 from collections import deque
@@ -71,7 +72,9 @@ def code_satisfied(code_raw: str, context: str, is_enhanced_format: bool) -> boo
     context, never by NWCG's broader "any situation" contexts (which do NOT
     apply in reverse per the spec).
     """
-    for code in code_raw.split("/"):
+    # Alternatives print as "W/RX" or, in a few books, "I, S" (see
+    # extraction.spec.md changelog 2026-11-03).
+    for code in (c for c in re.split(r"[/,]\s*", code_raw) if c):
         if code == "O" and is_enhanced_format:
             if context == "developmental":
                 return True

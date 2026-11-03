@@ -123,9 +123,17 @@ inventory in format-gaps.spec.md.
       LOFR = count of numbered tasks only (bullets excluded).
 - [ ] AC-E3: Every task's `verbatim_text`, whitespace-collapsed, is a
       substring of the whitespace-collapsed raw text of its recorded page
-      (no hallucinated, merged, or paraphrased tasks).
+      once the task-number, evaluation-code and (enhanced) Level tokens that
+      pdfplumber interleaves into wrapped task text (pitfall 1: "...crew,
+      equipment, and 5 O vehicles.") are removed from the page text — and
+      nothing else is removed: no hallucinated, merged, or paraphrased
+      tasks, and no heading or bullet text absorbed into a task.
 - [ ] AC-E4: Task numbers are complete and consecutive from 1 to N with no
-      gaps or duplicates per position.
+      gaps or duplicates per position, with exactly the documented exception
+      of schema.spec.md INV-7: PSC3 #17 and #39, PSCC #39, FSCC #26 are
+      printed with a genuinely blank evaluation-code cell (verified by
+      source-PDF character inspection, PLAN.md Phase 2), and extraction
+      omits them rather than invent a code. Any other gap is a failure.
 - [ ] AC-E5: Every task has a non-empty code_raw whose alternatives ⊆
       {I, W, RX, R, S, O, ALL}; spot checks: ENGB task 22 → R;
       FFT1 task 13 → W/RX/S; CRWB task 1 → ALL.
@@ -149,7 +157,34 @@ inventory in format-gaps.spec.md.
 
 ## Changelog
 
-- 2026-11-02 (corpus refresh, Next Gen parser — forced by the September
+- 2026-11-03 (spec-checker audit of the refreshed corpus — three forced
+  fixes, two of them pre-existing parser errors on books the refresh did
+  not touch): (1) AC-E3 now states the token-interleaving reading the Phase
+  2 audit applied (pdfplumber inlines the number/code/Level tokens into
+  wrapped text; 2,552 of 4,062 tasks differ from the raw page only by those
+  tokens) and AC-E4 now carries the INV-7 blank-code exception that
+  schema.spec.md and PLAN.md already recorded on 2026-07-09 — both are the
+  spec catching up to accepted decisions, not relaxations: under the stated
+  reading 4,061 of 4,062 tasks matched and the one that did not was a real
+  bug, (2) below. (2) `structure/legacy.py`: a "Behavior:" heading is a
+  section break at any indent. FAL1 (pms311-118) prints its page-12 heading
+  at the text column, so the margin-only test read it as a continuation of
+  the task still open from page 11 — FAL1 #20 ended with "Behavior: Follow
+  established procedures...", #23 likewise, #22's last bullet absorbed
+  "Behavior: Make appropriate decisions...", and #21-24 carried the wrong
+  category. The heading now closes the open task; the same fix corrected
+  HLCO-ATGS #111 (last bullet had absorbed "Behavior: Plan for
+  demobilization...") and #112's category. (3)
+  `structure/nextgen.py`: comma-separated printed codes ("I, S", "I, W, RX"
+  in INCM #4/#10/#11/#14/#16, ABRO #6-#9, RADO #7/#11) were cut to their
+  last element because the code-word filter dropped the comma-bearing
+  tokens; `code_raw` now preserves the printed form and
+  `split_code_alternatives()` parses either separator (gap.py's context
+  matrix splits the same way). Known, deliberately unchanged: wrapped
+  multi-line legacy "Behavior:" headings are still captured as their first
+  line only (361 of 1,038 legacy categories end mid-sentence) — a
+  pre-existing limitation outside this refresh, recorded as a follow-up.
+
   2026 template): two fixes to `structure/nextgen.py`, both grounded in the
   refreshed PDFs. (a) `_find_column_bands()` now only accepts "Record" /
   "Number" grid-header words that sit RIGHT of the CODE header: FOBS #9
@@ -187,8 +222,10 @@ inventory in format-gaps.spec.md.
   deletion, so the audit trail only ever describes documents NWCG publishes
   today; `db.py` would otherwise load the retired book, and INV-1 would then
   fail because its raw file is gone. (3) The refreshed corpus changes the
-  per-format population (10 books moved legacy → Next Gen; FEMO and FOBS
-  are now two Next Gen documents; REAF is new), so historical counts quoted
+  per-format population (9 books moved legacy → Next Gen — CREP, STAM, ORDM,
+  RCDM, COMP, COST, GISS, DECK, ATIM; FAL2 was already Next Gen and only
+  changed edition; FEMO and FOBS are now two Next Gen documents; REAF is
+  new), so historical counts quoted
   in earlier changelog entries (e.g. "59 nwcg_legacy documents") describe
   the 2026-07 corpus, not the current one. No fixture changed; AC-E1..E9
   are re-verified by the spec-checker on the refreshed corpus, and any

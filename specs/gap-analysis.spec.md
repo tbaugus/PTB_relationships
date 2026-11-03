@@ -181,7 +181,7 @@ in the ranking for this profile, and LOFR must show near-zero satisfaction.
 - 2026-11-02 (corpus refresh): added the data-currency rule and AC-G9 —
   `gap.data_currency()`, a "Data as of:" line in `format_report()` and in
   `app.py`. Motivated by the first corpus refresh: 12 positions' task books
-  were republished (10 in a new format), and a report that cites a task
+  were republished (9 in a new format), and a report that cites a task
   without saying which edition it comes from would violate the honesty
   contract. No change to satisfaction rules or ranking.
 - 2026-07-12: Owner-directed relabel of `official = 0` (enhanced/FireTech)

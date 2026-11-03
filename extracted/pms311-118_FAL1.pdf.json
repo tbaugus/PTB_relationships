@@ -367,7 +367,7 @@
       "category": "Modify approach based on evaluation of incident situation.",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Recognize and adapt to an incident within an incident. Behavior: Follow established procedures and/or safety procedures relevant to given assignment.",
+      "verbatim_text": "Recognize and adapt to an incident within an incident.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
@@ -383,7 +383,7 @@
     {
       "position_code": "FAL1",
       "task_number": 21,
-      "category": "Modify approach based on evaluation of incident situation.",
+      "category": "Follow established procedures and/or safety procedures relevant to given",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop a Job Hazard Analysis or Risk Management Assessment for a chain saw operation.",
@@ -397,7 +397,7 @@
     {
       "position_code": "FAL1",
       "task_number": 22,
-      "category": "Modify approach based on evaluation of incident situation.",
+      "category": "Follow established procedures and/or safety procedures relevant to given",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify potential hazards and mitigating techniques given various tree species, stand conditions, and indicators of defect.",
@@ -412,17 +412,17 @@
         "Wood properties",
         "Growth forms",
         "Stand density",
-        "Conks, boles, or mistletoe Behavior: Make appropriate decisions based on analysis of gathered information."
+        "Conks, boles, or mistletoe"
       ],
       "page": 12
     },
     {
       "position_code": "FAL1",
       "task_number": 23,
-      "category": "Modify approach based on evaluation of incident situation.",
+      "category": "Make appropriate decisions based on analysis of gathered information.",
       "behavior": null,
       "level": null,
-      "verbatim_text": "Develop a felling plan and present a briefing to personnel assigned to the operation. Behavior: Follow established procedures and/or safety procedures relevant to given assignment.",
+      "verbatim_text": "Develop a felling plan and present a briefing to personnel assigned to the operation.",
       "code_raw": "O",
       "code_alternatives": [
         "O"
@@ -433,7 +433,7 @@
     {
       "position_code": "FAL1",
       "task_number": 24,
-      "category": "Modify approach based on evaluation of incident situation.",
+      "category": "Follow established procedures and/or safety procedures relevant to given",
       "behavior": null,
       "level": null,
       "verbatim_text": "Demonstrate proficiency in advanced maintenance and troubleshooting in the field. This may include but is not limited to:",

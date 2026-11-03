@@ -73,8 +73,9 @@
       "behavior": null,
       "level": null,
       "verbatim_text": "Assemble and validate readiness of assigned personnel and equipment.",
-      "code_raw": "S",
+      "code_raw": "I, S",
       "code_alternatives": [
+        "I",
         "S"
       ],
       "clarifications": [],
@@ -157,8 +158,9 @@
       "behavior": null,
       "level": null,
       "verbatim_text": "Prepare radios for assignment.",
-      "code_raw": "S",
+      "code_raw": "I, S",
       "code_alternatives": [
+        "I",
         "S"
       ],
       "clarifications": [],
@@ -171,8 +173,9 @@
       "behavior": null,
       "level": null,
       "verbatim_text": "Respond to incident emergencies.",
-      "code_raw": "S",
+      "code_raw": "I, S",
       "code_alternatives": [
+        "I",
         "S"
       ],
       "clarifications": [],
@@ -213,8 +216,9 @@
       "behavior": null,
       "level": null,
       "verbatim_text": "Complete all administrative tasks and documentation in an accurate and timely manner.",
-      "code_raw": "S",
+      "code_raw": "I, S",
       "code_alternatives": [
+        "I",
         "S"
       ],
       "clarifications": [],
@@ -241,8 +245,9 @@
       "behavior": null,
       "level": null,
       "verbatim_text": "Return equipment and supplies as appropriate.",
-      "code_raw": "S",
+      "code_raw": "I, S",
       "code_alternatives": [
+        "I",
         "S"
       ],
       "clarifications": [],
