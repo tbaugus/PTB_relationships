@@ -1,6 +1,6 @@
 # Format-Gap Evaluation
 
-> Generated: 2026-11-03 &middot; corpus hash: `079ec9f86ee8a248`
+> Generated: 2026-11-03 &middot; corpus hash: `cd072062550552f1`
 > Regenerated whole by `src/ptb/report.py` from `extracted/*.json` on every run. Never hand-edited - fix the classifier in report.py and regenerate.
 
 ## 1. Corpus & format census

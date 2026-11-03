@@ -395,25 +395,30 @@ parser miss), stale extracted JSON for retired books removed, and two Next
 Gen parser fixes forced by the September 2026 template (grid-header
 detection right of the CODE column; row assignment by the table's own
 horizontal rulings instead of nearest number) — the second also corrected a
-pre-existing mis-parse of FAL3 #15-17 (verified against the page). schema:
+pre-existing mis-parse of FAL3 #15-17 (verified against the page); the
+spec-checker audit then forced two more pre-existing parser fixes (comma-
+separated codes "I, S" in INCM/ABRO/RADO; a next-page "Behavior:" heading
+merged into FAL1 #20/#23 and HLCO-ATGS #111). schema:
 `source_documents.edition_date` populated for every row as ISO `YYYY-MM`
 (manifest fallback for the NTFT draft's DOCX modified date 2026-06-22).
 gap-analysis: AC-G9 — a "Data as of:" line in `format_report()` and
-`app.py`. blooms.py: five verbs added for new objective texts.
+`app.py`. blooms.py: five verbs added for new objective texts. gap.py: prerequisite
+codes with no task book (FFT2, EDRC, EMT) are no longer re-demanded (audit
+finding AC-G2, pre-existing).
 
 **Current corpus (`data/ptb.sqlite`):** 101 source_documents (100 NWCG: 51
-Next Gen + 49 Legacy; 1 NTFT), 121 positions, 2,473 distinct tasks, 4,062
+Next Gen + 49 Legacy; 1 NTFT), 121 positions, 2,472 distinct tasks, 4,062
 position_tasks, 2,125 position_requirements, 11 position_implications.
 Manifest: 262 documents (102 ptb incl. the two Google Doc exports, 44
 companion standards, 116 requirement pages), 1 retired, 7 pending.
 INV-7 exceptions unchanged (PSC3 #17/#39, PSCC #39, FSCC #26).
 
-**Matching re-run:** 1,411 candidate pairs (incl. 3 seeds); 1,238 kept their
-text-keyed verdict, 114 stored verdicts now describe texts no longer in the
+**Matching re-run:** 1,410 candidate pairs (incl. 3 seeds); 1,237 kept their
+text-keyed verdict, 115 stored verdicts now describe texts no longer in the
 corpus (kept; append-only), 173 new pairs adjudicated by Claude (46
 equivalent, 40 subsumes, 87 related_not_equivalent), then the 2026-07-12
 context rule applied to the new pairs only (37 demoted; every pre-refresh
-verdict untouched). Final: 548 tier-2 probable, 863 tier-3 rejected, **0
+verdict untouched). Final: 547 tier-2 probable, 863 tier-3 rejected, **0
 confirmed** — human review of the regenerated checklist/sheet still pending.
 
 **Checks:** spec-checker audits of extraction, schema, matching,

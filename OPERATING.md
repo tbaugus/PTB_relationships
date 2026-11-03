@@ -44,9 +44,9 @@ If `adjudicate.py` exits with code 2, it found pairs never adjudicated before �
 
 ## Refreshing the corpus when NWCG republishes
 
-NWCG republishes task books without notice (first seen 2026-11-02: ten books
-reissued as September 2026 Next Gen editions, the combined FEMO/FOBS book
-split in two, REAF added). The whole pipeline is designed to be re-run:
+NWCG republishes task books without notice (first seen 2026-11-02: nine legacy
+books reissued as September 2026 Next Gen editions and FAL2 re-dated, the
+combined FEMO/FOBS book split in two, REAF added). The whole pipeline is designed to be re-run:
 
 ```
 py src/ptb/acquire.py                 # re-scrape the catalog; downloads only what changed;
@@ -75,7 +75,7 @@ texts that no longer exist drop out of the review sheet.
 
 ## The human-review step (tier-2 task equivalences)
 
-548 "probable" task-equivalence pairs are pending your one-time sign-off (as of the 2026-11-03 re-run) — until reviewed, `gap.py` treats them as *not* satisfying anything (conservative default).
+547 "probable" task-equivalence pairs are pending your one-time sign-off (as of the 2026-11-03 re-run) — until reviewed, `gap.py` treats them as *not* satisfying anything (conservative default).
 
 **Technical reviewer:**
 ```

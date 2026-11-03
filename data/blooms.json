@@ -1954,7 +1954,7 @@
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.52,
-   "justification": "Verbs found: 'lead' (Evaluate), 'scout' (Analyze), 'communicate' (Apply), 'coordinate' (Apply). Verb(s) 'lead' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand. Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
+   "justification": "Verbs found: 'lead' (Evaluate), 'scout' (Analyze), 'coordinate' (Apply), 'communicate' (Apply). Verb(s) 'lead' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand. Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
    "verbs": [
     "lead",
     "scout",
@@ -2032,7 +2032,7 @@
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.55,
-   "justification": "Verbs found: 'direct' (Evaluate), 'provide' (Apply), 'request' (Apply). Verb(s) 'direct' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
+   "justification": "Verbs found: 'direct' (Evaluate), 'request' (Apply), 'provide' (Apply). Verb(s) 'direct' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
    "verbs": [
     "request",
     "direct",
@@ -7081,7 +7081,7 @@
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.55,
-   "justification": "Verbs found: 'control' (Evaluate), 'perform' (Apply), 'coordinate' (Apply). Verb(s) 'control' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
+   "justification": "Verbs found: 'control' (Evaluate), 'coordinate' (Apply), 'perform' (Apply). Verb(s) 'control' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
    "verbs": [
     "coordinate",
     "perform",
@@ -9348,17 +9348,16 @@
    ]
   },
   {
-   "normalized_text": "recognize and adapt to an incident within an incident. behavior: follow established procedures and/or safety procedures relevant to given assignment",
-   "canonical_text": "Recognize and adapt to an incident within an incident. Behavior: Follow established procedures and/or safety procedures relevant to given assignment.",
-   "positions_using": 1,
+   "normalized_text": "recognize and adapt to an incident within an incident",
+   "canonical_text": "Recognize and adapt to an incident within an incident.",
+   "positions_using": 3,
    "level": 5,
    "level_name": "Evaluate",
-   "confidence": 0.58,
-   "justification": "Verbs found: 'adapt' (Evaluate), 'recognize' (Analyze), 'follow' (Apply). Verb(s) 'adapt' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand. Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
+   "confidence": 0.63,
+   "justification": "Verbs found: 'adapt' (Evaluate), 'recognize' (Analyze). Verb(s) 'adapt' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
    "verbs": [
     "recognize",
-    "adapt",
-    "follow"
+    "adapt"
    ]
   },
   {
@@ -9386,8 +9385,8 @@
    ]
   },
   {
-   "normalized_text": "develop a felling plan and present a briefing to personnel assigned to the operation. behavior: follow established procedures and/or safety procedures relevant to given assignment",
-   "canonical_text": "Develop a felling plan and present a briefing to personnel assigned to the operation. Behavior: Follow established procedures and/or safety procedures relevant to given assignment.",
+   "normalized_text": "develop a felling plan and present a briefing to personnel assigned to the operation",
+   "canonical_text": "Develop a felling plan and present a briefing to personnel assigned to the operation.",
    "positions_using": 1,
    "level": 6,
    "level_name": "Create",
@@ -9395,8 +9394,7 @@
    "justification": null,
    "verbs": [
     "develop",
-    "present",
-    "follow"
+    "present"
    ]
   },
   {
@@ -10811,7 +10809,7 @@
    "level": 4,
    "level_name": "Analyze",
    "confidence": 0.65,
-   "justification": "Verbs found: 'anticipate' (Analyze), 'communicate' (Apply), 'mitigate' (Apply).",
+   "justification": "Verbs found: 'anticipate' (Analyze), 'mitigate' (Apply), 'communicate' (Apply).",
    "verbs": [
     "anticipate",
     "communicate",
@@ -12099,7 +12097,7 @@
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.55,
-   "justification": "Verbs found: 'direct' (Evaluate), 'provide' (Apply), 'request' (Apply). Verb(s) 'direct' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
+   "justification": "Verbs found: 'direct' (Evaluate), 'request' (Apply), 'provide' (Apply). Verb(s) 'direct' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
    "verbs": [
     "request",
     "direct",
@@ -12167,19 +12165,6 @@
    "verbs": [
     "maintain",
     "adjust"
-   ]
-  },
-  {
-   "normalized_text": "recognize and adapt to an incident within an incident",
-   "canonical_text": "Recognize and adapt to an incident within an incident.",
-   "positions_using": 2,
-   "level": 5,
-   "level_name": "Evaluate",
-   "confidence": 0.63,
-   "justification": "Verbs found: 'adapt' (Evaluate), 'recognize' (Analyze). Verb(s) 'adapt' sit between Bloom levels in operational use (doing vs judging vs designing); Evaluate chosen as the governing cognitive demand.",
-   "verbs": [
-    "recognize",
-    "adapt"
    ]
   },
   {
@@ -12882,7 +12867,7 @@
    "level": 5,
    "level_name": "Evaluate",
    "confidence": 0.57,
-   "justification": "Verbs found: 'review' (Evaluate), 'lead' (Evaluate), 'obtain' (Remember). \"Review the plan and obtain briefing\" is mobilization familiarization (Understand), not a quality-control review; Understand assigned over the review-as-Evaluate default.",
+   "justification": "Verbs found: 'lead' (Evaluate), 'review' (Evaluate), 'obtain' (Remember). \"Review the plan and obtain briefing\" is mobilization familiarization (Understand), not a quality-control review; Understand assigned over the review-as-Evaluate default.",
    "verbs": [
     "[review .{0,80}and obtain]",
     "review",
@@ -26057,7 +26042,7 @@
    "level": 6,
    "level_name": "Create",
    "confidence": 0.6,
-   "justification": "Verbs found: 'establish' (Create), 'document' (Apply), 'maintain' (Apply), 'dispatch' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
+   "justification": "Verbs found: 'establish' (Create), 'document' (Apply), 'dispatch' (Apply), 'maintain' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand.",
    "verbs": [
     "establish",
     "maintain",
@@ -26947,7 +26932,7 @@
    "level": 6,
    "level_name": "Create",
    "confidence": 0.5,
-   "justification": "Verbs found: 'establish' (Create), 'identify' (Analyze), 'analyze' (Analyze), 'use' (Apply), 'communicate' (Apply), 'work' (Apply), 'take' (Apply), 'perform' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand. Compound objective spans 4 Bloom levels; highest level assigned per multi-verb convention.",
+   "justification": "Verbs found: 'establish' (Create), 'analyze' (Analyze), 'identify' (Analyze), 'work' (Apply), 'use' (Apply), 'take' (Apply), 'communicate' (Apply), 'perform' (Apply). Verb(s) 'establish' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand. Compound objective spans 4 Bloom levels; highest level assigned per multi-verb convention.",
    "verbs": [
     "[make .{0,30}decision]",
     "establish",
@@ -27112,7 +27097,7 @@
    "level": 6,
    "level_name": "Create",
    "confidence": 0.58,
-   "justification": "Verbs found: 'prepare' (Create), 'ensure' (Evaluate), 'program' (Apply), 'use' (Apply), 'communicate' (Apply). Verb(s) 'prepare' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand. Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
+   "justification": "Verbs found: 'prepare' (Create), 'ensure' (Evaluate), 'program' (Apply), 'communicate' (Apply), 'use' (Apply). Verb(s) 'prepare' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand. Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
    "verbs": [
     "communicate",
     "prepare",
@@ -29259,7 +29244,7 @@
    "level": 6,
    "level_name": "Create",
    "confidence": 0.55,
-   "justification": "Verbs found: 'organize' (Create), 'record' (Apply), 'use' (Apply), 'conduct' (Apply), 'coordinate' (Apply), 'obtain' (Remember). Verb(s) 'organize' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand. Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
+   "justification": "Verbs found: 'organize' (Create), 'coordinate' (Apply), 'record' (Apply), 'conduct' (Apply), 'use' (Apply), 'obtain' (Remember). Verb(s) 'organize' sit between Bloom levels in operational use (doing vs judging vs designing); Create chosen as the governing cognitive demand. Compound objective spans 3 Bloom levels; highest level assigned per multi-verb convention.",
    "verbs": [
     "organize",
     "coordinate",
