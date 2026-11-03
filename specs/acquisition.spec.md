@@ -236,6 +236,23 @@ is ~250 network requests that change nothing).
 
 ## Changelog
 
+- 2026-11-03 (spec-checker audit, AC-A8 forced fix): FFT2's
+  qualification-requirements page titles its block "FFT2 Qualification
+  Requirements" with an `<h3>` where all 115 other pages use an `<h2>`, so
+  `structure_requirements_page()` had returned its empty fallback for FFT2
+  since 2026-07-09 (six required courses, Arduous fitness, 17 currency
+  relationships and the RT-130 note were missing from
+  `extracted/requirements/FFT2.json`; no `positions` row exists for FFT2,
+  so the database was unaffected). The parser now accepts either heading
+  level and reads the block's `<h3>` sub-sections up to the next `<h2>`.
+  `acquire_requirements.py --offline` was added to re-parse the raw HTML
+  already on disk without re-fetching, so a parser fix does not rewrite
+  every page's sha256 for nothing (idempotence exception above); the other
+  115 JSONs re-parse byte-identically. Two audit observations also fixed:
+  the PMS 310-1 `pending` reason no longer says a web-scrape path is still
+  needed (source 4 is that path), and `backfilled()` writes
+  `format: "unclassified"` for every entry per the manifest contract (the
+  hand-written 2026-07 DOCX fixture entry had carried "enhanced_gdoc").
 - 2026-11-02 (corpus refresh): added the "Corpus refresh" section and
   AC-A10..A12. Triggered by the first re-acquisition since 2026-07-09, which
   found: 10 catalog PTBs republished (CREP, STAM, ORDM, RCDM, COMP, COST,

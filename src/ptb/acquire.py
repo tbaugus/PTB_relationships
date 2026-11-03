@@ -356,7 +356,10 @@ def download_document(
         """Fill in any schema fields a legacy/hand-written manifest entry is missing."""
         merged = dict(entry)
         merged.setdefault("role", role)
-        merged.setdefault("format", "unclassified")
+        # The manifest contract: acquisition writes "unclassified"; format is
+        # assigned by extraction (a hand-written 2026-07 fixture entry carried
+        # "enhanced_gdoc" here).
+        merged["format"] = "unclassified"
         merged.setdefault("fixture", fixture)
         # Always refresh from the live catalog scrape (not setdefault): it's
         # the authoritative source and this is how a prior acquisition bug
@@ -729,9 +732,11 @@ def main(argv: list[str] | None = None) -> int:
                 "pms_number": QUALIFICATION_STANDARD_PMS,
                 "role": "qualification_standard",
                 "reason": (
-                    "PMS 310-1 is published as a paginated web document at "
-                    f"{PUBLICATION_PAGE.format(slug=qual_norm)}, not a single downloadable PDF; "
-                    "no PDF link found. Needs a web-scrape acquisition path, not file download."
+                    "PMS 310-1 has no downloadable PDF: "
+                    f"{PUBLICATION_PAGE.format(slug=qual_norm)} links no PDF naming the publication "
+                    "(its only PDF link is an unrelated flyer, 2026-11-02). The per-position data is "
+                    "acquired from each position's qualification-requirements page by "
+                    "src/ptb/acquire_requirements.py (source 4) instead."
                 ),
             }
         )

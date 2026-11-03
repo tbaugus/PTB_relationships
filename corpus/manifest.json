@@ -176,7 +176,7 @@
       ],
       "title": "Liaison Officer",
       "pms_number": "311-05",
-      "format": "nwcg_legacy",
+      "format": "unclassified",
       "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-05.pdf?VersionId=jSLoYzLXEOGrFH5yj0R8otD9BUjt6xMh",
       "sha256": "e63a995d9c8a42898596fc143886b0db84908b97578e547bd05c5f40950ab7da",
       "downloaded_at": "2026-07-09",
@@ -717,7 +717,7 @@
       ],
       "title": "Firefighter Type 1",
       "pms_number": "311-14",
-      "format": "nwcg_nextgen",
+      "format": "unclassified",
       "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-14.pdf?VersionId=PYVkVuTXV7xcU_C_LrfJJG0Hthj2EoL_",
       "sha256": "990a294391da114466c49d592d476d581ab4c0a7ae4fdba4586ca9e5ed78020f",
       "downloaded_at": "2026-07-09",
@@ -1478,7 +1478,7 @@
       ],
       "title": "Crew Boss, Single Resource",
       "pms_number": "311-98",
-      "format": "nwcg_nextgen",
+      "format": "unclassified",
       "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-98.pdf?VersionId=_Rp7bUAyZSF1AFXdDoSrEkbYFw44Xbud",
       "sha256": "2d55c139e7dcb3c2ee749926d740f3a3156c6ecf5462a15add3275e2cdfb33b1",
       "downloaded_at": "2026-07-09",
@@ -1662,7 +1662,7 @@
       ],
       "title": "Firing Boss, Single Resource",
       "pms_number": "311-105",
-      "format": "nwcg_nextgen",
+      "format": "unclassified",
       "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-105.pdf?VersionId=sMkC7wGiJfYDrrvb3luQ.1B7uQ2qQP85",
       "sha256": "9382cd3a51df91010ae56a64c723eaebb91cef3e9d9dc32002d307559261064f",
       "downloaded_at": "2026-07-09",
@@ -1842,7 +1842,7 @@
       ],
       "title": "Engine Boss, Single Resource",
       "pms_number": "311-103",
-      "format": "nwcg_nextgen",
+      "format": "unclassified",
       "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-103.pdf?VersionId=YAVToa_KXgPw6NMfmi.81zyj6NWCx6E6",
       "sha256": "2a55990446a79664a755b1be5a068003410e93e3c0dc45dc1f4b67a1f1d4d92a",
       "downloaded_at": "2026-07-09",
@@ -2797,7 +2797,7 @@
       ],
       "title": "FireTech Position Task Books (DOCX export of the same Google Doc; secondary source for structure-aware extraction)",
       "pms_number": null,
-      "format": "enhanced_gdoc",
+      "format": "unclassified",
       "url": "https://docs.google.com/document/d/1rVGMJR67eftCjEcaoQuYDNBleoM7EOI9/export?format=docx",
       "sha256": "acf7640571ac6a49e1ea1b41e213cab7eddbc76c88975e5c5fc4e5da64fd81c2",
       "downloaded_at": "2026-07-09",
@@ -4710,7 +4710,7 @@
     {
       "pms_number": "310-1",
       "role": "qualification_standard",
-      "reason": "PMS 310-1 is published as a paginated web document at https://www.nwcg.gov/publications/pms310-1, not a single downloadable PDF; no PDF link found. Needs a web-scrape acquisition path, not file download."
+      "reason": "PMS 310-1 has no downloadable PDF: https://www.nwcg.gov/publications/pms310-1 links no PDF naming the publication (its only PDF link is an unrelated flyer, 2026-11-02). The per-position data is acquired from each position's qualification-requirements page by src/ptb/acquire_requirements.py (source 4) instead."
     }
   ],
   "retired": [
