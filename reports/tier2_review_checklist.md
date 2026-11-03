@@ -98,8 +98,8 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - CRWB #21 (Crew Boss, Single Resource) — category: Perform Crew Boss-Specific Duties — code: I
 - **Task B** (task_id 969):
   - text: “Request, direct, and provide feedback for aerial resources through established chain of command.”
-    - HEQB #39 (Heavy Equipment) — category: Gather, analyze, and validate information pertinent to the incident or event and — code: W
-    - HMGB #39 (Helicopter) — category: Gather, analyze, and validate information pertinent to the incident or event and — code: W
+    - HEQB #39 (Heavy Equipment) — category: Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities. — code: W
+    - HMGB #39 (Helicopter) — category: Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities. — code: W
 - **Adjudication note:** Differs only by preposition "feedback to" vs "feedback for" aerial resources; same action (request, direct, provide feedback), same object (aerial resources), same channel (chain of command) (rule 3).
 
 ## 7. `5857ebfe08c3023b` — equivalent — score 0.998472
@@ -151,18 +151,18 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 282):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).”
-    - BCMG #37 (Base Camp Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - COML #31 (Communications Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - DIVS #38 (Division or Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - FACL #31 (Facilities Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - FDUL #31 (Food Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - GSUL #31 (Ground Support Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - SECM #34 (Security Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: O
-    - SOF3 #41 (Safety Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - SPUL #31 (Supply Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - BCMG #37 (Base Camp Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - COML #31 (Communications Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - DIVS #38 (Division or Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - FACL #31 (Facilities Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - FDUL #31 (Food Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - GSUL #31 (Ground Support Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - SECM #34 (Security Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: O
+    - SOF3 #41 (Safety Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - SPUL #31 (Supply Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 683):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing [e.g., incoming Incident Management Team (IMT), host agency].”
-    - PIO3 #55 (Public Information Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - PIO3 #55 (Public Information Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge while accounting for the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** Differs only by bracket style around the e.g. clause (parentheses vs square brackets). Same action, object, scope (rule 3).
 
 ## 11. `1a0a3ce60e92564c` — equivalent — score 0.997563
@@ -170,18 +170,18 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 282):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).”
-    - BCMG #37 (Base Camp Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - COML #31 (Communications Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - DIVS #38 (Division or Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - FACL #31 (Facilities Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - FDUL #31 (Food Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - GSUL #31 (Ground Support Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - SECM #34 (Security Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: O
-    - SOF3 #41 (Safety Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - SPUL #31 (Supply Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - BCMG #37 (Base Camp Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - COML #31 (Communications Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - DIVS #38 (Division or Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - FACL #31 (Facilities Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - FDUL #31 (Food Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - GSUL #31 (Ground Support Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - SECM #34 (Security Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: O
+    - SOF3 #41 (Safety Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - SPUL #31 (Supply Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 1277):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g. incoming Incident Management Team [IMT], host agency).”
-    - SITL #32 (Situation Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - SITL #32 (Situation Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** Differs only by punctuation inside the e.g. clause ("e.g.," vs "e.g." and bracket style). Same action, object, scope (rule 3).
 
 ## 12. `56b89b1ff9ede4b1` — equivalent — score 0.997033
@@ -189,10 +189,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 683):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing [e.g., incoming Incident Management Team (IMT), host agency].”
-    - PIO3 #55 (Public Information Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - PIO3 #55 (Public Information Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge while accounting for the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 1277):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g. incoming Incident Management Team [IMT], host agency).”
-    - SITL #32 (Situation Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - SITL #32 (Situation Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** Differs only by bracket/comma style in the e.g. clause. Same action, object, scope (rule 3).
 
 ## 13. `f8dc71aaab92aaec` — equivalent — score 0.996521
@@ -222,11 +222,11 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1435):
   - text: “Identify units within the section to be activated and resources required for section operation.”
-    - FSC3 #4 (Finance Section Chief Type 3) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
-    - LSC3 #4 (Logistics Section Chief Type 3) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
+    - FSC3 #4 (Finance Section Chief Type 3) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
+    - LSC3 #4 (Logistics Section Chief Type 3) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
 - **Task B** (task_id 1675):
   - text: “Identify Units within the Section to be activated and resources required for Section operations.”
-    - PSC3 #4 (Planning Section Chief Type 3) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
+    - PSC3 #4 (Planning Section Chief Type 3) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
 - **Adjudication note:** Differs only by "section operation" vs "section operations" (singular/plural). Same action, object, scope (rule 3).
 
 ## 16. `337c46ae3b2191d6` — equivalent — score 0.995819
@@ -329,18 +329,18 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1217):
   - text: “Develop schedule/assignments based on IAP or relevant plan.”
-    - BCMG #15 (Base Camp Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - COML #14 (Communications Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - EQPM #15 (Equipment Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - FACL #14 (Facilities Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - FDUL #14 (Food Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - GSUL #14 (Ground Support Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - HEBM #13 (Helibase Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - SECM #19 (Security Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - SPUL #14 (Supply Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
+    - BCMG #15 (Base Camp Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - COML #14 (Communications Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - EQPM #15 (Equipment Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - FACL #14 (Facilities Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - FDUL #14 (Food Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - GSUL #14 (Ground Support Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - HEBM #13 (Helibase Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - SECM #19 (Security Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - SPUL #14 (Supply Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
 - **Task B** (task_id 1264):
   - text: “Develop/schedule assignments based on IAP or relevant plan.”
-    - SITL #12 (Situation Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
+    - SITL #12 (Situation Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
 - **Adjudication note:** "develop schedule/assignments" vs "develop/schedule assignments": slash-placement typo variant of the same duty (produce work schedule/assignments from the IAP). Same action, object (rule 3).
 
 ## 24. `9d27a60b4767376c` — equivalent — score 0.990541
@@ -496,10 +496,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1467):
   - text: “Update Incident Commander on current accomplishments and/or problems.”
-    - LSC3 #51 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - LSC3 #51 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Task B** (task_id 1640):
   - text: “Update Incident Commander on current accomplishments and/or problems..”
-    - FSC3 #44 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: O
+    - FSC3 #44 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: O
 - **Adjudication note:** Identical text; B retains a trailing period artifact. Same action, object, scope (rule 3).
 
 ## 35. `3366482c115febe8` — B subsumes A — score 0.982216
@@ -553,7 +553,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - LSCC #24 (Logistics Section Chief Complex) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
 - **Task B** (task_id 1467):
   - text: “Update Incident Commander on current accomplishments and/or problems.”
-    - LSC3 #51 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - LSC3 #51 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Adjudication note:** "concerns" vs "problems": synonym-level word choice in the same update-the-IC duty. Same action, object, scope (rule 3).
 
 ## 39. `27e2786d4f515253` — equivalent — score 0.981152
@@ -561,18 +561,18 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 282):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).”
-    - BCMG #37 (Base Camp Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - COML #31 (Communications Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - DIVS #38 (Division or Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - FACL #31 (Facilities Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - FDUL #31 (Food Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - GSUL #31 (Ground Support Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - SECM #34 (Security Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: O
-    - SOF3 #41 (Safety Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - SPUL #31 (Supply Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - BCMG #37 (Base Camp Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - COML #31 (Communications Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - DIVS #38 (Division or Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - FACL #31 (Facilities Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - FDUL #31 (Food Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - GSUL #31 (Ground Support Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - SECM #34 (Security Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: O
+    - SOF3 #41 (Safety Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - SPUL #31 (Supply Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 1592):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Plan (IMT), host agency).”
-    - EQPM #38 (Equipment Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - EQPM #38 (Equipment Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** Differs only by typo "management plan (imt)" for "management team (imt)" - the (imt) abbreviation fixes the referent. Same action, object, scope (rule 3).
 
 ## 40. `499d7c96af6783e4` — equivalent — score 0.981044
@@ -607,10 +607,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 683):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing [e.g., incoming Incident Management Team (IMT), host agency].”
-    - PIO3 #55 (Public Information Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - PIO3 #55 (Public Information Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge while accounting for the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 1592):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Plan (IMT), host agency).”
-    - EQPM #38 (Equipment Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - EQPM #38 (Equipment Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** Same transfer-of-duties text; differs by bracket style and the "plan (imt)" typo for "team (imt)". Same action, object, scope (rule 3).
 
 ## 43. `602b1b0915de8272` — equivalent — score 0.979524
@@ -653,10 +653,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1072):
   - text: “Participate in preparation of the Incident Action Plan (IAP) or other relevant plan.”
-    - AOBD #26 (Air Operations Branch Director) — category: Develop and implement plans and gain concurrence of affected agencies and/or — code: I
+    - AOBD #26 (Air Operations Branch Director) — category: Develop and implement plans and gain concurrence of affected agencies and/or the public. — code: I
 - **Task B** (task_id 1474):
   - text: “Participate in preparation of Incident Action Plan (IAP).”
-    - LSC3 #58 (Logistics Section Chief Type 3) — category: Develop and implement plans and gain concurrence of affected agencies and — code: I
+    - LSC3 #58 (Logistics Section Chief Type 3) — category: Develop and implement plans and gain concurrence of affected agencies and the public. — code: I
 - **Adjudication note:** A "participate in preparation of the IAP or other relevant plan" vs B "...of the IAP": preparing the IAP satisfies disjunctive A; the reverse is not guaranteed (rule 2). B subsumes A.
 
 ## 46. `068d863011fe376f` — equivalent — score 0.978492
@@ -695,10 +695,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1277):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g. incoming Incident Management Team [IMT], host agency).”
-    - SITL #32 (Situation Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - SITL #32 (Situation Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 1592):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Plan (IMT), host agency).”
-    - EQPM #38 (Equipment Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - EQPM #38 (Equipment Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** Same transfer-of-duties text; differs by punctuation and the "plan (imt)" typo. Same action, object, scope (rule 3).
 
 ## 49. `ff278a90350407d9` — B subsumes A — score 0.977375
@@ -826,7 +826,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - **Task B** (task_id 1438):
   - text: “Obtain briefing from Agency Administrator/ outgoing Incident Commander and gather information.”
     - LSC3 #9 (Logistics Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
-    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
     - PSC3 #9 (Planning Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
 - **Adjudication note:** Same obtain-briefing duty from AA/outgoing IC; B varies conjunction style and appends the generic "and gather information", which adds no behavior beyond the briefing (rule 3).
 
@@ -835,10 +835,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1466):
   - text: “Participate in the operational period briefing, particularly emphasizing any changes from the written IAP.”
-    - LSC3 #50 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - LSC3 #50 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Task B** (task_id 1691):
   - text: “Facilitate the operational period briefing, particularly emphasizing any changes from the written IAP.”
-    - PSC3 #45 (Planning Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - PSC3 #45 (Planning Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Adjudication note:** A "PARTICIPATE in the operational period briefing, emphasizing changes" vs B "FACILITATE the operational period briefing...": facilitating (running) the briefing entails participating, not vice versa - action-level difference (rule 1), subsumption (rule 2). B subsumes A.
 
 ## 61. `afffbe764aa7510d` — equivalent — score 0.973861
@@ -1047,7 +1047,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
       verbatim: “Conduct After Action Reviews (AARs).”
 - **Task B** (task_id 2046):
   - text: “Conduct an After Action Reviews (AAR).”
-    - RXB1 #18 (Prescribed Fire Burn Boss Type 1) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - RXB1 #18 (Prescribed Fire Burn Boss Type 1) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Adjudication note:** Differs only by the typo "conduct an after action reviews". Same action, object (rule 3).
 
 ## 76. `5056f845bffe3e55` — equivalent — score 0.968438
@@ -1078,10 +1078,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1273):
   - text: “Evaluate available information and make recommendations to support the incident.”
-    - SITL #28 (Situation Unit Leader) — category: Gather, analyze, and validate information pertinent to the incident or event — code: I
+    - SITL #28 (Situation Unit Leader) — category: Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities. — code: I
 - **Task B** (task_id 1586):
   - text: “Evaluate available information and make recommendations to support incident.”
-    - EQPM #31 (Equipment Manager) — category: Gather, analyze, and validate information pertinent to the incident or event and — code: I
+    - EQPM #31 (Equipment Manager) — category: Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities. — code: I
 - **Adjudication note:** Differs only by the article "the" before "incident". Same action, object, scope (rule 3).
 
 ## 79. `a51002c2afa22cf9` — equivalent — score 0.968054
@@ -1113,10 +1113,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1484):
   - text: “Coordinate the development, approval and implementation of transfer of command when incident escalates/deescalates.”
-    - LSC3 #70 (Logistics Section Chief Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - LSC3 #70 (Logistics Section Chief Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 1663):
   - text: “Assist in development, approval and implementation of transfer of command when incident escalates/ deescalates.”
-    - FSC3 #71 (Finance Section Chief Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - FSC3 #71 (Finance Section Chief Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** A "COORDINATE the development, approval and implementation of transfer of command" vs B "ASSIST IN development, approval and implementation...": coordinating leads the effort and entails the assist-level contribution, not vice versa (rules 1-2). A subsumes B.
 
 ## 82. `00e40da72bffdbe7` — equivalent — score 0.966776
@@ -1139,7 +1139,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - LSCC #24 (Logistics Section Chief Complex) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
 - **Task B** (task_id 1640):
   - text: “Update Incident Commander on current accomplishments and/or problems..”
-    - FSC3 #44 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: O
+    - FSC3 #44 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: O
 - **Adjudication note:** "concerns" vs "problems" (synonym) plus a trailing-period artifact. Same update-the-IC duty (rule 3).
 
 ## 84. `7feaaf93da582072` — equivalent — score 0.966286
@@ -1200,7 +1200,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - LSC3 #44 (Logistics Section Chief Type 3) — category: Coordinate interdependent activities. — code: I
 - **Task B** (task_id 358):
   - text: “Interact and coordinate with command and general staff.”
-    - HRSP #21 (Human Resource Specialist) — category: Gather, produce and distribute information as required by established — code: I
+    - HRSP #21 (Human Resource Specialist) — category: Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient. — code: I
     - SOF3 #15 (Safety Officer Type 3) — category: Coordinate interdependent activities. — code: I
     - SOFC #16 (Safety Officer Complex) — category: Coordinate interdependent activities. — code: I
 - **Adjudication note:** Differs only by the emphasis word "all" before "command and general staff". Same action, object (rule 3).
@@ -1357,7 +1357,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - PETL #7 (Prevention Education Team Leader) — category: Understand and comply with ICS concepts and principles. — code: I
     - PETM #7 (Prevention Education Team Member) — category: Understand and comply with ICS concepts and principles. — code: I
     - PIO3 #13 (Public Information Officer Type 3) — category: Understand and comply with ICS concepts and principles. — code: I
-    - PIOC #24 (Public Information Officer Complex) — category: Establish work assignments and performance expectations, monitor — code: I
+    - PIOC #24 (Public Information Officer Complex) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
     - SECM #13 (Security Manager) — category: Understand and comply with ICS concepts and principles. — code: I
     - SOF3 #8 (Safety Officer Type 3) — category: Understand and comply with ICS concepts and principles. — code: I
     - STCR #11 (Strike Team Leader Crew) — category: Understand and comply with ICS concepts and principles. — code: I
@@ -1375,32 +1375,32 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 231):
   - text: “Ensure subordinates understand assignment for operational period.”
-    - AOBD #13 (Air Operations Branch Director) — category: Establish work assignments and performance expectations, monitor — code: I
-    - ASGS #15 (Air Support Group Supervisor) — category: Establish work assignments and performance expectations, monitor — code: I
-    - BCMG #16 (Base Camp Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - COML #15 (Communications Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - EQPM #16 (Equipment Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - FACL #15 (Facilities Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - FDUL #15 (Food Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - FSCC #12 (Finance or Administration Section Chief Complex) — category: Establish work assignments and performance expectations, monitor — code: I
-    - GSUL #15 (Ground Support Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - HEBM #14 (Helibase Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - ICT4 #16 (Incident Commander Type 4) — category: Establish work assignments and performance expectations, monitor — code: I
-    - LSCC #16 (Logistics Section Chief Complex) — category: Establish work assignments and performance expectations, monitor — code: I
-    - PETL #14 (Prevention Education Team Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - PIOC #29 (Public Information Officer Complex) — category: Establish work assignments and performance expectations, monitor — code: I
-    - PSCC #12 (Planning Section Chief Complex) — category: Establish work assignments and performance expectations, monitor — code: I
-    - RXB1 #14 (Prescribed Fire Burn Boss Type 1) — category: Establish work assignments and performance expectations, monitor performance, — code: RX
-    - RXMG #14 (Prescribed Fire Manager) — category: Establish work assignments and performance expectations, monitor — code: RX
-    - SECM #20 (Security Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - SITL #13 (Situation Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - SOF3 #13 (Safety Officer Type 3) — category: Establish work assignments and performance expectations, monitor — code: R
-    - SOFC #11 (Safety Officer Complex) — category: Establish work assignments and performance expectations, monitor — code: I
-    - SPUL #15 (Supply Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
+    - AOBD #13 (Air Operations Branch Director) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - ASGS #15 (Air Support Group Supervisor) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - BCMG #16 (Base Camp Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - COML #15 (Communications Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - EQPM #16 (Equipment Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - FACL #15 (Facilities Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - FDUL #15 (Food Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - FSCC #12 (Finance or Administration Section Chief Complex) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - GSUL #15 (Ground Support Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - HEBM #14 (Helibase Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - ICT4 #16 (Incident Commander Type 4) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - LSCC #16 (Logistics Section Chief Complex) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - PETL #14 (Prevention Education Team Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - PIOC #29 (Public Information Officer Complex) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - PSCC #12 (Planning Section Chief Complex) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - RXB1 #14 (Prescribed Fire Burn Boss Type 1) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: RX
+    - RXMG #14 (Prescribed Fire Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: RX
+    - SECM #20 (Security Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - SITL #13 (Situation Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - SOF3 #13 (Safety Officer Type 3) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: R
+    - SOFC #11 (Safety Officer Complex) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - SPUL #15 (Supply Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
 - **Task B** (task_id 957):
   - text: “Ensure subordinates understand operational period assignments.”
-    - HEQB #21 (Heavy Equipment) — category: Establish work assignments and performance expectations, monitor — code: I
-    - HMGB #21 (Helicopter) — category: Establish work assignments and performance expectations, monitor — code: I
+    - HEQB #21 (Heavy Equipment) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - HMGB #21 (Helicopter) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
 - **Adjudication note:** "understand assignment for operational period" vs "understand operational period assignments": reorder + plural only. Same ensure-level action, same object (rule 3).
 
 ## 102. `57dd6c3518399c5b` — equivalent — score 0.957484
@@ -1413,8 +1413,8 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - **Task B** (task_id 1463):
   - text: “Obtain briefing from Incident Commander. May be one-on-one or in an Incident Management Team (IMT) meeting.”
     - FSC3 #9 (Finance Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
-    - FSC3 #40 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
-    - LSC3 #47 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - FSC3 #40 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
+    - LSC3 #47 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Adjudication note:** Same briefing duty; B renders the parenthetical as a sentence ("may be one-on-one or in an imt meeting"). Same action, source, setting (rule 3).
 
 ## 103. `d47cda958e9f928f` — equivalent — score 0.957437
@@ -1513,7 +1513,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - FSCC #22 (Finance or Administration Section Chief Complex) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
 - **Task B** (task_id 1467):
   - text: “Update Incident Commander on current accomplishments and/or problems.”
-    - LSC3 #51 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - LSC3 #51 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Adjudication note:** Differs by the timing hedge and "concerns" vs "problems" (synonym). Same update-the-IC duty (rule 3).
 
 ## 110. `998dde67f97020b6` — equivalent — score 0.954966
@@ -1543,18 +1543,18 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 282):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).”
-    - BCMG #37 (Base Camp Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - COML #31 (Communications Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - DIVS #38 (Division or Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - FACL #31 (Facilities Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - FDUL #31 (Food Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - GSUL #31 (Ground Support Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - SECM #34 (Security Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: O
-    - SOF3 #41 (Safety Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - SPUL #31 (Supply Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - BCMG #37 (Base Camp Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - COML #31 (Communications Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - DIVS #38 (Division or Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - FACL #31 (Facilities Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - FDUL #31 (Food Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - GSUL #31 (Ground Support Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - SECM #34 (Security Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: O
+    - SOF3 #41 (Safety Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - SPUL #31 (Supply Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 1316):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), IRIN, IRCN/IRCR, host agency).”
-    - IRIN #33 (Infrared Interpreter) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - IRIN #33 (Infrared Interpreter) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** Same transfer-of-duties text; B's e.g. list adds position-specific illustrations (irin, ircn/ircr). Illustrative only (rule 3).
 
 ## 113. `8b075adebf45ed68` — equivalent — score 0.953876
@@ -1604,10 +1604,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 683):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing [e.g., incoming Incident Management Team (IMT), host agency].”
-    - PIO3 #55 (Public Information Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - PIO3 #55 (Public Information Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge while accounting for the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 1316):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), IRIN, IRCN/IRCR, host agency).”
-    - IRIN #33 (Infrared Interpreter) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - IRIN #33 (Infrared Interpreter) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** Same transfer-of-duties text; differs by bracket style and B's illustrative additions to the e.g. list (rule 3).
 
 ## 117. `10ecd0c2b974a064` — equivalent — score 0.951642
@@ -1678,7 +1678,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - FSCC #22 (Finance or Administration Section Chief Complex) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
 - **Task B** (task_id 1640):
   - text: “Update Incident Commander on current accomplishments and/or problems..”
-    - FSC3 #44 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: O
+    - FSC3 #44 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: O
 - **Adjudication note:** Differs by the timing hedge, "concerns" vs "problems" (synonym), and a trailing-period artifact. Same update-the-IC duty (rule 3).
 
 ## 122. `7f5c41d97134ee7e` — A subsumes B — score 0.949545
@@ -1698,10 +1698,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1277):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g. incoming Incident Management Team [IMT], host agency).”
-    - SITL #32 (Situation Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - SITL #32 (Situation Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 1316):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), IRIN, IRCN/IRCR, host agency).”
-    - IRIN #33 (Infrared Interpreter) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - IRIN #33 (Infrared Interpreter) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** Same transfer-of-duties text; differs by punctuation and B's illustrative e.g. additions (rule 3).
 
 ## 124. `f792b7836eb5690e` — A subsumes B — score 0.948709
@@ -1936,10 +1936,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1994):
   - text: “Conduct operations in a safe manner according to the safety guidelines, prescribed fire plan, and agency-specific policies and standards.”
-    - RXMG #47 (Prescribed Fire Manager) — category: Follow established procedures and/or safety procedures relevant to given — code: RX
+    - RXMG #47 (Prescribed Fire Manager) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: RX
 - **Task B** (task_id 2077):
   - text: “Conduct operations in a safe manner according to the Standard Fire Orders, Watch Out Situations, LCES principles, Prescribed Fire Plan, and agency-specific policies and standards.”
-    - RXB1 #49 (Prescribed Fire Burn Boss Type 1) — category: Follow established procedures and safety procedures relevant to given — code: RX
+    - RXB1 #49 (Prescribed Fire Burn Boss Type 1) — category: Follow established procedures and safety procedures relevant to given assignment. — code: RX
 - **Adjudication note:** Both require conducting operations safely per the prescribed fire plan and agency policies; A cites "the safety guidelines" generically where B enumerates them (fire orders, watch out situations, LCES principles) - a specification of the same governing safety guidance, not additional behavior (rule 3).
 
 ## 138. `9d51992eacdae7ee` — equivalent — score 0.941027
@@ -2081,10 +2081,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1316):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), IRIN, IRCN/IRCR, host agency).”
-    - IRIN #33 (Infrared Interpreter) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - IRIN #33 (Infrared Interpreter) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 1592):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Plan (IMT), host agency).”
-    - EQPM #38 (Equipment Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - EQPM #38 (Equipment Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** Same transfer-of-duties text; differs by illustrative e.g. additions and the "plan (imt)" typo (rule 3).
 
 ## 148. `c5080f6e953a8d17` — A subsumes B — score 0.938414
@@ -2117,10 +2117,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1664):
   - text: “Communicate transfer of command to operations and command staff.”
-    - FSC3 #74 (Finance Section Chief Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: O
+    - FSC3 #74 (Finance Section Chief Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: O
 - **Task B** (task_id 1708):
   - text: “Communicate transfer of command to command and general staff.”
-    - PSC3 #69 (Planning Section Chief Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - PSC3 #69 (Planning Section Chief Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** "communicate transfer of command to OPERATIONS AND COMMAND STAFF" vs "to COMMAND AND GENERAL STAFF": ICS general staff includes the operations section, so B's audience contains A's (rule 2). B subsumes A.
 
 ## 150. `3f8897274c9667b6` — equivalent — score 0.937945
@@ -2182,17 +2182,17 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 437):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).”
-    - AOBD #34 (Air Operations Branch Director) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - ASGS #43 (Air Support Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - ATGS #70 (Air Tactical Group Supervisor) — category: Ensure compliance with all legal and safety requirements relevant to air — code: I
-    - HEBM #46 (Helibase Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - HLCO #70 (Helicopter Coordinator) — category: Ensure compliance with all legal and safety requirements relevant to air — code: I
-    - INBA #24 (Incident Business Advisor) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - AOBD #34 (Air Operations Branch Director) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - ASGS #43 (Air Support Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - ATGS #70 (Air Tactical Group Supervisor) — category: Ensure compliance with all legal and safety requirements relevant to air operations. — code: I
+    - HEBM #46 (Helibase Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - HLCO #70 (Helicopter Coordinator) — category: Ensure compliance with all legal and safety requirements relevant to air operations. — code: I
+    - INBA #24 (Incident Business Advisor) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
     - PIOC #39 (Public Information Officer Complex) — category: Coordinate interdependent activities. — code: I
-    - TNSP #26 (Training Specialist) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - TNSP #26 (Training Specialist) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 1592):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Plan (IMT), host agency).”
-    - EQPM #38 (Equipment Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - EQPM #38 (Equipment Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** Same transfer-of-duties text; differs by "incoming imt" abbreviation vs spelled-out form and the "plan (imt)" typo (rule 3).
 
 ## 155. `4d90d3c789c917ce` — A subsumes B — score 0.935477
@@ -2200,10 +2200,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1877):
   - text: “Evaluate fuels and hazards and make recommendations.”
-    - PETL #27 (Prevention Education Team Leader) — category: Gather, analyze, and validate information pertinent to the incident or event and — code: I
+    - PETL #27 (Prevention Education Team Leader) — category: Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities. — code: I
 - **Task B** (task_id 1890):
   - text: “Evaluate fuels and hazards.”
-    - PETM #13 (Prevention Education Team Member) — category: Gather, analyze, and validate information pertinent to the incident or event and — code: O
+    - PETM #13 (Prevention Education Team Member) — category: Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities. — code: O
 - **Adjudication note:** A "evaluate fuels and hazards AND MAKE RECOMMENDATIONS" vs B "evaluate fuels and hazards": A adds the recommendation action (rule 2). A subsumes B.
 
 ## 156. `a5f0e2a616f2b318` — equivalent — score 0.935388
@@ -2211,25 +2211,25 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 282):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).”
-    - BCMG #37 (Base Camp Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - COML #31 (Communications Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - DIVS #38 (Division or Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - FACL #31 (Facilities Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - FDUL #31 (Food Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - GSUL #31 (Ground Support Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - SECM #34 (Security Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: O
-    - SOF3 #41 (Safety Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - SPUL #31 (Supply Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - BCMG #37 (Base Camp Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - COML #31 (Communications Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - DIVS #38 (Division or Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - FACL #31 (Facilities Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - FDUL #31 (Food Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - GSUL #31 (Ground Support Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - SECM #34 (Security Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: O
+    - SOF3 #41 (Safety Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - SPUL #31 (Supply Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 437):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).”
-    - AOBD #34 (Air Operations Branch Director) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - ASGS #43 (Air Support Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - ATGS #70 (Air Tactical Group Supervisor) — category: Ensure compliance with all legal and safety requirements relevant to air — code: I
-    - HEBM #46 (Helibase Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - HLCO #70 (Helicopter Coordinator) — category: Ensure compliance with all legal and safety requirements relevant to air — code: I
-    - INBA #24 (Incident Business Advisor) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - AOBD #34 (Air Operations Branch Director) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - ASGS #43 (Air Support Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - ATGS #70 (Air Tactical Group Supervisor) — category: Ensure compliance with all legal and safety requirements relevant to air operations. — code: I
+    - HEBM #46 (Helibase Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - HLCO #70 (Helicopter Coordinator) — category: Ensure compliance with all legal and safety requirements relevant to air operations. — code: I
+    - INBA #24 (Incident Business Advisor) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
     - PIOC #39 (Public Information Officer Complex) — category: Coordinate interdependent activities. — code: I
-    - TNSP #26 (Training Specialist) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - TNSP #26 (Training Specialist) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** Same transfer-of-duties text; differs only by "incoming imt" vs "incoming incident management team (imt)" (rule 3).
 
 ## 157. `3d8bce2fe32608e4` — B subsumes A — score 0.935034
@@ -2252,7 +2252,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - LSCC #27 (Logistics Section Chief Complex) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
 - **Task B** (task_id 1639):
   - text: “Provide daily or operational period briefings to section personnel.”
-    - FSC3 #42 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: O
+    - FSC3 #42 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: O
 - **Adjudication note:** A "provide DAILY briefings to section personnel" vs B "provide daily OR operational period briefings": daily briefings satisfy B's disjunction; B may be met without daily briefings (rule 2). A subsumes B.
 
 ## 159. `f5ca4f340ff47558` — equivalent — score 0.934872
@@ -2337,8 +2337,8 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - **Task B** (task_id 1463):
   - text: “Obtain briefing from Incident Commander. May be one-on-one or in an Incident Management Team (IMT) meeting.”
     - FSC3 #9 (Finance Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
-    - FSC3 #40 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
-    - LSC3 #47 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - FSC3 #40 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
+    - LSC3 #47 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Adjudication note:** Same obtain-IC-briefing duty; differs by "initial", a spacing artifact, and parenthetical vs sentence form (rule 3).
 
 ## 164. `7ce8e390d2a7bcab` — equivalent — score 0.932689
@@ -2346,17 +2346,17 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 437):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).”
-    - AOBD #34 (Air Operations Branch Director) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - ASGS #43 (Air Support Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - ATGS #70 (Air Tactical Group Supervisor) — category: Ensure compliance with all legal and safety requirements relevant to air — code: I
-    - HEBM #46 (Helibase Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - HLCO #70 (Helicopter Coordinator) — category: Ensure compliance with all legal and safety requirements relevant to air — code: I
-    - INBA #24 (Incident Business Advisor) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - AOBD #34 (Air Operations Branch Director) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - ASGS #43 (Air Support Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - ATGS #70 (Air Tactical Group Supervisor) — category: Ensure compliance with all legal and safety requirements relevant to air operations. — code: I
+    - HEBM #46 (Helibase Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - HLCO #70 (Helicopter Coordinator) — category: Ensure compliance with all legal and safety requirements relevant to air operations. — code: I
+    - INBA #24 (Incident Business Advisor) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
     - PIOC #39 (Public Information Officer Complex) — category: Coordinate interdependent activities. — code: I
-    - TNSP #26 (Training Specialist) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - TNSP #26 (Training Specialist) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 1277):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g. incoming Incident Management Team [IMT], host agency).”
-    - SITL #32 (Situation Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - SITL #32 (Situation Unit Leader) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** Same transfer-of-duties text; differs by e.g. abbreviation and punctuation (rule 3).
 
 ## 165. `64c76afb4ef36ca0` — equivalent — score 0.932136
@@ -2389,34 +2389,34 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 232):
   - text: “Continually evaluate performance.”
-    - AOBD #14 (Air Operations Branch Director) — category: Establish work assignments and performance expectations, monitor — code: I
-    - ASGS #16 (Air Support Group Supervisor) — category: Establish work assignments and performance expectations, monitor — code: I
-    - BCMG #17 (Base Camp Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - COML #16 (Communications Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - EQPM #17 (Equipment Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - FACL #16 (Facilities Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - FDUL #16 (Food Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - FSCC #13 (Finance or Administration Section Chief Complex) — category: Establish work assignments and performance expectations, monitor — code: I
-    - GSUL #16 (Ground Support Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - HEBM #15 (Helibase Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - HEQB #22 (Heavy Equipment) — category: Establish work assignments and performance expectations, monitor — code: I
-    - HMGB #22 (Helicopter) — category: Establish work assignments and performance expectations, monitor — code: I
-    - ICT4 #17 (Incident Commander Type 4) — category: Establish work assignments and performance expectations, monitor — code: I
-    - LSCC #17 (Logistics Section Chief Complex) — category: Establish work assignments and performance expectations, monitor — code: I
-    - PETL #15 (Prevention Education Team Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - PIOC #32 (Public Information Officer Complex) — category: Establish work assignments and performance expectations, monitor — code: I
-    - PSCC #13 (Planning Section Chief Complex) — category: Establish work assignments and performance expectations, monitor — code: I
-    - RXMG #15 (Prescribed Fire Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - SECM #21 (Security Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - SITL #14 (Situation Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - SOF3 #14 (Safety Officer Type 3) — category: Establish work assignments and performance expectations, monitor — code: R
-    - SOFC #12 (Safety Officer Complex) — category: Establish work assignments and performance expectations, monitor — code: I
-    - SPUL #16 (Supply Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
+    - AOBD #14 (Air Operations Branch Director) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - ASGS #16 (Air Support Group Supervisor) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - BCMG #17 (Base Camp Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - COML #16 (Communications Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - EQPM #17 (Equipment Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - FACL #16 (Facilities Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - FDUL #16 (Food Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - FSCC #13 (Finance or Administration Section Chief Complex) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - GSUL #16 (Ground Support Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - HEBM #15 (Helibase Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - HEQB #22 (Heavy Equipment) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - HMGB #22 (Helicopter) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - ICT4 #17 (Incident Commander Type 4) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - LSCC #17 (Logistics Section Chief Complex) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - PETL #15 (Prevention Education Team Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - PIOC #32 (Public Information Officer Complex) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - PSCC #13 (Planning Section Chief Complex) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - RXMG #15 (Prescribed Fire Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - SECM #21 (Security Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - SITL #14 (Situation Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - SOF3 #14 (Safety Officer Type 3) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: R
+    - SOFC #12 (Safety Officer Complex) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - SPUL #16 (Supply Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
 - **Task B** (task_id 1457):
   - text: “Continuously evaluate performance.”
-    - LSC3 #38 (Logistics Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor — code: I
-    - PSC3 #32 (Planning Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor — code: I
-    - RXB1 #15 (Prescribed Fire Burn Boss Type 1) — category: Establish work assignments and performance expectations, monitor performance, — code: I
+    - LSC3 #38 (Logistics Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - PSC3 #32 (Planning Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - RXB1 #15 (Prescribed Fire Burn Boss Type 1) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
 - **Adjudication note:** "continually" vs "continuously" evaluate performance: word-form only (rule 3).
 
 ## 168. `342d8639b5d8e10f` — equivalent — score 0.930401
@@ -2451,7 +2451,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - TNSP #1 (Training Specialist) — category: Ensure readiness for assignment. — code: O
 - **Task B** (task_id 2393):
   - text: “Obtain and assemble information and materials needed for kit (can be electronic or hard copies). Suggested items:”
-    - FWPT #1 (Fixed Wing Parking Tender) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: O
+    - FWPT #1 (Fixed Wing Parking Tender) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: O
 - **Adjudication note:** Same kit duty; B adds the parenthetical "(can be electronic or hard copies)" - format guidance, not behavior (rule 3).
 
 ## 170. `4605e7b116efdcbb` — B subsumes A — score 0.930241
@@ -2492,10 +2492,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 193):
   - text: “Assign personnel to utilize skills and qualifications.”
-    - ICT3 #18 (Incident Commander Type 3) — category: Establish work assignments and performance expectations, monitor — code: W
+    - ICT3 #18 (Incident Commander Type 3) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: W
 - **Task B** (task_id 230):
   - text: “Assign personnel to utilize skills and qualifications, and make adjustments as needed.”
-    - ICT4 #15 (Incident Commander Type 4) — category: Establish work assignments and performance expectations, monitor — code: W
+    - ICT4 #15 (Incident Commander Type 4) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: W
 - **Adjudication note:** A "assign personnel to utilize skills and qualifications" vs B adds "and make adjustments as needed" (rule 2). B subsumes A.
 
 ## 173. `26f8c8701b9adeb5` — equivalent — score 0.929022
@@ -2562,7 +2562,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 655):
   - text: “Provide Feedback and Monitor Performance.”
-    - PIO3 #22 (Public Information Officer Type 3) — category: Supervise effectively, establish work assignments and performance — code: I
+    - PIO3 #22 (Public Information Officer Type 3) — category: Supervise effectively, establish work assignments and performance expectations, monitor performance, provide training opportunities, and give feedback. — code: I
 - **Task B** (task_id 1032):
   - text: “Monitor performance and provide immediate and regular feedback.”
     - FFT1 #8 (Firefighter Type 1) — category: Supervise and Direct Work Assignments — code: I
@@ -2573,17 +2573,17 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 437):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).”
-    - AOBD #34 (Air Operations Branch Director) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - ASGS #43 (Air Support Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - ATGS #70 (Air Tactical Group Supervisor) — category: Ensure compliance with all legal and safety requirements relevant to air — code: I
-    - HEBM #46 (Helibase Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - HLCO #70 (Helicopter Coordinator) — category: Ensure compliance with all legal and safety requirements relevant to air — code: I
-    - INBA #24 (Incident Business Advisor) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - AOBD #34 (Air Operations Branch Director) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - ASGS #43 (Air Support Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - ATGS #70 (Air Tactical Group Supervisor) — category: Ensure compliance with all legal and safety requirements relevant to air operations. — code: I
+    - HEBM #46 (Helibase Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - HLCO #70 (Helicopter Coordinator) — category: Ensure compliance with all legal and safety requirements relevant to air operations. — code: I
+    - INBA #24 (Incident Business Advisor) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
     - PIOC #39 (Public Information Officer Complex) — category: Coordinate interdependent activities. — code: I
-    - TNSP #26 (Training Specialist) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - TNSP #26 (Training Specialist) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 683):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing [e.g., incoming Incident Management Team (IMT), host agency].”
-    - PIO3 #55 (Public Information Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - PIO3 #55 (Public Information Officer Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge while accounting for the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** Same transfer-of-duties text; differs by e.g. abbreviation and bracket style (rule 3).
 
 ## 180. `af3addd922883b57` — equivalent — score 0.92637
@@ -2645,10 +2645,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1070):
   - text: “Prepare for and participate in preplanning/strategy meetings.”
-    - AOBD #24 (Air Operations Branch Director) — category: Gather, produce and distribute information as required by established — code: I
+    - AOBD #24 (Air Operations Branch Director) — category: Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient. — code: I
 - **Task B** (task_id 1269):
   - text: “Prepare information for preplanning/strategy meeting.”
-    - SITL #23 (Situation Unit Leader) — category: Gather, produce, and distribute information as required by established — code: I
+    - SITL #23 (Situation Unit Leader) — category: Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient. — code: I
 - **Adjudication note:** A "PREPARE FOR AND PARTICIPATE IN preplanning/strategy meetings" vs B "prepare information for preplanning/strategy meeting": A's preparation-plus-participation covers B's information preparation; B does not attend (rule 2). A subsumes B.
 
 ## 185. `9579dfd1069acfd0` — equivalent — score 0.92421
@@ -2737,7 +2737,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - **Task B** (task_id 1438):
   - text: “Obtain briefing from Agency Administrator/ outgoing Incident Commander and gather information.”
     - LSC3 #9 (Logistics Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
-    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
     - PSC3 #9 (Planning Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
 - **Adjudication note:** Same obtain-AA/outgoing-IC-briefing duty; differs by "initial", slash style, and B's generic "and gather information" appendix (rule 3).
 
@@ -2802,7 +2802,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - UASD #18 (Unmanned Aircraft Systems, Data Specialist) — category: Communicate and Coordinate — code: I
 - **Task B** (task_id 2046):
   - text: “Conduct an After Action Reviews (AAR).”
-    - RXB1 #18 (Prescribed Fire Burn Boss Type 1) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - RXB1 #18 (Prescribed Fire Burn Boss Type 1) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Adjudication note:** A "PARTICIPATE in AARs" vs B "CONDUCT an AAR(s)": conducting entails participating (rules 1-2). B subsumes A.
 
 ## 196. `c23781cfb08f394f` — A subsumes B — score 0.920575
@@ -2837,7 +2837,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 299):
   - text: “Provide training opportunities where available.”
-    - ICCI #19 (Incident Commander Complex) — category: Establish work assignments and performance expectations, monitor — code: I
+    - ICCI #19 (Incident Commander Complex) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
 - **Task B** (task_id 550):
   - text: “Identify and provide training opportunities.”
     - OPBD #16 (Operations Branch Director) — category: Lead, Supervise, Direct — code: I
@@ -2913,10 +2913,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 212):
   - text: “Obtain and monitor weather and other environmental factors to anticipate changes in fire behavior or incident status.”
-    - ICT3 #37 (Incident Commander Type 3) — category: Prepare clear and concise assessments regarding hazards, hazard behavior, — code: W
+    - ICT3 #37 (Incident Commander Type 3) — category: Prepare clear and concise assessments regarding hazards, hazard behavior, weather, and other relevant events. — code: W
 - **Task B** (task_id 245):
   - text: “Obtain, monitor, and document fire weather forecasts and other environmental factors to anticipate changes in fire behavior.”
-    - ICT4 #34 (Incident Commander Type 4) — category: Prepare clear and concise assessments regarding hazards, hazard behavior, — code: W
+    - ICT4 #34 (Incident Commander Type 4) — category: Prepare clear and concise assessments regarding hazards, hazard behavior, weather, and other relevant events. — code: W
 - **Adjudication note:** A "obtain and monitor weather and other environmental factors" vs B "obtain, monitor, AND DOCUMENT fire weather forecasts and other environmental factors": B adds documentation of the same inputs; A's extra purpose words ("or incident status") describe intent, not behavior (rule 2). B subsumes A.
 
 ## 204. `ca032483d0d86651` — equivalent — score 0.915399
@@ -2924,10 +2924,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 287):
   - text: “Assess situation to determine immediate resource needs.”
-    - ICCI #6 (Incident Commander Complex) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
+    - ICCI #6 (Incident Commander Complex) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
 - **Task B** (task_id 1960):
   - text: “Assess situation to determine resource needs.”
-    - RXMG #3 (Prescribed Fire Manager) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: RX
+    - RXMG #3 (Prescribed Fire Manager) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: RX
 - **Adjudication note:** Differs only by the qualifier "immediate" before "resource needs". Same assess-situation duty (rule 3).
 
 ## 205. `0f34878eef6e8d45` — equivalent — score 0.915012
@@ -3034,10 +3034,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1449):
   - text: “Provide initial operating instructions to section personnel, including safety and security concerns and expectations.”
-    - LSC3 #29 (Logistics Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor — code: O
+    - LSC3 #29 (Logistics Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: O
 - **Task B** (task_id 1627):
   - text: “Provide initial operating instructions to section personnel.”
-    - FSC3 #26 (Finance Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor — code: O
+    - FSC3 #26 (Finance Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: O
 - **Adjudication note:** Same initial-operating-instructions duty, but A adds "including safety and security concerns and expectations" (rule 2). A subsumes B.
 
 ## 213. `44325b2ec6905ca0` — equivalent — score 0.910819
@@ -3086,7 +3086,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - HMGB #3 (Helicopter) — category: Ensure readiness for assignment. — code: O
 - **Task B** (task_id 2394):
   - text: “Travel for assignment”
-    - FWPT #2 (Fixed Wing Parking Tender) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: O
+    - FWPT #2 (Fixed Wing Parking Tender) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: O
 - **Adjudication note:** "travel to and from assignment" vs "travel for assignment": same mobilization travel duty (rule 3).
 
 ## 217. `039f698d0e8651fd` — equivalent — score 0.910206
@@ -3127,12 +3127,12 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1111):
   - text: “Coordinate helicopter air traffic using helicopter daisy-chains.”
-    - ATGS #34 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #34 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #34 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #34 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Task B** (task_id 1175):
   - text: “Coordinate mixed (fixed and rotor) air traffic using helicopter daisy-chains.”
-    - ATGS #105 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #105 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #105 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #105 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Adjudication note:** A coordinates HELICOPTER traffic using daisy-chains; B coordinates MIXED (fixed and rotor) traffic using daisy-chains - the same technique on a superset of traffic (rule 2). B subsumes A.
 
 ## 221. `72b85327bf87b245` — equivalent — score 0.909013
@@ -3207,23 +3207,23 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 430):
   - text: “Complete daily review of staffing requirements.”
-    - ASGS #13 (Air Support Group Supervisor) — category: Establish work assignments and performance expectations, monitor — code: I
-    - BCMG #14 (Base Camp Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - EQPM #14 (Equipment Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - HEBM #12 (Helibase Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - HEQB #19 (Heavy Equipment) — category: Establish work assignments and performance expectations, monitor — code: I
-    - HMGB #19 (Helicopter) — category: Establish work assignments and performance expectations, monitor — code: I
-    - PETL #12 (Prevention Education Team Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - PIOC #30 (Public Information Officer Complex) — category: Establish work assignments and performance expectations, monitor — code: I
-    - SECM #18 (Security Manager) — category: Establish work assignments and performance expectations, monitor — code: I
+    - ASGS #13 (Air Support Group Supervisor) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - BCMG #14 (Base Camp Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - EQPM #14 (Equipment Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - HEBM #12 (Helibase Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - HEQB #19 (Heavy Equipment) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - HMGB #19 (Helicopter) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - PETL #12 (Prevention Education Team Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - PIOC #30 (Public Information Officer Complex) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - SECM #18 (Security Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
 - **Task B** (task_id 1263):
   - text: “Complete daily review of staffing requirements and ensure adequate personnel to meet needs.”
-    - COML #13 (Communications Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - FACL #13 (Facilities Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - FDUL #13 (Food Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - GSUL #13 (Ground Support Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - SITL #11 (Situation Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - SPUL #13 (Supply Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
+    - COML #13 (Communications Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - FACL #13 (Facilities Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - FDUL #13 (Food Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - GSUL #13 (Ground Support Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - SITL #11 (Situation Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - SPUL #13 (Supply Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
 - **Adjudication note:** Same daily staffing review, but B adds "and ensure adequate personnel to meet needs" (rule 2). B subsumes A.
 
 ## 228. `f2c50f164021c793` — A subsumes B — score 0.905591
@@ -3259,11 +3259,11 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - **Task A** (task_id 1438):
   - text: “Obtain briefing from Agency Administrator/ outgoing Incident Commander and gather information.”
     - LSC3 #9 (Logistics Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
-    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
     - PSC3 #9 (Planning Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
 - **Task B** (task_id 1687):
   - text: “Attend Agency Administrator and/or outgoing Incident Commander briefing.”
-    - PSC3 #41 (Planning Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - PSC3 #41 (Planning Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Adjudication note:** Same AA/outgoing-IC briefing event; "obtain ... and gather information" vs "attend ..." are the same receive-the-briefing behavior (rule 3).
 
 ## 230. `77bc838bb3bee43a` — equivalent — score 0.904042
@@ -3271,17 +3271,17 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 437):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).”
-    - AOBD #34 (Air Operations Branch Director) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - ASGS #43 (Air Support Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - ATGS #70 (Air Tactical Group Supervisor) — category: Ensure compliance with all legal and safety requirements relevant to air — code: I
-    - HEBM #46 (Helibase Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - HLCO #70 (Helicopter Coordinator) — category: Ensure compliance with all legal and safety requirements relevant to air — code: I
-    - INBA #24 (Incident Business Advisor) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - AOBD #34 (Air Operations Branch Director) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - ASGS #43 (Air Support Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - ATGS #70 (Air Tactical Group Supervisor) — category: Ensure compliance with all legal and safety requirements relevant to air operations. — code: I
+    - HEBM #46 (Helibase Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - HLCO #70 (Helicopter Coordinator) — category: Ensure compliance with all legal and safety requirements relevant to air operations. — code: I
+    - INBA #24 (Incident Business Advisor) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
     - PIOC #39 (Public Information Officer Complex) — category: Coordinate interdependent activities. — code: I
-    - TNSP #26 (Training Specialist) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - TNSP #26 (Training Specialist) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 1316):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), IRIN, IRCN/IRCR, host agency).”
-    - IRIN #33 (Infrared Interpreter) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - IRIN #33 (Infrared Interpreter) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** Same transfer-of-duties text; differs by e.g. abbreviation and illustrative additions (rule 3).
 
 ## 231. `34600fdc97183541` — B subsumes A — score 0.903704
@@ -3373,17 +3373,17 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1262):
   - text: “Organize assigned personnel to meet the needs of the unit.”
-    - BCMG #8 (Base Camp Manager) — category: Establish organization structure, reporting procedures, and chain of command — code: I
-    - COML #7 (Communications Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command — code: I
-    - FACL #7 (Facilities Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command — code: I
-    - FDUL #7 (Food Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command — code: I
-    - GSUL #7 (Ground Support Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command — code: I
-    - SITL #5 (Situation Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command — code: I
-    - SPUL #7 (Supply Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command — code: I
+    - BCMG #8 (Base Camp Manager) — category: Establish organization structure, reporting procedures, and chain of command of assigned resources. — code: I
+    - COML #7 (Communications Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command of assigned resources. — code: I
+    - FACL #7 (Facilities Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command of assigned resources. — code: I
+    - FDUL #7 (Food Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command of assigned resources. — code: I
+    - GSUL #7 (Ground Support Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command of assigned resources. — code: I
+    - SITL #5 (Situation Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command of assigned resources. — code: I
+    - SPUL #7 (Supply Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command of assigned resources. — code: I
 - **Task B** (task_id 1517):
   - text: “Organize assigned personnel to meet the needs of the assignment.”
-    - EQPM #8 (Equipment Manager) — category: Establish organization structure, reporting procedures, and chain of command — code: I
-    - SECM #12 (Security Manager) — category: Establish organization structure, reporting procedures, and chain of command — code: I
+    - EQPM #8 (Equipment Manager) — category: Establish organization structure, reporting procedures, and chain of command of assigned resources. — code: I
+    - SECM #12 (Security Manager) — category: Establish organization structure, reporting procedures, and chain of command of assigned resources. — code: I
 - **Adjudication note:** "meet the needs of the unit" vs "of the assignment": same organize-assigned-personnel duty (rule 3).
 
 ## 238. `d7e13b22e2281474` — A subsumes B — score 0.900746
@@ -3417,12 +3417,12 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1107):
   - text: “Coordinate helicopter air traffic using holding areas and routes.”
-    - ATGS #30 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #30 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #30 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #30 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Task B** (task_id 1110):
   - text: “Coordinate helicopter air traffic using helicopter routes.”
-    - ATGS #33 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #33 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #33 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #33 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Adjudication note:** A "coordinate helicopter air traffic using HOLDING AREAS AND ROUTES" vs B "...using helicopter routes": A demonstrates the route technique plus holding areas (rule 2). A subsumes B.
 
 ## 241. `aec29ed755eeebd8` — equivalent — score 0.899687
@@ -3433,9 +3433,9 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - OPBD #16 (Operations Branch Director) — category: Lead, Supervise, Direct — code: I
 - **Task B** (task_id 1459):
   - text: “Identify training needs and provide opportunities for training.”
-    - FSC3 #34 (Finance Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor — code: I
-    - LSC3 #40 (Logistics Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor — code: I
-    - PSC3 #34 (Planning Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor — code: I
+    - FSC3 #34 (Finance Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - LSC3 #40 (Logistics Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - PSC3 #34 (Planning Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
 - **Adjudication note:** "identify and provide training opportunities" vs "identify training needs and provide opportunities for training": the same identify-needs-and-provide-training duty (rule 3).
 
 ## 242. `77942523af7f70d4` — equivalent — score 0.898919
@@ -3456,7 +3456,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
   - text: “Implement demobilization plan.”
     - FSC3 #69 (Finance Section Chief Type 3) — category: Plan for demobilization and ensure demobilization procedures are followed. — code: I
       verbatim: “Implement Demobilization Plan.”
-    - PSCC #42 (Planning Section Chief Complex) — category: Gather, analyze, and validate information pertinent to the incident or event — code: I
+    - PSCC #42 (Planning Section Chief Complex) — category: Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities. — code: I
 - **Task B** (task_id 1054):
   - text: “Implement demobilization.”
     - STAM #21 (Staging Area Manager) — category: Demobilize — code: I
@@ -3496,7 +3496,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - FSCC #24 (Finance or Administration Section Chief Complex) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
 - **Task B** (task_id 1643):
   - text: “Participate in the closeout session with agency administrative staff.”
-    - FSC3 #47 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - FSC3 #47 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Adjudication note:** "closeout with agency administrative representative" vs "the closeout session with agency administrative staff": same event, wording only (rule 3).
 
 ## 247. `d529b5f3afd13bc2` — B subsumes A — score 0.896266
@@ -3576,10 +3576,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 378):
   - text: “Identify and document unsafe conditions and provide this information to appropriate command and general staff.”
-    - SOFC #36 (Safety Officer Complex) — category: Gather, analyze, and validate information pertinent to the incident or event — code: W/RX
+    - SOFC #36 (Safety Officer Complex) — category: Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities. — code: W/RX
 - **Task B** (task_id 2256):
   - text: “Identify and document unsafe conditions and provide this information.”
-    - SOF3 #26 (Safety Officer Type 3) — category: Gather, analyze, and validate information pertinent to the incident or event and — code: W/RX
+    - SOF3 #26 (Safety Officer Type 3) — category: Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities. — code: W/RX
 - **Adjudication note:** Same identify/document-unsafe-conditions-and-provide-information duty; A only names the recipients ("appropriate command and general staff") that B leaves implicit (rule 3).
 
 ## 253. `8fad54d232914df3` — equivalent — score 0.894588
@@ -3686,7 +3686,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
   - text: “Implement demobilization plan.”
     - FSC3 #69 (Finance Section Chief Type 3) — category: Plan for demobilization and ensure demobilization procedures are followed. — code: I
       verbatim: “Implement Demobilization Plan.”
-    - PSCC #42 (Planning Section Chief Complex) — category: Gather, analyze, and validate information pertinent to the incident or event — code: I
+    - PSCC #42 (Planning Section Chief Complex) — category: Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities. — code: I
 - **Adjudication note:** A "PREPARE FOR AND IMPLEMENT demobilization" vs B "implement demobilization plan": implementing demobilization is executing the demobilization plan in one's own scope; A adds preparation (rule 2). A subsumes B.
 
 ## 259. `8f2bc922c415500c` — equivalent — score 0.891899
@@ -3707,7 +3707,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1692):
   - text: “Debrief Agency Administrator.”
-    - PSC3 #46 (Planning Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - PSC3 #46 (Planning Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Task B** (task_id 1885):
   - text: “Assist in debriefing Agency Administrator as necessary.”
     - PETM #8 (Prevention Education Team Member) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
@@ -3788,11 +3788,11 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 123):
   - text: “Ensure that performance ratings are completed as required by the Incident Commander/Agency Administrator.”
-    - LOFR #28 (Liaison Officer) — category: Establish work assignments and performance expectations, monitor — code: O
-    - LSC3 #42 (Logistics Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor — code: I
+    - LOFR #28 (Liaison Officer) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: O
+    - LSC3 #42 (Logistics Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
 - **Task B** (task_id 1634):
   - text: “Ensure that performance ratings are completed as required by the incident or agency policy.”
-    - FSC3 #35 (Finance Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor — code: I
+    - FSC3 #35 (Finance Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
 - **Adjudication note:** Same ensure-performance-ratings-completed duty; "as required by the IC/agency administrator" vs "as required by the incident or agency policy" names the requiring authority differently (rule 3).
 
 ## 267. `5cf2fa152fe1e173` — A subsumes B — score 0.887609
@@ -3904,12 +3904,12 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1109):
   - text: “Coordinate helicopter air traffic using checkpoints and virtual fences.”
-    - ATGS #32 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #32 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #32 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #32 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Task B** (task_id 1173):
   - text: “Coordinate mixed (fixed and rotor) air traffic using checkpoints and virtual fences.”
-    - ATGS #103 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #103 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #103 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #103 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Adjudication note:** A coordinates HELICOPTER traffic using checkpoints/virtual fences; B coordinates MIXED (fixed and rotor) traffic with the same technique - a superset of traffic (rule 2). B subsumes A.
 
 ## 275. `2f6e0c22624b9146` — B subsumes A — score 0.883934
@@ -4087,7 +4087,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 358):
   - text: “Interact and coordinate with command and general staff.”
-    - HRSP #21 (Human Resource Specialist) — category: Gather, produce and distribute information as required by established — code: I
+    - HRSP #21 (Human Resource Specialist) — category: Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient. — code: I
     - SOF3 #15 (Safety Officer Type 3) — category: Coordinate interdependent activities. — code: I
     - SOFC #16 (Safety Officer Complex) — category: Coordinate interdependent activities. — code: I
 - **Task B** (task_id 1636):
@@ -4111,12 +4111,12 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1110):
   - text: “Coordinate helicopter air traffic using helicopter routes.”
-    - ATGS #33 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #33 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #33 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #33 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Task B** (task_id 1174):
   - text: “Coordinate mixed (fixed and rotor) air traffic using helicopter routes.”
-    - ATGS #104 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #104 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #104 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #104 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Adjudication note:** A coordinates HELICOPTER traffic using helicopter routes; B coordinates MIXED (fixed and rotor) traffic with the same technique - a superset of traffic (rule 2). B subsumes A.
 
 ## 292. `eed94d0138c034d9` — B subsumes A — score 0.876437
@@ -4136,13 +4136,13 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 951):
   - text: “Obtain complete information from dispatch upon assignment.”
-    - ATGS #2 (Air Tactical Group Supervisor) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: O
+    - ATGS #2 (Air Tactical Group Supervisor) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: O
     - BCMG #2 (Base Camp Manager) — category: Ensure readiness for assignment. — code: O
     - COMT #2 (Incident Communications Technician) — category: Ensure readiness for assignment. — code: O
     - DPRO #2 (Display Processor) — category: Ensure readiness for assignment. — code: O
     - EQPM #2 (Equipment Manager) — category: Ensure readiness for assignment. — code: O
     - HEQB #2 (Heavy Equipment) — category: Ensure readiness for assignment. — code: O
-    - HLCO #2 (Helicopter Coordinator) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: O
+    - HLCO #2 (Helicopter Coordinator) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: O
     - HMGB #2 (Helicopter) — category: Ensure readiness for assignment. — code: O
     - HRSP #2 (Human Resource Specialist) — category: Ensure readiness for assignment. — code: O
     - INBA #2 (Incident Business Advisor) — category: Ensure readiness for assignment. — code: O
@@ -4228,11 +4228,11 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - **Task A** (task_id 1463):
   - text: “Obtain briefing from Incident Commander. May be one-on-one or in an Incident Management Team (IMT) meeting.”
     - FSC3 #9 (Finance Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
-    - FSC3 #40 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
-    - LSC3 #47 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - FSC3 #40 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
+    - LSC3 #47 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Task B** (task_id 1688):
   - text: “Obtain briefing from your Incident Commander. May be one-on-one or at an initial strategy meeting or other team meeting.”
-    - PSC3 #42 (Planning Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - PSC3 #42 (Planning Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Adjudication note:** Same obtain-IC-briefing duty; differs by "your", and the meeting-format alternatives (imt meeting vs initial strategy/other team meeting) (rule 3).
 
 ## 300. `8b5c25301c8dddc4` — equivalent — score 0.870484
@@ -4343,7 +4343,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - SOFC #31 (Safety Officer Complex) — category: Administer and/or apply agency policy, contracts, and agreements. — code: I
 - **Task B** (task_id 2261):
   - text: “Monitor air operations activities.”
-    - SOF3 #38 (Safety Officer Type 3) — category: Ensure compliance with all legal and safety requirements relevant to air — code: I
+    - SOF3 #38 (Safety Officer Type 3) — category: Ensure compliance with all legal and safety requirements relevant to air operations. — code: I
 - **Adjudication note:** A "monitor air operations activities TO ENSURE COMPLIANCE WITH SAFETY REQUIREMENTS" vs B "monitor air operations activities": A adds the compliance-verification dimension (rule 2). A subsumes B.
 
 ## 309. `f66a5d7e8fa81149` — B subsumes A — score 0.867018
@@ -4396,10 +4396,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1487):
   - text: “Communicate transfer of command to logistics and command staff.”
-    - LSC3 #73 (Logistics Section Chief Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - LSC3 #73 (Logistics Section Chief Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 1664):
   - text: “Communicate transfer of command to operations and command staff.”
-    - FSC3 #74 (Finance Section Chief Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: O
+    - FSC3 #74 (Finance Section Chief Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: O
 - **Adjudication note:** Same communicate-transfer-of-command duty; "logistics and command staff" vs "operations and command staff" names each position's own section audience (rule 3).
 
 ## 314. `dbe23fdbc2ae9e22` — equivalent — score 0.865539
@@ -4446,12 +4446,12 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1099):
   - text: “Perform Initial Briefing to all incoming helicopters when aircraft make initial contact (12 nm ring).”
-    - ATGS #22 (Air Tactical Group Supervisor) — category: Gather, produce, and distribute information as required by established — code: I
-    - HLCO #22 (Helicopter Coordinator) — category: Gather, produce, and distribute information as required by established — code: I
+    - ATGS #22 (Air Tactical Group Supervisor) — category: Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient. — code: I
+    - HLCO #22 (Helicopter Coordinator) — category: Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient. — code: I
 - **Task B** (task_id 1162):
   - text: “Perform aircraft appropriate initial briefing to all incoming aircraft when aircraft make initial contact (12 nm ring).”
-    - ATGS #92 (Air Tactical Group Supervisor) — category: Gather, produce, and distribute information as required by established — code: O
-    - HLCO #92 (Helicopter Coordinator) — category: Gather, produce, and distribute information as required by established — code: O
+    - ATGS #92 (Air Tactical Group Supervisor) — category: Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient. — code: O
+    - HLCO #92 (Helicopter Coordinator) — category: Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient. — code: O
 - **Adjudication note:** A briefs all incoming HELICOPTERS at initial contact; B briefs ALL INCOMING AIRCRAFT (aircraft-appropriate) - a superset of traffic (rule 2). B subsumes A.
 
 ## 318. `b0a14014772a1792` — equivalent — score 0.864132
@@ -4473,12 +4473,12 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 299):
   - text: “Provide training opportunities where available.”
-    - ICCI #19 (Incident Commander Complex) — category: Establish work assignments and performance expectations, monitor — code: I
+    - ICCI #19 (Incident Commander Complex) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
 - **Task B** (task_id 1459):
   - text: “Identify training needs and provide opportunities for training.”
-    - FSC3 #34 (Finance Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor — code: I
-    - LSC3 #40 (Logistics Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor — code: I
-    - PSC3 #34 (Planning Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor — code: I
+    - FSC3 #34 (Finance Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - LSC3 #40 (Logistics Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - PSC3 #34 (Planning Section Chief Type 3) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
 - **Adjudication note:** A "provide training opportunities where available" vs B "IDENTIFY TRAINING NEEDS and provide opportunities for training": B adds needs identification (rule 2). B subsumes A.
 
 ## 320. `56e2a7a41740fd58` — equivalent — score 0.863398
@@ -4497,12 +4497,12 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1108):
   - text: “Coordinate helicopter air traffic using sequencing.”
-    - ATGS #31 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #31 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #31 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #31 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Task B** (task_id 1171):
   - text: “Coordinate mixed (fixed and rotor) air traffic using sequencing.”
-    - ATGS #101 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #101 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #101 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #101 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Adjudication note:** A coordinates HELICOPTER traffic using sequencing; B coordinates MIXED (fixed and rotor) traffic with the same technique - a superset of traffic (rule 2). B subsumes A.
 
 ## 322. `1149aee4af2544b9` — equivalent — score 0.862399
@@ -4605,7 +4605,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - ICT4 #23 (Incident Commander Type 4) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
 - **Task B** (task_id 2046):
   - text: “Conduct an After Action Reviews (AAR).”
-    - RXB1 #18 (Prescribed Fire Burn Boss Type 1) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - RXB1 #18 (Prescribed Fire Burn Boss Type 1) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Adjudication note:** Same conduct-AARs duty; A adds only the tool citation "using the IRPG"; B has an article typo (rule 3).
 
 ## 329. `2f197eee25e8e2c6` — equivalent — score 0.85988
@@ -4637,7 +4637,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - **Task B** (task_id 1438):
   - text: “Obtain briefing from Agency Administrator/ outgoing Incident Commander and gather information.”
     - LSC3 #9 (Logistics Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
-    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
     - PSC3 #9 (Planning Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
 - **Adjudication note:** Briefing-source alternatives (current IC vs "AA/outgoing IC", plus the generic "and gather information"): same obtain-briefing duty (rule 3).
 
@@ -4691,7 +4691,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1293):
   - text: “Organize work area.”
-    - IRIN #5 (Infrared Interpreter) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
+    - IRIN #5 (Infrared Interpreter) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
 - **Task B** (task_id 1617):
   - text: “Organize and maintain work space.”
     - ICPI #4 (Incident Contract Project Inspector) — category: Ensure readiness for assignment. — code: I
@@ -4706,7 +4706,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - **Task B** (task_id 1438):
   - text: “Obtain briefing from Agency Administrator/ outgoing Incident Commander and gather information.”
     - LSC3 #9 (Logistics Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
-    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
     - PSC3 #9 (Planning Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
 - **Adjudication note:** Briefing-source alternatives (local unit personnel/IC/PIO vs AA/outgoing IC): org-chart variability of the same obtain-initial-briefing duty (rule 3).
 
@@ -4726,10 +4726,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1487):
   - text: “Communicate transfer of command to logistics and command staff.”
-    - LSC3 #73 (Logistics Section Chief Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - LSC3 #73 (Logistics Section Chief Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 1708):
   - text: “Communicate transfer of command to command and general staff.”
-    - PSC3 #69 (Planning Section Chief Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - PSC3 #69 (Planning Section Chief Type 3) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** "communicate transfer of command to LOGISTICS AND COMMAND STAFF" vs "to COMMAND AND GENERAL STAFF": ICS general staff includes the logistics section chief, so B's audience contains A's (rule 2). B subsumes A.
 
 ## 339. `ecb110eeb74da92f` — A subsumes B — score 0.855796
@@ -4813,7 +4813,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 269):
   - text: “Participate in the development of the IAP or relevant plan for the next operational period.”
-    - DIVS #25 (Division or Group Supervisor) — category: Develop and implement plans and gain concurrence of affected agencies and/or — code: I
+    - DIVS #25 (Division or Group Supervisor) — category: Develop and implement plans and gain concurrence of affected agencies and/or the public. — code: I
 - **Task B** (task_id 512):
   - text: “Participate in preparation of the IAP or other relevant plans.”
     - OSCC #51 (Operations Section Chief Complex) — category: Planning Duties — code: I
@@ -4848,12 +4848,12 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1112):
   - text: “Coordinate helicopter recon flights maintaining safe separation of aircraft.”
-    - ATGS #35 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #35 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #35 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #35 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Task B** (task_id 1176):
   - text: “Coordinate mixed (fixed and rotor) airspace and supervise a helicopter recon flight maintaining safe separation of aircraft.”
-    - ATGS #106 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #106 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #106 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #106 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Adjudication note:** A "coordinate helicopter recon flights maintaining safe separation" vs B "coordinate MIXED airspace AND SUPERVISE a helicopter recon flight maintaining safe separation": B adds the mixed-airspace coordination and supervision dimensions (rule 2). B subsumes A.
 
 ## 348. `a52e5fe8be48f646` — equivalent — score 0.853141
@@ -4867,7 +4867,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - UASP #3 (Unmanned Aircraft Systems Pilot) — category: Prepare and Mobilize — code: I
 - **Task B** (task_id 2393):
   - text: “Obtain and assemble information and materials needed for kit (can be electronic or hard copies). Suggested items:”
-    - FWPT #1 (Fixed Wing Parking Tender) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: O
+    - FWPT #1 (Fixed Wing Parking Tender) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: O
 - **Adjudication note:** Same kit duty; B adds only "(can be electronic or hard copies)" and the list header (rule 3).
 
 ## 349. `d0238185828e14b2` — A subsumes B — score 0.85298
@@ -4945,12 +4945,12 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 412):
   - text: “Evaluate staffing, equipment and supply needs required to manage the section for short and long duration.”
-    - PIOC #5 (Public Information Officer Complex) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
+    - PIOC #5 (Public Information Officer Complex) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
 - **Task B** (task_id 820):
   - text: “Evaluate staffing needs required to manage the section.”
-    - FSCC #3 (Finance or Administration Section Chief Complex) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
-    - LSCC #3 (Logistics Section Chief Complex) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
-    - PSCC #3 (Planning Section Chief Complex) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
+    - FSCC #3 (Finance or Administration Section Chief Complex) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
+    - LSCC #3 (Logistics Section Chief Complex) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
+    - PSCC #3 (Planning Section Chief Complex) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
 - **Adjudication note:** A "evaluate STAFFING, EQUIPMENT AND SUPPLY needs for short and long duration" vs B "evaluate STAFFING needs": A's evaluation object list contains B's (rule 2). A subsumes B.
 
 ## 355. `3778acdf3da63ed2` — equivalent — score 0.851237
@@ -4970,10 +4970,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - **Task A** (task_id 1625):
   - text: “Attend Agency Administrator or outgoing Incident Commander briefing. Obtain available incident information and incident agency guidelines and policies:”
     - FSC3 #8 (Finance Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
-    - FSC3 #39 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - FSC3 #39 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Task B** (task_id 1687):
   - text: “Attend Agency Administrator and/or outgoing Incident Commander briefing.”
-    - PSC3 #41 (Planning Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - PSC3 #41 (Planning Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Adjudication note:** A "attend AA/outgoing-IC briefing AND OBTAIN available incident information and incident agency guidelines and policies" vs B "attend AA and/or outgoing IC briefing": A adds the information/guidelines acquisition (rule 2). A subsumes B.
 
 ## 357. `0a8378fca425a0fc` — equivalent — score 0.85046
@@ -4992,11 +4992,11 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1081):
   - text: “Evaluate aircraft capabilities and pilot qualifications per agency standards.”
-    - ATGS #4 (Air Tactical Group Supervisor) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: O
-    - HLCO #4 (Helicopter Coordinator) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: O
+    - ATGS #4 (Air Tactical Group Supervisor) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: O
+    - HLCO #4 (Helicopter Coordinator) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: O
 - **Task B** (task_id 1215):
   - text: “Assess personnel qualifications and aircraft capabilities.”
-    - HEBM #2 (Helibase Manager) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
+    - HEBM #2 (Helibase Manager) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
 - **Adjudication note:** "evaluate aircraft capabilities and pilot qualifications per agency standards" vs "assess personnel qualifications and aircraft capabilities": same evaluate-aircraft-and-crew-readiness duty; evaluate/assess and pilot/personnel are wording (rule 3).
 
 ## 359. `c569a88b77cc81b8` — equivalent — score 0.850203
@@ -5004,17 +5004,17 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 437):
   - text: “Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).”
-    - AOBD #34 (Air Operations Branch Director) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - ASGS #43 (Air Support Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - ATGS #70 (Air Tactical Group Supervisor) — category: Ensure compliance with all legal and safety requirements relevant to air — code: I
-    - HEBM #46 (Helibase Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
-    - HLCO #70 (Helicopter Coordinator) — category: Ensure compliance with all legal and safety requirements relevant to air — code: I
-    - INBA #24 (Incident Business Advisor) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - AOBD #34 (Air Operations Branch Director) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - ASGS #43 (Air Support Group Supervisor) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - ATGS #70 (Air Tactical Group Supervisor) — category: Ensure compliance with all legal and safety requirements relevant to air operations. — code: I
+    - HEBM #46 (Helibase Manager) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
+    - HLCO #70 (Helicopter Coordinator) — category: Ensure compliance with all legal and safety requirements relevant to air operations. — code: I
+    - INBA #24 (Incident Business Advisor) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
     - PIOC #39 (Public Information Officer Complex) — category: Coordinate interdependent activities. — code: I
-    - TNSP #26 (Training Specialist) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - TNSP #26 (Training Specialist) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 2471):
   - text: “Coordinate and efficient transfer of position duties when mobilizing/demobilizing.”
-    - COMT #22 (Incident Communications Technician) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - COMT #22 (Incident Communications Technician) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Adjudication note:** Same transfer-of-duties text; differs by the "an/and" typo and the e.g. list (rule 3).
 
 ## 360. `d8284ce1d128d70e` — equivalent — score 0.850143
@@ -5022,10 +5022,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 945):
   - text: “Participate in preparation of the IAP or relevant plan.”
-    - LSCC #31 (Logistics Section Chief Complex) — category: Gather, analyze, and validate information pertinent to the incident or event — code: I
+    - LSCC #31 (Logistics Section Chief Complex) — category: Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities. — code: I
 - **Task B** (task_id 1028):
   - text: “Participate in preparation of the Incident Action Plan (IAP) or relevant plan.”
-    - FSCC #30 (Finance or Administration Section Chief Complex) — category: Gather, analyze, and validate information pertinent to the incident or event — code: I
+    - FSCC #30 (Finance or Administration Section Chief Complex) — category: Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities. — code: I
 - **Adjudication note:** Same participate-in-IAP-preparation duty; abbreviation style only (rule 3).
 
 ## 361. `80449e738a4655cf` — A subsumes B — score 0.84997
@@ -5149,7 +5149,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - OSCC #51 (Operations Section Chief Complex) — category: Planning Duties — code: I
 - **Task B** (task_id 1654):
   - text: “Participate in preparation and review of IAP.”
-    - FSC3 #59 (Finance Section Chief Type 3) — category: Develop and implement plans and gain concurrence of affected agencies and — code: I
+    - FSC3 #59 (Finance Section Chief Type 3) — category: Develop and implement plans and gain concurrence of affected agencies and the public. — code: I
 - **Adjudication note:** A "participate in preparation of the IAP or other relevant plans" (disjunctive) vs B "participate in preparation AND REVIEW of the IAP": B's IAP work satisfies A's disjunct and adds review (rule 2). B subsumes A.
 
 ## 370. `5039e2f693360823` — equivalent — score 0.846394
@@ -5168,12 +5168,12 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1105):
   - text: “Coordinate helicopter air traffic using Horizontal Separation Principles.”
-    - ATGS #28 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #28 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #28 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #28 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Task B** (task_id 1168):
   - text: “Coordinate mixed (fixed and rotor) air traffic using horizontal separation principles.”
-    - ATGS #98 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #98 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #98 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #98 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Adjudication note:** A coordinates HELICOPTER traffic using horizontal separation; B coordinates MIXED (fixed and rotor) traffic with the same technique - a superset of traffic (rule 2). B subsumes A.
 
 ## 372. `5f6055a17e240302` — B subsumes A — score 0.845756
@@ -5181,13 +5181,13 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1262):
   - text: “Organize assigned personnel to meet the needs of the unit.”
-    - BCMG #8 (Base Camp Manager) — category: Establish organization structure, reporting procedures, and chain of command — code: I
-    - COML #7 (Communications Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command — code: I
-    - FACL #7 (Facilities Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command — code: I
-    - FDUL #7 (Food Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command — code: I
-    - GSUL #7 (Ground Support Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command — code: I
-    - SITL #5 (Situation Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command — code: I
-    - SPUL #7 (Supply Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command — code: I
+    - BCMG #8 (Base Camp Manager) — category: Establish organization structure, reporting procedures, and chain of command of assigned resources. — code: I
+    - COML #7 (Communications Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command of assigned resources. — code: I
+    - FACL #7 (Facilities Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command of assigned resources. — code: I
+    - FDUL #7 (Food Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command of assigned resources. — code: I
+    - GSUL #7 (Ground Support Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command of assigned resources. — code: I
+    - SITL #5 (Situation Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command of assigned resources. — code: I
+    - SPUL #7 (Supply Unit Leader) — category: Establish organization structure, reporting procedures, and chain of command of assigned resources. — code: I
 - **Task B** (task_id 1286):
   - text: “Organize and staff the unit.”
     - DOCL #5 (Documentation Unit Leader) — category: Build the Team — code: I
@@ -5251,7 +5251,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - HMGB #18 (Helicopter) — category: Ensure the safety, welfare, and accountability of assigned personnel. — code: I
 - **Task B** (task_id 1315):
   - text: “Follow established safety procedures.”
-    - IRIN #32 (Infrared Interpreter) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - IRIN #32 (Infrared Interpreter) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Adjudication note:** "follow safety guidelines" vs "follow established safety procedures": same performer-level compliance duty (rule 3).
 
 ## 378. `2acd5566fa627207` — B subsumes A — score 0.844281
@@ -5278,7 +5278,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - PSCC #20 (Planning Section Chief Complex) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
 - **Task B** (task_id 1639):
   - text: “Provide daily or operational period briefings to section personnel.”
-    - FSC3 #42 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: O
+    - FSC3 #42 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: O
 - **Adjudication note:** A "SCHEDULE AND CONDUCT operational period briefings" vs B "PROVIDE daily or operational period briefings" (disjunctive): A's conducted op-period briefings satisfy B, and A adds scheduling (rule 2). A subsumes B.
 
 ## 380. `12f70d3fad532215` — A subsumes B — score 0.843813
@@ -5301,7 +5301,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - LSCC #26 (Logistics Section Chief Complex) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
 - **Task B** (task_id 1021):
   - text: “Participate in the operational period briefing, emphasizing the needs of the Finance/Administration Section.”
-    - FSC3 #43 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: O
+    - FSC3 #43 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: O
     - FSCC #19 (Finance or Administration Section Chief Complex) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
 - **Adjudication note:** A "participate in the operational period briefing" vs B "...EMPHASIZING THE NEEDS of the finance/administration section": B adds actively representing the section's needs (rule 2). B subsumes A.
 
@@ -5345,10 +5345,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 205):
   - text: “Create a single coordinated Incident Action Plan (IAP) or other relevant plan.”
-    - ICT3 #30 (Incident Commander Type 3) — category: Develop and implement plans and gain concurrence of affected agencies and/or — code: I
+    - ICT3 #30 (Incident Commander Type 3) — category: Develop and implement plans and gain concurrence of affected agencies and/or the public. — code: I
 - **Task B** (task_id 1072):
   - text: “Participate in preparation of the Incident Action Plan (IAP) or other relevant plan.”
-    - AOBD #26 (Air Operations Branch Director) — category: Develop and implement plans and gain concurrence of affected agencies and/or — code: I
+    - AOBD #26 (Air Operations Branch Director) — category: Develop and implement plans and gain concurrence of affected agencies and/or the public. — code: I
 - **Adjudication note:** A "CREATE a single coordinated IAP or other relevant plan" vs B "PARTICIPATE in preparation of the IAP or other relevant plan": authorship entails the participate-level contribution (rules 1-2). A subsumes B.
 
 ## 386. `59dc37a25ee31684` — equivalent — score 0.841594
@@ -5403,7 +5403,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - LSCC #18 (Logistics Section Chief Complex) — category: Emphasize teamwork. — code: I
     - PETL #5 (Prevention Education Team Leader) — category: Establish effective relationships with relevant personnel. — code: I
     - PETM #6 (Prevention Education Team Member) — category: Establish effective relationships with relevant personnel. — code: I
-    - PIOC #9 (Public Information Officer Complex) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
+    - PIOC #9 (Public Information Officer Complex) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
     - PSC3 #11 (Planning Section Chief Type 3) — category: Establish effective relationships with relevant personnel. — code: I
     - PSCC #14 (Planning Section Chief Complex) — category: Emphasize teamwork. — code: I
     - RCDM #18 (Receiving or Distribution Manager) — category: Communicate and Coordinate — code: I
@@ -5434,7 +5434,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - SOFC #30 (Safety Officer Complex) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
 - **Task B** (task_id 1643):
   - text: “Participate in the closeout session with agency administrative staff.”
-    - FSC3 #47 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - FSC3 #47 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Adjudication note:** "participate in agency closeout" vs "participate in the closeout session with agency administrative staff": same closeout event (rule 3).
 
 ## 389. `bfbff0027d4f0dff` — equivalent — score 0.841292
@@ -5442,15 +5442,15 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1259):
   - text: “Coordinate with Planning Section Chief and other functional areas to obtain resources to organize workspace and keep unit operating.”
-    - SITL #1 (Situation Unit Leader) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
+    - SITL #1 (Situation Unit Leader) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
 - **Task B** (task_id 1380):
   - text: “Coordinate with Logistics Section Chief and other functional areas to obtain resources to organize work space and keep unit operating.”
-    - COML #3 (Communications Unit Leader) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
-    - FACL #3 (Facilities Unit Leader) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
-    - FDUL #3 (Food Unit Leader) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
-    - GSUL #3 (Ground Support Unit Leader) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
-    - SECM #4 (Security Manager) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
-    - SPUL #3 (Supply Unit Leader) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
+    - COML #3 (Communications Unit Leader) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
+    - FACL #3 (Facilities Unit Leader) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
+    - FDUL #3 (Food Unit Leader) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
+    - GSUL #3 (Ground Support Unit Leader) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
+    - SECM #4 (Security Manager) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
+    - SPUL #3 (Supply Unit Leader) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
 - **Adjudication note:** Same coordinate-to-obtain-unit-resources duty; the named section chief (planning vs logistics) is each position's own chain superior (rule 3).
 
 ## 390. `e2f5f2b8b845cc50` — A subsumes B — score 0.841126
@@ -5475,10 +5475,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1873):
   - text: “Develop and distribute wildfire prevention information and education materials needed to meet objectives.”
-    - PETL #23 (Prevention Education Team Leader) — category: Gather, produce and distribute information as required by established — code: I
+    - PETL #23 (Prevention Education Team Leader) — category: Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient. — code: I
 - **Task B** (task_id 1888):
   - text: “Participate in wildfire prevention information and education activities.”
-    - PETM #11 (Prevention Education Team Member) — category: Gather, produce and distribute information as required by established — code: I
+    - PETM #11 (Prevention Education Team Member) — category: Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient. — code: I
 - **Adjudication note:** A "DEVELOP AND DISTRIBUTE wildfire prevention information and education materials" vs B "PARTICIPATE in wildfire prevention information and education activities": producing and distributing the materials is participation in those activities and more (rule 2). A subsumes B.
 
 ## 392. `a99ef19cab7c9b6e` — equivalent — score 0.840223
@@ -5509,10 +5509,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1233):
   - text: “Develop plans relevant to aviation operations.”
-    - HEBM #34 (Helibase Manager) — category: Develop and implement plans and gain concurrence of affected agencies and/or — code: I
+    - HEBM #34 (Helibase Manager) — category: Develop and implement plans and gain concurrence of affected agencies and/or the public. — code: I
 - **Task B** (task_id 2279):
   - text: “Develop aviation procedural plans as necessary.”
-    - ACAC #19 (Area Command Aviation Coordinator) — category: Develop and implement plans and gain concurrence of affected agencies and/or — code: I
+    - ACAC #19 (Area Command Aviation Coordinator) — category: Develop and implement plans and gain concurrence of affected agencies and/or the public. — code: I
 - **Adjudication note:** "develop plans relevant to aviation operations" vs "develop aviation procedural plans as necessary": same develop-aviation-plans duty (rule 3).
 
 ## 395. `eb5e24a0dfd4299f` — equivalent — score 0.839384
@@ -5524,7 +5524,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - **Task B** (task_id 1438):
   - text: “Obtain briefing from Agency Administrator/ outgoing Incident Commander and gather information.”
     - LSC3 #9 (Logistics Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
-    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
     - PSC3 #9 (Planning Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
 - **Adjudication note:** Briefing-source alternatives: same obtain-briefing duty (rule 3).
 
@@ -5534,12 +5534,12 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - **Task A** (task_id 1438):
   - text: “Obtain briefing from Agency Administrator/ outgoing Incident Commander and gather information.”
     - LSC3 #9 (Logistics Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
-    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
     - PSC3 #9 (Planning Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
 - **Task B** (task_id 1625):
   - text: “Attend Agency Administrator or outgoing Incident Commander briefing. Obtain available incident information and incident agency guidelines and policies:”
     - FSC3 #8 (Finance Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
-    - FSC3 #39 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - FSC3 #39 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Adjudication note:** Same attend-AA/outgoing-IC-briefing-and-gather-information duty; B elaborates the information content (incident agency guidelines and policies) (rule 3).
 
 ## 397. `8efb42b029ced890` — equivalent — score 0.838578
@@ -5582,7 +5582,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 358):
   - text: “Interact and coordinate with command and general staff.”
-    - HRSP #21 (Human Resource Specialist) — category: Gather, produce and distribute information as required by established — code: I
+    - HRSP #21 (Human Resource Specialist) — category: Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient. — code: I
     - SOF3 #15 (Safety Officer Type 3) — category: Coordinate interdependent activities. — code: I
     - SOFC #16 (Safety Officer Complex) — category: Coordinate interdependent activities. — code: I
 - **Task B** (task_id 827):
@@ -5683,7 +5683,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1293):
   - text: “Organize work area.”
-    - IRIN #5 (Infrared Interpreter) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
+    - IRIN #5 (Infrared Interpreter) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
 - **Task B** (task_id 1606):
   - text: “Organize work area to facilitate unit operations.”
     - COST #8 (Cost Unit Leader) — category: Perform Cost Unit Leader-Specific Duties — code: I
@@ -5744,13 +5744,13 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 951):
   - text: “Obtain complete information from dispatch upon assignment.”
-    - ATGS #2 (Air Tactical Group Supervisor) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: O
+    - ATGS #2 (Air Tactical Group Supervisor) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: O
     - BCMG #2 (Base Camp Manager) — category: Ensure readiness for assignment. — code: O
     - COMT #2 (Incident Communications Technician) — category: Ensure readiness for assignment. — code: O
     - DPRO #2 (Display Processor) — category: Ensure readiness for assignment. — code: O
     - EQPM #2 (Equipment Manager) — category: Ensure readiness for assignment. — code: O
     - HEQB #2 (Heavy Equipment) — category: Ensure readiness for assignment. — code: O
-    - HLCO #2 (Helicopter Coordinator) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: O
+    - HLCO #2 (Helicopter Coordinator) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: O
     - HMGB #2 (Helicopter) — category: Ensure readiness for assignment. — code: O
     - HRSP #2 (Human Resource Specialist) — category: Ensure readiness for assignment. — code: O
     - INBA #2 (Incident Business Advisor) — category: Ensure readiness for assignment. — code: O
@@ -5848,12 +5848,12 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1106):
   - text: “Coordinate helicopter air traffic using incident entry and exit corridors.”
-    - ATGS #29 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #29 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #29 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #29 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Task B** (task_id 1169):
   - text: “Coordinate mixed (fixed and rotor) air traffic using incident entry and exit corridors.”
-    - ATGS #99 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #99 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #99 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #99 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Adjudication note:** A coordinates HELICOPTER traffic using entry/exit corridors; B coordinates MIXED (fixed and rotor) traffic with the same technique - a superset of traffic (rule 2). B subsumes A.
 
 ## 418. `c12169cf72fc4c49` — B subsumes A — score 0.831958
@@ -6089,12 +6089,12 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1113):
   - text: “Coordinate helicopter air traffic with intersecting routes.”
-    - ATGS #36 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #36 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #36 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #36 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Task B** (task_id 1177):
   - text: “Coordinate mixed (fixed and rotor) air traffic with Intersecting Routes.”
-    - ATGS #107 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #107 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #107 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #107 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Adjudication note:** A coordinates HELICOPTER traffic with intersecting routes; B coordinates MIXED (fixed and rotor) traffic in the same scenario - a superset of traffic (rule 2). B subsumes A.
 
 ## 436. `6ffd4c704d488229` — equivalent — score 0.826694
@@ -6115,7 +6115,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - **Task A** (task_id 1438):
   - text: “Obtain briefing from Agency Administrator/ outgoing Incident Commander and gather information.”
     - LSC3 #9 (Logistics Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
-    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
     - PSC3 #9 (Planning Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
 - **Task B** (task_id 2202):
   - text: “Obtain initial briefings from each Incident Commander on current incident status.”
@@ -6127,12 +6127,12 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1114):
   - text: “Coordinate helicopter air traffic requiring nonstandard patterns.”
-    - ATGS #37 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #37 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #37 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #37 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Task B** (task_id 1178):
   - text: “Coordinate mixed (fixed and rotor) air traffic requiring nonstandard patterns.”
-    - ATGS #108 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given — code: W
-    - HLCO #108 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - ATGS #108 (Air Tactical Group Supervisor) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
+    - HLCO #108 (Helicopter Coordinator) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Adjudication note:** A coordinates HELICOPTER traffic requiring nonstandard patterns; B coordinates MIXED traffic in the same scenario - a superset of traffic (rule 2). B subsumes A.
 
 ## 439. `1ffc676c245d7e3d` — equivalent — score 0.826206
@@ -6143,7 +6143,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - OSCC #51 (Operations Section Chief Complex) — category: Planning Duties — code: I
 - **Task B** (task_id 1072):
   - text: “Participate in preparation of the Incident Action Plan (IAP) or other relevant plan.”
-    - AOBD #26 (Air Operations Branch Director) — category: Develop and implement plans and gain concurrence of affected agencies and/or — code: I
+    - AOBD #26 (Air Operations Branch Director) — category: Develop and implement plans and gain concurrence of affected agencies and/or the public. — code: I
 - **Adjudication note:** Same participate-in-IAP-preparation duty; abbreviation and plural style only (rule 3).
 
 ## 440. `cfcb9c16c475eaca` — equivalent — score 0.8257
@@ -6165,7 +6165,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - PIO3 #1 (Public Information Officer Type 3) — category: Ensure Individual readiness. — code: O
 - **Task B** (task_id 2393):
   - text: “Obtain and assemble information and materials needed for kit (can be electronic or hard copies). Suggested items:”
-    - FWPT #1 (Fixed Wing Parking Tender) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: O
+    - FWPT #1 (Fixed Wing Parking Tender) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: O
 - **Adjudication note:** Same kit duty ("materials for an information kit" vs "information and materials for kit"); both carry the list-header artifact (rule 3).
 
 ## 442. `9deae32aa6079b7a` — equivalent — score 0.825608
@@ -6257,10 +6257,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1185):
   - text: “Order additional resources as needed.”
-    - ASGS #2 (Air Support Group Supervisor) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
+    - ASGS #2 (Air Support Group Supervisor) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
 - **Task B** (task_id 1575):
   - text: “Determine resources on hand and when necessary order additional resources.”
-    - EQPM #4 (Equipment Manager) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: I
+    - EQPM #4 (Equipment Manager) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: I
 - **Adjudication note:** A "order additional resources as needed" vs B "DETERMINE RESOURCES ON HAND and when necessary order additional resources": B adds the inventory determination (rule 2). B subsumes A.
 
 ## 448. `96fa084ff801352f` — equivalent — score 0.824671
@@ -6268,10 +6268,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1464):
   - text: “Brief unit leaders including summary of incident, current activity, and anticipated section activity for individual unit planning.”
-    - LSC3 #48 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - LSC3 #48 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Task B** (task_id 1638):
   - text: “Brief unit leaders on current and anticipated activity.”
-    - FSC3 #41 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: O
+    - FSC3 #41 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: O
 - **Adjudication note:** Same brief-unit-leaders duty; A itemizes the content (summary, current activity, anticipated section activity) that B compresses to "current and anticipated activity" (rule 3).
 
 ## 449. `2246c4d755c5badc` — B subsumes A — score 0.824492
@@ -6298,10 +6298,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1468):
   - text: “Debrief Agency Administrator. Debriefing may be for a designated representative or incoming LSC.”
-    - LSC3 #52 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - LSC3 #52 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Task B** (task_id 1692):
   - text: “Debrief Agency Administrator.”
-    - PSC3 #46 (Planning Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - PSC3 #46 (Planning Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Adjudication note:** Same debrief-agency-administrator duty; A adds only the note that the debrief may be for a designee or incoming LSC (rule 3).
 
 ## 451. `eeb0a79c31cff01b` — equivalent — score 0.824062
@@ -6359,7 +6359,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - **Task B** (task_id 849):
   - text: “Ensure incident documentation is completed as required by the Incident Commander.”
     - LSCC #38 (Logistics Section Chief Complex) — category: Make appropriate decisions based on analysis of gathered information. — code: I
-    - PSCC #40 (Planning Section Chief Complex) — category: Gather, analyze, and validate information pertinent to the incident or event — code: I
+    - PSCC #40 (Planning Section Chief Complex) — category: Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities. — code: I
 - **Adjudication note:** "ensure incident documentation package is complete" vs "ensure incident documentation is completed as required by the incident commander": same completeness-assurance duty (rule 3).
 
 ## 455. `2f5a5c40264cf1ae` — B subsumes A — score 0.823535
@@ -6368,7 +6368,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - **Task A** (task_id 1438):
   - text: “Obtain briefing from Agency Administrator/ outgoing Incident Commander and gather information.”
     - LSC3 #9 (Logistics Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
-    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
     - PSC3 #9 (Planning Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
 - **Task B** (task_id 1851):
   - text: “Obtain briefing from immediate supervisor and Incident Commander within the first operational period.”
@@ -6504,10 +6504,10 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1980):
   - text: “Review prescribed fire plan(s) prior to implementation.”
-    - RXMG #32 (Prescribed Fire Manager) — category: Gather, analyze, and validate information pertinent to the incident or event and — code: O
+    - RXMG #32 (Prescribed Fire Manager) — category: Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities. — code: O
 - **Task B** (task_id 2058):
   - text: “Review the Prescribed Fire Plan for completeness.”
-    - RXB1 #30 (Prescribed Fire Burn Boss Type 1) — category: Gather, analyze, and validate information pertinent to the incident or event and — code: O
+    - RXB1 #30 (Prescribed Fire Burn Boss Type 1) — category: Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities. — code: O
 - **Adjudication note:** "review prescribed fire plan(s) prior to implementation" vs "review the prescribed fire plan for completeness": the same pre-burn plan review (rule 3).
 
 ## 466. `0bb72b42f54e6adb` — A subsumes B — score 0.821338
@@ -6556,7 +6556,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - **Task B** (task_id 1438):
   - text: “Obtain briefing from Agency Administrator/ outgoing Incident Commander and gather information.”
     - LSC3 #9 (Logistics Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
-    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
     - PSC3 #9 (Planning Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
 - **Adjudication note:** Briefing-source alternatives (IC vs AA/outgoing IC, plus the generic "gather information"): same obtain-briefing duty (rule 3).
 
@@ -6685,7 +6685,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 654):
   - text: “Establish Work Assignments and Set Performance Expectations.”
-    - PIO3 #21 (Public Information Officer Type 3) — category: Supervise effectively, establish work assignments and performance — code: I
+    - PIO3 #21 (Public Information Officer Type 3) — category: Supervise effectively, establish work assignments and performance expectations, monitor performance, provide training opportunities, and give feedback. — code: I
 - **Task B** (task_id 1561):
   - text: “Establish and communicate objectives, priorities, work assignments, and performance expectations as applicable.”
     - RCDM #8 (Receiving or Distribution Manager) — category: Supervise and Direct Work Assignments — code: I/S
@@ -6737,7 +6737,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - RAMP #4 (RAMP Manager) — category: Supervise and Direct Work Assignments — code: I
 - **Task B** (task_id 654):
   - text: “Establish Work Assignments and Set Performance Expectations.”
-    - PIO3 #21 (Public Information Officer Type 3) — category: Supervise effectively, establish work assignments and performance — code: I
+    - PIO3 #21 (Public Information Officer Type 3) — category: Supervise effectively, establish work assignments and performance expectations, monitor performance, provide training opportunities, and give feedback. — code: I
 - **Adjudication note:** A "establish and COMMUNICATE OBJECTIVES, PRIORITIES, work assignments, and performance expectations" vs B "establish work assignments and set performance expectations": A adds objectives, priorities, and communication (rule 2). A subsumes B.
 
 ## 484. `de1049500fb487d6` — equivalent — score 0.815845
@@ -6816,15 +6816,15 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 1416):
   - text: “Ensure appropriate health and safety measures are met.”
-    - COML #60 (Communications Unit Leader) — category: Follow established procedures and/or safety procedures relevant to given — code: I
-    - FACL #60 (Facilities Unit Leader) — category: Follow established procedures and/or safety procedures relevant to given — code: I
-    - FDUL #60 (Food Unit Leader) — category: Follow established procedures and/or safety procedures relevant to given — code: I
-    - GSUL #60 (Ground Support Unit Leader) — category: Follow established procedures and/or safety procedures relevant to given — code: I
-    - SPUL #60 (Supply Unit Leader) — category: Follow established procedures and/or safety procedures relevant to given — code: I
+    - COML #60 (Communications Unit Leader) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: I
+    - FACL #60 (Facilities Unit Leader) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: I
+    - FDUL #60 (Food Unit Leader) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: I
+    - GSUL #60 (Ground Support Unit Leader) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: I
+    - SPUL #60 (Supply Unit Leader) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: I
 - **Task B** (task_id 1879):
   - text: “Ensure safety procedures are followed.”
-    - PETL #29 (Prevention Education Team Leader) — category: Follow established procedures and/or safety procedures relevant to given — code: I
-    - PETM #15 (Prevention Education Team Member) — category: Follow established procedures and/or safety procedures relevant to given — code: I
+    - PETL #29 (Prevention Education Team Leader) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: I
+    - PETM #15 (Prevention Education Team Member) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: I
 - **Adjudication note:** "ensure appropriate health and safety measures are met" vs "ensure safety procedures are followed": same ensure-safety-compliance duty (rule 3).
 
 ## 489. `a6ac267703f33ccc` — A subsumes B — score 0.814688
@@ -6849,7 +6849,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - **Task B** (task_id 1625):
   - text: “Attend Agency Administrator or outgoing Incident Commander briefing. Obtain available incident information and incident agency guidelines and policies:”
     - FSC3 #8 (Finance Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
-    - FSC3 #39 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - FSC3 #39 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Adjudication note:** A "obtain briefing from AA and/or outgoing IC" vs B "attend the same briefing AND OBTAIN available incident information and agency guidelines and policies": B adds the information/guidelines acquisition (rule 2). B subsumes A.
 
 ## 491. `426bd3a9cbb2a836` — A subsumes B — score 0.814099
@@ -6869,21 +6869,21 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 356):
   - text: “Develop schedule/assignments based on Incident Action Plan (IAP) or relevant plan.”
-    - HEQB #20 (Heavy Equipment) — category: Establish work assignments and performance expectations, monitor — code: I
-    - HMGB #20 (Helicopter) — category: Establish work assignments and performance expectations, monitor — code: I
-    - PETL #13 (Prevention Education Team Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - SOFC #10 (Safety Officer Complex) — category: Establish work assignments and performance expectations, monitor — code: I
+    - HEQB #20 (Heavy Equipment) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - HMGB #20 (Helicopter) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - PETL #13 (Prevention Education Team Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - SOFC #10 (Safety Officer Complex) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
 - **Task B** (task_id 1217):
   - text: “Develop schedule/assignments based on IAP or relevant plan.”
-    - BCMG #15 (Base Camp Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - COML #14 (Communications Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - EQPM #15 (Equipment Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - FACL #14 (Facilities Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - FDUL #14 (Food Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - GSUL #14 (Ground Support Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
-    - HEBM #13 (Helibase Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - SECM #19 (Security Manager) — category: Establish work assignments and performance expectations, monitor — code: I
-    - SPUL #14 (Supply Unit Leader) — category: Establish work assignments and performance expectations, monitor — code: I
+    - BCMG #15 (Base Camp Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - COML #14 (Communications Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - EQPM #15 (Equipment Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - FACL #14 (Facilities Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - FDUL #14 (Food Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - GSUL #14 (Ground Support Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - HEBM #13 (Helibase Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - SECM #19 (Security Manager) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
+    - SPUL #14 (Supply Unit Leader) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: I
 - **Adjudication note:** Identical schedule/assignments duty; differs only by IAP abbreviation style (rule 3).
 
 ## 493. `8c0f99cefafbfffd` — B subsumes A — score 0.814036
@@ -6907,7 +6907,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - UASM #4 (Unmanned Aircraft Systems, Manager) — category: Prepare and Mobilize — code: I
 - **Task B** (task_id 2394):
   - text: “Travel for assignment”
-    - FWPT #2 (Fixed Wing Parking Tender) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: O
+    - FWPT #2 (Fixed Wing Parking Tender) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: O
 - **Adjudication note:** A "travel to AND CHECK IN at the assignment" vs B "travel for assignment": A adds the check-in (rule 2). A subsumes B.
 
 ## 495. `84d53670e3d6f354` — equivalent — score 0.81359
@@ -7008,7 +7008,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - STAM #4 (Staging Area Manager) — category: Prepare and Mobilize — code: I
 - **Task B** (task_id 2394):
   - text: “Travel for assignment”
-    - FWPT #2 (Fixed Wing Parking Tender) — category: Ensure availability, qualifications, and capabilities of resources to complete — code: O
+    - FWPT #2 (Fixed Wing Parking Tender) — category: Ensure availability, qualifications, and capabilities of resources to complete assignment. — code: O
 - **Adjudication note:** A "travel to and CHECK IN at assignment" vs B "travel for assignment": A adds the check-in (rule 2). A subsumes B.
 
 ## 501. `3113728868db5a9b` — equivalent — score 0.811325
@@ -7034,7 +7034,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - **Task B** (task_id 1438):
   - text: “Obtain briefing from Agency Administrator/ outgoing Incident Commander and gather information.”
     - LSC3 #9 (Logistics Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
-    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - LSC3 #46 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
     - PSC3 #9 (Planning Section Chief Type 3) — category: Gather, update, and apply situational information relevant to the assignment. — code: I
 - **Adjudication note:** Same agency-administrator briefing event; A elaborates the obtained content (information, direction, authority) that B compresses to "briefing ... and gather information" (rule 3).
 
@@ -7046,7 +7046,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - LSCC #26 (Logistics Section Chief Complex) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
 - **Task B** (task_id 1466):
   - text: “Participate in the operational period briefing, particularly emphasizing any changes from the written IAP.”
-    - LSC3 #50 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - LSC3 #50 (Logistics Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Adjudication note:** A "participate in the operational period briefing" vs B "...PARTICULARLY EMPHASIZING ANY CHANGES from the written IAP": B adds the change-communication duty (rule 2). B subsumes A.
 
 ## 504. `cbd912fb3c31e8da` — A subsumes B — score 0.810678
@@ -7072,7 +7072,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - LSCC #26 (Logistics Section Chief Complex) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
 - **Task B** (task_id 1639):
   - text: “Provide daily or operational period briefings to section personnel.”
-    - FSC3 #42 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: O
+    - FSC3 #42 (Finance Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: O
 - **Adjudication note:** A "PARTICIPATE in operational period briefing" vs B "PROVIDE daily or operational period briefings to section personnel": delivering the briefing entails participating (rules 1-2). B subsumes A.
 
 ## 506. `9c216c40709ca2cb` — A subsumes B — score 0.810099
@@ -7124,7 +7124,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 2036):
   - text: “Develop and implement a plan for transfer of duties.”
-    - SOPL #30 (Strategic Operational Planner) — category: Transfer position duties while ensuring continuity of authority and knowledge — code: I
+    - SOPL #30 (Strategic Operational Planner) — category: Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity. — code: I
 - **Task B** (task_id 2249):
   - text: “Coordinate an efficient transfer of duties and outline any issues or unresolved items.”
     - SOFF #31 (Safety Officer, Field) — category: Demobilize — code: I
@@ -7213,7 +7213,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - GSUL #21 (Ground Support Unit Leader) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
     - HEQB #26 (Heavy Equipment) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
     - HMGB #26 (Helicopter) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
-    - LOFR #24 (Liaison Officer) — category: Establish work assignments and performance expectations, monitor — code: O
+    - LOFR #24 (Liaison Officer) — category: Establish work assignments and performance expectations, monitor performance, and provide feedback. — code: O
     - SECM #25 (Security Manager) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
     - SITL #17 (Situation Unit Leader) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
     - SPUL #21 (Supply Unit Leader) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
@@ -7319,7 +7319,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 654):
   - text: “Establish Work Assignments and Set Performance Expectations.”
-    - PIO3 #21 (Public Information Officer Type 3) — category: Supervise effectively, establish work assignments and performance — code: I
+    - PIO3 #21 (Public Information Officer Type 3) — category: Supervise effectively, establish work assignments and performance expectations, monitor performance, provide training opportunities, and give feedback. — code: I
 - **Task B** (task_id 879):
   - text: “Establish and monitor objectives, priorities, work assignments, and performance expectations.”
     - TIME #4 (Time Unit Leader) — category: Supervise and Direct Work Assignments — code: I
@@ -7473,11 +7473,11 @@ narrower scope = subsumption, not equivalence; doubt → reject.
 - [ ] reviewed
 - **Task A** (task_id 424):
   - text: “Follow safety procedures and be aware of incident- specific hazards.”
-    - PIO3 #53 (Public Information Officer Type 3) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - PIO3 #53 (Public Information Officer Type 3) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
     - PIOC #22 (Public Information Officer Complex) — category: Ensure the safety, welfare, and accountability of assigned personnel. — code: I
 - **Task B** (task_id 1315):
   - text: “Follow established safety procedures.”
-    - IRIN #32 (Infrared Interpreter) — category: Follow established procedures and/or safety procedures relevant to given — code: W
+    - IRIN #32 (Infrared Interpreter) — category: Follow established procedures and/or safety procedures relevant to given assignment. — code: W
 - **Adjudication note:** A "follow safety procedures AND BE AWARE OF INCIDENT-SPECIFIC HAZARDS" vs B "follow established safety procedures": A adds the hazard-awareness requirement (rule 2). A subsumes B.
 
 ## 539. `798dff9282e6a282` — B subsumes A — score 0.801751
@@ -7488,7 +7488,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - SOFC #22 (Safety Officer Complex) — category: Ensure relevant information is exchanged during briefings and debriefings. — code: I
 - **Task B** (task_id 1692):
   - text: “Debrief Agency Administrator.”
-    - PSC3 #46 (Planning Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and — code: I
+    - PSC3 #46 (Planning Section Chief Type 3) — category: Ensure all relevant information is exchanged during check-in, briefings and debriefings. — code: I
 - **Adjudication note:** A "BRIEF/DEBRIEF agency administrator or representative as appropriate" (disjunctive, may be brief-only) vs B "DEBRIEF agency administrator": B satisfies A's debrief arm; A may never debrief (rule 2). B subsumes A.
 
 ## 540. `8dee2c35073c5b5a` — B subsumes A — score 0.801734
@@ -7499,7 +7499,7 @@ narrower scope = subsumption, not equivalence; doubt → reject.
     - OSCC #51 (Operations Section Chief Complex) — category: Planning Duties — code: I
 - **Task B** (task_id 1474):
   - text: “Participate in preparation of Incident Action Plan (IAP).”
-    - LSC3 #58 (Logistics Section Chief Type 3) — category: Develop and implement plans and gain concurrence of affected agencies and — code: I
+    - LSC3 #58 (Logistics Section Chief Type 3) — category: Develop and implement plans and gain concurrence of affected agencies and the public. — code: I
 - **Adjudication note:** A "participate in preparation of the IAP OR OTHER RELEVANT PLANS" (disjunctive) vs B "participate in preparation of the IAP" (specific): B satisfies A's disjunct; A may never touch an IAP (rule 2). B subsumes A.
 
 ## 541. `5b877b7f28aa8c17` — A subsumes B — score 0.801679
