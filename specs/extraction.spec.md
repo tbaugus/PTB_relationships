@@ -154,9 +154,61 @@ inventory in format-gaps.spec.md.
       UASP and FIRB; every task has a Level ∈ {Aspirant, Beginner, Journey,
       Expert}; "≥X" placeholders preserved verbatim; the format's own `O`
       code definition captured, distinct from NWCG's.
+- [ ] AC-E10 (legacy): a task's `category` is the FULL printed text of the
+      "Behavior:" heading it sits under, including every wrapped
+      continuation line of that heading — never just its first printed
+      line. Grounded: LOFR (311-05) page 7 prints "Behavior: Ensure
+      availability, qualifications, and capabilities of resources to
+      complete" / "assignment." on two lines, so LOFR tasks 4-6 →
+      "Ensure availability, qualifications, and capabilities of resources
+      to complete assignment."; FAL1 (311-118) page 12 prints "Behavior:
+      Follow established procedures and/or safety procedures relevant to
+      given" / "assignment." (at the text column), so FAL1 tasks 21-22 and
+      24 → "Follow established procedures and/or safety procedures relevant
+      to given assignment."; ICT3 (311-02) tasks under the same heading
+      likewise. Corpus-wide invariant: for every distinct legacy
+      (document, position, category), the whitespace-collapsed text of a
+      task's own page or the page before it contains "Behavior: <category>"
+      immediately followed by a printed task number ("N.") or by the page
+      footer / bare page number (the heading is the last line of its page
+      and its tasks start on the next page: SOFC page 5 → 6, PSC3 page 15
+      → 16; PSC3's "Coordinate interdependent activities." is followed by
+      the printed #39 that INV-7 omits) — the
+      heading read in full, so a category that stopped short of the
+      heading's end can never satisfy it (its remaining words would sit
+      where the number or footer must be). Enforced by
+      `tests/test_extraction.py`.
 
 ## Changelog
 
+- 2026-11-03 (follow-up recorded in the entry below; AC-E10 added):
+  `structure/legacy.py` now appends a "Behavior:" heading's wrapped
+  continuation lines to the category. In the line walk a continuation
+  line arrives after the heading while no task is open, printed at the
+  heading's own indent (margin column in LOFR, text column in FAL1), one
+  text row (~13-14pt) below the previous heading line and before the first
+  task number (which sits a blank row further down, 30pt+ in every legacy
+  book); it used to fall through to the unclassified-furniture skip, so
+  `category` kept only the heading's first printed line. The parser now
+  tracks the heading's (x0, top) and, for each following line left of the
+  code column at that x0 (±9pt) and within `HEADING_WRAP_GAP` (20pt) of the
+  previous heading line, extends `current_category`; the tracker resets on
+  a task number, another heading, "Competency:"/"Description:", or a new
+  page. Regression over all 101 documents: 48 legacy documents change,
+  1,101 task rows change in `category` ONLY (every new value is the old
+  value plus a suffix), and no document changes in task count,
+  `verbatim_text`, `code_raw`, `clarifications`, `page`, positions, or
+  `fields_observed`. 361 of 1,040 distinct (document, position, category)
+  values previously ended mid-sentence; now 1,038 distinct values (two
+  former truncations collapsed onto their full headings) and the only 10
+  without a terminal period are headings NWCG prints without one (e.g.
+  HEBM "Model leadership values and principles", PSC3 "Gather, analyze and
+  validate information pertinent to the incident or event and make
+  recommendations for setting priorities"), each verified on its page as
+  immediately followed by its first task number. Downstream: categories
+  feed `context.py`'s behavior families, so the context-rule features of
+  every probable pair are recomputed and any pair whose result changes is
+  reported in PLAN.md rather than re-demoted silently.
 - 2026-11-03 (spec-checker audit of the refreshed corpus — three forced
   fixes, two of them pre-existing parser errors on books the refresh did
   not touch): (1) AC-E3 now states the token-interleaving reading the Phase
@@ -180,11 +232,12 @@ inventory in format-gaps.spec.md.
   last element because the code-word filter dropped the comma-bearing
   tokens; `code_raw` now preserves the printed form and
   `split_code_alternatives()` parses either separator (gap.py's context
-  matrix splits the same way). Known, deliberately unchanged: wrapped
-  multi-line legacy "Behavior:" headings are still captured as their first
-  line only (362 of 1,040 distinct legacy (document, position, category)
-  values end mid-sentence after these fixes) — a
-  pre-existing limitation outside this refresh, recorded as a follow-up.
+  matrix splits the same way). Known, deliberately unchanged in this
+  entry: wrapped multi-line legacy "Behavior:" headings were still captured
+  as their first line only (362 of 1,040 distinct legacy (document,
+  position, category) values ended mid-sentence after these fixes) — a
+  pre-existing limitation outside this refresh, recorded as a follow-up
+  and fixed by the 2026-11-03 AC-E10 entry above.
 
   2026 template): two fixes to `structure/nextgen.py`, both grounded in the
   refreshed PDFs. (a) `_find_column_bands()` now only accepts "Record" /
