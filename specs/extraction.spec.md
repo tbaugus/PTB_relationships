@@ -149,6 +149,26 @@ inventory in format-gaps.spec.md.
 
 ## Changelog
 
+- 2026-11-02 (corpus refresh): (1) `EDITION_DATE_RE` now matches the
+  month name case-insensitively. Seven legacy books print a mixed-case
+  month ("PMS 311-20 October 2018": HEBM, IRIN, ICPI, INVF, INVL, FWPT and
+  the pre-refresh ATIM), and the upper-case-only pattern left their
+  `document.edition_date` null — a parser miss, not a format absence;
+  the printed value is still stored verbatim (e.g. "October 2018"), and
+  normalization to ISO happens at DB load (schema.spec.md changelog, same
+  date). (2) `extract.py` deletes any `extracted/<filename>.json` whose
+  filename has no `role: "ptb"` entry in `corpus/manifest.json` (the
+  retired `pms311-30_FEMO-FOBS.pdf.json` after this refresh), printing each
+  deletion, so the audit trail only ever describes documents NWCG publishes
+  today; `db.py` would otherwise load the retired book, and INV-1 would then
+  fail because its raw file is gone. (3) The refreshed corpus changes the
+  per-format population (10 books moved legacy → Next Gen; FEMO and FOBS
+  are now two Next Gen documents; REAF is new), so historical counts quoted
+  in earlier changelog entries (e.g. "59 nwcg_legacy documents") describe
+  the 2026-07 corpus, not the current one. No fixture changed; AC-E1..E9
+  are re-verified by the spec-checker on the refreshed corpus, and any
+  parser change the September 2026 Next Gen template forces is recorded as
+  its own entry below.
 - 2026-07-11 (Phase 6 forced fix): `extract.py`'s `FIELD_MARKERS` gained
   ~40 additional marker entries per format (signature-page phases,
   performance-rating scale, per-assignment/per-task evaluator fields,

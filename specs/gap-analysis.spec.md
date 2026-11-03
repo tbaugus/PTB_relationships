@@ -77,6 +77,15 @@ satisfied by a `developmental` context (add it to CompletedTask contexts),
 which does NOT satisfy NWCG-`O` slots' broader meaning in reverse — NWCG `O`
 is satisfied by any context including developmental.
 
+**Data currency (honesty contract):** every rendered report states what
+edition of the source data it describes. `gap.data_currency(conn)` reads
+`source_documents` and returns the corpus download date (max
+`downloaded_at`), the NWCG task-book edition range (min/max `edition_date`
+over `official = 1` ptb rows) and the NTFT draft's date; `format_report()`
+prints it as a "Data as of:" line directly under the disclaimer, and
+`app.py` shows the same line as a caption. A reader must never have to guess
+whether a task cites the edition NWCG publishes today.
+
 ## Output
 
 ```python
@@ -139,9 +148,19 @@ in the ranking for this profile, and LOFR must show near-zero satisfaction.
       UAIS (enhanced draft) with its prerequisite requirements satisfied
       (derivations shown), `draft: true`, and its training/currency/fitness
       items under info_requirements — none of them counted as gaps.
+- [ ] AC-G9: Text output and the test console carry a "Data as of:" line
+      naming the corpus download date and the NWCG edition range, derived
+      from `source_documents` (never hardcoded); on the refreshed corpus the
+      newest NWCG edition shown is `2026-09`.
 
 ## Changelog
 
+- 2026-11-02 (corpus refresh): added the data-currency rule and AC-G9 —
+  `gap.data_currency()`, a "Data as of:" line in `format_report()` and in
+  `app.py`. Motivated by the first corpus refresh: 12 positions' task books
+  were republished (10 in a new format), and a report that cites a task
+  without saying which edition it comes from would violate the honesty
+  contract. No change to satisfaction rules or ranking.
 - 2026-07-12: Owner-directed relabel of `official = 0` (enhanced/FireTech)
   positions from "draft — not an official NWCG standard" to "NTFT standard"
   (centralized in `gap.DRAFT_LABEL`). Display-only: `official = 0`,

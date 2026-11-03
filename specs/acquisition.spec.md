@@ -77,6 +77,92 @@ S3-hosted, no VersionId concept), `sha256`, `downloaded_at`,
 - The script is idempotent: a second run with nothing changed downloads
   nothing and leaves the manifest byte-identical except `generated`.
 
+## Corpus refresh (added 2026-11-02)
+
+A refresh is a full rerun of `acquire.py` then `acquire_requirements.py`
+against the live NWCG catalog. Nothing is pinned to an earlier edition: the
+manifest describes what NWCG publishes **today**, and every difference from
+the previous manifest is recorded in the manifest itself, never absorbed
+silently. A refresh is followed by the full downstream pipeline
+(extract → db → match → adjudicate → report), per matching.spec.md's
+"Re-running the pipeline".
+
+### Per-document currency fields
+
+Every `documents` entry carries, in addition to the manifest contract above:
+
+- `edition_date` — ISO-8601 `YYYY-MM` (or `YYYY-MM-DD` when the source gives
+  a day). Taken, in this order of preference, from: the catalog's
+  "Date Published" column (catalog PTBs; it is already `YYYY-MM`); the
+  "PMS <n> <Month YYYY>" line printed on page 1 (companion standards and
+  PMS 310-1 — scanned with pdfplumber at download time, month name
+  case-insensitive); the DOCX core-properties `modified` timestamp for the
+  enhanced Google Doc (the export's only date — the document prints none).
+  `edition_date_source` names which of these produced the value. A document
+  with none of them records `null`, never a guess. Qualification-requirement
+  web pages (source 4) have no published date and record `null` with
+  `edition_date_source: "none"`.
+- `page_count` for PDFs, so a republished edition's size change is visible
+  in the manifest diff (e.g. STAM 17 → 11 pages, legacy → Next Gen).
+
+### Change detection (per live catalog row, in `acquire.py`)
+
+Identity of a document across refreshes is **(role, PMS number)** for
+catalog PTBs and companion standards, and the filename for the Google Doc
+exports — never the URL: NWCG renames its S3 keys between editions
+(`taskbook/pms-311-16.pdf` → `taskbook/pms311-16.pdf`, September 2026), so a
+URL-keyed match would silently lose the prior entry and its history.
+
+- **Unchanged** — on-disk sha256 equals the manifest's: no download, entry
+  kept verbatim (AC-A7).
+- **Revised** — same identity, different content hash: the raw file is
+  overwritten and the prior `{sha256, downloaded_at, url, edition_date}`
+  is appended to the entry's `superseded` list. `edition_date`,
+  `page_count` and `url` are refreshed from the live source.
+- **Split / renamed** — the live row's position-code set differs from the
+  prior entry's (e.g. PMS 311-30 was FEMO + FOBS in one legacy book; the
+  September 2026 catalog lists 311-30 as FOBS alone and FEMO as the new
+  311-71). The filename convention `<pms>_<CODES>.pdf` is derived from the
+  live row, so the new book gets a new filename; the prior filename's entry
+  is **retired** (below) with `superseded_by` naming every live filename
+  that now covers one of its position codes.
+- **Retired** — any prior `documents` entry whose identity no longer appears
+  in the live catalog (or, for companion standards, is no longer referenced
+  by any live Next Gen PTB) moves to the top-level `retired[]` list as
+  `{filename, pms_number, position_codes, role, sha256, downloaded_at, url,
+  edition_date, retired_at, reason, superseded_by}`. Its raw file is deleted
+  from `corpus/raw/` and `extract.py` deletes the matching
+  `extracted/<filename>.json`, so `db.py` can never load a book NWCG no
+  longer publishes. Archived copies (Wayback Machine or similar) are NEVER
+  used to keep a retired book in the corpus. `retired[]` is append-only
+  across refreshes.
+- **New** — a live row with no prior identity is downloaded and recorded as
+  an ordinary entry (e.g. PMS 311-112 REAF, July 2025 — previously one of
+  the seven "requirements page but no PTB" codes in PLAN.md).
+- **Format change** — a book republished in a different format (legacy →
+  Next Gen, the September 2026 batch) needs nothing from acquisition
+  (`format` is assigned by extraction), but its companion-standards
+  discovery now runs because the catalog hint reads "Next Gen", which is
+  how PMS 350-12/-43/-44/-47/-48/-71/-93 enter the corpus.
+- **Qualification-requirement pages** (source 4) — upstream wording drift
+  (e.g. "Completion and Certification of NWCG Position Task Book for X" in
+  `required_experience`) is tolerated: pages are re-scraped, re-parsed and
+  re-committed; no `superseded` history is kept for them (idempotence
+  exception above). A catalog position whose page disappears goes under
+  `pending` with a reason.
+- **Google Doc export nondeterminism** — the PDF export's hash can change
+  while the DOCX export's does not (observed 2026-11-02). The DOCX is the
+  extraction source, so a PDF-only hash change triggers no re-extraction;
+  the entry is treated as *revised* (new hash recorded, prior hash under
+  `superseded`) and the refresh log flags it as "pdf-only; docx unchanged".
+
+Every run ends with a refresh summary on stderr: counts of unchanged /
+revised / new / retired / pending, listing each revised, new and retired
+filename. `acquire.py --verify-urls` additionally issues a HEAD request for
+every `documents` entry's stored URL and reports any that does not return
+HTTP 200 (used by AC-A10; not part of the default idempotent run, since it
+is ~250 network requests that change nothing).
+
 ## Acceptance criteria
 
 - [ ] AC-A1: Every PTB PDF link on the live catalog page has a corresponding
@@ -110,6 +196,41 @@ S3-hosted, no VersionId concept), `sha256`, `downloaded_at`,
       (the structured output), even though the raw HTML and its recorded
       sha256 are expected to differ between runs (see source 4's idempotence
       exception above) — that difference alone is not a failure.
+- [ ] AC-A10 (refresh): after a refresh, `acquire.py --verify-urls` reports
+      zero `documents` entries whose stored URL fails to return HTTP 200,
+      and no PDF linked from the live catalog is missing from `documents`
+      (AC-A1 re-run).
+- [ ] AC-A11 (refresh): every filename present in the previous committed
+      manifest's `documents` and absent from the new one appears in
+      `retired[]` with a `reason` and a `superseded_by` list; every retired
+      filename is absent from `corpus/raw/` and from `extracted/`.
+- [ ] AC-A12 (refresh): every `role: "ptb"` and `role:
+      "companion_standards"` entry has a non-null `edition_date` in
+      `YYYY-MM` or `YYYY-MM-DD` form and an `edition_date_source`; for every
+      catalog PTB the catalog's "Date Published" month equals the month
+      printed on the PDF's page 1 (cross-check; a mismatch is a FAIL, not a
+      silent preference).
 - [ ] AC-A9: Every `extracted/requirements/<code>.json` file's
       `required_experience_prereq_codes` never contains that same file's own
       `position_code` (no self-referential prerequisite).
+
+## Changelog
+
+- 2026-11-02 (corpus refresh): added the "Corpus refresh" section and
+  AC-A10..A12. Triggered by the first re-acquisition since 2026-07-09, which
+  found: 10 catalog PTBs republished (CREP, STAM, ORDM, RCDM, COMP, COST,
+  GISS, DECK, ATIM as September 2026 Next Gen editions of what were
+  2009/2022/2025 legacy books; FAL2 January → July 2026); the combined
+  legacy `pms311-30_FEMO-FOBS.pdf` withdrawn upstream (its versioned S3 URL
+  now returns NoSuchKey) and replaced by `pms311-30_FOBS.pdf` plus the new
+  `pms311-71_FEMO.pdf`; new documents `pms311-112_REAF.pdf`, companion
+  standards PMS 350-12/-43/-44/-47/-48/-71/-93/-112 and `pms310-1.pdf`; a
+  PDF-only hash change of the Google Doc export; and 10 of 116
+  qualification-requirement pages with wording-only drift. Manifest schema
+  additions: `edition_date`, `edition_date_source`, `page_count` per
+  document; top-level `retired[]`; `superseded` entries now also carry
+  `url` and `edition_date`. Identity for change detection changed from
+  URL to (role, PMS number) because NWCG renamed its S3 keys. The Phase 0
+  fixture set (FFT1, ENGB, CRWB, FIRB, LOFR) is unchanged by this refresh
+  (hashes verified), so every fixture-grounded criterion in the other
+  specs still holds.
