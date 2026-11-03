@@ -328,17 +328,19 @@ def export(
         "Confirm", "clearly the same",
     ]
     if bridge == "ntft":
-        # Real pair (GISS #55 / UAIS #14); it sits in the tier-2 layer, so it
-        # never appears as a live row on this sheet.
+        # Real pair (RESL #13 / UAIS #14, tier-2 candidate 63a46f41daf7dac2);
+        # it sits in the tier-2 layer, so it never appears as a live row on
+        # this sheet. (Earlier builds cited GISS #55, whose wording changed in
+        # the September 2026 GISS edition.)
         example = [
             "EX", "EXAMPLE", "Same task",
-            "Participate in an After-Action Review (AAR).",
-            "GISS #55 (Geographic Information System Specialist) - Communicate following ICS concepts and principles.",
+            "Participate in After Action Reviews (AARs).",
+            "RESL #13 (Resources Unit Leader) - Communicate and Coordinate",
             "Participate in the after-action review.",
             "UAIS #14 (UAS Aerial Ignition Specialist) - COMPETENCY: Communicate effectively.",
-            0.841, "Same activity, same participant role; wording only.",
-            "Standard", "Understand", "Understand",
-            "GISS #55", "UAIS #14", "Beginner",
+            0.805, "Same activity, same participant role; wording only.",
+            "Standard", "Apply", "Apply",
+            "RESL #13", "UAIS #14", "Beginner",
             "Confirm", "clearly the same",
         ]
     for col, value in enumerate(example, start=1):
