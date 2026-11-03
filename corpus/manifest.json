@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09",
+  "generated": "2026-11-03",
   "note": "Phase 0 fixture set. Full corpus acquisition happens in Phase 1 via src/ptb/acquire.py, which regenerates this manifest.",
   "sources": {
     "catalog_page": "https://www.nwcg.gov/training/nwcg-position-task-books-catalog",
@@ -18,7 +18,11 @@
       "sha256": "abfdd4b308e763d7a01d40c4e625a00244711899ea2a3f85029ede19a25198e7",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 14
     },
     {
       "filename": "pms311-18_HLCO-ATGS.pdf",
@@ -33,7 +37,11 @@
       "sha256": "8ff5353e5cee208cbc612bd6374a9bf4fa23e7006eaf04fb759b81ee0c59169e",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2022-04",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "APRIL 2022",
+      "page_count": 43
     },
     {
       "filename": "pms311-19_ASGS.pdf",
@@ -47,7 +55,11 @@
       "sha256": "0e685b38afb7d04a84d647c5c0597ecd34577ca83f6c8b3f33709cc9c0dfa264",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 19
     },
     {
       "filename": "pms311-20_HEBM.pdf",
@@ -61,7 +73,11 @@
       "sha256": "942fda11dbb09e52138ba059daa518db569127cf5b5582ba441ae3e02c539032",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2018-10",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "October 2018",
+      "page_count": 16
     },
     {
       "filename": "pms311-22_HECM.pdf",
@@ -75,7 +91,11 @@
       "sha256": "f92e02c4a977318768dcb1a0740b676388422b64084e96a5499d9d77fd22053b",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-03",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "MARCH 2025",
+      "page_count": 10
     },
     {
       "filename": "pms311-61_SEMG.pdf",
@@ -89,7 +109,11 @@
       "sha256": "ab2c4b57803644ebf318938ecc090f5f74b3e038f619e28005ba19365e717ce6",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2018-10",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "OCTOBER 2018",
+      "page_count": 22
     },
     {
       "filename": "pms311-83_ACAC.pdf",
@@ -103,7 +127,11 @@
       "sha256": "ee45504a61f2948e88f0fd0ca437c2823ba71e407867026f8e85dff482fcd61d",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 13
     },
     {
       "filename": "pms311-02_ICT3.pdf",
@@ -117,7 +145,11 @@
       "sha256": "67422661319af88be4822c3277fcb768d01988a16f70e3ad47bd039cb6f708a4",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 18
     },
     {
       "filename": "pms311-03_ICT4.pdf",
@@ -131,7 +163,11 @@
       "sha256": "1c58c8a75a52c852735ac099e2d8daef06a581fb99041b26f74705d4b731e2cd",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 16
     },
     {
       "filename": "pms-311-05_LOFR.pdf",
@@ -145,7 +181,11 @@
       "sha256": "e63a995d9c8a42898596fc143886b0db84908b97578e547bd05c5f40950ab7da",
       "downloaded_at": "2026-07-09",
       "fixture": true,
-      "role": "ptb"
+      "role": "ptb",
+      "edition_date": "2010-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2010",
+      "page_count": 19
     },
     {
       "filename": "pms311-70_RXMG.pdf",
@@ -159,7 +199,11 @@
       "sha256": "712566c9c3f534bac191bd86b0d035c1d57656c73bf292fdd6b3f49ccbfe8aae",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2020-10",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "OCTOBER 2020",
+      "page_count": 17
     },
     {
       "filename": "pms311-74_RXB2.pdf",
@@ -173,7 +217,11 @@
       "sha256": "1cd0a81bde0c301eb2da9a7cffd986662c964db2ee1a322c81c768c7739db83c",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2024-05",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "MAY 2024",
+      "page_count": 12
     },
     {
       "filename": "pms311-80_ACDR.pdf",
@@ -187,7 +235,11 @@
       "sha256": "dc2b62bd3ba73801c45b5c1e574467fbd8d58dc13a2bb6ba96c1e762f22c5be9",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 13
     },
     {
       "filename": "pms311-82_SOF3.pdf",
@@ -201,7 +253,11 @@
       "sha256": "e25057157dc6588f116bd2ab6ee56e0f0fcb4f4a78a270ece236824977538528",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-01",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JANUARY 2025",
+      "page_count": 15
     },
     {
       "filename": "pms311-56_CORD.pdf",
@@ -215,7 +271,11 @@
       "sha256": "6cf45da56d9ad04d0bd6993eb8e101f0a32a46320d94ca07bb63d55b2803db0a",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2024-11",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "NOVEMBER 2024",
+      "page_count": 11
     },
     {
       "filename": "pms311-57_EDSP.pdf",
@@ -229,7 +289,11 @@
       "sha256": "54d3430c12cd6d2df317388b35c92b2ea78afd19248b73a621059a9b649bd7dc",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2024-11",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "NOVEMBER 2024",
+      "page_count": 10
     },
     {
       "filename": "pms311-58_EDSD.pdf",
@@ -243,7 +307,11 @@
       "sha256": "32a8bc3d30fd9aed8e4068c3a02cb5fbfc847317f47ca576d879bf6cf1be85cc",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2024-10",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "OCTOBER 2024",
+      "page_count": 11
     },
     {
       "filename": "pms311-60_IADP.pdf",
@@ -257,7 +325,11 @@
       "sha256": "e8eba74de641b5790c019bc7a9d4920aa3efbb5df52699c974f5624a6dfd9ad9",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-01",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JANUARY 2025",
+      "page_count": 10
     },
     {
       "filename": "pms311-67_ACDP.pdf",
@@ -271,7 +343,11 @@
       "sha256": "f6fb77cc1a2bad28a628c80daa467c5f042c006c371df7cc8eebadd1e3958d2e",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-01",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JANUARY 2025",
+      "page_count": 10
     },
     {
       "filename": "pms311-47_COMP.pdf",
@@ -281,11 +357,23 @@
       "title": "Compensation/Claims Unit Leader",
       "pms_number": "311-47",
       "format": "unclassified",
-      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-47.pdf?VersionId=MULbFotEvu6Zxpb9t_YbFpTKRo91BkdO",
-      "sha256": "07b84bbcc34fb1d6845818a7ca319146fc4fb961f7fd2be35303953c1d8ca0b6",
-      "downloaded_at": "2026-07-09",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-47.pdf?VersionId=o0PPhoPAFVtgibilVBdw5KKUCvOGQKPj",
+      "sha256": "f9b95836d7c004fbbdc277a0c3b50435c8ad7df57d37004b46b5c497419c12c3",
+      "downloaded_at": "2026-11-02",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "superseded": [
+        {
+          "sha256": "07b84bbcc34fb1d6845818a7ca319146fc4fb961f7fd2be35303953c1d8ca0b6",
+          "downloaded_at": "2026-07-09",
+          "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-47.pdf?VersionId=MULbFotEvu6Zxpb9t_YbFpTKRo91BkdO",
+          "edition_date": null
+        }
+      ],
+      "edition_date": "2026-09",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "SEPTEMBER 2026",
+      "page_count": 11
     },
     {
       "filename": "pms311-48_COST.pdf",
@@ -295,11 +383,23 @@
       "title": "Cost Unit Leader",
       "pms_number": "311-48",
       "format": "unclassified",
-      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-48.pdf?VersionId=NKRZeBeN_YdhEtAPX.Sg8.6wnxtZwUt3",
-      "sha256": "27d2daccf2c842ef77cd88c0bb6c31e7656ac694ac3da047185e76827fd7a680",
-      "downloaded_at": "2026-07-09",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-48_0.pdf?VersionId=jHndXtq5wMFXVCArevVDw2hf24uXxgTe",
+      "sha256": "2136a57c40f6d99c735e454052108fd2fe009b260cef19bba7c7ef67a87b49f1",
+      "downloaded_at": "2026-11-02",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "superseded": [
+        {
+          "sha256": "27d2daccf2c842ef77cd88c0bb6c31e7656ac694ac3da047185e76827fd7a680",
+          "downloaded_at": "2026-07-09",
+          "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-48.pdf?VersionId=NKRZeBeN_YdhEtAPX.Sg8.6wnxtZwUt3",
+          "edition_date": null
+        }
+      ],
+      "edition_date": "2026-09",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "SEPTEMBER 2026",
+      "page_count": 11
     },
     {
       "filename": "pms311-49_ICPI.pdf",
@@ -313,7 +413,11 @@
       "sha256": "9df2a3ea90411a216d05fd1427bab149f8183bd6e36788e3bc828d6b22af5f1b",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2012-10",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "October 2012",
+      "page_count": 14
     },
     {
       "filename": "pms311-51_EQTR.pdf",
@@ -327,7 +431,15 @@
       "sha256": "d2c0c319cff13c32b61b2f6cb4d96de59137b1f065c783558575f2e52cae6ade",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2024-09",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line (catalog Date Published disagrees)",
+      "edition_date_printed": "SEPTEMBER 2024",
+      "page_count": 10,
+      "edition_date_conflict": {
+        "catalog": "2016-09",
+        "printed": "SEPTEMBER 2024"
+      }
     },
     {
       "filename": "pms311-34_FACL-COML-FDUL-GSUL-SPUL.pdf",
@@ -345,7 +457,11 @@
       "sha256": "6f42b6e116832707d6de4d037ddca56b7b9ee12c7969448bc106084d1d9005a7",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2024-08",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "AUGUST 2024",
+      "page_count": 28
     },
     {
       "filename": "pms311-40_SECM.pdf",
@@ -359,7 +475,11 @@
       "sha256": "03eca8eec442c2568f13190d92b55e1cd7196ffc43a7992742d61335d5e8d7d5",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 16
     },
     {
       "filename": "pms311-41_INCM.pdf",
@@ -373,7 +493,11 @@
       "sha256": "b9db10d854ed2728f3c4be44b5664487f38eb6ad8718a9ef01326204e1f6417a",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-07",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JULY 2025",
+      "page_count": 11
     },
     {
       "filename": "pms311-42_BCMG.pdf",
@@ -387,7 +511,11 @@
       "sha256": "0a8024c5c6a44eab07e8c88f73499f56d15ddff1b89baccd9affa8a43840be4d",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 16
     },
     {
       "filename": "pms311-43_ORDM.pdf",
@@ -397,11 +525,23 @@
       "title": "Ordering Manager",
       "pms_number": "311-43",
       "format": "unclassified",
-      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-43.pdf?VersionId=bho3LD51ReVcaPkBelWvauryBP9gVM1e",
-      "sha256": "0150ffc7163ee02669b291562e09e379971f7e39e1d618c1df4e60658c0f1309",
-      "downloaded_at": "2026-07-09",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-43.pdf?VersionId=MCiYpxg1OEGdEwPrn99bnUWAE4RV7phU",
+      "sha256": "4a5f6d40591e4ae97e1b94c43596ab70d44f34610c5db42c35dd389601ae34a7",
+      "downloaded_at": "2026-11-02",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "superseded": [
+        {
+          "sha256": "0150ffc7163ee02669b291562e09e379971f7e39e1d618c1df4e60658c0f1309",
+          "downloaded_at": "2026-07-09",
+          "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-43.pdf?VersionId=bho3LD51ReVcaPkBelWvauryBP9gVM1e",
+          "edition_date": null
+        }
+      ],
+      "edition_date": "2026-09",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "SEPTEMBER 2026",
+      "page_count": 10
     },
     {
       "filename": "pms311-44_RCDM.pdf",
@@ -411,11 +551,23 @@
       "title": "Receiving or Distribution Manager",
       "pms_number": "311-44",
       "format": "unclassified",
-      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-44.pdf?VersionId=kIl33ittCfy4HImSTPFS5tgU_Pj2vgEt",
-      "sha256": "5695a0201d0634675e80dfaba5ba51fe4d31688964308d1ed5a29ca8bba3e355",
-      "downloaded_at": "2026-07-09",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-44.pdf?VersionId=MVjWLe8.su_qTUYOMelCrIPfCzuEWoWS",
+      "sha256": "6e6a7a3cf841395e0754cb7d46ca6740ab439e18ac37047ec3b98c3bc29d3fe5",
+      "downloaded_at": "2026-11-02",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "superseded": [
+        {
+          "sha256": "5695a0201d0634675e80dfaba5ba51fe4d31688964308d1ed5a29ca8bba3e355",
+          "downloaded_at": "2026-07-09",
+          "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-44.pdf?VersionId=kIl33ittCfy4HImSTPFS5tgU_Pj2vgEt",
+          "edition_date": null
+        }
+      ],
+      "edition_date": "2026-09",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "SEPTEMBER 2026",
+      "page_count": 11
     },
     {
       "filename": "pms311-45_EQPM.pdf",
@@ -429,7 +581,11 @@
       "sha256": "2a0cae9a6f3e90412d48a8e3e0c3d57a383cc89a6b6c04b3b7a7af2ac738fc63",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 18
     },
     {
       "filename": "pms311-89_ACLC.pdf",
@@ -443,7 +599,11 @@
       "sha256": "af007e425075e568827906006e86358251f07811cbd51212c40fcab14e1ccc90",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 11
     },
     {
       "filename": "pms311-96_COMT.pdf",
@@ -457,7 +617,11 @@
       "sha256": "e569494641d3b4339f90e01e633a5d380bfa067055ce65f59728dd4bc214365a",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 14
     },
     {
       "filename": "pms311-09_DIVS.pdf",
@@ -471,7 +635,11 @@
       "sha256": "5b54162c27edab0182ab61d57ba982b6053cb55f51006e494436630b09dca349",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 16
     },
     {
       "filename": "pms311-10_STCR-STEQ-STEN-TFLD.pdf",
@@ -488,7 +656,11 @@
       "sha256": "029f1516f2d625ff3cbc03a3c91c18e41ef51f6ff3d3994d3afcedba0449c9b0",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2013-12",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "DECEMBER 2013",
+      "page_count": 19
     },
     {
       "filename": "pms311-12_CREP.pdf",
@@ -498,11 +670,26 @@
       "title": "Crew Representative",
       "pms_number": "311-12",
       "format": "unclassified",
-      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-12.pdf?VersionId=bgcd7kJm55qkwzt3KCx_Hb3PQJbLZvtW",
-      "sha256": "460417e37a0d06154bc5f4ddfa42b968de5a9436aefb2357de23b7898a3c9549",
-      "downloaded_at": "2026-07-09",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-12.pdf?VersionId=Y4p.PW7_eJkmxv4UZTjNUs.SBGEJyRBL",
+      "sha256": "4c6f48a8bf6ca58765a2f24b1482ffa1b5ff573874d738c267a11188fa98dd52",
+      "downloaded_at": "2026-11-02",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "superseded": [
+        {
+          "sha256": "460417e37a0d06154bc5f4ddfa42b968de5a9436aefb2357de23b7898a3c9549",
+          "downloaded_at": "2026-07-09",
+          "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-12.pdf?VersionId=bgcd7kJm55qkwzt3KCx_Hb3PQJbLZvtW",
+          "edition_date": null
+        }
+      ],
+      "edition_date": "2026-09",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "SEPTEMBER 2026",
+      "page_count": 10,
+      "alternate_urls": [
+        "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-12_0.pdf?VersionId=6x9JZvOeV.6hZ.RMQjwa2hBRe3wqeze8"
+      ]
     },
     {
       "filename": "pms311-13_HEQB-HMGB.pdf",
@@ -517,7 +704,11 @@
       "sha256": "c1492dcc13f551ecf68735b5f5f7f854671994ee8169be0112aa48e489294217",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2026-01",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JANUARY 2026",
+      "page_count": 23
     },
     {
       "filename": "pms311-14_FFT1.pdf",
@@ -531,7 +722,11 @@
       "sha256": "990a294391da114466c49d592d476d581ab4c0a7ae4fdba4586ca9e5ed78020f",
       "downloaded_at": "2026-07-09",
       "fixture": true,
-      "role": "ptb"
+      "role": "ptb",
+      "edition_date": "2026-04",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "APRIL 2026",
+      "page_count": 11
     },
     {
       "filename": "pms311-68_STPS.pdf",
@@ -545,7 +740,11 @@
       "sha256": "c35bf3d0af4b3154fae44d969f1007b3bca48d335dc4d2c2f9d7c0c36d36cbff",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 14
     },
     {
       "filename": "pms311-24_SITL.pdf",
@@ -559,7 +758,11 @@
       "sha256": "5c756a4fe6e0213ff46b153b9f64706a1bdad7644951967e95397be7f77e2578",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-02",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "FEBRUARY 2025",
+      "page_count": 17
     },
     {
       "filename": "pms311-25_DOCL.pdf",
@@ -573,7 +776,11 @@
       "sha256": "030ce27047006958291a77c62771e84087038cb04d8636cab3d81c4f0abf78db",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2024-11",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "NOVEMBER 2024",
+      "page_count": 10
     },
     {
       "filename": "pms311-26_IRIN.pdf",
@@ -587,7 +794,11 @@
       "sha256": "14583f561603bddb03689ef234f3b66a43de68756ad211e8d9f5e35d5a7e96fc",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2012-10",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "October 2012",
+      "page_count": 15
     },
     {
       "filename": "pms311-28_TNSP.pdf",
@@ -601,7 +812,11 @@
       "sha256": "877855324240e5160f81ffd670d05a1db60f6c19acf682e89345c523246b2a24",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 14
     },
     {
       "filename": "pms311-29_FBAN.pdf",
@@ -615,22 +830,29 @@
       "sha256": "ab2592335152ed14d23e4eef77d0f2f20bb69626e669b8388a989b540f8bd36a",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-07",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JULY 2025",
+      "page_count": 11
     },
     {
-      "filename": "pms311-30_FEMO-FOBS.pdf",
+      "filename": "pms311-30_FOBS.pdf",
       "position_codes": [
-        "FEMO",
         "FOBS"
       ],
-      "title": "Fire Effects Monitor or Field Observer",
+      "title": "Field Observer",
       "pms_number": "311-30",
       "format": "unclassified",
-      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-30.pdf?VersionId=pPDdWwKbccnCVQTIT9OPSvBFhpcI4p1a",
-      "sha256": "6fb182f673d2e95184a3d2e7f0d5bf53ba1fb6d1c8fd6ea1042fc67a98d814c9",
-      "downloaded_at": "2026-07-09",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-30.pdf?VersionId=XZQmqqY6.5aO..1sk5U5prr2CCAXrkPw",
+      "sha256": "cef24a97b0b9facc5231a75dd850a29ddc3fd608d007424dbfaff2919bb67edd",
+      "downloaded_at": "2026-11-02",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2026-09",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "SEPTEMBER 2026",
+      "page_count": 10
     },
     {
       "filename": "pms311-31_DPRO.pdf",
@@ -644,7 +866,11 @@
       "sha256": "de0422efd7ab2bce35c38e16357a537d1b66adc18eb78bc928497f1b51e8d06a",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 12
     },
     {
       "filename": "pms311-32_SCKN.pdf",
@@ -658,7 +884,11 @@
       "sha256": "4e34f4291038b05c2bf7f60495e8aa810854aed568029a569aa4f94565b888a4",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2024-07",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JULY 2024",
+      "page_count": 11
     },
     {
       "filename": "pms311-62_HRSP.pdf",
@@ -672,7 +902,11 @@
       "sha256": "a5a0e66a7c2e95c33785df1460dceeae25e099001eb5c4c98a251699d1cc27b0",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 14
     },
     {
       "filename": "pms311-72_SOPL.pdf",
@@ -686,7 +920,11 @@
       "sha256": "b9564bb1041d50dca308f01816d7a701f94b85de68c95fad2924b60777b3ada9",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2011-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2011",
+      "page_count": 16
     },
     {
       "filename": "pms311-77_GISS.pdf",
@@ -696,11 +934,23 @@
       "title": "Geographic Information System Specialist",
       "pms_number": "311-77",
       "format": "unclassified",
-      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-77.pdf?VersionId=m5QYsiz4oaPo2aNV3aMQK.mpk.27MV9U",
-      "sha256": "2ff7cf5780ea5eed859f5d8b3b3f81143517ee320120a8d4de9c4791f7d49fe6",
-      "downloaded_at": "2026-07-09",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-77.pdf?VersionId=MgIlW7kUloIaUkeHC05eCzt6LZpVLwM9",
+      "sha256": "d80521c8a54dec7ce0da17b524ebadec13e9962913cb7a355a0c2ecc14fd521c",
+      "downloaded_at": "2026-11-02",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "superseded": [
+        {
+          "sha256": "2ff7cf5780ea5eed859f5d8b3b3f81143517ee320120a8d4de9c4791f7d49fe6",
+          "downloaded_at": "2026-07-09",
+          "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-77.pdf?VersionId=m5QYsiz4oaPo2aNV3aMQK.mpk.27MV9U",
+          "edition_date": null
+        }
+      ],
+      "edition_date": "2026-09",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "SEPTEMBER 2026",
+      "page_count": 13
     },
     {
       "filename": "pms311-88_ACPC.pdf",
@@ -714,7 +964,11 @@
       "sha256": "b0c926a20a909633b7c5e551f8ffaae573071a181cda845f9a2a00d7479109d0",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 11
     },
     {
       "filename": "pms311-63_PETL.pdf",
@@ -728,7 +982,11 @@
       "sha256": "a7c80067ce98b4796a5885feff65ae36a1426444439eaabb51b34336b63030d4",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 15
     },
     {
       "filename": "pms311-64_PETM.pdf",
@@ -742,7 +1000,11 @@
       "sha256": "6964ef967b4969fb3513670e071b6cc107aee47fd62fa994aa525579e8a259e8",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2009-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2009",
+      "page_count": 12
     },
     {
       "filename": "pms311-66_INVF.pdf",
@@ -756,7 +1018,11 @@
       "sha256": "93ea6c9d345de13df6bd1c60068fa19ab83b87af03668e1527869291af0bb594",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2021-10",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "October 2021",
+      "page_count": 14
     },
     {
       "filename": "pms311-90_INVL.pdf",
@@ -770,7 +1036,11 @@
       "sha256": "2f9b171e5ac36a5e447307dfe76a96dcd1522524fd2a231f96e6eef0ad7f29c1",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2021-10",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "October 2021",
+      "page_count": 15
     },
     {
       "filename": "pms311-16_STAM.pdf",
@@ -780,11 +1050,23 @@
       "title": "Staging Area Manager",
       "pms_number": "311-16",
       "format": "unclassified",
-      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-16.pdf?VersionId=_NZ6YyroPszq._Dhi_mpCNW9UNExkd1L",
-      "sha256": "959f1d5cad9468d10c9d6b246393bc2cb6a5109e59ef49ae6f53b9fe133bb7ea",
-      "downloaded_at": "2026-07-09",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-16.pdf?VersionId=ktM.9EdsSXnv8r5zLXEGDxwZJeUc3TuN",
+      "sha256": "79d5d943c9c70ae0e29cac747d88f3421e745052c136cb1d6feb1f281f12176c",
+      "downloaded_at": "2026-11-02",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "superseded": [
+        {
+          "sha256": "959f1d5cad9468d10c9d6b246393bc2cb6a5109e59ef49ae6f53b9fe133bb7ea",
+          "downloaded_at": "2026-07-09",
+          "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-16.pdf?VersionId=_NZ6YyroPszq._Dhi_mpCNW9UNExkd1L",
+          "edition_date": null
+        }
+      ],
+      "edition_date": "2026-09",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "SEPTEMBER 2026",
+      "page_count": 11
     },
     {
       "filename": "pms311-91_FAL2.pdf",
@@ -794,11 +1076,23 @@
       "title": "Intermediate Faller",
       "pms_number": "311-91",
       "format": "unclassified",
-      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-91.pdf?VersionId=4aEOeV3tTsTnYmKQ_XrCs_Z.fjTobctz",
-      "sha256": "d2ec10c1cbdf0909fd3b16e640848c8ca013d2e919d83570cbdcef8c1d3d279e",
-      "downloaded_at": "2026-07-09",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-91.pdf?VersionId=8btLbCDbelDj6DeAIpalW9dKKMW9pHTl",
+      "sha256": "fcf625167ede93d17234eab295bb932f9a48b39cf90866511b2f7b5e1a856e33",
+      "downloaded_at": "2026-11-02",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "superseded": [
+        {
+          "sha256": "d2ec10c1cbdf0909fd3b16e640848c8ca013d2e919d83570cbdcef8c1d3d279e",
+          "downloaded_at": "2026-07-09",
+          "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-91.pdf?VersionId=4aEOeV3tTsTnYmKQ_XrCs_Z.fjTobctz",
+          "edition_date": null
+        }
+      ],
+      "edition_date": "2026-07",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JULY 2026",
+      "page_count": 14
     },
     {
       "filename": "pms311-97_RADO.pdf",
@@ -812,7 +1106,11 @@
       "sha256": "9dbc5c1a7f515d8c7b78a754a898aae85e93a9cc281a85d1210d4197181f2676",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-07",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JULY 2025",
+      "page_count": 10
     },
     {
       "filename": "pms311-65_INBA.pdf",
@@ -826,7 +1124,11 @@
       "sha256": "db9dd7708bdfe74f4bfa0a9fe77c3abcd6adf038bb96badb63ff4b0dc9cdf839",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2014-10",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "OCTOBER 2014",
+      "page_count": 15
     },
     {
       "filename": "pms311-85_DECK.pdf",
@@ -836,11 +1138,23 @@
       "title": "Deck Coordinator",
       "pms_number": "311-85",
       "format": "unclassified",
-      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-85.pdf?VersionId=6sbdxb.YuL4uILwfw1PLYeJ_JO.zB4do",
-      "sha256": "034d2d71a2138ccc8d94623603c2ef818bc44029db3cdef10a4dc2195aa7aa97",
-      "downloaded_at": "2026-07-09",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-85.pdf?VersionId=DSjD2c_kUbHowXjsn6dR29Sc865MvTIH",
+      "sha256": "cbc2689e8346e255661b9a0feca988e42e095809acf4bf8620e349c0842dcd69",
+      "downloaded_at": "2026-11-02",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "superseded": [
+        {
+          "sha256": "034d2d71a2138ccc8d94623603c2ef818bc44029db3cdef10a4dc2195aa7aa97",
+          "downloaded_at": "2026-07-09",
+          "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-85.pdf?VersionId=6sbdxb.YuL4uILwfw1PLYeJ_JO.zB4do",
+          "edition_date": null
+        }
+      ],
+      "edition_date": "2026-09",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "SEPTEMBER 2026",
+      "page_count": 11
     },
     {
       "filename": "pms311-87_ABRO.pdf",
@@ -854,7 +1168,11 @@
       "sha256": "dc78f8a55ed74b9d3e422f5dd518a65ad46564ee57c635d86ea3b3cee2249500",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2024-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2024",
+      "page_count": 10
     },
     {
       "filename": "pms311-35_LSC3.pdf",
@@ -868,7 +1186,11 @@
       "sha256": "0c4242ff23ed5d7a2abfc86dfaf733832705ab34a836178eabc5c04a371746ef",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2017-10",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "OCTOBER 2017",
+      "page_count": 20
     },
     {
       "filename": "pms311-50_FSC3.pdf",
@@ -882,7 +1204,11 @@
       "sha256": "87a285a2f6d2e37ed6d829fc03599904835116e8746e294bac2235b5c8d47b6a",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2017-10",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "OCTOBER 2017",
+      "page_count": 19
     },
     {
       "filename": "pms311-55_PSC3.pdf",
@@ -896,7 +1222,11 @@
       "sha256": "3eee6a3690491095df6a23bdd437d2990cc9cec8c282650879a24bbab0248ac7",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2017-10",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "OCTOBER 2017",
+      "page_count": 23
     },
     {
       "filename": "pms311-79_UASM.pdf",
@@ -910,7 +1240,11 @@
       "sha256": "295ee12c0f395f2b1770807a11bf16583afbb4240fcbec16d0a094f35df36a25",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2025",
+      "page_count": 11
     },
     {
       "filename": "pms311-92_FWPT.pdf",
@@ -924,7 +1258,11 @@
       "sha256": "4d4f87d3369608b818d3e28d569e1d8d94830871de7261a9f7451ce2827b8c38",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2026-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "June 2026",
+      "page_count": 13
     },
     {
       "filename": "pms311-93_ATIM.pdf",
@@ -934,11 +1272,23 @@
       "title": "Aircraft Timekeeper",
       "pms_number": "311-93",
       "format": "unclassified",
-      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-93.pdf?VersionId=FYeNzg5LIhNPDD7S5RthJOUeyaHISO3E",
-      "sha256": "1ddafdbb28f0fa9ba74601fc14b27f4fe0c5a3fffe8f24665421a2484dc0ea9a",
-      "downloaded_at": "2026-07-09",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-93.pdf?VersionId=gGBSiC3qu9FL1voS8Q.gGJ9V3ufgWUK7",
+      "sha256": "ab094ac0886fba932d88973d55d60dfbb5b8acfd325f2aeb8e65899c6420de6f",
+      "downloaded_at": "2026-11-02",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "superseded": [
+        {
+          "sha256": "1ddafdbb28f0fa9ba74601fc14b27f4fe0c5a3fffe8f24665421a2484dc0ea9a",
+          "downloaded_at": "2026-07-09",
+          "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-93.pdf?VersionId=FYeNzg5LIhNPDD7S5RthJOUeyaHISO3E",
+          "edition_date": null
+        }
+      ],
+      "edition_date": "2026-09",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "SEPTEMBER 2026",
+      "page_count": 11
     },
     {
       "filename": "pms311-94_RTCM-MXMS.pdf",
@@ -953,7 +1303,11 @@
       "sha256": "b0da725612999c88d066df36f8a16c9bf636262b2c61a07172b4263c693d52ff",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2019-03",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "MARCH 2019",
+      "page_count": 13
     },
     {
       "filename": "pms311-114_PIO3.pdf",
@@ -967,7 +1321,11 @@
       "sha256": "d0be8f8ecddfb4c694051642d2dc7d6fad4ca4b563c414731b0409547bcb3e98",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2024-12",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "DECEMBER 2024",
+      "page_count": 20
     },
     {
       "filename": "pms311-146_FSCC.pdf",
@@ -981,7 +1339,11 @@
       "sha256": "312967b242a75070f0f3d7d5eada8ab4cf5565b689b98b1344d1727fb8689b45",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2023-01",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JANUARY 2023",
+      "page_count": 12
     },
     {
       "filename": "pms311-133_LSCC.pdf",
@@ -995,7 +1357,11 @@
       "sha256": "978780bdfc96d7d9a562011c58c30a936e5a594b77e21348cabcc0b41de8e47d",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2023-01",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JANUARY 2023",
+      "page_count": 13
     },
     {
       "filename": "pms311-123_PSCC.pdf",
@@ -1009,7 +1375,11 @@
       "sha256": "ffccefa3a7f295df8c9ac075ed9d4685e1b1cc924b68c09d08aae7a371fbeeb2",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2023-01",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JANUARY 2023",
+      "page_count": 15
     },
     {
       "filename": "pms311-108_OSCC.pdf",
@@ -1023,7 +1393,11 @@
       "sha256": "a6d5597576e960aa0abd40c4b4093cc8b8f1b2f7bead9f77855bdffb30090399",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-02",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "FEBRUARY 2025",
+      "page_count": 16
     },
     {
       "filename": "pms311-106_PIOC.pdf",
@@ -1037,7 +1411,11 @@
       "sha256": "2c094855422080a3f385da75ca29149779f53a3b4cc4140cfa4eefcb6d60c30a",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2023-01",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JANUARY 2023",
+      "page_count": 16
     },
     {
       "filename": "pms311-104_SOFC.pdf",
@@ -1051,7 +1429,11 @@
       "sha256": "1d9ba181721e823c43112b4d1cf844630ee530dcd18298db69fed5bc11ac3db7",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2023-01",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JANUARY 2023",
+      "page_count": 16
     },
     {
       "filename": "pms311-101_ICCI.pdf",
@@ -1065,7 +1447,11 @@
       "sha256": "1bbc7e84dc02cedde91ead2175928b35782885ba8c7f617bdb76f4f0c369cdb4",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2023-01",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JANUARY 2023",
+      "page_count": 15
     },
     {
       "filename": "pms311-78_UASP.pdf",
@@ -1079,7 +1465,11 @@
       "sha256": "02ab8ec3124e5f87025457811a0efe370363cf3247c10be2e847d2825f3d080a",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-07",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JULY 2025",
+      "page_count": 12
     },
     {
       "filename": "pms-311-98_CRWB.pdf",
@@ -1093,7 +1483,11 @@
       "sha256": "2d55c139e7dcb3c2ee749926d740f3a3156c6ecf5462a15add3275e2cdfb33b1",
       "downloaded_at": "2026-07-09",
       "fixture": true,
-      "role": "ptb"
+      "role": "ptb",
+      "edition_date": "2024-05",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "MAY 2024",
+      "page_count": 12
     },
     {
       "filename": "pms311-73_RXB1.pdf",
@@ -1107,7 +1501,11 @@
       "sha256": "8e08157d42e3d25a9a756d15a6c4a0ea7cc5c740138bf2c0239db3ba12b74888",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2024-05",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "MAY 2024",
+      "page_count": 18
     },
     {
       "filename": "pms311-109_OPBD.pdf",
@@ -1121,7 +1519,11 @@
       "sha256": "f3c99c5cd068b56533c3d94beea2b09a44cf4ae5d541b3431fc13049796f2e7c",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2024-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2024",
+      "page_count": 14
     },
     {
       "filename": "pms311-81_SOFF.pdf",
@@ -1135,7 +1537,11 @@
       "sha256": "16b94bb410eb284004f7ab0c0f4a8f1d7da7d87b6d295e9388ee427c04ca0554",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2024-07",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JULY 2024",
+      "page_count": 11
     },
     {
       "filename": "pms311-107_FELB.pdf",
@@ -1149,7 +1555,15 @@
       "sha256": "53bda653f3c192944680b7a1d16696b0b658dff89cd65ea61b873e71afaf98f6",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2024-06",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line (catalog Date Published disagrees)",
+      "edition_date_printed": "JUNE 2024",
+      "page_count": 10,
+      "edition_date_conflict": {
+        "catalog": "2024-07",
+        "printed": "JUNE 2024"
+      }
     },
     {
       "filename": "pms311-39_MEDL.pdf",
@@ -1163,7 +1577,11 @@
       "sha256": "09abceb7dbc051c9be0fabb3d4d894e7f5dff0f9290209cd4224d0ca23170f62",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2024-08",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "AUGUST 2024",
+      "page_count": 12
     },
     {
       "filename": "pms311-53_PTRC-PTRC.pdf",
@@ -1177,7 +1595,11 @@
       "sha256": "ab66762a29db84a4bfa430d80ab5b3e17764a112fec0a429f3b24ac96dd4caee",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2024-09",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "SEPTEMBER 2024",
+      "page_count": 10
     },
     {
       "filename": "pms311-115_DMOB.pdf",
@@ -1191,7 +1613,11 @@
       "sha256": "4a5f48382bce5e21e152be21156558099881134135e2c5f74eb9ee496b9c89f2",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-01",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JANUARY 2025",
+      "page_count": 11
     },
     {
       "filename": "pms311-27_RESL.pdf",
@@ -1205,7 +1631,11 @@
       "sha256": "048e8a002ddc5c2d1ae8f0345a6d04c3f792ea4c801f05dacd6326460705a32c",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-01",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JANUARY 2025",
+      "page_count": 11
     },
     {
       "filename": "pms311-119_FAL3.pdf",
@@ -1219,7 +1649,11 @@
       "sha256": "778064273e99244f3f7bfcfa362792832ea31a3ddb74381edd2cefb1be1a6633",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-03",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "MARCH 2025",
+      "page_count": 17
     },
     {
       "filename": "pms311-105_FIRB.pdf",
@@ -1233,7 +1667,11 @@
       "sha256": "9382cd3a51df91010ae56a64c723eaebb91cef3e9d9dc32002d307559261064f",
       "downloaded_at": "2026-07-09",
       "fixture": true,
-      "role": "ptb"
+      "role": "ptb",
+      "edition_date": "2025-03",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "MARCH 2025",
+      "page_count": 10
     },
     {
       "filename": "pms311-125_PROC.pdf",
@@ -1247,7 +1685,11 @@
       "sha256": "f504410106621c465fa0c74612da21dbdf529df3a4bdeb57b71bce48e2a3966a",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2025",
+      "page_count": 10
     },
     {
       "filename": "pms311-126_TIME.pdf",
@@ -1261,7 +1703,11 @@
       "sha256": "1acf25e06a83a8ead5f927963af4d1345ee88710286515916523a773a48e80aa",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2025",
+      "page_count": 10
     },
     {
       "filename": "pms311-116_ICT5.pdf",
@@ -1275,7 +1721,11 @@
       "sha256": "23cb0583a5b7cd74a2a152db76dd0f344b2e96c7147e7f466b23fba613bfdf7f",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2025",
+      "page_count": 11
     },
     {
       "filename": "pms311-122_FWBM.pdf",
@@ -1289,7 +1739,11 @@
       "sha256": "8aa9f1742a8eb2c3c400b3cab5c0b9344c8bf95857e6b35423969fada4c3fe73",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2025",
+      "page_count": 11
     },
     {
       "filename": "pms311-121_ATBM.pdf",
@@ -1303,7 +1757,11 @@
       "sha256": "473f618082cad64322fc0e61032b44578d34ca1edd194d419585986be95c50a3",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2025",
+      "page_count": 11
     },
     {
       "filename": "pms311-128_UASL.pdf",
@@ -1317,7 +1775,11 @@
       "sha256": "980971647d7b3a90beedc0429baee512161735a249793c037545e2d9343fde92",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-06",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JUNE 2025",
+      "page_count": 11
     },
     {
       "filename": "pms311-127_UASD.pdf",
@@ -1331,7 +1793,11 @@
       "sha256": "70030c43615bc1f041e4016a64023dad1d0f3c2c679966aa84d35cbfccb2534c",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-07",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JULY 2025",
+      "page_count": 11
     },
     {
       "filename": "pms311-124_LTAN.pdf",
@@ -1345,7 +1811,29 @@
       "sha256": "799f44229f8f6a9c008368f6243d41a99c40720c853ed3b37540cc03a50f7fd5",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2025-07",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JULY 2025",
+      "page_count": 11
+    },
+    {
+      "filename": "pms311-112_REAF.pdf",
+      "position_codes": [
+        "REAF"
+      ],
+      "title": "Resource Advisor, Fireline",
+      "pms_number": "311-112",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-112.pdf?VersionId=jdf1Euv5eaelJ9vm4DLgpXDWxd8sELGr",
+      "sha256": "6c1ec4a965b32649ddf6acab3812158bd918504eb43c67683de8ca7616d5744f",
+      "downloaded_at": "2026-11-02",
+      "role": "ptb",
+      "fixture": false,
+      "edition_date": "2025-07",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JULY 2025",
+      "page_count": 11
     },
     {
       "filename": "pms311-103_ENGB.pdf",
@@ -1359,7 +1847,11 @@
       "sha256": "2a55990446a79664a755b1be5a068003410e93e3c0dc45dc1f4b67a1f1d4d92a",
       "downloaded_at": "2026-07-09",
       "fixture": true,
-      "role": "ptb"
+      "role": "ptb",
+      "edition_date": "2026-01",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "JANUARY 2026",
+      "page_count": 11
     },
     {
       "filename": "pms311-118_FAL1.pdf",
@@ -1373,7 +1865,11 @@
       "sha256": "ce145192c6e4dce91368b0f3a82a9c7b20ed4c353b05cf763051bdb9806b9d38",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2026-03",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "MARCH 2026",
+      "page_count": 18
     },
     {
       "filename": "pms311-117_RAMP.pdf",
@@ -1387,7 +1883,29 @@
       "sha256": "7e842a8198b05db0d0025154efe0d79335826aca6a639457647c44f7df99a053",
       "downloaded_at": "2026-07-09",
       "role": "ptb",
-      "fixture": false
+      "fixture": false,
+      "edition_date": "2026-05",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "MAY 2026",
+      "page_count": 11
+    },
+    {
+      "filename": "pms311-71_FEMO.pdf",
+      "position_codes": [
+        "FEMO"
+      ],
+      "title": "Fire Effects Monitor",
+      "pms_number": "311-71",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms311-71.pdf?VersionId=zJOVw2ekjWSwEoiIkXticDbmOOS4.7YW",
+      "sha256": "b7bff5ef9daf5c6282f4cc26a54b42020722c3871773cbd0dd79d5156edc6065",
+      "downloaded_at": "2026-11-02",
+      "role": "ptb",
+      "fixture": false,
+      "edition_date": "2026-09",
+      "edition_date_source": "catalog Date Published",
+      "edition_date_printed": "SEPTEMBER 2026",
+      "page_count": 10
     },
     {
       "filename": "pms350-08.pdf",
@@ -1403,7 +1921,11 @@
       "linked_ptb_pms": [
         "311-108",
         "311-109"
-      ]
+      ],
+      "edition_date": "2022-08",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "AUGUST 2022",
+      "page_count": 33
     },
     {
       "filename": "pms350-103.pdf",
@@ -1418,7 +1940,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-103"
-      ]
+      ],
+      "edition_date": "2026-01",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JANUARY 2026",
+      "page_count": 21
     },
     {
       "filename": "pms350-105.pdf",
@@ -1433,7 +1959,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-105"
-      ]
+      ],
+      "edition_date": "2025-03",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "MARCH 2025",
+      "page_count": 21
     },
     {
       "filename": "pms350-107.pdf",
@@ -1448,7 +1978,30 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-107"
-      ]
+      ],
+      "edition_date": "2024-06",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JUNE 2024",
+      "page_count": 14
+    },
+    {
+      "filename": "pms350-112.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-112",
+      "pms_number": "350-112",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-112.pdf?VersionId=P1PbqJaWMITwJq96iiWvzSNa0KuVDR1s",
+      "sha256": "eaebaa8c4dba03f28a1e46947ab34d43eb4d62d4652951754fc35953d7d927c3",
+      "downloaded_at": "2026-11-02",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-112"
+      ],
+      "edition_date": "2025-07",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JULY 2025",
+      "page_count": 22
     },
     {
       "filename": "pms350-115.pdf",
@@ -1463,7 +2016,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-115"
-      ]
+      ],
+      "edition_date": "2025-01",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JANUARY 2025",
+      "page_count": 17
     },
     {
       "filename": "pms350-116.pdf",
@@ -1478,7 +2035,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-116"
-      ]
+      ],
+      "edition_date": "2025-06",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JUNE 2025",
+      "page_count": 17
     },
     {
       "filename": "pms350-117.pdf",
@@ -1493,7 +2054,30 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-117"
-      ]
+      ],
+      "edition_date": "2026-05",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "MAY 2026",
+      "page_count": 22
+    },
+    {
+      "filename": "pms350-12.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-12",
+      "pms_number": "350-12",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-12.pdf?VersionId=UvmyuQJ1NX1mFNGimPQ3Q0RPV8dbgtGX",
+      "sha256": "13a8e3396f4806352395f84eccc2571d44eb894b52d8a8e0d1a21163c65d0cfb",
+      "downloaded_at": "2026-11-02",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-12"
+      ],
+      "edition_date": "2026-09",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "SEPTEMBER 2026",
+      "page_count": 21
     },
     {
       "filename": "pms350-121.pdf",
@@ -1508,7 +2092,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-121"
-      ]
+      ],
+      "edition_date": "2025-07",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JULY 2025",
+      "page_count": 28
     },
     {
       "filename": "pms350-122.pdf",
@@ -1523,7 +2111,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-122"
-      ]
+      ],
+      "edition_date": "2025-07",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JULY 2025",
+      "page_count": 26
     },
     {
       "filename": "pms350-124.pdf",
@@ -1538,7 +2130,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-124"
-      ]
+      ],
+      "edition_date": "2025-07",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JULY 2025",
+      "page_count": 20
     },
     {
       "filename": "pms350-125.pdf",
@@ -1553,7 +2149,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-125"
-      ]
+      ],
+      "edition_date": "2025-07",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JULY 2025",
+      "page_count": 19
     },
     {
       "filename": "pms350-126.pdf",
@@ -1568,7 +2168,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-126"
-      ]
+      ],
+      "edition_date": "2025-07",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JULY 2025",
+      "page_count": 18
     },
     {
       "filename": "pms350-127.pdf",
@@ -1583,7 +2187,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-127"
-      ]
+      ],
+      "edition_date": "2025-07",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JULY 2025",
+      "page_count": 25
     },
     {
       "filename": "pms350-128.pdf",
@@ -1598,7 +2206,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-128"
-      ]
+      ],
+      "edition_date": "2025-06",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JUNE 2025",
+      "page_count": 27
     },
     {
       "filename": "pms350-14.pdf",
@@ -1613,7 +2225,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-14"
-      ]
+      ],
+      "edition_date": "2025-06",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JUNE 2025",
+      "page_count": 19
     },
     {
       "filename": "pms350-22.pdf",
@@ -1628,7 +2244,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-22"
-      ]
+      ],
+      "edition_date": "2025-03",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "MARCH 2025",
+      "page_count": 28
     },
     {
       "filename": "pms350-25.pdf",
@@ -1643,7 +2263,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-25"
-      ]
+      ],
+      "edition_date": "2024-11",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "NOVEMBER 2024",
+      "page_count": 20
     },
     {
       "filename": "pms350-27.pdf",
@@ -1658,7 +2282,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-27"
-      ]
+      ],
+      "edition_date": "2025-01",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JANUARY 2025",
+      "page_count": 18
     },
     {
       "filename": "pms350-29.pdf",
@@ -1673,7 +2301,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-29"
-      ]
+      ],
+      "edition_date": "2025-07",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JULY 2025",
+      "page_count": 22
     },
     {
       "filename": "pms350-32.pdf",
@@ -1688,7 +2320,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-32"
-      ]
+      ],
+      "edition_date": "2024-07",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JULY 2024",
+      "page_count": 22
     },
     {
       "filename": "pms350-39.pdf",
@@ -1703,7 +2339,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-39"
-      ]
+      ],
+      "edition_date": "2024-08",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "AUGUST 2024",
+      "page_count": 45
     },
     {
       "filename": "pms350-41.pdf",
@@ -1718,7 +2358,87 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-41"
-      ]
+      ],
+      "edition_date": "2025-07",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JULY 2025",
+      "page_count": 19
+    },
+    {
+      "filename": "pms350-43.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-43",
+      "pms_number": "350-43",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-43.pdf?VersionId=VGE6aJ35M_agnA_vTo5vio4SiPpo_x4I",
+      "sha256": "3ca6bf36c20cc0aac8886738da5e4955584313b3b42d514613481d7b40e69d47",
+      "downloaded_at": "2026-11-02",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-43"
+      ],
+      "edition_date": "2026-09",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "SEPTEMBER 2026",
+      "page_count": 18
+    },
+    {
+      "filename": "pms350-44.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-44",
+      "pms_number": "350-44",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-44.pdf?VersionId=W5nY_40WarvNqD1DjRq7NJGkpowfksQc",
+      "sha256": "05a2a768523653feca57e02e485c960152c47f715add6d39df8b63d8a3e27a82",
+      "downloaded_at": "2026-11-02",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-44"
+      ],
+      "edition_date": "2026-09",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "SEPTEMBER 2026",
+      "page_count": 25
+    },
+    {
+      "filename": "pms350-47.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-47",
+      "pms_number": "350-47",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-47.pdf?VersionId=ga8oo3Q9.CTbvUNlgeqQgE614x_L_RpC",
+      "sha256": "26c88abaab491fc8e1e75add458eaa1e7b1bbec102c056ef98b0185b74563e39",
+      "downloaded_at": "2026-11-02",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-47"
+      ],
+      "edition_date": "2026-09",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "SEPTEMBER 2026",
+      "page_count": 21
+    },
+    {
+      "filename": "pms350-48.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-48",
+      "pms_number": "350-48",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-48.pdf?VersionId=dvwyOsAnSeuD3nBqs6HPdqiQcv7E94K7",
+      "sha256": "704e07dab8170e6c5fd600f7e52fab9f956c094d2cb5bd74dd26e11c77a4e8b7",
+      "downloaded_at": "2026-11-02",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-48"
+      ],
+      "edition_date": "2026-09",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "SEPTEMBER 2026",
+      "page_count": 21
     },
     {
       "filename": "pms350-51.pdf",
@@ -1733,7 +2453,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-51"
-      ]
+      ],
+      "edition_date": "2024-09",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "SEPTEMBER 2024",
+      "page_count": 19
     },
     {
       "filename": "pms350-53.pdf",
@@ -1748,7 +2472,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-53"
-      ]
+      ],
+      "edition_date": "2024-09",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "SEPTEMBER 2024",
+      "page_count": 17
     },
     {
       "filename": "pms350-56.pdf",
@@ -1763,7 +2491,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-56"
-      ]
+      ],
+      "edition_date": "2024-11",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "NOVEMBER 2024",
+      "page_count": 22
     },
     {
       "filename": "pms350-57.pdf",
@@ -1778,7 +2510,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-57"
-      ]
+      ],
+      "edition_date": "2024-11",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "NOVEMBER 2024",
+      "page_count": 20
     },
     {
       "filename": "pms350-58.pdf",
@@ -1793,7 +2529,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-58"
-      ]
+      ],
+      "edition_date": "2024-10",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "OCTOBER 2024",
+      "page_count": 19
     },
     {
       "filename": "pms350-60.pdf",
@@ -1808,7 +2548,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-60"
-      ]
+      ],
+      "edition_date": "2025-01",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JANUARY 2025",
+      "page_count": 18
     },
     {
       "filename": "pms350-67.pdf",
@@ -1823,7 +2567,30 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-67"
-      ]
+      ],
+      "edition_date": "2025-03",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "MARCH 2025",
+      "page_count": 21
+    },
+    {
+      "filename": "pms350-71.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-71",
+      "pms_number": "350-71",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-71.pdf?VersionId=.9RZaam61FCW9i5JCekNoOtroFShtiuo",
+      "sha256": "de354fc7e3aff0d16cc43603bf406e8e2ed9da3515c80a2fbc15f6be896f696a",
+      "downloaded_at": "2026-11-02",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-71"
+      ],
+      "edition_date": "2026-09",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "SEPTEMBER 2026",
+      "page_count": 20
     },
     {
       "filename": "pms350-74.pdf",
@@ -1838,7 +2605,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-74"
-      ]
+      ],
+      "edition_date": "2024-05",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "MAY 2024",
+      "page_count": 50
     },
     {
       "filename": "pms350-78.pdf",
@@ -1853,7 +2624,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-78"
-      ]
+      ],
+      "edition_date": "2025-07",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JULY 2025",
+      "page_count": 36
     },
     {
       "filename": "pms350-79.pdf",
@@ -1868,7 +2643,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-79"
-      ]
+      ],
+      "edition_date": "2025-06",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JUNE 2025",
+      "page_count": 27
     },
     {
       "filename": "pms350-81.pdf",
@@ -1883,7 +2662,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-81"
-      ]
+      ],
+      "edition_date": "2024-07",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JULY 2024",
+      "page_count": 28
     },
     {
       "filename": "pms350-87.pdf",
@@ -1898,7 +2681,30 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-87"
-      ]
+      ],
+      "edition_date": "2024-06",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JUNE 2024",
+      "page_count": 20
+    },
+    {
+      "filename": "pms350-93.pdf",
+      "position_codes": [],
+      "title": "NWCG Incident Position Standards, PMS 350-93",
+      "pms_number": "350-93",
+      "format": "unclassified",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/publication/pms350-93.pdf?VersionId=hxlPT8T4m5D2pn78tPAF0IRFDfYTYHQe",
+      "sha256": "52d4236af3daa81dd69d29af9fbd39ab9ef21dac12bd64db73109cf75142d94e",
+      "downloaded_at": "2026-11-02",
+      "role": "companion_standards",
+      "fixture": false,
+      "linked_ptb_pms": [
+        "311-93"
+      ],
+      "edition_date": "2026-09",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "SEPTEMBER 2026",
+      "page_count": 19
     },
     {
       "filename": "pms350-97.pdf",
@@ -1913,7 +2719,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-97"
-      ]
+      ],
+      "edition_date": "2025-07",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "JULY 2025",
+      "page_count": 15
     },
     {
       "filename": "pms350-98.pdf",
@@ -1928,7 +2738,11 @@
       "fixture": false,
       "linked_ptb_pms": [
         "311-98"
-      ]
+      ],
+      "edition_date": "2024-05",
+      "edition_date_source": "pdf page-1 'PMS <n> <Month YYYY>' line",
+      "edition_date_printed": "MAY 2024",
+      "page_count": 36
     },
     {
       "filename": "enhanced_ptbs_gdoc.pdf",
@@ -1947,13 +2761,24 @@
       ],
       "title": "FireTech Position Task Books (NWCG-format drafts, 11 positions; codes without a printed abbreviation assigned provisionally)",
       "pms_number": null,
-      "format": "enhanced_gdoc",
+      "format": "unclassified",
       "url": "https://docs.google.com/document/d/1rVGMJR67eftCjEcaoQuYDNBleoM7EOI9/export?format=pdf",
-      "sha256": "0b2f100438d1ec14b6441e10eccc2843d350ee745d4591d176dde1f8df1e0677",
-      "downloaded_at": "2026-07-09",
-      "official": false,
+      "sha256": "45df279d3e3dae23fdeeff48602cb2b0046c1deb64d706cdf10f55c3df43c161",
+      "downloaded_at": "2026-11-02",
+      "role": "ptb",
       "fixture": true,
-      "role": "ptb"
+      "superseded": [
+        {
+          "sha256": "0b2f100438d1ec14b6441e10eccc2843d350ee745d4591d176dde1f8df1e0677",
+          "downloaded_at": "2026-07-09",
+          "url": "https://docs.google.com/document/d/1rVGMJR67eftCjEcaoQuYDNBleoM7EOI9/export?format=pdf",
+          "edition_date": null
+        }
+      ],
+      "official": false,
+      "edition_date": "2026-06-22",
+      "edition_date_source": "docx core-properties modified (same Google Doc)",
+      "page_count": 25
     },
     {
       "filename": "enhanced_ptbs_gdoc.docx",
@@ -1978,7 +2803,9 @@
       "downloaded_at": "2026-07-09",
       "official": false,
       "fixture": true,
-      "role": "ptb"
+      "role": "ptb",
+      "edition_date": "2026-06-22",
+      "edition_date_source": "docx core-properties modified (same Google Doc)"
     },
     {
       "filename": "requirements/FAL1.html",
@@ -1989,10 +2816,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/advanced-faller/qualification-requirements",
-      "sha256": "235a5a1382b17aab30ed4bf5adf2302767a4d8c7d871b8fb996d50d54da8023c",
-      "downloaded_at": "2026-07-09",
+      "sha256": "757174f48a3c250bd4a0930f1ef6951175cde1ffcab94db2c94b9b7baf1ba081",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/AREP.html",
@@ -2003,10 +2832,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/agency-representative/qualification-requirements",
-      "sha256": "9249105a2171aebdf2db8b588ad8b5848722cd2b29fd8189458652a379aa3907",
-      "downloaded_at": "2026-07-09",
+      "sha256": "c462197b06c59707b9e2927b1fe80aa230d1e7bcff9b9ee7032dea706ee66908",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/AOBD.html",
@@ -2017,10 +2848,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/air-operations-branch-director/qualification-requirements",
-      "sha256": "31a6443736283a47fe6b98368bddedf2b2aae69728dbc7748ecc848af2e99262",
-      "downloaded_at": "2026-07-09",
+      "sha256": "f43ee4053b3c8a8a42655e5cc08898bcb149fee5f062f96d26f5f22fe2385de1",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/ASGS.html",
@@ -2031,10 +2864,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/air-support-group-supervisor/qualification-requirements",
-      "sha256": "6b463621cd35f63a131d76a0a1ac76571afcacfbee3f62000196cbaa8a6f9736",
-      "downloaded_at": "2026-07-09",
+      "sha256": "656d3656cbf0e93f706f65fcc848fd61dcf2ad28ef6478e3d4e5eb9b3ed988aa",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/ATGS.html",
@@ -2045,10 +2880,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/air-tactical-group-supervisor/qualification-requirements",
-      "sha256": "323f0c741fe5bbc9e9a3690d2702680aa09e70ec0d85262a42be5a3df7bd6914",
-      "downloaded_at": "2026-07-09",
+      "sha256": "11f09f05bd3ece70781b067f250ded6704aae511c465efa868801d88a605c5c0",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/ABRO.html",
@@ -2059,10 +2896,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/aircraft-base-radio-operator/qualification-requirements",
-      "sha256": "c6c6fa1d3d64e59f5cefb7c877f508828cabd11a2e8753fb8af118faa2504bf3",
-      "downloaded_at": "2026-07-09",
+      "sha256": "d54d009d2ec6870aba4ef581c53992d2ff38d3e271964ee3a81e21e2495276b7",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/ACDP.html",
@@ -2073,10 +2912,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/aircraft-dispatcher/qualification-requirements",
-      "sha256": "1a8d8aef80c6f38ec194d42f4c4a6654be6643220b678464c2870c5441f73549",
-      "downloaded_at": "2026-07-09",
+      "sha256": "db1380895b868318563c61113f7cf76560bc41b776c5181c91c5430ba1e3b21b",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/ATIM.html",
@@ -2087,10 +2928,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/aircraft-timekeeper/qualification-requirements",
-      "sha256": "88c4568937fffd54197a49f2f58ea2a41b5d7d1dab9aa9d5d6b0ab42936b196c",
-      "downloaded_at": "2026-07-09",
+      "sha256": "5607cb9883c1073d00f228f020b546f86919c3aac016b1b01dd379d804b34da5",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/ATBM.html",
@@ -2101,10 +2944,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/airtanker-base-manager/qualification-requirements",
-      "sha256": "88089ad055918f3bfde157199970279ff9a25953783c121cb7bf1364cc86c1a1",
-      "downloaded_at": "2026-07-09",
+      "sha256": "828467dea6b5e8609f47d75022454f749510ed39e52a5b0a646ba73c9ad9cf91",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/ACAC.html",
@@ -2115,10 +2960,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/area-command-aviation-coordinator/qualification-requirements",
-      "sha256": "a9e84495b5a0ac73f689891905b75edb17babc2d03cd97f9fe45bd1cba8f70b4",
-      "downloaded_at": "2026-07-09",
+      "sha256": "ce44cd9d36a7f04f49ade6c722eca13b3fa0a75e5c1c8b1af8bc6050e8cb497c",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/ACDR.html",
@@ -2129,10 +2976,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/area-commander/qualification-requirements",
-      "sha256": "37930561d3a6adb5e01c48519ea5bc40f7f63529438a297ccad3b40ab63f5d10",
-      "downloaded_at": "2026-07-09",
+      "sha256": "87f018d65705ee490ed704829c464dbdb90daac34509842f52bc924c1e2e1b39",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/ACLC.html",
@@ -2143,10 +2992,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/assistant-area-commander-logistics/qualification-requirements",
-      "sha256": "f1c4148ddc38d6015b524f1143c90271fe40d78baa63ff523f90848eded6c149",
-      "downloaded_at": "2026-07-09",
+      "sha256": "1df3c9f37bf144cd0a9bc3da3f3ade25aebdde81f819d33a7adef33335109f60",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/ACPC.html",
@@ -2157,10 +3008,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/assistant-area-commander-planning/qualification-requirements",
-      "sha256": "d151626cee06bce95618845d78e230e5710dcfcb10d8b67fd93fa46fcb2647ee",
-      "downloaded_at": "2026-07-09",
+      "sha256": "ba17a4587c7ba394f6cbe1be54a3e39f0b333bdbd1ae87f6a5bbf23e4645bbac",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/BCMG.html",
@@ -2171,10 +3024,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/base-camp-manager/qualification-requirements",
-      "sha256": "ea75bfedd10158b49c89e606d6b4a0041c0a29da29cf33d450ffa52fbccf2079",
-      "downloaded_at": "2026-07-09",
+      "sha256": "52673595d2d1c9f914eaea43efbe6b7013dab1beee749ca9f778234f180b9722",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/FAL3.html",
@@ -2185,10 +3040,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/basic-faller/qualification-requirements",
-      "sha256": "4ab11aa091fa74bf48d4320f83b7c7563aeaac0a946aa8929aa9c4205cc09a04",
-      "downloaded_at": "2026-07-09",
+      "sha256": "23e71eae24400e1527cc8ad8be101e84710c439a45373f53add8ac3f8fe3f239",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/COML.html",
@@ -2199,10 +3056,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/communications-unit-leader/qualification-requirements",
-      "sha256": "65854fd3e68e81441bf1f84d2a2fb0253dfb65cacefe41188fe2201ad5a91b23",
-      "downloaded_at": "2026-07-09",
+      "sha256": "3bd22538eea143b340c74cbce6ac62f3affdb3bf4bfeacae91de6f40355e7ffe",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/COMP.html",
@@ -2213,10 +3072,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/compensation-claims-unit-leader/qualification-requirements",
-      "sha256": "59beba1ba4446417ac86cab317a14973a8adffb63cd50655ab377506963458fe",
-      "downloaded_at": "2026-07-09",
+      "sha256": "e77b73e6de24b6a44c9f7ba3f70abdbd301f8f877d448612594476d2031266b0",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/COST.html",
@@ -2227,10 +3088,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/cost-unit-leader/qualification-requirements",
-      "sha256": "e86fc0162e2446872f4246937898ea4ba8465057161824d4120630a0b2075cb0",
-      "downloaded_at": "2026-07-09",
+      "sha256": "3f1ba500a04992385188a08131e1c908b558141acaf939ffd4b00e2021e4ba03",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/CRWB.html",
@@ -2241,10 +3104,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/crew-boss-single-resource/qualification-requirements",
-      "sha256": "78c87598ff9efe12c0311ec4e4bb6d715493454943753ddab29fe5af4515d470",
-      "downloaded_at": "2026-07-09",
+      "sha256": "ca3b95bc9dbff2782affc207b41713bddfcd1d3c94d0393f9dc63005dbbfb0bf",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/CREP.html",
@@ -2255,10 +3120,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/crew-representative/qualification-requirements",
-      "sha256": "7ee9f09f9f2ecbaa440dc86cad705dc8d3ff9ef95a63bf48de0bb448ac0156c3",
-      "downloaded_at": "2026-07-09",
+      "sha256": "d15d43e2d162c563e80dcb3db48bb0e3a29f8a3bba743b8bbaf96e4fbd63a91c",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/DECK.html",
@@ -2269,10 +3136,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/deck-coordinator/qualification-requirements",
-      "sha256": "28e46d81b9e24b973652ae03a29d35e6f81f6ca1b0b77a4a223fed4d8a393192",
-      "downloaded_at": "2026-07-09",
+      "sha256": "1037e8a43252c63f6a352c980d10a004289d1bd88dd77ec270a05edfa4895be6",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/DMOB.html",
@@ -2283,10 +3152,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/demobilization-unit-leader/qualification-requirements",
-      "sha256": "3652bb2b7c6db0acadea9c7176b27be7593fea7189bdb705eb19d1c97011734b",
-      "downloaded_at": "2026-07-09",
+      "sha256": "8d2ac5ff101dd9a082bcd0594a944528d2b6e83ea06a03aaedeb68617655dea4",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/DPRO.html",
@@ -2297,10 +3168,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/display-processor/qualification-requirements",
-      "sha256": "85c941bbf36c2532199b66e82cb6a11ccad20b32e5d59ecb2d47b93e3044bdac",
-      "downloaded_at": "2026-07-09",
+      "sha256": "01aa5e8db4d142f50d27e960cff8c0dc4dcf3ba85677118d8120d5d99293c9e6",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/DIVS.html",
@@ -2311,10 +3184,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/division-group-supervisor/qualification-requirements",
-      "sha256": "580ff703d4937faa94dafd0f3276a8d124773f3c23f848fecdc86f377adc9846",
-      "downloaded_at": "2026-07-09",
+      "sha256": "f45030b2d09a90813395e237b70e3c62fe6be8e0a09b0de906a1320bf1b302a1",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/DOCL.html",
@@ -2325,10 +3200,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/documentation-unit-leader/qualification-requirements",
-      "sha256": "9a3a1ac3da20c7cc1fdc0978606d84674eda70ff93fbb61713a4c2882a01efae",
-      "downloaded_at": "2026-07-09",
+      "sha256": "6cebbd28613dbc6e152dc901c77bccf1548787987afc5752cb0c8568b643a4a4",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/ENGB.html",
@@ -2339,10 +3216,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/engine-boss-single-resource/qualification-requirements",
-      "sha256": "a4e4cb39d69b3000dc2ea73a3d87e3ad80019314b38db6581d5df2ec554564bf",
-      "downloaded_at": "2026-07-09",
+      "sha256": "6185feffda41339e4a75c67ceca60ab7fab0b4df0ca218829081851125d796b7",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/EQPM.html",
@@ -2353,10 +3232,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/equipment-manager/qualification-requirements",
-      "sha256": "dd3ef657a35c0e879d384ffdc1d3deac23b7cd559ec5f4ab11929ef1245daa90",
-      "downloaded_at": "2026-07-09",
+      "sha256": "cce48dcc799166fef76c6a6db713caf7aa1e303a9f35e0ed0142550c13dfd5b7",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/EQTR.html",
@@ -2367,10 +3248,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/equipment-time-recorder/qualification-requirements",
-      "sha256": "b5747a46191a5903486f0dd184515f178e91ff22e47703c6eeae40353c2f4907",
-      "downloaded_at": "2026-07-09",
+      "sha256": "72667005483d67ca8b18e6a5ea61f984c144ff0964456e9ee1ded62a31c67353",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/CORD.html",
@@ -2381,10 +3264,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/expanded-dispatch-coordinator/qualification-requirements",
-      "sha256": "607b62d1e95373b89f2008cb9c44ce1631de8017b9ea54165e2cad1ff775c211",
-      "downloaded_at": "2026-07-09",
+      "sha256": "29600811f2b57060db0a59cbdb94ea82c8a5dee479942785e5b076a930201a70",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/EDRC.html",
@@ -2395,10 +3280,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/expanded-dispatch-recorder/qualification-requirements",
-      "sha256": "a991081ef68d4b6ba8f3aaa6db2e2c210ab5fb53f73aee5f445b9239f0e33d14",
-      "downloaded_at": "2026-07-09",
+      "sha256": "c9a6290b3cd91b9a01ec7d129d7ffc82924a69c2e740cbc611ec8b88e0708e6a",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/EDSP.html",
@@ -2409,10 +3296,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/expanded-dispatch-supervisory-dispatcher/qualification-requirements",
-      "sha256": "c06073b1cd82970b227a65f415e5af242e5bb74427ea0b4a69e5bb36b8dd4ee8",
-      "downloaded_at": "2026-07-09",
+      "sha256": "60125fe7d4374954a8169803920570a860762432bef1cabb5c88e9f27f70d683",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/EDSD.html",
@@ -2423,10 +3312,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/expanded-dispatch-support-dispatcher/qualification-requirements",
-      "sha256": "c494ea480f04461f2d721bd223bde001c1806941ed52e56e04d2652c4e984b46",
-      "downloaded_at": "2026-07-09",
+      "sha256": "a3e6423ac4a8954d5c0f837ac94f8578124a81b8c391d3baed62cf624decf5cf",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/FACL.html",
@@ -2437,10 +3328,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/facilities-unit-leader/qualification-requirements",
-      "sha256": "2849fc733df0addc3f5d38d6c0a8eef2ee60ee8e687b58d22f24c1efc5297b9a",
-      "downloaded_at": "2026-07-09",
+      "sha256": "9a8a94e20637855d18bfa0f0563fb69b210c29f90497955d32fc86445da5a2b7",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/FELB.html",
@@ -2451,10 +3344,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/felling-boss-single-resource/qualification-requirements",
-      "sha256": "a82bb0ff54806fa46cc3209caacf1ac25a07bd6072b7bb20e8c869257f2d23ee",
-      "downloaded_at": "2026-07-09",
+      "sha256": "1bfb5803c7bc466fe6eee2390ec006f376520f882f1ca4d2e320f7f60890e04f",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/FOBS.html",
@@ -2465,10 +3360,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/field-observer/qualification-requirements",
-      "sha256": "5c068ca9cb74ca821b10ab9b903369459a8e1d713111370d6d239a7ba87a73ee",
-      "downloaded_at": "2026-07-09",
+      "sha256": "00b8cdd3b5c7b28d805eeca0a6c8d190556fa1bc4b8732afa39ee66034231dc4",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/FSCC.html",
@@ -2479,10 +3376,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/financeadministration-section-chief-complex/qualification-requirements",
-      "sha256": "dce1b65ff3883f3f4508c8e031a4818161bf87af5f7b2b741c98a7efa69f0a6a",
-      "downloaded_at": "2026-07-09",
+      "sha256": "561f5c57a5b649672d2c3b0ebc151e24ddc738af0df782f21795fa117e90fc74",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/FSC3.html",
@@ -2493,10 +3392,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/finance-administration-section-chief-type-3/qualification-requirements",
-      "sha256": "5c2c593d01e1db9ea3f7324d15288cde7ec09fad61ed8a236b03fcc6a8106a9b",
-      "downloaded_at": "2026-07-09",
+      "sha256": "09c027cabe37fb128c939b34a3b727ef2e5a83b92e074e586bc19f422a7ee366",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/FBAN.html",
@@ -2507,10 +3408,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/fire-behavior-analyst/qualification-requirements",
-      "sha256": "22e4fb4460bb8ae68a30183dd97d215e54c0b75f649f38c7e7552115ba7717be",
-      "downloaded_at": "2026-07-09",
+      "sha256": "36e1a94ba4d6d63d111aaedee152295319c436d75f1032b60b9f0f11d73af110",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/FEMO.html",
@@ -2521,10 +3424,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/fire-effects-monitor/qualification-requirements",
-      "sha256": "e7447d14c1e4cfc92a67229a78c5ba6e594a654e50a3effb28fca7ad4b4722ac",
-      "downloaded_at": "2026-07-09",
+      "sha256": "e0ef5ffcf48acb71b54dd78e15f4a815bb647a3df47ad9c154fbbca44313471f",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/PETL.html",
@@ -2535,10 +3440,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/fire-prevention-education-team-leader/qualification-requirements",
-      "sha256": "b0db6fb0994c8ab07179368ce2f317f1439e3138cc1f327933680a550d75308b",
-      "downloaded_at": "2026-07-09",
+      "sha256": "14764a433d5da24c16b5ea0bcc791357b645ee60d31453231f260622995e72ae",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/PETM.html",
@@ -2549,10 +3456,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/fire-prevention-education-team-member/qualification-requirements",
-      "sha256": "9ebd15ac3fb54c2cd2f430370929d6a83a617467d91e4f0815256eeb1fe3f3db",
-      "downloaded_at": "2026-07-09",
+      "sha256": "656254c86f8d7bd5ec53d12cb742d9dbf5b7ba7761a966ab18c2f76cf0d56f61",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/FFT1.html",
@@ -2563,10 +3472,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/firefighter-type-1-squad-boss/qualification-requirements",
-      "sha256": "60ed0ac6f0f194e77edb2ad692d015ec351329980ef656c9d71b174e24facdfe",
-      "downloaded_at": "2026-07-09",
+      "sha256": "8d7589fcb45f0f441302b418345b9e7ea8b4359668eaab28633258a871617420",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/FFT2.html",
@@ -2577,10 +3488,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/firefighter-type-2-crewmember/qualification-requirements",
-      "sha256": "cad73e0873cf236dbfd3c0ff3f370f9bca47b0e83e2ba3e4dbe191c5957faa60",
-      "downloaded_at": "2026-07-09",
+      "sha256": "a306b8d3e481332a990c933aacf6153a5084995499393e168cbb572bc1ed6479",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/FIRB.html",
@@ -2591,10 +3504,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/firing-boss-single-resource/qualification-requirements",
-      "sha256": "5b3f06217a5f3ed9c3a293372effab38f44f6ee1f191c73d5107b0b49deaa28a",
-      "downloaded_at": "2026-07-09",
+      "sha256": "b7f4234098ae4f5185d136352c1bdf8f06184996f30a3a6cf6f62641404832cf",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/FWBM.html",
@@ -2605,10 +3520,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/fixed-wing-base-manager/qualification-requirements",
-      "sha256": "a06c5c5fa1c389d443e6cffaa33039964d6796d37bef055b1f6ae1b9b9dca08e",
-      "downloaded_at": "2026-07-09",
+      "sha256": "5e49167706cdf18b96c3cfad3e7c937932a04f29678682b8d63139339ef19422",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/FWPT.html",
@@ -2619,10 +3536,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/fixed-wing-parking-tender/qualification-requirements",
-      "sha256": "e470c2c68e59d924bab8b0b54ff68c02faee4bab630e28dcc221d90f2df5ceb1",
-      "downloaded_at": "2026-07-09",
+      "sha256": "f00a6640e500cf7de8a15bd78386c05f658b377045af9c41f9e7ae86089c4e69",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/FDUL.html",
@@ -2633,10 +3552,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/food-unit-leader/qualification-requirements",
-      "sha256": "7d6e992cdf792466136e489028c6e06c1e334ee7832d969f02a7efc7c229d723",
-      "downloaded_at": "2026-07-09",
+      "sha256": "34f333046ff4986d464cc9f08079891ebd8fc0b7404bd9dd946f776ae86c2471",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/GISS.html",
@@ -2647,10 +3568,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/geographic-information-system-specialist/qualification-requirements",
-      "sha256": "02000def81baac8eaed509de073b4bb90ffe938b70c69ddc17481f6132c012e5",
-      "downloaded_at": "2026-07-09",
+      "sha256": "91a46d4591a8ee8492ff40d335b95a657b0867fc2b34012ea301a6d2810d28a6",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/GSUL.html",
@@ -2661,10 +3584,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/ground-support-unit-leader/qualification-requirements",
-      "sha256": "6ec766d4c5e505d7319edd479166da32e692d2823a99ac9d1dc73449fb3d3a66",
-      "downloaded_at": "2026-07-09",
+      "sha256": "88601b696a96aeb31ff40b75a24fb95ca800bfe1ddb59c8ad0d1479f244c0d80",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/HEQB.html",
@@ -2675,10 +3600,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/heavy-equipment-boss-single-resource/qualification-requirements",
-      "sha256": "4fd9c59186394756963d989710d64a2e0775916afded73e4d54902b836f48ac4",
-      "downloaded_at": "2026-07-09",
+      "sha256": "55b832d0bd5c4b10116e38476796cdad60945bf9340e243093731368f4c7f7a9",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/HEBM.html",
@@ -2689,10 +3616,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/helibase-manager/qualification-requirements",
-      "sha256": "a9522663601b7e9b1fd5352adf3f98c03c4cdd292544b2ad0a40fe132d9abeee",
-      "downloaded_at": "2026-07-09",
+      "sha256": "5adbd8caab98c0f67bac23dabbe69f4b7e7e4a7d5d0903f3d1faf0ff78745c62",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/HLCO.html",
@@ -2703,10 +3632,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/helicopter-coordinator/qualification-requirements",
-      "sha256": "8598461b7b1e8a0ab481cb5a784c194f6946bf0b3ecab83342510581b249690e",
-      "downloaded_at": "2026-07-09",
+      "sha256": "39c6f752238cf1d5c16bf1ce6684d025ec9990e18122855024bdc0f58f2533ba",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/HECM.html",
@@ -2717,10 +3648,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/helicopter-crewmember/qualification-requirements",
-      "sha256": "7017c4863b533a9d3477682fb6ea1065b89f59bf59509018ac2aebcc0d9503a3",
-      "downloaded_at": "2026-07-09",
+      "sha256": "8b193be86f9ca316d2f80a8de775a4ffc9fb4b6c719ad54101123fd386225b4d",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/HMGB.html",
@@ -2731,10 +3664,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/helicopter-manager-single-resource/qualification-requirements",
-      "sha256": "51e5f568f232ad08a3343e231b737634a4f56befcc28f09224440f5e39ae8b25",
-      "downloaded_at": "2026-07-09",
+      "sha256": "fc915b539be6c1f84c9220150994efc17bf4c9fd79e1b3a2076fe05e294c03ab",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/HRSP.html",
@@ -2745,10 +3680,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/human-resource-specialist/qualification-requirements",
-      "sha256": "6afa0220c94d4aa1a1d7208ca019658181e4645b166248467be838889a8735a9",
-      "downloaded_at": "2026-07-09",
+      "sha256": "c76da3a92aab02f384f567f753e425d2debe1d4146f26adf1e95faba1a979c38",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/INBA.html",
@@ -2759,10 +3696,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/incident-business-advisor/qualification-requirements",
-      "sha256": "4f94f3689dae7fbdbe56486f77565ec59b3d77782e782f685af601af8214dbd6",
-      "downloaded_at": "2026-07-09",
+      "sha256": "02106ec50eccde17c2d0a27a58df8a19a70a82e9ebcda50bb03fdd78ff2c011e",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/ICCI.html",
@@ -2773,10 +3712,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/incident-commander-complex/qualification-requirements",
-      "sha256": "ebc848a311ed2dfac9a35e441f7307ee218ab97014550ea7f534f2e6d79f96fd",
-      "downloaded_at": "2026-07-09",
+      "sha256": "71dfb8da78e7ea300661452a2ae7b45a448fea95cf356964ea86f0f515abd957",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/ICT3.html",
@@ -2787,10 +3728,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/incident-commander-type-3/qualification-requirements",
-      "sha256": "86b127983a76c461c0c8b8e47fef409f603c38a2e9a3abd16113156db8eeb36c",
-      "downloaded_at": "2026-07-09",
+      "sha256": "e5b132dfa5720e7eea114af8e68a4d210dff7b619222cf2353438b2344dd1739",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/ICT4.html",
@@ -2801,10 +3744,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/incident-commander-type-4/qualification-requirements",
-      "sha256": "665697e6315037523c51e503b8673bce5922ce9c177e4b30367730bcd88ba04b",
-      "downloaded_at": "2026-07-09",
+      "sha256": "7baee349c23cb51493f2cab404594fa7879e8961ace705ed1d349cdafa19d7b7",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/ICT5.html",
@@ -2815,10 +3760,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/incident-commander-type-5/qualification-requirements",
-      "sha256": "7d6a5b49481f764901fc9b123b48484efdb7f0e7d7133c5c9024ed3abe7d3120",
-      "downloaded_at": "2026-07-09",
+      "sha256": "e4e98c2c81faa8a4e0649103bd68906c244f9a64b12333b0a76aa18e49546f64",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/INCM.html",
@@ -2829,10 +3776,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/incident-communications-center-manager/qualification-requirements",
-      "sha256": "06ecec05f875c773430350828935e955a8a8047fa103649ebec28a744f9b4e98",
-      "downloaded_at": "2026-07-09",
+      "sha256": "c0a0b3401fd58fc2b390b20bf93d81545b6ac19939377f82811940d06d440bc3",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/COMT.html",
@@ -2843,10 +3792,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/incident-communications-technician/qualification-requirements",
-      "sha256": "ed01d0943853df7aede4124ca7d6bfa8d64d38a3221d668dbc4b8d72e29f8f4f",
-      "downloaded_at": "2026-07-09",
+      "sha256": "c499be054c80351a4b707c747ce649c06589ab35b37af6708711df832502664d",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/ICPI.html",
@@ -2857,10 +3808,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/incident-contract-project-inspector/qualification-requirements",
-      "sha256": "bf0ca18dfb60bb896779876c70696cbbac38faee580ac5a38561d55bbdc801f2",
-      "downloaded_at": "2026-07-09",
+      "sha256": "dc97dd6d4940bee65bf762ae9355749bc4791cd6f5852acec5251522aa540e52",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/TNSP.html",
@@ -2871,10 +3824,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/incident-training-specialist/qualification-requirements",
-      "sha256": "46421522580618d17d350f253f4a1136da2598234727be1e255834fca60d523b",
-      "downloaded_at": "2026-07-09",
+      "sha256": "79ec5c3530cb5e243b5a1ac61cb2eded7f1eacd903d568f135c971e2656eb601",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/IRIN.html",
@@ -2885,10 +3840,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/infrared-interpreter/qualification-requirements",
-      "sha256": "9e2a192f48fd0fea67727c9d219d987f26472dce6c8e76d968b1512951fb8434",
-      "downloaded_at": "2026-07-09",
+      "sha256": "bb7d933f5a1e1489f80c9e871741671192bdcf23408c2f222c22910cf6e04a4a",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/IADP.html",
@@ -2899,10 +3856,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/initial-attack-dispatcher/qualification-requirements",
-      "sha256": "fbe0d4b8239fc562c2da62a332cb3583e0e086dff249720d31b04abe91e29f0f",
-      "downloaded_at": "2026-07-09",
+      "sha256": "f2d373dd5376d398a7a86f0a7fa2630f442a558d9dcd25a8251c527becc95e19",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/IARR.html",
@@ -2913,10 +3872,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/interagency-resource-representative/qualification-requirements",
-      "sha256": "831af0c343a05cac59793755a4de48d5f78b0f9a9623a81dd0473042ae4696be",
-      "downloaded_at": "2026-07-09",
+      "sha256": "e7379ca0fe4f76ca6870291934be20a56bcce1f5deab06f8d64410c8ea37eec0",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/FAL2.html",
@@ -2927,10 +3888,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/intermediate-faller/qualification-requirements",
-      "sha256": "17194be5e105a729909e5bb49a23e6318d5ec31ed69fabd26a84df6b6b4044f9",
-      "downloaded_at": "2026-07-09",
+      "sha256": "da18780292f80e5c9e0046c3fceb7e818ffbf8c3a21591549c1f7b48ae40774e",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/LOFR.html",
@@ -2941,10 +3904,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/liaison-officer/qualification-requirements",
-      "sha256": "4b8b076183abfdac5ddae0c5c228bacbf7462ef0d90a9598209f4ffde29ac591",
-      "downloaded_at": "2026-07-09",
+      "sha256": "0785216b40ab0f46ef8e569f60f8f288818bf3c9299f2a3d4c5c60bb1dd8860d",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/LSCC.html",
@@ -2955,10 +3920,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/logistics-section-chief-complex/qualification-requirements",
-      "sha256": "61780301d83ab7914e9d1afeed6913f03d78837517bcf03a94b0fad9b2484869",
-      "downloaded_at": "2026-07-09",
+      "sha256": "2caffa99abde44ba448841e20eb83e785a4792a41cec755f4e846fbda6de3af2",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/LSC3.html",
@@ -2969,10 +3936,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/logistics-section-chief-type-3/qualification-requirements",
-      "sha256": "691774bb0a0cb5d6761cc2af6a74484bad8151d23d96e3b7dd3055ef75dad1ac",
-      "downloaded_at": "2026-07-09",
+      "sha256": "4e17fa8e23b5522ba6210abb65bf3d43b112a67c8fd7d5a600b2acd2e556ee8f",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/LTAN.html",
@@ -2983,10 +3952,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/long-term-fire-analyst/qualification-requirements",
-      "sha256": "630cec6899678854def28142b988febd65c461c1721bf73f1e32f77b0a9c9e14",
-      "downloaded_at": "2026-07-09",
+      "sha256": "7414213c683c59af15864c16a1ae319e9072bf48692ed6b523d8fd7e588fee28",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/MEDL.html",
@@ -2997,10 +3968,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/medical-unit-leader/qualification-requirements",
-      "sha256": "b4b1870ea8552160fdc89be92a870ec73d266a4587da70fce6ebbf707e0902ab",
-      "downloaded_at": "2026-07-09",
+      "sha256": "1d22e67118dc8eaaf2a30b68bdcf5bc9fb65622b3fb9a6bfd174704ba02d37be",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/MXMS.html",
@@ -3011,10 +3984,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/mixmaster/qualification-requirements",
-      "sha256": "2b370c827aa975b8adb87d0eeabe84df16acd98c7f4700aa6614ce03981d25c8",
-      "downloaded_at": "2026-07-09",
+      "sha256": "9958b4878fdd397a8ff43d602761f8ee3e1291c78936b107e47e27ac6fced7c6",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/OPBD.html",
@@ -3025,10 +4000,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/operations-branch-director/qualification-requirements",
-      "sha256": "f4a99fe8e69c63a8951c649d6473a969649f63673ecba734ffec4535a42aa8b2",
-      "downloaded_at": "2026-07-09",
+      "sha256": "c607044871f03768dd431c6aec2cc23acd9c893cc239ed22e41ab696434cb2f5",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/OSCC.html",
@@ -3039,10 +4016,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/operations-section-chief-complex/qualification-requirements",
-      "sha256": "66c565001a6794e0b52d3e3d8e5ce95e3172a3bb7a469f1fb9feeb5297ece2e7",
-      "downloaded_at": "2026-07-09",
+      "sha256": "4a006edf163ea56a80de23b9266298cf8ef7c256cce03682e795bcd950e01460",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/OPS3.html",
@@ -3053,10 +4032,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/operations-section-chief-type-3/qualification-requirements",
-      "sha256": "284a5ce25f4f6a8b675ec687eb7907972f2c4352974b9c7ea53157bd739431f8",
-      "downloaded_at": "2026-07-09",
+      "sha256": "8611bc83c2627fc71358ab3ab738ed2c155477e366ae18082e40960524c98571",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/ORDM.html",
@@ -3067,10 +4048,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/ordering-manager/qualification-requirements",
-      "sha256": "a6631d6ddcc7f90d1474228a0a220a5fe682aaaef94964650f29f6996017b986",
-      "downloaded_at": "2026-07-09",
+      "sha256": "8216dbf44656fd9978fc5b9260779227e5ef075e257529562095114cee0b89b4",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/PTRC.html",
@@ -3081,10 +4064,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/personnel-time-recorder/qualification-requirements",
-      "sha256": "0960a87938ef1aed5c2c9d610d557f4804f7afaa919b00b9c0135c91073b6cc7",
-      "downloaded_at": "2026-07-09",
+      "sha256": "0b7361acb8be41dc78fde5dece788bc625f3b8639bb765754328d84345ae86fa",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/PSCC.html",
@@ -3095,10 +4080,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/planning-section-chief-complex/qualification-requirements",
-      "sha256": "f228c3d805ab167e699bd8df5c550d06ec0996085150d3a56791327dab267680",
-      "downloaded_at": "2026-07-09",
+      "sha256": "6f19206af59d84bd51a28678cae2cad31f3a9304460a0c8e20d7b59685803a13",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/PSC3.html",
@@ -3109,10 +4096,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/planning-section-chief-type-3/qualification-requirements",
-      "sha256": "b444ab49fe98704edb421ba6739bc04c012e081d9e2267f9095dd960c9449dba",
-      "downloaded_at": "2026-07-09",
+      "sha256": "3d5a15db02d20f556594ee523484779f3a90d2e4adf7c9ea57d779496750dda3",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/RXB1.html",
@@ -3123,10 +4112,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/prescribed-fire-burn-boss-type-1/qualification-requirements",
-      "sha256": "909c46e128cd651022bf2201e94a5db08e75d9a8c5f8609593b70c87b6a4b015",
-      "downloaded_at": "2026-07-09",
+      "sha256": "2c3078e94576a3478e8d2103a9dddc865c85f7a440d73eebb145fbe055d9d49d",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/RXB2.html",
@@ -3137,10 +4128,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/prescribed-fire-burn-boss-type-2/qualification-requirements",
-      "sha256": "0eff11ce7eb79e2dc3e72b9d95a91e09457a44298df33748a1db5b6187c0ab51",
-      "downloaded_at": "2026-07-09",
+      "sha256": "e71ab476228703c49232894138ff83be3d52a6d1442e58c1a78efd9f986056cf",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/RXMG.html",
@@ -3151,10 +4144,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/prescribed-fire-manager/qualification-requirements",
-      "sha256": "d293c47dc1888c8238b575f93f43b1d9ea81f640d5ef050282cc9926f5bfbfef",
-      "downloaded_at": "2026-07-09",
+      "sha256": "bceffb129b54679f8c64eb01dab9668d7a22614e7e78a656fb132eff395b65c1",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/PROC.html",
@@ -3165,10 +4160,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/procurement-unit-leader/qualification-requirements",
-      "sha256": "2242b3038ac271e275fe9dac6a68054cd5e36d0cd785e6d7e6f01b4f07ad9a08",
-      "downloaded_at": "2026-07-09",
+      "sha256": "b1c76391761bfd35b72e6d14378c9d56e61bf02825ea1e9c60b62deb525b4dbc",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/PIOC.html",
@@ -3179,10 +4176,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/public-information-officer-complex/qualification-requirements",
-      "sha256": "a9701af0b286f44f1b56a81cae15992fb936369105f5dc8d8bf63020ef0e8da9",
-      "downloaded_at": "2026-07-09",
+      "sha256": "e70468c7841a97d71cc9e96e92926fb224eb3b8189f1a8f428c2fc5bf92529b9",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/PIO3.html",
@@ -3193,10 +4192,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/public-information-officer-type-3/qualification-requirements",
-      "sha256": "f18eb1074020dad81b5e7ec772f823a876341e450d18c02b4f1672c954554a32",
-      "downloaded_at": "2026-07-09",
+      "sha256": "53a1610beb8292dda299a284cadf893b6c2e8ae640eaf062960dcfad6c32eeaf",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/PIOT.html",
@@ -3207,10 +4208,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/public-information-officer-technician/qualification-requirements",
-      "sha256": "a1fb4dc08fd15600fc7de4c54b9c37300d0c1ec9437a88e6efeec0f95f3958f3",
-      "downloaded_at": "2026-07-09",
+      "sha256": "0ee6ed83e6f58b523c13ad9b8cfb98dc60ce0a99c5476ea6ff9d74fe53310317",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/RADO.html",
@@ -3221,10 +4224,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/radio-operator/qualification-requirements",
-      "sha256": "bf2663a8070740e33b667a45c27741a7a51eb88fc812e372b2502c3cc79e08c8",
-      "downloaded_at": "2026-07-09",
+      "sha256": "efd0d60b386753deb98f442ffcd3179c096d1dfd4f13a052d8abb20e0db5faad",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/RAMP.html",
@@ -3235,10 +4240,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/ramp-manager/qualification-requirements",
-      "sha256": "c1c4394ac5a6c574cb00c145a6ffa3cae9aa51b8d4f97c0235602a14467b8dd5",
-      "downloaded_at": "2026-07-09",
+      "sha256": "fe83b9e97488579a3dec05b799308bd5cda2db951fec57da3412b5af9634c971",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/RCDM.html",
@@ -3249,10 +4256,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/receiving-distribution-manager/qualification-requirements",
-      "sha256": "16c147520bc2a419f2b5ae89f02a0a46a5de60efd6b3033534e02905fbd8823e",
-      "downloaded_at": "2026-07-09",
+      "sha256": "ae3bf787b95c4d5625ec58f9fa0c3ee0f5eaa59fee48075c61ada1fd3fc87612",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/REAF.html",
@@ -3263,10 +4272,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/resource-advisor-fireline/qualification-requirements",
-      "sha256": "ed307fca9557a135808b8d69149715428d1f3930104fbc4549021f0f16c73acd",
-      "downloaded_at": "2026-07-09",
+      "sha256": "c8bce7158bb7e3c60fc7f0496003a9bd6e14de24c43537b4a3be00fafb1c16c6",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/RESL.html",
@@ -3277,10 +4288,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/resources-unit-leader/qualification-requirements",
-      "sha256": "9716730f255615351f7457ea37c6cba777c32027754a80061bc01adf1ca211f7",
-      "downloaded_at": "2026-07-09",
+      "sha256": "99e236fda7bf87f9efaa9591da8ec9d8b8d73d4d031dbeb9ad8114eb5377253b",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/RTCM.html",
@@ -3291,10 +4304,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/retardant-crewmember/qualification-requirements",
-      "sha256": "a9aa2aab65ada5c5323da9a843edc54e07f2e9f0154cefc368679244ab175e95",
-      "downloaded_at": "2026-07-09",
+      "sha256": "ee5435db80bdab5f80d5786a69d88c89efb836cf6bb0e331d8e911df309f146e",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/SOFC.html",
@@ -3305,10 +4320,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/safety-officer-complex/qualification-requirements",
-      "sha256": "1c9d6f7f433c8fda4e7ac4803790773d83df3fa682f1e2df6a14852e98d2241e",
-      "downloaded_at": "2026-07-09",
+      "sha256": "82be613d2ccac44fc62d04a406c28019cc161dcaad6edc984c9198128a20abab",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/SOF3.html",
@@ -3319,10 +4336,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/safety-officer-type-3/qualification-requirements",
-      "sha256": "78d19dbcbf714eeabc1226507abe81da09bf90c005001e3f62ace570d42cdbc1",
-      "downloaded_at": "2026-07-09",
+      "sha256": "866f2fe3d89c07b94f71a4c77b9878147f21e114315e9b2e5a11f7e1884fa344",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/SOFF.html",
@@ -3333,10 +4352,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/safety-officer-field/qualification-requirements",
-      "sha256": "21060d46be01b60db949bcd5fba44313452e97234f0f815156dea4f60227faa7",
-      "downloaded_at": "2026-07-09",
+      "sha256": "08273b8958e0744e3227b09cac281ddaaf37eb89b1a302590fa367d16ed5397e",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/SECM.html",
@@ -3347,10 +4368,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/security-manager/qualification-requirements",
-      "sha256": "8632bb94d01450ae154ed7ee5f57db38cf957519a173d345544f2efedde17d7f",
-      "downloaded_at": "2026-07-09",
+      "sha256": "eaab698aa13aa5c81f05e3a637858ebaf7cc1dff6b351f53c87e4119b1aec90a",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/SEMG.html",
@@ -3361,10 +4384,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/single-engine-airtanker-manager/qualification-requirements",
-      "sha256": "20be7cc4401ce64450349519864b9692973ffca680e79b7a3a6e0ac89e121133",
-      "downloaded_at": "2026-07-09",
+      "sha256": "097ed243b05ac7113d2b16b662015d2b193a2a44916d94634d1087490bb1a951",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/SITL.html",
@@ -3375,10 +4400,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/situation-unit-leader/qualification-requirements",
-      "sha256": "d999d4e04a1b37c8a6e907808a5b66b5a447c5e28f383cabc72115860e58de42",
-      "downloaded_at": "2026-07-09",
+      "sha256": "68490b2b18852ac7d4f94ed5d836a6f9d224c6394c88d29ce0414ae14cb33c6d",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/STAM.html",
@@ -3389,10 +4416,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/staging-area-manager/qualification-requirements",
-      "sha256": "b0b10c11859bb793223eb4bdb8b7705ab4434b4ba1c17c3a15b105dae3aa714f",
-      "downloaded_at": "2026-07-09",
+      "sha256": "9d3cb5da6407c63c6e3cb5749aa9f070e2ed40bdc6e702a1d22b97f9c54e729e",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/SCKN.html",
@@ -3403,10 +4432,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/status-check-in-recorder/qualification-requirements",
-      "sha256": "d154414b4850ee842a92a3132bc255dcdf5244426a72b55f25630f8567071797",
-      "downloaded_at": "2026-07-09",
+      "sha256": "e2ebe99d12958a7af599d35c27d6009ac542fd3d1663d6795aa10a4682f7226a",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/SOPL.html",
@@ -3417,10 +4448,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/strategic-operational-planner/qualification-requirements",
-      "sha256": "33c19b529ae7b1736c3309342f800cd773d435cf893a0453a1bb8d9db9bc1411",
-      "downloaded_at": "2026-07-09",
+      "sha256": "869f07db02bc1e1d92a9734261e6c6e4c354a2d479ccb16f4d5b818477e75e63",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/STCR.html",
@@ -3431,10 +4464,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/strike-team-leader-crew/qualification-requirements",
-      "sha256": "6408bfca3b3de7826fdab8a492f8476c7874fdcad3bb4757f4780feab5b07ed8",
-      "downloaded_at": "2026-07-09",
+      "sha256": "c72dd0c859dbd415165370d28db4c1a78697138b9403f0ffc06ff0ee059df008",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/STEN.html",
@@ -3445,10 +4480,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/strike-team-leader-engine/qualification-requirements",
-      "sha256": "461ac29f15daae9966a36005db9fbe040e98d54c44d6a35d4b9e213fde722f77",
-      "downloaded_at": "2026-07-09",
+      "sha256": "182a2f63338a8ba7c18bf24e2eecd5572a12daf6a941250df8304022c01cfb6c",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/STEQ.html",
@@ -3459,10 +4496,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/strike-team-leader-heavy-equipment/qualification-requirements",
-      "sha256": "38b0fe6caff59a36295dc01f7b9c6a486f3b1475373a8e65b4417aeede1530f5",
-      "downloaded_at": "2026-07-09",
+      "sha256": "b119681c47bee06330a43353f0d963f5f167964ee5eab55ffec773c0fc737dac",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/STPS.html",
@@ -3473,10 +4512,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/structure-protection-specialist/qualification-requirements",
-      "sha256": "620aa4a2cf084bee1a68b48e652cb7a6584452d47d99862c0e5cf26a7e94a924",
-      "downloaded_at": "2026-07-09",
+      "sha256": "02117068d040a9f1e2e5c4f3bc8a6a392bf9b7a709943d7cda5d8536eb85e7ff",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/SPUL.html",
@@ -3487,10 +4528,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/supply-unit-leader/qualification-requirements",
-      "sha256": "45af2bf019e30e7fdba2a59b79fd0b2e37ea17f098a50caf4945f4a86054a1e0",
-      "downloaded_at": "2026-07-09",
+      "sha256": "7c3f5c68948acae1d0ad226085cbbf963971d36beafd46b7496395e785eeaf36",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/TFLD.html",
@@ -3501,10 +4544,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/task-force-leader/qualification-requirements",
-      "sha256": "7023fed37b6f94cef7083a1f0ae30260ad1566a95510194e837e5a74b2cb377a",
-      "downloaded_at": "2026-07-09",
+      "sha256": "7744ce86dbbabb1aa23e4c1ca655c789fd1aedd49f4445ecabbd832ff54b17a7",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/TIME.html",
@@ -3515,10 +4560,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/time-unit-leader/qualification-requirements",
-      "sha256": "6706757c54c9ef52c7470513c1dfa6d0fe84f7026bb81dcbf35e755acd97dfd8",
-      "downloaded_at": "2026-07-09",
+      "sha256": "51f912a20237c82efe2370d8cb0222cd8269f263e7031c57f36dad3b8a1240f7",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/UASP.html",
@@ -3529,10 +4576,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/unmanned-aircraft-systems-pilot/qualification-requirements",
-      "sha256": "e314c8b35938cdc812f6099a7d53f1e430f0ccb320c0fe779f2e78b93b6004de",
-      "downloaded_at": "2026-07-09",
+      "sha256": "90154710b5e4a4e8e07102a4152394cec93be386ddd1be12b304c7e952cf451d",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/UASD.html",
@@ -3543,10 +4592,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/unmanned-aircraft-systems-data-specialist/qualification-requirements",
-      "sha256": "875d37bffcfc7504a748ad733aee42e1f7c77949b79dbff2bb5772a32efbcd59",
-      "downloaded_at": "2026-07-09",
+      "sha256": "199b4b5e0de2f9a11e66ff2b15663414b14d652c60a873055a2d51ee26549aae",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/UASM.html",
@@ -3557,10 +4608,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/unmanned-aircraft-systems-manager/qualification-requirements",
-      "sha256": "576970372e00245fde171d1dedc545aa501c03a222bade2b1759c410a159daa7",
-      "downloaded_at": "2026-07-09",
+      "sha256": "1a3a96712755dbf2c0ccf1bff80a55ad04c32588e2a4410961c480b064e31c4f",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/UASL.html",
@@ -3571,10 +4624,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/unmanned-aircraft-systems-module-leader/qualification-requirements",
-      "sha256": "0aa9b27a0cae32ffc18245ee35399ba00d88080407031c873b5ed04d57576979",
-      "downloaded_at": "2026-07-09",
+      "sha256": "f67e53f85f3e51c1c1cf6d04a440090299edca340766999603bb0c1c6c6e8dcd",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/INVL.html",
@@ -3585,10 +4640,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/wildland-fire-investigation-team-leader/qualification-requirements",
-      "sha256": "afb8110114b614a1d534dfb05fcb68d23a7bdbbac7cb9abf954132271dc1d038",
-      "downloaded_at": "2026-07-09",
+      "sha256": "51e0d1443fe9770f00b1df399dabc0e71519ddeab5868c3b3e79268a8ba3d8d4",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     },
     {
       "filename": "requirements/INVF.html",
@@ -3599,10 +4656,12 @@
       "pms_number": "310-1",
       "format": "unclassified",
       "url": "https://www.nwcg.gov/positions/wildland-fire-investigator/qualification-requirements",
-      "sha256": "a7708b9ef11443271081bc4e27ecefe3554d24db8a38dd435159d8b6d6f45e2c",
-      "downloaded_at": "2026-07-09",
+      "sha256": "9fcb74daac6aa39d562b2a13691cfe1e5f459306a5b3fa89ad29c009d2602fab",
+      "downloaded_at": "2026-11-02",
       "role": "qualification_standard",
-      "fixture": false
+      "fixture": false,
+      "edition_date": null,
+      "edition_date_source": "none"
     }
   ],
   "pending": [
@@ -3615,6 +4674,65 @@
       "pms_number": "311-119",
       "role": "companion_standards",
       "reason": "Next Gen PTB text has no detectable PMS 350-xxx reference"
+    },
+    {
+      "pms_number": "350-16",
+      "role": "companion_standards",
+      "reason": "could not resolve download URL from https://www.nwcg.gov/publications/pms350-16",
+      "linked_ptb_pms": [
+        "311-16"
+      ]
+    },
+    {
+      "pms_number": "350-30",
+      "role": "companion_standards",
+      "reason": "could not resolve download URL from https://www.nwcg.gov/publications/pms350-30",
+      "linked_ptb_pms": [
+        "311-30"
+      ]
+    },
+    {
+      "pms_number": "350-77",
+      "role": "companion_standards",
+      "reason": "could not resolve download URL from https://www.nwcg.gov/publications/pms350-77",
+      "linked_ptb_pms": [
+        "311-77"
+      ]
+    },
+    {
+      "pms_number": "350-85",
+      "role": "companion_standards",
+      "reason": "could not resolve download URL from https://www.nwcg.gov/publications/pms350-85",
+      "linked_ptb_pms": [
+        "311-85"
+      ]
+    },
+    {
+      "pms_number": "310-1",
+      "role": "qualification_standard",
+      "reason": "PMS 310-1 is published as a paginated web document at https://www.nwcg.gov/publications/pms310-1, not a single downloadable PDF; no PDF link found. Needs a web-scrape acquisition path, not file download."
+    }
+  ],
+  "retired": [
+    {
+      "filename": "pms311-30_FEMO-FOBS.pdf",
+      "pms_number": "311-30",
+      "position_codes": [
+        "FEMO",
+        "FOBS"
+      ],
+      "role": "ptb",
+      "sha256": "6fb182f673d2e95184a3d2e7f0d5bf53ba1fb6d1c8fd6ea1042fc67a98d814c9",
+      "downloaded_at": "2026-07-09",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/taskbook/pms-311-30.pdf?VersionId=pPDdWwKbccnCVQTIT9OPSvBFhpcI4p1a",
+      "edition_date": "2012-09",
+      "retired_at": "2026-11-02",
+      "reason": "not in the live NWCG catalog on this refresh; stored URL returns HTTP 404",
+      "superseded_by": [
+        "pms311-30_FOBS.pdf",
+        "pms311-71_FEMO.pdf"
+      ],
+      "raw_file_deleted": true
     }
   ]
 }

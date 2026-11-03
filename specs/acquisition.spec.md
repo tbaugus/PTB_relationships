@@ -149,6 +149,18 @@ URL-keyed match would silently lose the prior entry and its history.
   (`format` is assigned by extraction), but its companion-standards
   discovery now runs because the catalog hint reads "Next Gen", which is
   how PMS 350-12/-43/-44/-47/-48/-71/-93 enter the corpus.
+- **Duplicate catalog rows** — the catalog can list one PMS number twice
+  (311-12 CREP, two S3 keys, 2026-11-02). Identical content is one
+  document: a single entry, the extra link kept under `alternate_urls`.
+  Different content is a catalog conflict: the first row is kept and the
+  second goes under `pending` with the reason. Never two entries for one
+  filename.
+- **Publication-page PDF links** — a companion standard's or PMS 310-1's
+  PDF is accepted only when the link names the publication (`pms350-12`,
+  `pms-350-51`); a publications page can link unrelated PDFs (the
+  `pms310-1` page's only PDF is a mailing-list flyer), and recording one
+  as the standard would be a false provenance claim. With no such link the
+  document stays under `pending` with the reason.
 - **Qualification-requirement pages** (source 4) — upstream wording drift
   (e.g. "Completion and Certification of NWCG Position Task Book for X" in
   `required_experience`) is tolerated: pages are re-scraped, re-parsed and
@@ -232,7 +244,12 @@ is ~250 network requests that change nothing).
   legacy `pms311-30_FEMO-FOBS.pdf` withdrawn upstream (its versioned S3 URL
   now returns NoSuchKey) and replaced by `pms311-30_FOBS.pdf` plus the new
   `pms311-71_FEMO.pdf`; new documents `pms311-112_REAF.pdf`, companion
-  standards PMS 350-12/-43/-44/-47/-48/-71/-93/-112 and `pms310-1.pdf`; a
+  standards PMS 350-12/-43/-44/-47/-48/-71/-93/-112 (PMS 350-16/-30/-77/-85,
+  cited by the September 2026 STAM/FOBS/GISS/DECK books, have no
+  publication page yet — HTTP 404 — and stay under `pending`); the
+  catalog listing CREP twice with identical content; the `pms310-1`
+  publications page linking only an unrelated flyer (no PMS 310-1 PDF
+  exists; the per-position pages remain the only source 4 path); a
   PDF-only hash change of the Google Doc export; and 10 of 116
   qualification-requirement pages with wording-only drift. Manifest schema
   additions: `edition_date`, `edition_date_source`, `page_count` per

@@ -200,6 +200,9 @@ def acquire_one(entry: dict, existing_by_code: dict) -> tuple[dict | None, dict 
             "role": "qualification_standard",
             "fixture": False,
         }
+    # These web pages publish no edition date (specs/acquisition.spec.md
+    # "Corpus refresh"): recorded explicitly as none, never guessed.
+    manifest_entry = {**manifest_entry, "edition_date": None, "edition_date_source": "none"}
 
     structured = structure_requirements_page(data, code)
     return manifest_entry, structured
@@ -220,11 +223,10 @@ def main() -> int:
     catalog = fetch_position_catalog()
     print(f"  {len(catalog)} positions found", file=sys.stderr)
 
-    other_documents = [
-        d
-        for d in manifest["documents"]
-        if not (d.get("role") == "qualification_standard" and d.get("pms_number") == "310-1")
-    ]
+    # Only this script's own per-position pages are replaced; acquire.py's
+    # PMS 310-1 PDF entry (same role and PMS number, filename pms310-1.pdf)
+    # is carried through untouched.
+    other_documents = [d for d in manifest["documents"] if not d["filename"].startswith("requirements/")]
     new_entries = []
     # Drop any prior PMS 310-1 pending note — including acquire.py's original
     # "no single PDF found" entry — since this script is precisely the
