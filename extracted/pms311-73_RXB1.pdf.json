@@ -41,7 +41,7 @@
     {
       "position_code": "RXB1",
       "task_number": 2,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Verify resources identified in the Prescribed Fire Plan are on-site.",
@@ -94,7 +94,7 @@
     {
       "position_code": "RXB1",
       "task_number": 5,
-      "category": "Establish organization structure, reporting procedures, and chain of command of",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish the organizational role of the Burn Boss in relation to other prescribed fire positions, local fire management organization and Agency Administrator.",
@@ -108,7 +108,7 @@
     {
       "position_code": "RXB1",
       "task_number": 6,
-      "category": "Establish organization structure, reporting procedures, and chain of command of",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources",
       "behavior": null,
       "level": null,
       "verbatim_text": "Know the notification requirements if the contingency plan is implemented.",
@@ -122,7 +122,7 @@
     {
       "position_code": "RXB1",
       "task_number": 7,
-      "category": "Establish organization structure, reporting procedures, and chain of command of",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources",
       "behavior": null,
       "level": null,
       "verbatim_text": "Describe roles and responsibilities if the prescribed fire is declared a wildfire.",
@@ -136,7 +136,7 @@
     {
       "position_code": "RXB1",
       "task_number": 8,
-      "category": "Establish organization structure, reporting procedures, and chain of command of",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure compliance with organizational structure and reporting requirements identified in the Prescribed Fire Plan.",
@@ -225,7 +225,7 @@
     {
       "position_code": "RXB1",
       "task_number": 13,
-      "category": "Establish work assignments and performance expectations, monitor performance,",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Make tactical assignments and ensure their completion.",
@@ -245,7 +245,7 @@
     {
       "position_code": "RXB1",
       "task_number": 14,
-      "category": "Establish work assignments and performance expectations, monitor performance,",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -261,7 +261,7 @@
     {
       "position_code": "RXB1",
       "task_number": 15,
-      "category": "Establish work assignments and performance expectations, monitor performance,",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continuously evaluate performance.",
@@ -298,7 +298,7 @@
     {
       "position_code": "RXB1",
       "task_number": 17,
-      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and debriefings.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Conduct pre-ignition briefing utilizing the briefing checklist in the Prescribed Fire Plan.",
@@ -312,7 +312,7 @@
     {
       "position_code": "RXB1",
       "task_number": 18,
-      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and debriefings.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Conduct an After Action Reviews (AAR).",
@@ -351,7 +351,7 @@
     {
       "position_code": "RXB1",
       "task_number": 20,
-      "category": "Gather, produce and distribute information as required by established guidelines",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure notifications are made in accordance with the Prescribed Fire Plan.",
@@ -365,7 +365,7 @@
     {
       "position_code": "RXB1",
       "task_number": 21,
-      "category": "Gather, produce and distribute information as required by established guidelines",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure portions of Prescribed Fire Plan are distributed to relevant personnel.",
@@ -386,7 +386,7 @@
     {
       "position_code": "RXB1",
       "task_number": 22,
-      "category": "Communicate and assure understanding of work expectations within the chain of",
+      "category": "Communicate and assure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Work with resource specialists to identify resource concerns and constraints that will need to be addressed in the Prescribed Fire Plan.",
@@ -402,7 +402,7 @@
     {
       "position_code": "RXB1",
       "task_number": 23,
-      "category": "Communicate and assure understanding of work expectations within the chain of",
+      "category": "Communicate and assure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate with air quality regulator(s) or specialists to develop smoke management plan and obtain appropriate smoke permits.",
@@ -419,7 +419,7 @@
     {
       "position_code": "RXB1",
       "task_number": 24,
-      "category": "Communicate and assure understanding of work expectations within the chain of",
+      "category": "Communicate and assure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain appropriate technical review.",
@@ -435,7 +435,7 @@
     {
       "position_code": "RXB1",
       "task_number": 25,
-      "category": "Communicate and assure understanding of work expectations within the chain of",
+      "category": "Communicate and assure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Communicate operational activities among resources (ignition, holding, monitoring) to safely achieve Prescribed Fire Plan objectives.",
@@ -524,7 +524,7 @@
     {
       "position_code": "RXB1",
       "task_number": 30,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review the Prescribed Fire Plan for completeness.",
@@ -543,7 +543,7 @@
     {
       "position_code": "RXB1",
       "task_number": 31,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Recon burn unit(s) to validate Prescribed Fire Plan elements, including areas of special concern and hazard/risk analysis.",
@@ -562,7 +562,7 @@
     {
       "position_code": "RXB1",
       "task_number": 32,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure on-site and off-site pre-burn considerations are completed.",
@@ -578,7 +578,7 @@
     {
       "position_code": "RXB1",
       "task_number": 33,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor prescription parameters to warrant ignition and increase probability that resource and prescribed fire objectives can be met.",
@@ -596,7 +596,7 @@
     {
       "position_code": "RXB1",
       "task_number": 34,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain current weather forecasts.",
@@ -613,7 +613,7 @@
     {
       "position_code": "RXB1",
       "task_number": 35,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure Prescribed Fire Plan is properly approved and authorized.",
@@ -850,7 +850,7 @@
     {
       "position_code": "RXB1",
       "task_number": 49,
-      "category": "Follow established procedures and safety procedures relevant to given",
+      "category": "Follow established procedures and safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Conduct operations in a safe manner according to the Standard Fire Orders, Watch Out Situations, LCES principles, Prescribed Fire Plan, and agency-specific policies and standards.",
@@ -868,7 +868,7 @@
     {
       "position_code": "RXB1",
       "task_number": 50,
-      "category": "Follow established procedures and safety procedures relevant to given",
+      "category": "Follow established procedures and safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure assignments met the standards as identified in the Prescribed Fire Plan and as conditions warrant.",

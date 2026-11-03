@@ -27,7 +27,7 @@
     {
       "position_code": "PETL",
       "task_number": 1,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine staffing, facility, and transportation needs to meet objectives.",
@@ -216,7 +216,7 @@
     {
       "position_code": "PETL",
       "task_number": 12,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Complete daily review of staffing requirements.",
@@ -230,7 +230,7 @@
     {
       "position_code": "PETL",
       "task_number": 13,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop schedule/assignments based on Incident Action Plan (IAP) or relevant plan.",
@@ -244,7 +244,7 @@
     {
       "position_code": "PETL",
       "task_number": 14,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -261,7 +261,7 @@
     {
       "position_code": "PETL",
       "task_number": 15,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -393,7 +393,7 @@
     {
       "position_code": "PETL",
       "task_number": 23,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop and distribute wildfire prevention information and education materials needed to meet objectives.",
@@ -412,7 +412,7 @@
     {
       "position_code": "PETL",
       "task_number": 24,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop an assignment safety plan/briefing.",
@@ -426,7 +426,7 @@
     {
       "position_code": "PETL",
       "task_number": 25,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop required plans.",
@@ -445,7 +445,7 @@
     {
       "position_code": "PETL",
       "task_number": 26,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Initiate assessment process.",
@@ -464,7 +464,7 @@
     {
       "position_code": "PETL",
       "task_number": 27,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate fuels and hazards and make recommendations.",
@@ -483,7 +483,7 @@
     {
       "position_code": "PETL",
       "task_number": 28,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review and evaluate investigation reports to determine fire cause and/or law enforcement actions on wildfires occurring in area of responsibility, as needed to meet objectives.",
@@ -497,7 +497,7 @@
     {
       "position_code": "PETL",
       "task_number": 29,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure safety procedures are followed.",
@@ -528,7 +528,7 @@
     {
       "position_code": "PETL",
       "task_number": 31,
-      "category": "Develop appropriate information releases and conduct media interviews",
+      "category": "Develop appropriate information releases and conduct media interviews according to established protocol.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review and approve information releases and participate in media interviews to meet objectives.",

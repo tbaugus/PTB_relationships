@@ -27,7 +27,7 @@
     {
       "position_code": "DIVS",
       "task_number": 1,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review division/group assignment from Incident Action Plan (IAP) or relevant plans to identify resources assigned to division/group by type and quantity.",
@@ -74,7 +74,7 @@
     {
       "position_code": "DIVS",
       "task_number": 4,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Organize assigned resources into configurations which will meet incident/tactical objectives.",
@@ -172,7 +172,7 @@
     {
       "position_code": "DIVS",
       "task_number": 10,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine assigned resources ability to complete assignment within time frame.",
@@ -186,7 +186,7 @@
     {
       "position_code": "DIVS",
       "task_number": 11,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assign responsibilities for segments within division.",
@@ -378,7 +378,7 @@
     {
       "position_code": "DIVS",
       "task_number": 23,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate across functional areas.",
@@ -399,7 +399,7 @@
     {
       "position_code": "DIVS",
       "task_number": 24,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide timely feedback in response to requests from other ICS sections.",
@@ -413,7 +413,7 @@
     {
       "position_code": "DIVS",
       "task_number": 25,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Participate in the development of the IAP or relevant plan for the next operational period.",
@@ -431,7 +431,7 @@
     {
       "position_code": "DIVS",
       "task_number": 26,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify and evaluate improved properties and develop a structure protection plan.",
@@ -457,7 +457,7 @@
     {
       "position_code": "DIVS",
       "task_number": 27,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify kind, type, and number of resources required to achieve control objectives.",
@@ -474,7 +474,7 @@
     {
       "position_code": "DIVS",
       "task_number": 28,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Implement control objectives and special instructions for division/group.",
@@ -642,7 +642,7 @@
     {
       "position_code": "DIVS",
       "task_number": 38,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",

@@ -97,7 +97,7 @@
     {
       "position_code": "ACAC",
       "task_number": 5,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Allocate air and ground-based aviation resources according to area command priorities and objectives.",
@@ -111,7 +111,7 @@
     {
       "position_code": "ACAC",
       "task_number": 6,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Visit aviation bases and locations, provide oversight and resolve issues.",
@@ -285,7 +285,7 @@
     {
       "position_code": "ACAC",
       "task_number": 17,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide incidents, local initial attack forces and other interested parties with an area aviation plan outlining area command aviation procedures and specifics of the area aviation operation.",
@@ -299,7 +299,7 @@
     {
       "position_code": "ACAC",
       "task_number": 18,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure flight following procedures, entry/exit routes and corridors, hazards, frequencies, and incident air space are documented and known to those affected.",
@@ -313,7 +313,7 @@
     {
       "position_code": "ACAC",
       "task_number": 19,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop aviation procedural plans as necessary.",
@@ -365,7 +365,7 @@
     {
       "position_code": "ACAC",
       "task_number": 22,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor incident(s) aviation cost, efficiency and effectiveness.",
@@ -379,7 +379,7 @@
     {
       "position_code": "ACAC",
       "task_number": 23,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine availability and status of committed and uncommitted aviation resources.",
@@ -463,7 +463,7 @@
     {
       "position_code": "ACAC",
       "task_number": 29,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure agency(ies) policy, regulations, and safety procedures are followed.",
@@ -477,7 +477,7 @@
     {
       "position_code": "ACAC",
       "task_number": 30,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate with local and adjacent initial attack aircraft bases and local dispatch to ensure procedures for transiting incident area and corridors are in place.",
@@ -491,7 +491,7 @@
     {
       "position_code": "ACAC",
       "task_number": 31,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure aviation frequency management.",
@@ -505,7 +505,7 @@
     {
       "position_code": "ACAC",
       "task_number": 32,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure aviation safety oversight based on agency policy and procedures and FAA regulations.",

@@ -25,6 +25,11 @@ CODE_VALUE_RE = re.compile(r"^(I|W|RX|R|S|O|ALL)(/(I|W|RX|R|S|O|ALL))*$")
 # occasionally merges it with the next word when the source PDF has no space
 # after the period ("25.Ensure...") — match a leading "N." prefix either way.
 TASK_NUM_RE = re.compile(r"^(\d+)\.(.*)$")
+# A wrapped "Behavior:" heading's continuation line sits one text row
+# (~13-14pt) below the previous heading line; the first task's number is a
+# blank row further down (30pt+ in every legacy book), so this bound tells
+# the two apart.
+HEADING_WRAP_GAP = 20.0
 
 
 def _cluster_lines(words: list[dict], tolerance: float = 3.0) -> list[list[dict]]:
@@ -205,6 +210,9 @@ def structure_legacy(pdf, position_code: str) -> tuple[list[dict], str | None]:
     current_category = ""
     current: dict | None = None
     in_bullet = False
+    # Set while the most recent line was a "Behavior:" heading (or one of
+    # its wrapped continuation lines): (heading x0, that line's top).
+    heading_tail: tuple[float, float] | None = None
 
     def close_task():
         nonlocal current
@@ -227,6 +235,7 @@ def structure_legacy(pdf, position_code: str) -> tuple[list[dict], str | None]:
             continue
 
         carry_over_task = current["task_number"] if current is not None else None
+        heading_tail = None  # a heading never wraps across a page break
         page_words = _filtered_page_words(page)
         lines = _page_lines(page_words)
 
@@ -263,6 +272,7 @@ def structure_legacy(pdf, position_code: str) -> tuple[list[dict], str | None]:
                     "page": page_number,
                 }
                 in_bullet = False
+                heading_tail = None
             elif text0 == "Behavior:" and x0 < cols["code"] - 30:
                 # A "Behavior:" heading is a section break wherever it is
                 # indented: FAL1 page 12 prints its heading at the text
@@ -270,12 +280,32 @@ def structure_legacy(pdf, position_code: str) -> tuple[list[dict], str | None]:
                 # it was read as a continuation of the task still open from
                 # page 11 (#20) — or, after a bullet, as bullet text (#22).
                 # The open task must close here; the heading's own wrapped
-                # continuation lines are not task text.
+                # continuation lines are not task text (they extend the
+                # category instead, next branch).
                 close_task()
                 current_category = " ".join(w["text"] for w in line[1:])
                 in_bullet = False
+                heading_tail = (x0, line[0]["top"])
             elif abs(x0 - cols["margin"]) < 9 and text0 in ("Competency:", "Description:"):
                 in_bullet = False
+                heading_tail = None
+            elif (
+                heading_tail is not None
+                and abs(x0 - heading_tail[0]) < 9
+                and x0 < cols["code"] - 30
+                and 0 < line[0]["top"] - heading_tail[1] <= HEADING_WRAP_GAP
+            ):
+                # A long "Behavior:" heading wraps onto one or more further
+                # lines printed at the heading's own indent, directly below
+                # it and before its first task (LOFR page 7: "Behavior:
+                # Ensure availability, qualifications, and capabilities of
+                # resources to complete" / "assignment."; FAL1 page 12 the
+                # same at the text column). Those lines arrive while no task
+                # is open, so without this branch they fell through to the
+                # furniture skip and the category kept only the heading's
+                # first printed line (extraction.spec.md AC-E10).
+                current_category = (current_category + " " + " ".join(w["text"] for w in body)).strip()
+                heading_tail = (heading_tail[0], line[0]["top"])
             elif (
                 text0 in BULLET_GLYPHS
                 and current is not None

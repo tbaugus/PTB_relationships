@@ -55,7 +55,7 @@
     {
       "position_code": "RXMG",
       "task_number": 3,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assess situation to determine resource needs.",
@@ -71,7 +71,7 @@
     {
       "position_code": "RXMG",
       "task_number": 4,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Verify qualifications of assigned personnel.",
@@ -134,7 +134,7 @@
     {
       "position_code": "RXMG",
       "task_number": 8,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish the organizational role of the Prescribed Fire Manager in relation to assigned personnel, local fire management organization and Agency Administrator.",
@@ -226,7 +226,7 @@
     {
       "position_code": "RXMG",
       "task_number": 13,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Direct specific resources to complete operational assignments according to agency specific policies and standards to meet the prescribed fire plan(s) objectives.",
@@ -242,7 +242,7 @@
     {
       "position_code": "RXMG",
       "task_number": 14,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -258,7 +258,7 @@
     {
       "position_code": "RXMG",
       "task_number": 15,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -443,7 +443,7 @@
     {
       "position_code": "RXMG",
       "task_number": 26,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Notify appropriate people of the intent to burn.",
@@ -462,7 +462,7 @@
     {
       "position_code": "RXMG",
       "task_number": 27,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide information related to prescribed burning to meet other agencies, cooperators and public education needs.",
@@ -480,7 +480,7 @@
     {
       "position_code": "RXMG",
       "task_number": 28,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Maintain communication with Burn Boss(es), assigned supervisor and adjoining entities during prescribed fire operations.",
@@ -496,7 +496,7 @@
     {
       "position_code": "RXMG",
       "task_number": 29,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Maintain contact with National Weather Service, state air quality regulators, agency administrator(s).",
@@ -510,7 +510,7 @@
     {
       "position_code": "RXMG",
       "task_number": 30,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure rehabilitation actions are accomplished in accordance with prescribed fire plans.",
@@ -542,7 +542,7 @@
     {
       "position_code": "RXMG",
       "task_number": 32,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review prescribed fire plan(s) prior to implementation.",
@@ -556,7 +556,7 @@
     {
       "position_code": "RXMG",
       "task_number": 33,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain and interpret long term weather information.",
@@ -573,7 +573,7 @@
     {
       "position_code": "RXMG",
       "task_number": 34,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify air quality constraints relative to use of fire.",
@@ -587,7 +587,7 @@
     {
       "position_code": "RXMG",
       "task_number": 35,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor implementation costs and make the appropriate notifications.",
@@ -604,7 +604,7 @@
     {
       "position_code": "RXMG",
       "task_number": 36,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Collect, analyze, and summarize immediate post-burn fire effects and fire behavior evaluation data as specified in prescribed fire plan.",
@@ -622,7 +622,7 @@
     {
       "position_code": "RXMG",
       "task_number": 37,
-      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior, weather, and other relevant events.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure completion of documented (formal and informal) hazard analysis in multiple resource type situations.",
@@ -762,7 +762,7 @@
     {
       "position_code": "RXMG",
       "task_number": 46,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Implement agency policies and guidelines regarding multiple prescribed burns.",
@@ -776,7 +776,7 @@
     {
       "position_code": "RXMG",
       "task_number": 47,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Conduct operations in a safe manner according to the safety guidelines, prescribed fire plan, and agency-specific policies and standards.",
@@ -790,7 +790,7 @@
     {
       "position_code": "RXMG",
       "task_number": 48,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Convert prescribed fire(s) to wildland fire(s) per agency policy.",
@@ -804,7 +804,7 @@
     {
       "position_code": "RXMG",
       "task_number": 49,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate the declaration of prescribed fires out per agency policy.",
@@ -870,7 +870,7 @@
     {
       "position_code": "RXMG",
       "task_number": 53,
-      "category": "Develop appropriate information releases and conduct media interviews",
+      "category": "Develop appropriate information releases and conduct media interviews according to established protocol.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure pre-burn coordination and communication with the public and other agencies according to the prescribed fire plan(s).",

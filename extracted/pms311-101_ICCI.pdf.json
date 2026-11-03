@@ -110,7 +110,7 @@
     {
       "position_code": "ICCI",
       "task_number": 6,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assess situation to determine immediate resource needs.",
@@ -127,7 +127,7 @@
     {
       "position_code": "ICCI",
       "task_number": 7,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate staffing needs required to manage the incident.",
@@ -278,7 +278,7 @@
     {
       "position_code": "ICCI",
       "task_number": 15,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish and coordinate time frames with staff.",
@@ -296,7 +296,7 @@
     {
       "position_code": "ICCI",
       "task_number": 16,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Hold staff individually accountable for decisions and actions within their functions.",
@@ -310,7 +310,7 @@
     {
       "position_code": "ICCI",
       "task_number": 17,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Hold staff accountable for interactions and coordination with other functional areas.",
@@ -324,7 +324,7 @@
     {
       "position_code": "ICCI",
       "task_number": 18,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate performance of subordinates as required by agency policy.",
@@ -342,7 +342,7 @@
     {
       "position_code": "ICCI",
       "task_number": 19,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide training opportunities where available.",
@@ -356,7 +356,7 @@
     {
       "position_code": "ICCI",
       "task_number": 20,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Document personnel performance actions.",
@@ -691,7 +691,7 @@
     {
       "position_code": "ICCI",
       "task_number": 39,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assess and analyze current and changing situations to determine action.",
@@ -710,7 +710,7 @@
     {
       "position_code": "ICCI",
       "task_number": 40,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review intelligence documents for accuracy, timeliness, and appropriate distribution.",
@@ -727,7 +727,7 @@
     {
       "position_code": "ICCI",
       "task_number": 41,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Anticipate future situations and identify appropriate resource(s) and planning needs.",
@@ -743,7 +743,7 @@
     {
       "position_code": "ICCI",
       "task_number": 42,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify and resolve problems that could affect the outcome of the incident.",
@@ -761,7 +761,7 @@
     {
       "position_code": "ICCI",
       "task_number": 43,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate overall incident response and modify response as necessary.",

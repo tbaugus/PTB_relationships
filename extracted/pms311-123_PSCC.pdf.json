@@ -61,7 +61,7 @@
     {
       "position_code": "PSCC",
       "task_number": 3,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate staffing needs required to manage the section.",
@@ -220,7 +220,7 @@
     {
       "position_code": "PSCC",
       "task_number": 12,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -234,7 +234,7 @@
     {
       "position_code": "PSCC",
       "task_number": 13,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -471,7 +471,7 @@
     {
       "position_code": "PSCC",
       "task_number": 27,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate and monitor current situation to determine if present plan of action will meet incident objectives.",
@@ -488,7 +488,7 @@
     {
       "position_code": "PSCC",
       "task_number": 28,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine if the agency’s strategic plan and wildland fire decision support documentation is appropriate and can be supported.",
@@ -505,7 +505,7 @@
     {
       "position_code": "PSCC",
       "task_number": 29,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Facilitate and/or participate in preplanning/strategy meetings.",
@@ -519,7 +519,7 @@
     {
       "position_code": "PSCC",
       "task_number": 30,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Facilitate and/or participate in strategic risk assessment and strategic operations meetings.",
@@ -533,7 +533,7 @@
     {
       "position_code": "PSCC",
       "task_number": 31,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish, adhere to, and maintain incident planning cycle.",
@@ -549,7 +549,7 @@
     {
       "position_code": "PSCC",
       "task_number": 32,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure alignment and understanding of values, strategy, and risk at all levels of the incident and with the host agency.",
@@ -565,7 +565,7 @@
     {
       "position_code": "PSCC",
       "task_number": 33,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Inform identified attendees of planning meeting time, location, and information expected of them.",
@@ -582,7 +582,7 @@
     {
       "position_code": "PSCC",
       "task_number": 34,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Conduct planning meetings.",
@@ -607,7 +607,7 @@
     {
       "position_code": "PSCC",
       "task_number": 35,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Modify and present revised incident objectives to command and general staff.",
@@ -621,7 +621,7 @@
     {
       "position_code": "PSCC",
       "task_number": 36,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Revise planning cycle when appropriate.",
@@ -638,7 +638,7 @@
     {
       "position_code": "PSCC",
       "task_number": 37,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure planning staff completes and compiles required elements of the IAP within required timeframes.",
@@ -658,7 +658,7 @@
     {
       "position_code": "PSCC",
       "task_number": 38,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure distribution of copies of IAP at the operational briefing.",
@@ -672,7 +672,7 @@
     {
       "position_code": "PSCC",
       "task_number": 40,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure incident documentation is completed as required by the Incident Commander.",
@@ -691,7 +691,7 @@
     {
       "position_code": "PSCC",
       "task_number": 41,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Update Incident Commander as soon as possible on current accomplishments and/or problems.",
@@ -705,7 +705,7 @@
     {
       "position_code": "PSCC",
       "task_number": 42,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Implement demobilization plan.",
@@ -724,7 +724,7 @@
     {
       "position_code": "PSCC",
       "task_number": 43,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop and implement a plan for transfer of command.",
@@ -746,7 +746,7 @@
     {
       "position_code": "PSCC",
       "task_number": 44,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure planning staff completes or supports completion of other relevant plans within required timeframes.",

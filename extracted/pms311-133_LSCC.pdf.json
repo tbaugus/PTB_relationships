@@ -61,7 +61,7 @@
     {
       "position_code": "LSCC",
       "task_number": 3,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate staffing needs required to manage the section.",
@@ -288,7 +288,7 @@
     {
       "position_code": "LSCC",
       "task_number": 16,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -302,7 +302,7 @@
     {
       "position_code": "LSCC",
       "task_number": 17,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -520,7 +520,7 @@
     {
       "position_code": "LSCC",
       "task_number": 31,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Participate in preparation of the IAP or relevant plan.",
@@ -536,7 +536,7 @@
     {
       "position_code": "LSCC",
       "task_number": 32,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assist in development and implementation of Incident Demobilization Plan.",
@@ -554,7 +554,7 @@
     {
       "position_code": "LSCC",
       "task_number": 33,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate and monitor current situation to determine if present plan of action will meet incident objectives.",

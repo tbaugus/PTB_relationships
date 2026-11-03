@@ -97,7 +97,7 @@
     {
       "position_code": "SEMG",
       "task_number": 6,
-      "category": "Ensure relevant information is exchanged with all contract and government",
+      "category": "Ensure relevant information is exchanged with all contract and government personnel.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Accurately maintain the base activity daily log.",
@@ -111,7 +111,7 @@
     {
       "position_code": "SEMG",
       "task_number": 7,
-      "category": "Ensure relevant information is exchanged with all contract and government",
+      "category": "Ensure relevant information is exchanged with all contract and government personnel.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Conduct daily briefing with all contract and government personnel assigned to the base that includes mission priorities, operations and adjustments in current operations, communications, weather forecasts, current and predicted fire weather forecasts, and temporary flight restrictions.",
@@ -125,7 +125,7 @@
     {
       "position_code": "SEMG",
       "task_number": 8,
-      "category": "Ensure relevant information is exchanged with all contract and government",
+      "category": "Ensure relevant information is exchanged with all contract and government personnel.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Discuss pre-flight safety concerns.",
@@ -139,7 +139,7 @@
     {
       "position_code": "SEMG",
       "task_number": 9,
-      "category": "Ensure relevant information is exchanged with all contract and government",
+      "category": "Ensure relevant information is exchanged with all contract and government personnel.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide mission briefing to aircrew and base personnel, verify information with the local dispatch center utilizing aircraft dispatch form/resource order and discuss proper turn-down protocol.",
@@ -153,7 +153,7 @@
     {
       "position_code": "SEMG",
       "task_number": 10,
-      "category": "Ensure relevant information is exchanged with all contract and government",
+      "category": "Ensure relevant information is exchanged with all contract and government personnel.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure communications are established and there is information flow between the base, aircraft, and dispatch office.",
@@ -167,7 +167,7 @@
     {
       "position_code": "SEMG",
       "task_number": 11,
-      "category": "Ensure relevant information is exchanged with all contract and government",
+      "category": "Ensure relevant information is exchanged with all contract and government personnel.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure important operational information such as roll times, aircraft availability, days off, and rotation is communicated with base personnel, local management, dispatch, and other bases as appropriate.",
@@ -181,7 +181,7 @@
     {
       "position_code": "SEMG",
       "task_number": 12,
-      "category": "Ensure relevant information is exchanged with all contract and government",
+      "category": "Ensure relevant information is exchanged with all contract and government personnel.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Facilitate After Action Reviews (AAR’s) or debriefings and discuss improvement opportunities including adjustments in operations with appropriate personnel.",
@@ -377,7 +377,7 @@
     {
       "position_code": "SEMG",
       "task_number": 26,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review local Unit Aviation Operations Plan and other applicable plans that may provide information on the management of the base, (i.e., Ramp Management Plan, Smokejumper Operations Plan, etc.)",
@@ -391,7 +391,7 @@
     {
       "position_code": "SEMG",
       "task_number": 27,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure adequate supply of required personal protective equipment (PPE) is available and is utilized by base personnel.",
@@ -405,7 +405,7 @@
     {
       "position_code": "SEMG",
       "task_number": 28,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop, update, or review, a mishap response plan; ensure plan is posted.",
@@ -419,7 +419,7 @@
     {
       "position_code": "SEMG",
       "task_number": 29,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Brief personnel on crash rescue and mishap response procedures for the base operations.",
@@ -433,7 +433,7 @@
     {
       "position_code": "SEMG",
       "task_number": 30,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Demonstrate the ability to implement the Crash Rescue/Mishap Response Plan in a simulation.",
@@ -447,7 +447,7 @@
     {
       "position_code": "SEMG",
       "task_number": 31,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure personnel are trained in the maintenance and use of fire extinguishers and procedures to be followed in the event of a fire emergency on the ramp.",
@@ -461,7 +461,7 @@
     {
       "position_code": "SEMG",
       "task_number": 32,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Demonstrate understanding of the Aviation Safety Communique (SAFECOM) system and complete/submit SAFECOM(s) in a timely manner through identified channels, and provide on the spot correction of safety concerns and issues.",
@@ -475,7 +475,7 @@
     {
       "position_code": "SEMG",
       "task_number": 33,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Discuss reporting processes for all fuel and retardant spills and clean up according to established environmental and/or hazardous materials procedures, referencing Safety Data Sheets (SDS).",
@@ -489,7 +489,7 @@
     {
       "position_code": "SEMG",
       "task_number": 34,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Discuss the regulations and procedures for fueling operations, review applicable National Fire Protection Association (NFPA) standards.",
@@ -503,7 +503,7 @@
     {
       "position_code": "SEMG",
       "task_number": 35,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure base personnel are adhering to agency policy and guidance pertaining to retardant and fuel spills on the ramp.",
@@ -517,7 +517,7 @@
     {
       "position_code": "SEMG",
       "task_number": 36,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate and manage a safe flight environment that includes sterile cockpit compliance.",
@@ -531,7 +531,7 @@
     {
       "position_code": "SEMG",
       "task_number": 37,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate with local unit on appropriate charge coding, and incident cost summary reporting.",
@@ -1315,7 +1315,7 @@
     {
       "position_code": "SEMG",
       "task_number": 93,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure that a manifest is prepared for passengers and cargo distribute to appropriate personnel.",
@@ -1329,7 +1329,7 @@
     {
       "position_code": "SEMG",
       "task_number": 94,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Demonstrate ability and knowledge to designate parking areas accommodating light fixed wing or large transport aircraft.",
@@ -1343,7 +1343,7 @@
     {
       "position_code": "SEMG",
       "task_number": 95,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure a flight manager is assigned to each flight transporting government personnel.",
@@ -1357,7 +1357,7 @@
     {
       "position_code": "SEMG",
       "task_number": 96,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assign a loadmaster to provide for safe loading and unloading of passengers and cargo.",

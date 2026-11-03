@@ -302,7 +302,7 @@
     {
       "position_code": "INVF",
       "task_number": 16,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide statement describing why other ignition factors/causes relating to a wildfire need to be addressed and/or eliminated.",
@@ -379,7 +379,7 @@
     {
       "position_code": "INVF",
       "task_number": 21,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Collect fire weather data.",
@@ -393,7 +393,7 @@
     {
       "position_code": "INVF",
       "task_number": 22,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Gather and record fire behavior observations relevant to determining fire origin and cause.",
@@ -414,7 +414,7 @@
     {
       "position_code": "INVF",
       "task_number": 23,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Conduct a systematic wildland fire investigation using the seven steps of scientific methodology.",
@@ -436,7 +436,7 @@
     {
       "position_code": "INVF",
       "task_number": 24,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Conduct investigative actions.",
@@ -457,7 +457,7 @@
     {
       "position_code": "INVF",
       "task_number": 25,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify wildland fire arson indicators.",
@@ -475,7 +475,7 @@
     {
       "position_code": "INVF",
       "task_number": 26,
-      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior, weather, and other relevant events.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor assignment for unsafe situations.",
@@ -644,7 +644,7 @@
     {
       "position_code": "INVF",
       "task_number": 34,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Follow agency procedures for reporting unsafe situations or accidents.",
@@ -658,7 +658,7 @@
     {
       "position_code": "INVF",
       "task_number": 35,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Use proper origin search techniques to determine fire origin.",
@@ -676,7 +676,7 @@
     {
       "position_code": "INVF",
       "task_number": 36,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify and secure fire origin using standard methods.",
@@ -693,7 +693,7 @@
     {
       "position_code": "INVF",
       "task_number": 37,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify and secure a separate (different than 36) fire origin using standard methods.",
@@ -714,7 +714,7 @@
     {
       "position_code": "INVF",
       "task_number": 38,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify cause of a wildfires.",
@@ -728,7 +728,7 @@
     {
       "position_code": "INVF",
       "task_number": 39,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify a separate, (different than 38) cause of a wildfire.",

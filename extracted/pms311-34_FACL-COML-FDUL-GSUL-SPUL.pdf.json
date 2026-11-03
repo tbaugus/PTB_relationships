@@ -63,7 +63,7 @@
     {
       "position_code": "FACL",
       "task_number": 1,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine support needs to meet the Incident Action Plan (IAP) or other relevant plans.",
@@ -77,7 +77,7 @@
     {
       "position_code": "FACL",
       "task_number": 2,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine requirements for each section to be established and place the initial order.",
@@ -94,7 +94,7 @@
     {
       "position_code": "FACL",
       "task_number": 3,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate with Logistics Section Chief and other functional areas to obtain resources to organize work space and keep unit operating.",
@@ -167,7 +167,7 @@
     {
       "position_code": "FACL",
       "task_number": 7,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Organize assigned personnel to meet the needs of the unit.",
@@ -269,7 +269,7 @@
     {
       "position_code": "FACL",
       "task_number": 13,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Complete daily review of staffing requirements and ensure adequate personnel to meet needs.",
@@ -283,7 +283,7 @@
     {
       "position_code": "FACL",
       "task_number": 14,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop schedule/assignments based on IAP or relevant plan.",
@@ -297,7 +297,7 @@
     {
       "position_code": "FACL",
       "task_number": 15,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -311,7 +311,7 @@
     {
       "position_code": "FACL",
       "task_number": 16,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -469,7 +469,7 @@
     {
       "position_code": "FACL",
       "task_number": 26,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Prepare information for briefings and meetings.",
@@ -483,7 +483,7 @@
     {
       "position_code": "FACL",
       "task_number": 27,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine and monitor current status of unit activities and relay to appropriate incident personnel.",
@@ -497,7 +497,7 @@
     {
       "position_code": "FACL",
       "task_number": 28,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Confirm estimated time of arrival of staff, equipment, and supplies.",
@@ -511,7 +511,7 @@
     {
       "position_code": "FACL",
       "task_number": 29,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate across functional areas.",
@@ -527,7 +527,7 @@
     {
       "position_code": "FACL",
       "task_number": 30,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure established guidelines are followed.",
@@ -544,7 +544,7 @@
     {
       "position_code": "FACL",
       "task_number": 31,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",
@@ -652,7 +652,7 @@
     {
       "position_code": "FACL",
       "task_number": 37,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor restrictions/work requirements for each resource to maximize safe and efficient assignments and demobilization.",
@@ -694,7 +694,7 @@
     {
       "position_code": "FACL",
       "task_number": 39,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Request additional communications services (e.g., telephone, satcom, microwave).",
@@ -710,7 +710,7 @@
     {
       "position_code": "FACL",
       "task_number": 40,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Order AM air-to-air and FM air-to-ground frequencies following proper procedures.",
@@ -726,7 +726,7 @@
     {
       "position_code": "FACL",
       "task_number": 41,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure establishment and operation of Incident Communications Center.",
@@ -849,7 +849,7 @@
     {
       "position_code": "FACL",
       "task_number": 48,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Prepare ICS 205, Incident Radio Communications Plan.",
@@ -1000,7 +1000,7 @@
     {
       "position_code": "FACL",
       "task_number": 57,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop plans to ensure continuing food service when a Mobile Food Services unit is not used, or under adverse conditions.",
@@ -1042,7 +1042,7 @@
     {
       "position_code": "FACL",
       "task_number": 59,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Gather information for daily meal orders.",
@@ -1061,7 +1061,7 @@
     {
       "position_code": "FACL",
       "task_number": 60,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure appropriate health and safety measures are met.",
@@ -1097,7 +1097,7 @@
     {
       "position_code": "FACL",
       "task_number": 62,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide clear and concise direction to operators/contractors.",
@@ -1193,7 +1193,7 @@
     {
       "position_code": "FACL",
       "task_number": 67,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop incident Transportation Plan.",
@@ -1379,7 +1379,7 @@
     {
       "position_code": "COML",
       "task_number": 1,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine support needs to meet the Incident Action Plan (IAP) or other relevant plans.",
@@ -1393,7 +1393,7 @@
     {
       "position_code": "COML",
       "task_number": 2,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine requirements for each section to be established and place the initial order.",
@@ -1410,7 +1410,7 @@
     {
       "position_code": "COML",
       "task_number": 3,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate with Logistics Section Chief and other functional areas to obtain resources to organize work space and keep unit operating.",
@@ -1483,7 +1483,7 @@
     {
       "position_code": "COML",
       "task_number": 7,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Organize assigned personnel to meet the needs of the unit.",
@@ -1585,7 +1585,7 @@
     {
       "position_code": "COML",
       "task_number": 13,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Complete daily review of staffing requirements and ensure adequate personnel to meet needs.",
@@ -1599,7 +1599,7 @@
     {
       "position_code": "COML",
       "task_number": 14,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop schedule/assignments based on IAP or relevant plan.",
@@ -1613,7 +1613,7 @@
     {
       "position_code": "COML",
       "task_number": 15,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -1627,7 +1627,7 @@
     {
       "position_code": "COML",
       "task_number": 16,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -1785,7 +1785,7 @@
     {
       "position_code": "COML",
       "task_number": 26,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Prepare information for briefings and meetings.",
@@ -1799,7 +1799,7 @@
     {
       "position_code": "COML",
       "task_number": 27,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine and monitor current status of unit activities and relay to appropriate incident personnel.",
@@ -1813,7 +1813,7 @@
     {
       "position_code": "COML",
       "task_number": 28,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Confirm estimated time of arrival of staff, equipment, and supplies.",
@@ -1827,7 +1827,7 @@
     {
       "position_code": "COML",
       "task_number": 29,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate across functional areas.",
@@ -1843,7 +1843,7 @@
     {
       "position_code": "COML",
       "task_number": 30,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure established guidelines are followed.",
@@ -1860,7 +1860,7 @@
     {
       "position_code": "COML",
       "task_number": 31,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",
@@ -1968,7 +1968,7 @@
     {
       "position_code": "COML",
       "task_number": 37,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor restrictions/work requirements for each resource to maximize safe and efficient assignments and demobilization.",
@@ -2010,7 +2010,7 @@
     {
       "position_code": "COML",
       "task_number": 39,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Request additional communications services (e.g., telephone, satcom, microwave).",
@@ -2026,7 +2026,7 @@
     {
       "position_code": "COML",
       "task_number": 40,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Order AM air-to-air and FM air-to-ground frequencies following proper procedures.",
@@ -2042,7 +2042,7 @@
     {
       "position_code": "COML",
       "task_number": 41,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure establishment and operation of Incident Communications Center.",
@@ -2165,7 +2165,7 @@
     {
       "position_code": "COML",
       "task_number": 48,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Prepare ICS 205, Incident Radio Communications Plan.",
@@ -2316,7 +2316,7 @@
     {
       "position_code": "COML",
       "task_number": 57,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop plans to ensure continuing food service when a Mobile Food Services unit is not used, or under adverse conditions.",
@@ -2358,7 +2358,7 @@
     {
       "position_code": "COML",
       "task_number": 59,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Gather information for daily meal orders.",
@@ -2377,7 +2377,7 @@
     {
       "position_code": "COML",
       "task_number": 60,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure appropriate health and safety measures are met.",
@@ -2413,7 +2413,7 @@
     {
       "position_code": "COML",
       "task_number": 62,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide clear and concise direction to operators/contractors.",
@@ -2509,7 +2509,7 @@
     {
       "position_code": "COML",
       "task_number": 67,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop incident Transportation Plan.",
@@ -2695,7 +2695,7 @@
     {
       "position_code": "FDUL",
       "task_number": 1,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine support needs to meet the Incident Action Plan (IAP) or other relevant plans.",
@@ -2709,7 +2709,7 @@
     {
       "position_code": "FDUL",
       "task_number": 2,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine requirements for each section to be established and place the initial order.",
@@ -2726,7 +2726,7 @@
     {
       "position_code": "FDUL",
       "task_number": 3,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate with Logistics Section Chief and other functional areas to obtain resources to organize work space and keep unit operating.",
@@ -2799,7 +2799,7 @@
     {
       "position_code": "FDUL",
       "task_number": 7,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Organize assigned personnel to meet the needs of the unit.",
@@ -2901,7 +2901,7 @@
     {
       "position_code": "FDUL",
       "task_number": 13,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Complete daily review of staffing requirements and ensure adequate personnel to meet needs.",
@@ -2915,7 +2915,7 @@
     {
       "position_code": "FDUL",
       "task_number": 14,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop schedule/assignments based on IAP or relevant plan.",
@@ -2929,7 +2929,7 @@
     {
       "position_code": "FDUL",
       "task_number": 15,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -2943,7 +2943,7 @@
     {
       "position_code": "FDUL",
       "task_number": 16,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -3101,7 +3101,7 @@
     {
       "position_code": "FDUL",
       "task_number": 26,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Prepare information for briefings and meetings.",
@@ -3115,7 +3115,7 @@
     {
       "position_code": "FDUL",
       "task_number": 27,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine and monitor current status of unit activities and relay to appropriate incident personnel.",
@@ -3129,7 +3129,7 @@
     {
       "position_code": "FDUL",
       "task_number": 28,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Confirm estimated time of arrival of staff, equipment, and supplies.",
@@ -3143,7 +3143,7 @@
     {
       "position_code": "FDUL",
       "task_number": 29,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate across functional areas.",
@@ -3159,7 +3159,7 @@
     {
       "position_code": "FDUL",
       "task_number": 30,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure established guidelines are followed.",
@@ -3176,7 +3176,7 @@
     {
       "position_code": "FDUL",
       "task_number": 31,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",
@@ -3284,7 +3284,7 @@
     {
       "position_code": "FDUL",
       "task_number": 37,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor restrictions/work requirements for each resource to maximize safe and efficient assignments and demobilization.",
@@ -3326,7 +3326,7 @@
     {
       "position_code": "FDUL",
       "task_number": 39,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Request additional communications services (e.g., telephone, satcom, microwave).",
@@ -3342,7 +3342,7 @@
     {
       "position_code": "FDUL",
       "task_number": 40,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Order AM air-to-air and FM air-to-ground frequencies following proper procedures.",
@@ -3358,7 +3358,7 @@
     {
       "position_code": "FDUL",
       "task_number": 41,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure establishment and operation of Incident Communications Center.",
@@ -3481,7 +3481,7 @@
     {
       "position_code": "FDUL",
       "task_number": 48,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Prepare ICS 205, Incident Radio Communications Plan.",
@@ -3632,7 +3632,7 @@
     {
       "position_code": "FDUL",
       "task_number": 57,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop plans to ensure continuing food service when a Mobile Food Services unit is not used, or under adverse conditions.",
@@ -3674,7 +3674,7 @@
     {
       "position_code": "FDUL",
       "task_number": 59,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Gather information for daily meal orders.",
@@ -3693,7 +3693,7 @@
     {
       "position_code": "FDUL",
       "task_number": 60,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure appropriate health and safety measures are met.",
@@ -3729,7 +3729,7 @@
     {
       "position_code": "FDUL",
       "task_number": 62,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide clear and concise direction to operators/contractors.",
@@ -3825,7 +3825,7 @@
     {
       "position_code": "FDUL",
       "task_number": 67,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop incident Transportation Plan.",
@@ -4011,7 +4011,7 @@
     {
       "position_code": "GSUL",
       "task_number": 1,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine support needs to meet the Incident Action Plan (IAP) or other relevant plans.",
@@ -4025,7 +4025,7 @@
     {
       "position_code": "GSUL",
       "task_number": 2,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine requirements for each section to be established and place the initial order.",
@@ -4042,7 +4042,7 @@
     {
       "position_code": "GSUL",
       "task_number": 3,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate with Logistics Section Chief and other functional areas to obtain resources to organize work space and keep unit operating.",
@@ -4115,7 +4115,7 @@
     {
       "position_code": "GSUL",
       "task_number": 7,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Organize assigned personnel to meet the needs of the unit.",
@@ -4217,7 +4217,7 @@
     {
       "position_code": "GSUL",
       "task_number": 13,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Complete daily review of staffing requirements and ensure adequate personnel to meet needs.",
@@ -4231,7 +4231,7 @@
     {
       "position_code": "GSUL",
       "task_number": 14,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop schedule/assignments based on IAP or relevant plan.",
@@ -4245,7 +4245,7 @@
     {
       "position_code": "GSUL",
       "task_number": 15,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -4259,7 +4259,7 @@
     {
       "position_code": "GSUL",
       "task_number": 16,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -4417,7 +4417,7 @@
     {
       "position_code": "GSUL",
       "task_number": 26,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Prepare information for briefings and meetings.",
@@ -4431,7 +4431,7 @@
     {
       "position_code": "GSUL",
       "task_number": 27,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine and monitor current status of unit activities and relay to appropriate incident personnel.",
@@ -4445,7 +4445,7 @@
     {
       "position_code": "GSUL",
       "task_number": 28,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Confirm estimated time of arrival of staff, equipment, and supplies.",
@@ -4459,7 +4459,7 @@
     {
       "position_code": "GSUL",
       "task_number": 29,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate across functional areas.",
@@ -4475,7 +4475,7 @@
     {
       "position_code": "GSUL",
       "task_number": 30,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure established guidelines are followed.",
@@ -4492,7 +4492,7 @@
     {
       "position_code": "GSUL",
       "task_number": 31,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",
@@ -4600,7 +4600,7 @@
     {
       "position_code": "GSUL",
       "task_number": 37,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor restrictions/work requirements for each resource to maximize safe and efficient assignments and demobilization.",
@@ -4642,7 +4642,7 @@
     {
       "position_code": "GSUL",
       "task_number": 39,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Request additional communications services (e.g., telephone, satcom, microwave).",
@@ -4658,7 +4658,7 @@
     {
       "position_code": "GSUL",
       "task_number": 40,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Order AM air-to-air and FM air-to-ground frequencies following proper procedures.",
@@ -4674,7 +4674,7 @@
     {
       "position_code": "GSUL",
       "task_number": 41,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure establishment and operation of Incident Communications Center.",
@@ -4797,7 +4797,7 @@
     {
       "position_code": "GSUL",
       "task_number": 48,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Prepare ICS 205, Incident Radio Communications Plan.",
@@ -4948,7 +4948,7 @@
     {
       "position_code": "GSUL",
       "task_number": 57,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop plans to ensure continuing food service when a Mobile Food Services unit is not used, or under adverse conditions.",
@@ -4990,7 +4990,7 @@
     {
       "position_code": "GSUL",
       "task_number": 59,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Gather information for daily meal orders.",
@@ -5009,7 +5009,7 @@
     {
       "position_code": "GSUL",
       "task_number": 60,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure appropriate health and safety measures are met.",
@@ -5045,7 +5045,7 @@
     {
       "position_code": "GSUL",
       "task_number": 62,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide clear and concise direction to operators/contractors.",
@@ -5141,7 +5141,7 @@
     {
       "position_code": "GSUL",
       "task_number": 67,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop incident Transportation Plan.",
@@ -5327,7 +5327,7 @@
     {
       "position_code": "SPUL",
       "task_number": 1,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine support needs to meet the Incident Action Plan (IAP) or other relevant plans.",
@@ -5341,7 +5341,7 @@
     {
       "position_code": "SPUL",
       "task_number": 2,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine requirements for each section to be established and place the initial order.",
@@ -5358,7 +5358,7 @@
     {
       "position_code": "SPUL",
       "task_number": 3,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate with Logistics Section Chief and other functional areas to obtain resources to organize work space and keep unit operating.",
@@ -5431,7 +5431,7 @@
     {
       "position_code": "SPUL",
       "task_number": 7,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Organize assigned personnel to meet the needs of the unit.",
@@ -5533,7 +5533,7 @@
     {
       "position_code": "SPUL",
       "task_number": 13,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Complete daily review of staffing requirements and ensure adequate personnel to meet needs.",
@@ -5547,7 +5547,7 @@
     {
       "position_code": "SPUL",
       "task_number": 14,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop schedule/assignments based on IAP or relevant plan.",
@@ -5561,7 +5561,7 @@
     {
       "position_code": "SPUL",
       "task_number": 15,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -5575,7 +5575,7 @@
     {
       "position_code": "SPUL",
       "task_number": 16,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -5733,7 +5733,7 @@
     {
       "position_code": "SPUL",
       "task_number": 26,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Prepare information for briefings and meetings.",
@@ -5747,7 +5747,7 @@
     {
       "position_code": "SPUL",
       "task_number": 27,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine and monitor current status of unit activities and relay to appropriate incident personnel.",
@@ -5761,7 +5761,7 @@
     {
       "position_code": "SPUL",
       "task_number": 28,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Confirm estimated time of arrival of staff, equipment, and supplies.",
@@ -5775,7 +5775,7 @@
     {
       "position_code": "SPUL",
       "task_number": 29,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate across functional areas.",
@@ -5791,7 +5791,7 @@
     {
       "position_code": "SPUL",
       "task_number": 30,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure established guidelines are followed.",
@@ -5808,7 +5808,7 @@
     {
       "position_code": "SPUL",
       "task_number": 31,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",
@@ -5916,7 +5916,7 @@
     {
       "position_code": "SPUL",
       "task_number": 37,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor restrictions/work requirements for each resource to maximize safe and efficient assignments and demobilization.",
@@ -5958,7 +5958,7 @@
     {
       "position_code": "SPUL",
       "task_number": 39,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Request additional communications services (e.g., telephone, satcom, microwave).",
@@ -5974,7 +5974,7 @@
     {
       "position_code": "SPUL",
       "task_number": 40,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Order AM air-to-air and FM air-to-ground frequencies following proper procedures.",
@@ -5990,7 +5990,7 @@
     {
       "position_code": "SPUL",
       "task_number": 41,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure establishment and operation of Incident Communications Center.",
@@ -6113,7 +6113,7 @@
     {
       "position_code": "SPUL",
       "task_number": 48,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Prepare ICS 205, Incident Radio Communications Plan.",
@@ -6264,7 +6264,7 @@
     {
       "position_code": "SPUL",
       "task_number": 57,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop plans to ensure continuing food service when a Mobile Food Services unit is not used, or under adverse conditions.",
@@ -6306,7 +6306,7 @@
     {
       "position_code": "SPUL",
       "task_number": 59,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Gather information for daily meal orders.",
@@ -6325,7 +6325,7 @@
     {
       "position_code": "SPUL",
       "task_number": 60,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure appropriate health and safety measures are met.",
@@ -6361,7 +6361,7 @@
     {
       "position_code": "SPUL",
       "task_number": 62,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide clear and concise direction to operators/contractors.",
@@ -6457,7 +6457,7 @@
     {
       "position_code": "SPUL",
       "task_number": 67,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop incident Transportation Plan.",

@@ -209,7 +209,7 @@
     {
       "position_code": "PETM",
       "task_number": 11,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Participate in wildfire prevention information and education activities.",
@@ -228,7 +228,7 @@
     {
       "position_code": "PETM",
       "task_number": 12,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Participate in fire prevention or education planning and activation.",
@@ -245,7 +245,7 @@
     {
       "position_code": "PETM",
       "task_number": 13,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate fuels and hazards.",
@@ -278,7 +278,7 @@
     {
       "position_code": "PETM",
       "task_number": 15,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure safety procedures are followed.",

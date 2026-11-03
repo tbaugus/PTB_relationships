@@ -162,7 +162,7 @@
     {
       "position_code": "ACPC",
       "task_number": 9,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Prepare and distribute area command team decisions.",
@@ -176,7 +176,7 @@
     {
       "position_code": "ACPC",
       "task_number": 10,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine availability, status and condition of committed and uncommitted resources.",

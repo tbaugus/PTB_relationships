@@ -77,7 +77,7 @@
     {
       "position_code": "LOFR",
       "task_number": 4,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish a work location within the first operational period following check in.",
@@ -97,7 +97,7 @@
     {
       "position_code": "LOFR",
       "task_number": 5,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure sufficient personnel and resources to accomplish information exchange.",
@@ -111,7 +111,7 @@
     {
       "position_code": "LOFR",
       "task_number": 6,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "If needed, obtain Assistant(s) for the liaison staff to complete required duties.",
@@ -237,7 +237,7 @@
     {
       "position_code": "LOFR",
       "task_number": 13,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Supervise liaison staff as needed, based on changes in incident situation and resource status.",
@@ -413,7 +413,7 @@
     {
       "position_code": "LOFR",
       "task_number": 24,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Brief and keep subordinates informed and updated.",
@@ -427,7 +427,7 @@
     {
       "position_code": "LOFR",
       "task_number": 25,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish time frames and schedules.",
@@ -441,7 +441,7 @@
     {
       "position_code": "LOFR",
       "task_number": 26,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assign and monitor work assignments.",
@@ -455,7 +455,7 @@
     {
       "position_code": "LOFR",
       "task_number": 27,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide counseling and discipline as needed.",
@@ -469,7 +469,7 @@
     {
       "position_code": "LOFR",
       "task_number": 28,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure that performance ratings are completed as required by the Incident Commander/Agency Administrator.",
@@ -619,7 +619,7 @@
     {
       "position_code": "LOFR",
       "task_number": 38,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Keep cooperating and assisting agencies informed of planning actions.",
@@ -636,7 +636,7 @@
     {
       "position_code": "LOFR",
       "task_number": 39,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Respond to requests for information and resolve problems.",
@@ -657,7 +657,7 @@
     {
       "position_code": "LOFR",
       "task_number": 40,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Supply cooperating and assisting agencies with demobilization information at least one operational period prior to demobilization.",
@@ -671,7 +671,7 @@
     {
       "position_code": "LOFR",
       "task_number": 41,
-      "category": "Communicate and assure understanding of work expectations within the chain",
+      "category": "Communicate and assure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure that subordinates understand their roles and responsibilities for carrying out the mission during the incident.",
@@ -685,7 +685,7 @@
     {
       "position_code": "LOFR",
       "task_number": 42,
-      "category": "Communicate and assure understanding of work expectations within the chain",
+      "category": "Communicate and assure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure incident management team members are aware of the safety-related aspects of their jobs and undertake their job responsibilities in a safe manner based on expected duration, size, type of incident, potential values to be protected, and jurisdictional involvement.",
@@ -699,7 +699,7 @@
     {
       "position_code": "LOFR",
       "task_number": 43,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Update incident information by the beginning of each operational period.",
@@ -766,7 +766,7 @@
     {
       "position_code": "LOFR",
       "task_number": 47,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine time of transfer, with Incident Commander and your replacement.",
@@ -780,7 +780,7 @@
     {
       "position_code": "LOFR",
       "task_number": 48,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Communicate transfer of Liaison duties to Command and General Staff, and assisting and cooperating agency representatives.",
@@ -794,7 +794,7 @@
     {
       "position_code": "LOFR",
       "task_number": 49,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "If necessary, coordinate with agencies about transfer of command back to local jurisdiction.",

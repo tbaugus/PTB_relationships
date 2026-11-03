@@ -61,7 +61,7 @@
     {
       "position_code": "SOFC",
       "task_number": 3,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Order additional safety assistants as needed.",
@@ -170,7 +170,7 @@
     {
       "position_code": "SOFC",
       "task_number": 9,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Use technical specialists to identify and mitigate hazards.",
@@ -188,7 +188,7 @@
     {
       "position_code": "SOFC",
       "task_number": 10,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop schedule/assignments based on Incident Action Plan (IAP) or relevant plan.",
@@ -205,7 +205,7 @@
     {
       "position_code": "SOFC",
       "task_number": 11,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -221,7 +221,7 @@
     {
       "position_code": "SOFC",
       "task_number": 12,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -542,7 +542,7 @@
     {
       "position_code": "SOFC",
       "task_number": 32,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Prepare Incident Action Plan Safety Analysis, (ICS 215A) for each operational period.",
@@ -562,7 +562,7 @@
     {
       "position_code": "SOFC",
       "task_number": 33,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Prepare a safety message for each IAP.",
@@ -580,7 +580,7 @@
     {
       "position_code": "SOFC",
       "task_number": 34,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Utilize special instructions in Division Group Assignment List, (ICS 204 WF), and Medical Plan, (ICS 206), to address specific safety needs.",
@@ -596,7 +596,7 @@
     {
       "position_code": "SOFC",
       "task_number": 35,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Conduct periodic inspections of base and camp facilities.",
@@ -614,7 +614,7 @@
     {
       "position_code": "SOFC",
       "task_number": 36,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify and document unsafe conditions and provide this information to appropriate command and general staff.",
@@ -629,7 +629,7 @@
     {
       "position_code": "SOFC",
       "task_number": 37,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor vehicle inspections, driver/operator qualifications and equipment records.",
@@ -643,7 +643,7 @@
     {
       "position_code": "SOFC",
       "task_number": 38,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor incident roads to provide for safe use by vehicles.",
@@ -662,7 +662,7 @@
     {
       "position_code": "SOFC",
       "task_number": 39,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review aircraft operations, if appropriate.",
@@ -676,7 +676,7 @@
     {
       "position_code": "SOFC",
       "task_number": 40,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor general welfare of incident personnel.",
@@ -697,7 +697,7 @@
     {
       "position_code": "SOFC",
       "task_number": 41,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review and approve relevant plans.",
@@ -715,7 +715,7 @@
     {
       "position_code": "SOFC",
       "task_number": 42,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor and review information on current and predicted weather conditions obtained from meteorologist.",
@@ -729,7 +729,7 @@
     {
       "position_code": "SOFC",
       "task_number": 43,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain information from Fire Behavior Analyst daily about unusual fire behavior conditions predicted for the next operational period.",
@@ -746,7 +746,7 @@
     {
       "position_code": "SOFC",
       "task_number": 44,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor food and sanitation services periodically, with the Food Unit Leader and Base/Camp Manager, for compliance with health and sanitation standards.",
@@ -760,7 +760,7 @@
     {
       "position_code": "SOFC",
       "task_number": 45,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review Medical Unit log, with the Medical Unit Leader, for injuries and illnesses.",
@@ -776,7 +776,7 @@
     {
       "position_code": "SOFC",
       "task_number": 46,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review incident reports (SAFECOM, SAFENET).",
@@ -792,7 +792,7 @@
     {
       "position_code": "SOFC",
       "task_number": 47,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor incident personal protective equipment (PPE) use.",
@@ -810,7 +810,7 @@
     {
       "position_code": "SOFC",
       "task_number": 48,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review the injuries/illnesses claims requiring hospitalization or further medical treatment with the Compensation-for-Injury Specialist.",

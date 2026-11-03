@@ -27,7 +27,7 @@
     {
       "position_code": "ASGS",
       "task_number": 1,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify existing organization/structure on incident.",
@@ -44,7 +44,7 @@
     {
       "position_code": "ASGS",
       "task_number": 2,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Order additional resources as needed.",
@@ -67,7 +67,7 @@
     {
       "position_code": "ASGS",
       "task_number": 3,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify frequencies and order as necessary.",
@@ -152,7 +152,7 @@
     {
       "position_code": "ASGS",
       "task_number": 8,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish and maintain contact with assigned aviation resources.",
@@ -241,7 +241,7 @@
     {
       "position_code": "ASGS",
       "task_number": 13,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Complete daily review of staffing requirements.",
@@ -255,7 +255,7 @@
     {
       "position_code": "ASGS",
       "task_number": 14,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine hours of operational period for air operations.",
@@ -269,7 +269,7 @@
     {
       "position_code": "ASGS",
       "task_number": 15,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -285,7 +285,7 @@
     {
       "position_code": "ASGS",
       "task_number": 16,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -529,7 +529,7 @@
     {
       "position_code": "ASGS",
       "task_number": 29,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assist in development of Aviation Communication Plan with Air Operations Branch Director and Air Tactical Group Supervisor.",
@@ -543,7 +543,7 @@
     {
       "position_code": "ASGS",
       "task_number": 30,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assist in development of ICS 220, Air Operations Plan.",
@@ -609,7 +609,7 @@
     {
       "position_code": "ASGS",
       "task_number": 34,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Conduct inspections and procedural reviews.",
@@ -719,7 +719,7 @@
     {
       "position_code": "ASGS",
       "task_number": 40,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assist and/or request safety review of air operations.",
@@ -739,7 +739,7 @@
     {
       "position_code": "ASGS",
       "task_number": 41,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure maintenance requirements for aircraft and equipment are met.",
@@ -753,7 +753,7 @@
     {
       "position_code": "ASGS",
       "task_number": 42,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure inspections and approvals are accomplished.",
@@ -769,7 +769,7 @@
     {
       "position_code": "ASGS",
       "task_number": 43,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).",

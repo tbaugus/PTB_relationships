@@ -52,7 +52,7 @@
     {
       "position_code": "HLCO",
       "task_number": 2,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain complete information from dispatch upon assignment.",
@@ -77,7 +77,7 @@
     {
       "position_code": "HLCO",
       "task_number": 3,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Check in at assigned base of operations and with supervisor.",
@@ -96,7 +96,7 @@
     {
       "position_code": "HLCO",
       "task_number": 4,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate aircraft capabilities and pilot qualifications per agency standards.",
@@ -116,7 +116,7 @@
     {
       "position_code": "HLCO",
       "task_number": 5,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure aircraft preparation – pilot pre-flight responsibilities are completed.",
@@ -225,7 +225,7 @@
     {
       "position_code": "HLCO",
       "task_number": 10,
-      "category": "Establish organization structure, reporting procedures, and chain of",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Conduct a mission safety briefing for pilot.",
@@ -282,7 +282,7 @@
     {
       "position_code": "HLCO",
       "task_number": 13,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Demonstrate navigational tasks by plotting coordinates.",
@@ -301,7 +301,7 @@
     {
       "position_code": "HLCO",
       "task_number": 14,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Demonstrate the after-takeoff duties.",
@@ -362,7 +362,7 @@
     {
       "position_code": "HLCO",
       "task_number": 17,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Enter the Fire Traffic Area (FTA) when Aerial Supervision is on scene.",
@@ -384,7 +384,7 @@
     {
       "position_code": "HLCO",
       "task_number": 18,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Enter the Fire Traffic Area (FTA) when Aerial Supervision is not on scene, but other aircraft are.",
@@ -407,7 +407,7 @@
     {
       "position_code": "HLCO",
       "task_number": 19,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Enter the Fire Traffic Area (FTA) when there are no aircraft on scene.",
@@ -428,7 +428,7 @@
     {
       "position_code": "HLCO",
       "task_number": 20,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Enter Incident Airspace.",
@@ -444,7 +444,7 @@
     {
       "position_code": "HLCO",
       "task_number": 21,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Arrive on scene and perform initial responsibilities:",
@@ -463,7 +463,7 @@
     {
       "position_code": "HLCO",
       "task_number": 22,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Perform Initial Briefing to all incoming helicopters when aircraft make initial contact (12 nm ring).",
@@ -479,7 +479,7 @@
     {
       "position_code": "HLCO",
       "task_number": 23,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Perform Tactical Briefings to tactical mission helicopters when the drop/mission area is in sight.",
@@ -495,7 +495,7 @@
     {
       "position_code": "HLCO",
       "task_number": 24,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Perform Departure Briefings to helicopters upon completion of mission/fuel cycle.",
@@ -511,7 +511,7 @@
     {
       "position_code": "HLCO",
       "task_number": 25,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Direct helicopters (Target Description) to mission areas and targets using fire anatomy, common terminology, and brevity in communications.",
@@ -527,7 +527,7 @@
     {
       "position_code": "HLCO",
       "task_number": 26,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic using pilot and aerial supervision.",
@@ -544,7 +544,7 @@
     {
       "position_code": "HLCO",
       "task_number": 27,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic using vertical separation principles.",
@@ -564,7 +564,7 @@
     {
       "position_code": "HLCO",
       "task_number": 28,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic using Horizontal Separation Principles.",
@@ -581,7 +581,7 @@
     {
       "position_code": "HLCO",
       "task_number": 29,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic using incident entry and exit corridors.",
@@ -597,7 +597,7 @@
     {
       "position_code": "HLCO",
       "task_number": 30,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic using holding areas and routes.",
@@ -613,7 +613,7 @@
     {
       "position_code": "HLCO",
       "task_number": 31,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic using sequencing.",
@@ -630,7 +630,7 @@
     {
       "position_code": "HLCO",
       "task_number": 32,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic using checkpoints and virtual fences.",
@@ -648,7 +648,7 @@
     {
       "position_code": "HLCO",
       "task_number": 33,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic using helicopter routes.",
@@ -665,7 +665,7 @@
     {
       "position_code": "HLCO",
       "task_number": 34,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic using helicopter daisy-chains.",
@@ -682,7 +682,7 @@
     {
       "position_code": "HLCO",
       "task_number": 35,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter recon flights maintaining safe separation of aircraft.",
@@ -700,7 +700,7 @@
     {
       "position_code": "HLCO",
       "task_number": 36,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic with intersecting routes.",
@@ -717,7 +717,7 @@
     {
       "position_code": "HLCO",
       "task_number": 37,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic requiring nonstandard patterns.",
@@ -735,7 +735,7 @@
     {
       "position_code": "HLCO",
       "task_number": 38,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Manage helicopter air tactics to provide continuity.",
@@ -756,7 +756,7 @@
     {
       "position_code": "HLCO",
       "task_number": 39,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Manage HLCO/ATGS relief staffing using relief guidelines addressing fatigue, effectiveness, and safety.",
@@ -773,7 +773,7 @@
     {
       "position_code": "HLCO",
       "task_number": 40,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and provide fire information and size up for tactical planning.",
@@ -795,7 +795,7 @@
     {
       "position_code": "HLCO",
       "task_number": 41,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and assign air resources per Operations/IC strategy, tactics, and mission priorities.",
@@ -809,7 +809,7 @@
     {
       "position_code": "HLCO",
       "task_number": 42,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and determine TFR requirements and per SAS PMS 505",
@@ -826,7 +826,7 @@
     {
       "position_code": "HLCO",
       "task_number": 43,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine airspace conflicts.",
@@ -842,7 +842,7 @@
     {
       "position_code": "HLCO",
       "task_number": 44,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel to evaluate values at risk.",
@@ -861,7 +861,7 @@
     {
       "position_code": "HLCO",
       "task_number": 45,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and recommend strategies, tactics, and resources needed.",
@@ -887,7 +887,7 @@
     {
       "position_code": "HLCO",
       "task_number": 46,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and provide air drop information to ground crews.",
@@ -907,7 +907,7 @@
     {
       "position_code": "HLCO",
       "task_number": 47,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and provide safety oversight to ground resources.",
@@ -927,7 +927,7 @@
     {
       "position_code": "HLCO",
       "task_number": 48,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and determine the procedures for ordering tactical aerial resources.",
@@ -944,7 +944,7 @@
     {
       "position_code": "HLCO",
       "task_number": 49,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate with dispatch in a timely manner and demonstrate communication with brevity and common terminology regarding appropriate information.",
@@ -1014,7 +1014,7 @@
     {
       "position_code": "HLCO",
       "task_number": 52,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Manage flight emergency using appropriate procedures. Emergency is highest priority until aircraft lands safely.",
@@ -1038,7 +1038,7 @@
     {
       "position_code": "HLCO",
       "task_number": 53,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Manage a missing aircraft/aircraft mishap situation using the appropriate procedures.",
@@ -1062,7 +1062,7 @@
     {
       "position_code": "HLCO",
       "task_number": 54,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Manage an Incident Within an Incident (IWI) situation using appropriate procedures.",
@@ -1291,7 +1291,7 @@
     {
       "position_code": "HLCO",
       "task_number": 67,
-      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior, weather, and other relevant events.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify and appropriately act on hazardous situations to ground forces.",
@@ -1326,7 +1326,7 @@
     {
       "position_code": "HLCO",
       "task_number": 69,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate/alter/shutdown aviation operations when appropriate.",
@@ -1347,7 +1347,7 @@
     {
       "position_code": "HLCO",
       "task_number": 70,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).",
@@ -1381,7 +1381,7 @@
     {
       "position_code": "HLCO",
       "task_number": 72,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure familiarity and compliance with relevant helicopter administration policy. Conduct or obtain pre-use inspection of aircraft.",
@@ -1403,7 +1403,7 @@
     {
       "position_code": "HLCO",
       "task_number": 73,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Demonstrate an understanding of the relationship between Span of Control/Incident Complexity and the need for additional command and control aircraft (i.e. second HLCO, ATGS, MLCO)",
@@ -1422,7 +1422,7 @@
     {
       "position_code": "HLCO",
       "task_number": 74,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Demonstrate ability to sequence helicopters with fixed wing operations",
@@ -1441,7 +1441,7 @@
     {
       "position_code": "HLCO",
       "task_number": 75,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish helicopter priorities to meet incident tactical objectives",
@@ -1455,7 +1455,7 @@
     {
       "position_code": "HLCO",
       "task_number": 76,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Demonstrate staying within the HLCO profile",
@@ -1469,7 +1469,7 @@
     {
       "position_code": "HLCO",
       "task_number": 77,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor effectiveness of operations and adjust as necessary.",
@@ -1483,7 +1483,7 @@
     {
       "position_code": "HLCO",
       "task_number": 78,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish communications with HEBM/ASGS/ATGS/AOBD to ensure appropriate frequency allocation, utilization, and naming convention",
@@ -1497,7 +1497,7 @@
     {
       "position_code": "HLCO",
       "task_number": 79,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure positive control of helicopters in operating areas",
@@ -1511,7 +1511,7 @@
     {
       "position_code": "HLCO",
       "task_number": 80,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Share information with HEMB/ATGS/ASGS/AOBD to be added to flight map to ensure NWCG standards for map symbology are used",
@@ -1525,7 +1525,7 @@
     {
       "position_code": "HLCO",
       "task_number": 81,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assist the helibase manager with Pilot break out briefing to promote a safe flying environment, with pilot input",
@@ -1539,7 +1539,7 @@
     {
       "position_code": "HLCO",
       "task_number": 82,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On a moderate complexity fire, conduct HLCO operations supervising rotor-wing tactical aircraft, and pass an evaluation flight in accordance with the evaluation requirements on the Aerial Supervision Mission Evaluation form",
@@ -1553,7 +1553,7 @@
     {
       "position_code": "HLCO",
       "task_number": 83,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and assign air resources per Operations/IC strategy, tactics, and mission priorities.",
@@ -1567,7 +1567,7 @@
     {
       "position_code": "HLCO",
       "task_number": 84,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate fixed wing water-scooper operations with helicopter operations.",
@@ -1583,7 +1583,7 @@
     {
       "position_code": "HLCO",
       "task_number": 85,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and determine TFR requirements.",
@@ -1600,7 +1600,7 @@
     {
       "position_code": "HLCO",
       "task_number": 86,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel to evaluate values at risk.",
@@ -1619,7 +1619,7 @@
     {
       "position_code": "HLCO",
       "task_number": 87,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and recommend strategies, tactics, and resources needed.",
@@ -1645,7 +1645,7 @@
     {
       "position_code": "HLCO",
       "task_number": 88,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and provide air drop information to ground crews.",
@@ -1665,7 +1665,7 @@
     {
       "position_code": "HLCO",
       "task_number": 89,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and provide safety oversight to ground resources.",
@@ -1683,7 +1683,7 @@
     {
       "position_code": "HLCO",
       "task_number": 90,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an initial attack incident, coordinate with ground personnel and determine the procedures and authority for ordering tactical aerial resources.",
@@ -1700,7 +1700,7 @@
     {
       "position_code": "HLCO",
       "task_number": 91,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine need for Helicopter Coordinator, lead plane, ASM or other aerial supervision resources based on span of control.",
@@ -1714,7 +1714,7 @@
     {
       "position_code": "HLCO",
       "task_number": 92,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Perform aircraft appropriate initial briefing to all incoming aircraft when aircraft make initial contact (12 nm ring).",
@@ -1730,7 +1730,7 @@
     {
       "position_code": "HLCO",
       "task_number": 93,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Perform aircraft appropriate tactical briefings when the drop/mission area is in sight per SAS PMS 505e",
@@ -1744,7 +1744,7 @@
     {
       "position_code": "HLCO",
       "task_number": 94,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Perform departure briefings to airtankers upon completion of drop per SAS script PMS 505e",
@@ -1758,7 +1758,7 @@
     {
       "position_code": "HLCO",
       "task_number": 95,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Direct airtankers (Target Description) to mission areas and targets using fire anatomy, common terminology, and brevity in communications per SAS script PMS 505e",
@@ -1772,7 +1772,7 @@
     {
       "position_code": "HLCO",
       "task_number": 96,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic",
@@ -1789,7 +1789,7 @@
     {
       "position_code": "HLCO",
       "task_number": 97,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Behavior: Follow established procedures and/or safety procedures relevant to given assignment. Coordinate mixed (fixed and rotor) air traffic using vertical separation principles.",
@@ -1810,7 +1810,7 @@
     {
       "position_code": "HLCO",
       "task_number": 98,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using horizontal separation principles.",
@@ -1827,7 +1827,7 @@
     {
       "position_code": "HLCO",
       "task_number": 99,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using incident entry and exit corridors.",
@@ -1843,7 +1843,7 @@
     {
       "position_code": "HLCO",
       "task_number": 100,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using holding areas and initial points.",
@@ -1860,7 +1860,7 @@
     {
       "position_code": "HLCO",
       "task_number": 101,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using sequencing.",
@@ -1878,7 +1878,7 @@
     {
       "position_code": "HLCO",
       "task_number": 102,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using interval dispatching.",
@@ -1894,7 +1894,7 @@
     {
       "position_code": "HLCO",
       "task_number": 103,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using checkpoints and virtual fences.",
@@ -1912,7 +1912,7 @@
     {
       "position_code": "HLCO",
       "task_number": 104,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using helicopter routes.",
@@ -1929,7 +1929,7 @@
     {
       "position_code": "HLCO",
       "task_number": 105,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using helicopter daisy-chains.",
@@ -1946,7 +1946,7 @@
     {
       "position_code": "HLCO",
       "task_number": 106,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) airspace and supervise a helicopter recon flight maintaining safe separation of aircraft.",
@@ -1964,7 +1964,7 @@
     {
       "position_code": "HLCO",
       "task_number": 107,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic with Intersecting Routes.",
@@ -1981,7 +1981,7 @@
     {
       "position_code": "HLCO",
       "task_number": 108,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic requiring nonstandard patterns.",
@@ -1999,7 +1999,7 @@
     {
       "position_code": "HLCO",
       "task_number": 109,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate work with Lead/ASM.",
@@ -2017,7 +2017,7 @@
     {
       "position_code": "HLCO",
       "task_number": 110,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Manage mixed (fixed and rotor) air tactics to provide continuity.",
@@ -2040,7 +2040,7 @@
     {
       "position_code": "HLCO",
       "task_number": 111,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Manage aerial supervision relief staffing using relief guidelines addressing fatigue, effectiveness, and safety.",
@@ -2079,7 +2079,7 @@
     {
       "position_code": "HLCO",
       "task_number": 113,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On a moderate complexity fire, conduct ATGS operations supervising fixed and rotor-wing tactical aircraft, and pass an evaluation flight in accordance with the evaluation requirements on the Aerial Supervision Mission Evaluation form.",
@@ -2109,7 +2109,7 @@
     {
       "position_code": "ATGS",
       "task_number": 2,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain complete information from dispatch upon assignment.",
@@ -2134,7 +2134,7 @@
     {
       "position_code": "ATGS",
       "task_number": 3,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Check in at assigned base of operations and with supervisor.",
@@ -2153,7 +2153,7 @@
     {
       "position_code": "ATGS",
       "task_number": 4,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate aircraft capabilities and pilot qualifications per agency standards.",
@@ -2173,7 +2173,7 @@
     {
       "position_code": "ATGS",
       "task_number": 5,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure aircraft preparation – pilot pre-flight responsibilities are completed.",
@@ -2282,7 +2282,7 @@
     {
       "position_code": "ATGS",
       "task_number": 10,
-      "category": "Establish organization structure, reporting procedures, and chain of",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Conduct a mission safety briefing for pilot.",
@@ -2339,7 +2339,7 @@
     {
       "position_code": "ATGS",
       "task_number": 13,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Demonstrate navigational tasks by plotting coordinates.",
@@ -2358,7 +2358,7 @@
     {
       "position_code": "ATGS",
       "task_number": 14,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Demonstrate the after-takeoff duties.",
@@ -2419,7 +2419,7 @@
     {
       "position_code": "ATGS",
       "task_number": 17,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Enter the Fire Traffic Area (FTA) when Aerial Supervision is on scene.",
@@ -2441,7 +2441,7 @@
     {
       "position_code": "ATGS",
       "task_number": 18,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Enter the Fire Traffic Area (FTA) when Aerial Supervision is not on scene, but other aircraft are.",
@@ -2464,7 +2464,7 @@
     {
       "position_code": "ATGS",
       "task_number": 19,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Enter the Fire Traffic Area (FTA) when there are no aircraft on scene.",
@@ -2485,7 +2485,7 @@
     {
       "position_code": "ATGS",
       "task_number": 20,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Enter Incident Airspace.",
@@ -2501,7 +2501,7 @@
     {
       "position_code": "ATGS",
       "task_number": 21,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Arrive on scene and perform initial responsibilities:",
@@ -2520,7 +2520,7 @@
     {
       "position_code": "ATGS",
       "task_number": 22,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Perform Initial Briefing to all incoming helicopters when aircraft make initial contact (12 nm ring).",
@@ -2536,7 +2536,7 @@
     {
       "position_code": "ATGS",
       "task_number": 23,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Perform Tactical Briefings to tactical mission helicopters when the drop/mission area is in sight.",
@@ -2552,7 +2552,7 @@
     {
       "position_code": "ATGS",
       "task_number": 24,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Perform Departure Briefings to helicopters upon completion of mission/fuel cycle.",
@@ -2568,7 +2568,7 @@
     {
       "position_code": "ATGS",
       "task_number": 25,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Direct helicopters (Target Description) to mission areas and targets using fire anatomy, common terminology, and brevity in communications.",
@@ -2584,7 +2584,7 @@
     {
       "position_code": "ATGS",
       "task_number": 26,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic using pilot and aerial supervision.",
@@ -2601,7 +2601,7 @@
     {
       "position_code": "ATGS",
       "task_number": 27,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic using vertical separation principles.",
@@ -2621,7 +2621,7 @@
     {
       "position_code": "ATGS",
       "task_number": 28,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic using Horizontal Separation Principles.",
@@ -2638,7 +2638,7 @@
     {
       "position_code": "ATGS",
       "task_number": 29,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic using incident entry and exit corridors.",
@@ -2654,7 +2654,7 @@
     {
       "position_code": "ATGS",
       "task_number": 30,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic using holding areas and routes.",
@@ -2670,7 +2670,7 @@
     {
       "position_code": "ATGS",
       "task_number": 31,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic using sequencing.",
@@ -2687,7 +2687,7 @@
     {
       "position_code": "ATGS",
       "task_number": 32,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic using checkpoints and virtual fences.",
@@ -2705,7 +2705,7 @@
     {
       "position_code": "ATGS",
       "task_number": 33,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic using helicopter routes.",
@@ -2722,7 +2722,7 @@
     {
       "position_code": "ATGS",
       "task_number": 34,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic using helicopter daisy-chains.",
@@ -2739,7 +2739,7 @@
     {
       "position_code": "ATGS",
       "task_number": 35,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter recon flights maintaining safe separation of aircraft.",
@@ -2757,7 +2757,7 @@
     {
       "position_code": "ATGS",
       "task_number": 36,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic with intersecting routes.",
@@ -2774,7 +2774,7 @@
     {
       "position_code": "ATGS",
       "task_number": 37,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate helicopter air traffic requiring nonstandard patterns.",
@@ -2792,7 +2792,7 @@
     {
       "position_code": "ATGS",
       "task_number": 38,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Manage helicopter air tactics to provide continuity.",
@@ -2813,7 +2813,7 @@
     {
       "position_code": "ATGS",
       "task_number": 39,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Manage HLCO/ATGS relief staffing using relief guidelines addressing fatigue, effectiveness, and safety.",
@@ -2830,7 +2830,7 @@
     {
       "position_code": "ATGS",
       "task_number": 40,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and provide fire information and size up for tactical planning.",
@@ -2852,7 +2852,7 @@
     {
       "position_code": "ATGS",
       "task_number": 41,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and assign air resources per Operations/IC strategy, tactics, and mission priorities.",
@@ -2866,7 +2866,7 @@
     {
       "position_code": "ATGS",
       "task_number": 42,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and determine TFR requirements and per SAS PMS 505",
@@ -2883,7 +2883,7 @@
     {
       "position_code": "ATGS",
       "task_number": 43,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine airspace conflicts.",
@@ -2899,7 +2899,7 @@
     {
       "position_code": "ATGS",
       "task_number": 44,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel to evaluate values at risk.",
@@ -2918,7 +2918,7 @@
     {
       "position_code": "ATGS",
       "task_number": 45,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and recommend strategies, tactics, and resources needed.",
@@ -2944,7 +2944,7 @@
     {
       "position_code": "ATGS",
       "task_number": 46,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and provide air drop information to ground crews.",
@@ -2964,7 +2964,7 @@
     {
       "position_code": "ATGS",
       "task_number": 47,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and provide safety oversight to ground resources.",
@@ -2984,7 +2984,7 @@
     {
       "position_code": "ATGS",
       "task_number": 48,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an extended attack incident/IMT assigned, coordinate with ground personnel and determine the procedures for ordering tactical aerial resources.",
@@ -3001,7 +3001,7 @@
     {
       "position_code": "ATGS",
       "task_number": 49,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate with dispatch in a timely manner and demonstrate communication with brevity and common terminology regarding appropriate information.",
@@ -3071,7 +3071,7 @@
     {
       "position_code": "ATGS",
       "task_number": 52,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Manage flight emergency using appropriate procedures. Emergency is highest priority until aircraft lands safely.",
@@ -3095,7 +3095,7 @@
     {
       "position_code": "ATGS",
       "task_number": 53,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Manage a missing aircraft/aircraft mishap situation using the appropriate procedures.",
@@ -3119,7 +3119,7 @@
     {
       "position_code": "ATGS",
       "task_number": 54,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Manage an Incident Within an Incident (IWI) situation using appropriate procedures.",
@@ -3348,7 +3348,7 @@
     {
       "position_code": "ATGS",
       "task_number": 67,
-      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior, weather, and other relevant events.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify and appropriately act on hazardous situations to ground forces.",
@@ -3383,7 +3383,7 @@
     {
       "position_code": "ATGS",
       "task_number": 69,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate/alter/shutdown aviation operations when appropriate.",
@@ -3404,7 +3404,7 @@
     {
       "position_code": "ATGS",
       "task_number": 70,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).",
@@ -3438,7 +3438,7 @@
     {
       "position_code": "ATGS",
       "task_number": 72,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure familiarity and compliance with relevant helicopter administration policy. Conduct or obtain pre-use inspection of aircraft.",
@@ -3460,7 +3460,7 @@
     {
       "position_code": "ATGS",
       "task_number": 73,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Demonstrate an understanding of the relationship between Span of Control/Incident Complexity and the need for additional command and control aircraft (i.e. second HLCO, ATGS, MLCO)",
@@ -3479,7 +3479,7 @@
     {
       "position_code": "ATGS",
       "task_number": 74,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Demonstrate ability to sequence helicopters with fixed wing operations",
@@ -3498,7 +3498,7 @@
     {
       "position_code": "ATGS",
       "task_number": 75,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish helicopter priorities to meet incident tactical objectives",
@@ -3512,7 +3512,7 @@
     {
       "position_code": "ATGS",
       "task_number": 76,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Demonstrate staying within the HLCO profile",
@@ -3526,7 +3526,7 @@
     {
       "position_code": "ATGS",
       "task_number": 77,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor effectiveness of operations and adjust as necessary.",
@@ -3540,7 +3540,7 @@
     {
       "position_code": "ATGS",
       "task_number": 78,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish communications with HEBM/ASGS/ATGS/AOBD to ensure appropriate frequency allocation, utilization, and naming convention",
@@ -3554,7 +3554,7 @@
     {
       "position_code": "ATGS",
       "task_number": 79,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure positive control of helicopters in operating areas",
@@ -3568,7 +3568,7 @@
     {
       "position_code": "ATGS",
       "task_number": 80,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Share information with HEMB/ATGS/ASGS/AOBD to be added to flight map to ensure NWCG standards for map symbology are used",
@@ -3582,7 +3582,7 @@
     {
       "position_code": "ATGS",
       "task_number": 81,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assist the helibase manager with Pilot break out briefing to promote a safe flying environment, with pilot input",
@@ -3596,7 +3596,7 @@
     {
       "position_code": "ATGS",
       "task_number": 82,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On a moderate complexity fire, conduct HLCO operations supervising rotor-wing tactical aircraft, and pass an evaluation flight in accordance with the evaluation requirements on the Aerial Supervision Mission Evaluation form",
@@ -3610,7 +3610,7 @@
     {
       "position_code": "ATGS",
       "task_number": 83,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and assign air resources per Operations/IC strategy, tactics, and mission priorities.",
@@ -3624,7 +3624,7 @@
     {
       "position_code": "ATGS",
       "task_number": 84,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate fixed wing water-scooper operations with helicopter operations.",
@@ -3640,7 +3640,7 @@
     {
       "position_code": "ATGS",
       "task_number": 85,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and determine TFR requirements.",
@@ -3657,7 +3657,7 @@
     {
       "position_code": "ATGS",
       "task_number": 86,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel to evaluate values at risk.",
@@ -3676,7 +3676,7 @@
     {
       "position_code": "ATGS",
       "task_number": 87,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and recommend strategies, tactics, and resources needed.",
@@ -3702,7 +3702,7 @@
     {
       "position_code": "ATGS",
       "task_number": 88,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and provide air drop information to ground crews.",
@@ -3722,7 +3722,7 @@
     {
       "position_code": "ATGS",
       "task_number": 89,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an Initial Attack incident, coordinate with ground personnel and provide safety oversight to ground resources.",
@@ -3740,7 +3740,7 @@
     {
       "position_code": "ATGS",
       "task_number": 90,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On an initial attack incident, coordinate with ground personnel and determine the procedures and authority for ordering tactical aerial resources.",
@@ -3757,7 +3757,7 @@
     {
       "position_code": "ATGS",
       "task_number": 91,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine need for Helicopter Coordinator, lead plane, ASM or other aerial supervision resources based on span of control.",
@@ -3771,7 +3771,7 @@
     {
       "position_code": "ATGS",
       "task_number": 92,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Perform aircraft appropriate initial briefing to all incoming aircraft when aircraft make initial contact (12 nm ring).",
@@ -3787,7 +3787,7 @@
     {
       "position_code": "ATGS",
       "task_number": 93,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Perform aircraft appropriate tactical briefings when the drop/mission area is in sight per SAS PMS 505e",
@@ -3801,7 +3801,7 @@
     {
       "position_code": "ATGS",
       "task_number": 94,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Perform departure briefings to airtankers upon completion of drop per SAS script PMS 505e",
@@ -3815,7 +3815,7 @@
     {
       "position_code": "ATGS",
       "task_number": 95,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Direct airtankers (Target Description) to mission areas and targets using fire anatomy, common terminology, and brevity in communications per SAS script PMS 505e",
@@ -3829,7 +3829,7 @@
     {
       "position_code": "ATGS",
       "task_number": 96,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic",
@@ -3846,7 +3846,7 @@
     {
       "position_code": "ATGS",
       "task_number": 97,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Behavior: Follow established procedures and/or safety procedures relevant to given assignment. Coordinate mixed (fixed and rotor) air traffic using vertical separation principles.",
@@ -3867,7 +3867,7 @@
     {
       "position_code": "ATGS",
       "task_number": 98,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using horizontal separation principles.",
@@ -3884,7 +3884,7 @@
     {
       "position_code": "ATGS",
       "task_number": 99,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using incident entry and exit corridors.",
@@ -3900,7 +3900,7 @@
     {
       "position_code": "ATGS",
       "task_number": 100,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using holding areas and initial points.",
@@ -3917,7 +3917,7 @@
     {
       "position_code": "ATGS",
       "task_number": 101,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using sequencing.",
@@ -3935,7 +3935,7 @@
     {
       "position_code": "ATGS",
       "task_number": 102,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using interval dispatching.",
@@ -3951,7 +3951,7 @@
     {
       "position_code": "ATGS",
       "task_number": 103,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using checkpoints and virtual fences.",
@@ -3969,7 +3969,7 @@
     {
       "position_code": "ATGS",
       "task_number": 104,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using helicopter routes.",
@@ -3986,7 +3986,7 @@
     {
       "position_code": "ATGS",
       "task_number": 105,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic using helicopter daisy-chains.",
@@ -4003,7 +4003,7 @@
     {
       "position_code": "ATGS",
       "task_number": 106,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) airspace and supervise a helicopter recon flight maintaining safe separation of aircraft.",
@@ -4021,7 +4021,7 @@
     {
       "position_code": "ATGS",
       "task_number": 107,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic with Intersecting Routes.",
@@ -4038,7 +4038,7 @@
     {
       "position_code": "ATGS",
       "task_number": 108,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate mixed (fixed and rotor) air traffic requiring nonstandard patterns.",
@@ -4056,7 +4056,7 @@
     {
       "position_code": "ATGS",
       "task_number": 109,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate work with Lead/ASM.",
@@ -4074,7 +4074,7 @@
     {
       "position_code": "ATGS",
       "task_number": 110,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Manage mixed (fixed and rotor) air tactics to provide continuity.",
@@ -4097,7 +4097,7 @@
     {
       "position_code": "ATGS",
       "task_number": 111,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Manage aerial supervision relief staffing using relief guidelines addressing fatigue, effectiveness, and safety.",
@@ -4136,7 +4136,7 @@
     {
       "position_code": "ATGS",
       "task_number": 113,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "On a moderate complexity fire, conduct ATGS operations supervising fixed and rotor-wing tactical aircraft, and pass an evaluation flight in accordance with the evaluation requirements on the Aerial Supervision Mission Evaluation form.",

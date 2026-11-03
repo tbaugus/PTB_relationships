@@ -95,7 +95,7 @@
     {
       "position_code": "COMT",
       "task_number": 4,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assist Communications Unit Leader in designing communications system to meet incident operational needs.",
@@ -238,7 +238,7 @@
     {
       "position_code": "COMT",
       "task_number": 12,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Prepare plan for demobilization of communication resources in conjunction with Communications Unit Leader or immediate supervisor.",
@@ -257,7 +257,7 @@
     {
       "position_code": "COMT",
       "task_number": 13,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify and prioritize incoming information and determine appropriate response.",
@@ -273,7 +273,7 @@
     {
       "position_code": "COMT",
       "task_number": 14,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish installation priorities while adhering to safety standards regarding communications.",
@@ -322,7 +322,7 @@
     {
       "position_code": "COMT",
       "task_number": 17,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide for the safety, welfare, and accountability of assigned personnel during the entire period of supervision.",
@@ -409,7 +409,7 @@
     {
       "position_code": "COMT",
       "task_number": 22,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate and efficient transfer of position duties when mobilizing/demobilizing.",
