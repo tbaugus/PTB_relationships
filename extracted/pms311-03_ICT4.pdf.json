@@ -64,7 +64,7 @@
     {
       "position_code": "ICT4",
       "task_number": 3,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure appropriate qualifications of incident personnel.",
@@ -106,7 +106,7 @@
     {
       "position_code": "ICT4",
       "task_number": 6,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Using the Fireline Handbook, organize assigned personnel into configurations which will meet incident/tactical objectives.",
@@ -124,7 +124,7 @@
     {
       "position_code": "ICT4",
       "task_number": 7,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish command and control.",
@@ -265,7 +265,7 @@
     {
       "position_code": "ICT4",
       "task_number": 15,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assign personnel to utilize skills and qualifications, and make adjustments as needed.",
@@ -279,7 +279,7 @@
     {
       "position_code": "ICT4",
       "task_number": 16,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -295,7 +295,7 @@
     {
       "position_code": "ICT4",
       "task_number": 17,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -440,7 +440,7 @@
     {
       "position_code": "ICT4",
       "task_number": 26,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Communicate by giving specific instructions and asking for feedback.",
@@ -457,7 +457,7 @@
     {
       "position_code": "ICT4",
       "task_number": 27,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure appropriate situation awareness.",
@@ -471,7 +471,7 @@
     {
       "position_code": "ICT4",
       "task_number": 28,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop a plan of action.",
@@ -492,7 +492,7 @@
     {
       "position_code": "ICT4",
       "task_number": 29,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain incident objectives from designated officer, supervisor, or dispatch.",
@@ -506,7 +506,7 @@
     {
       "position_code": "ICT4",
       "task_number": 30,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify values to be protected.",
@@ -520,7 +520,7 @@
     {
       "position_code": "ICT4",
       "task_number": 31,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Considering incident objectives, set priorities, and implement appropriate tactics.",
@@ -534,7 +534,7 @@
     {
       "position_code": "ICT4",
       "task_number": 32,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate incident progress.",
@@ -553,7 +553,7 @@
     {
       "position_code": "ICT4",
       "task_number": 33,
-      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior, weather, and other relevant events.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Comply with agency/area dispatch protocol.",
@@ -569,7 +569,7 @@
     {
       "position_code": "ICT4",
       "task_number": 34,
-      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior, weather, and other relevant events.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain, monitor, and document fire weather forecasts and other environmental factors to anticipate changes in fire behavior.",
@@ -688,7 +688,7 @@
     {
       "position_code": "ICT4",
       "task_number": 42,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure safety information covering hazards and relevant safety principles is included in plan of action.",
@@ -718,7 +718,7 @@
     {
       "position_code": "ICT4",
       "task_number": 44,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Using the Fireline Handbook, coordinate an efficient transfer of position duties when mobilizing/ demobilizing.",

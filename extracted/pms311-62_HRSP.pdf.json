@@ -89,7 +89,7 @@
     {
       "position_code": "HRSP",
       "task_number": 4,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Install a workstation within the first operational period following check-in.",
@@ -107,7 +107,7 @@
     {
       "position_code": "HRSP",
       "task_number": 5,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain phone/radio from Communications Unit.",
@@ -121,7 +121,7 @@
     {
       "position_code": "HRSP",
       "task_number": 6,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Order additional Human Resource Specialists if needed.",
@@ -343,7 +343,7 @@
     {
       "position_code": "HRSP",
       "task_number": 19,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish a bulletin board for messages and current information.",
@@ -359,7 +359,7 @@
     {
       "position_code": "HRSP",
       "task_number": 20,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Attend incident planning and command staff meetings as required.",
@@ -373,7 +373,7 @@
     {
       "position_code": "HRSP",
       "task_number": 21,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Interact and coordinate with command and general staff.",
@@ -390,7 +390,7 @@
     {
       "position_code": "HRSP",
       "task_number": 22,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide input on demobilization priorities.",
@@ -407,7 +407,7 @@
     {
       "position_code": "HRSP",
       "task_number": 23,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure oral and written human resources messages are consistent with relevant federal/local laws, regulations, and policies.",
@@ -425,7 +425,7 @@
     {
       "position_code": "HRSP",
       "task_number": 24,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide for the safety and welfare of assigned resources.",
@@ -444,7 +444,7 @@
     {
       "position_code": "HRSP",
       "task_number": 25,
-      "category": "Effectively advise and assist in resolving human resource issues that occur",
+      "category": "Effectively advise and assist in resolving human resource issues that occur during the incident or event.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide accurate and timely advice and assistance to successfully resolve conflicts between parties.",
@@ -460,7 +460,7 @@
     {
       "position_code": "HRSP",
       "task_number": 26,
-      "category": "Effectively advise and assist in resolving human resource issues that occur",
+      "category": "Effectively advise and assist in resolving human resource issues that occur during the incident or event.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Take steps through appropriate lines of authority to resolve problems within the first operational period.",

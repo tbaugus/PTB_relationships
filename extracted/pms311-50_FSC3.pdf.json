@@ -81,7 +81,7 @@
     {
       "position_code": "FSC3",
       "task_number": 4,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify units within the section to be activated and resources required for section operation.",
@@ -95,7 +95,7 @@
     {
       "position_code": "FSC3",
       "task_number": 5,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify workspace requirements and determine locations.",
@@ -241,7 +241,7 @@
     {
       "position_code": "FSC3",
       "task_number": 13,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Plan and activate section.",
@@ -442,7 +442,7 @@
     {
       "position_code": "FSC3",
       "task_number": 26,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide initial operating instructions to section personnel.",
@@ -456,7 +456,7 @@
     {
       "position_code": "FSC3",
       "task_number": 27,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Perform the duties of a Time Unit Leader according to the most current version of the Field Operations Guide (ICS 420-1).",
@@ -473,7 +473,7 @@
     {
       "position_code": "FSC3",
       "task_number": 28,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Perform the duties of a Procurement Unit Leader according to the most current version of the Field Operations Guide (ICS 420-1).",
@@ -489,7 +489,7 @@
     {
       "position_code": "FSC3",
       "task_number": 29,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Perform the duties of a Compensation and Claims Unit Leader according to the most current version of the Field Operations Guide (ICS 420-1).",
@@ -505,7 +505,7 @@
     {
       "position_code": "FSC3",
       "task_number": 30,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Perform the duties of a Cost Unit Leader according to the most current version of the Field Operations Guide (ICS 420-1).",
@@ -523,7 +523,7 @@
     {
       "position_code": "FSC3",
       "task_number": 31,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish, monitor, and adjust performance expectations of subordinates.",
@@ -537,7 +537,7 @@
     {
       "position_code": "FSC3",
       "task_number": 32,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Communicate deficiencies immediately and take corrective action.",
@@ -551,7 +551,7 @@
     {
       "position_code": "FSC3",
       "task_number": 33,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Reinforce acceptable performance.",
@@ -565,7 +565,7 @@
     {
       "position_code": "FSC3",
       "task_number": 34,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify training needs and provide opportunities for training.",
@@ -579,7 +579,7 @@
     {
       "position_code": "FSC3",
       "task_number": 35,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure that performance ratings are completed as required by the incident or agency policy.",
@@ -642,7 +642,7 @@
     {
       "position_code": "FSC3",
       "task_number": 39,
-      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and debriefings.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Attend Agency Administrator or outgoing Incident Commander briefing. Obtain available incident information and incident agency guidelines and policies:",
@@ -660,7 +660,7 @@
     {
       "position_code": "FSC3",
       "task_number": 40,
-      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and debriefings.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain briefing from Incident Commander. May be one-on-one or in an Incident Management Team (IMT) meeting.",
@@ -678,7 +678,7 @@
     {
       "position_code": "FSC3",
       "task_number": 41,
-      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and debriefings.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Brief unit leaders on current and anticipated activity.",
@@ -692,7 +692,7 @@
     {
       "position_code": "FSC3",
       "task_number": 42,
-      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and debriefings.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide daily or operational period briefings to section personnel.",
@@ -706,7 +706,7 @@
     {
       "position_code": "FSC3",
       "task_number": 43,
-      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and debriefings.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Participate in the operational period briefing, emphasizing the needs of the Finance/Administration Section.",
@@ -720,7 +720,7 @@
     {
       "position_code": "FSC3",
       "task_number": 44,
-      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and debriefings.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Update Incident Commander on current accomplishments and/or problems..",
@@ -734,7 +734,7 @@
     {
       "position_code": "FSC3",
       "task_number": 45,
-      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and debriefings.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Brief staff on demobilization responsibilities.",
@@ -748,7 +748,7 @@
     {
       "position_code": "FSC3",
       "task_number": 46,
-      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and debriefings.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Participate in IMT debriefing with the Agency Administrator.",
@@ -762,7 +762,7 @@
     {
       "position_code": "FSC3",
       "task_number": 47,
-      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and debriefings.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Participate in the closeout session with agency administrative staff.",
@@ -776,7 +776,7 @@
     {
       "position_code": "FSC3",
       "task_number": 48,
-      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and debriefings.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Brief replacement if necessary.",
@@ -790,7 +790,7 @@
     {
       "position_code": "FSC3",
       "task_number": 49,
-      "category": "Ensure all relevant information is exchanged during check-in, briefings and",
+      "category": "Ensure all relevant information is exchanged during check-in, briefings and debriefings.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Participate in after-incident review per agency policy.",
@@ -881,7 +881,7 @@
     {
       "position_code": "FSC3",
       "task_number": 55,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate and share pertinent information for the section with IMT members which may affect incident management.",
@@ -897,7 +897,7 @@
     {
       "position_code": "FSC3",
       "task_number": 56,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide financial summary information on current incident operations.",
@@ -911,7 +911,7 @@
     {
       "position_code": "FSC3",
       "task_number": 57,
-      "category": "Communicate and assure understanding of work expectations within the chain",
+      "category": "Communicate and assure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate and share with incident management team members, all information for your section and what is anticipated for incident operations based on expected duration, size, type of incident, potential values to be protected, and jurisdictional involvement.",
@@ -925,7 +925,7 @@
     {
       "position_code": "FSC3",
       "task_number": 58,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop and implement a section operating plan. Consider the following:",
@@ -945,7 +945,7 @@
     {
       "position_code": "FSC3",
       "task_number": 59,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Participate in preparation and review of IAP.",
@@ -964,7 +964,7 @@
     {
       "position_code": "FSC3",
       "task_number": 60,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assist in development and approval of Incident Demobilization Plan.",
@@ -1000,7 +1000,7 @@
     {
       "position_code": "FSC3",
       "task_number": 62,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities..",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor section activities against Incident Action Plan (IAP) and adjust priorities accordingly.",
@@ -1143,7 +1143,7 @@
     {
       "position_code": "FSC3",
       "task_number": 71,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assist in development, approval and implementation of transfer of command when incident escalates/ deescalates.",
@@ -1157,7 +1157,7 @@
     {
       "position_code": "FSC3",
       "task_number": 72,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor and document progress towards incident objectives and prepare for transition.",
@@ -1171,7 +1171,7 @@
     {
       "position_code": "FSC3",
       "task_number": 73,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine with replacement time of transfer.",
@@ -1185,7 +1185,7 @@
     {
       "position_code": "FSC3",
       "task_number": 74,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Communicate transfer of command to operations and command staff.",
@@ -1199,7 +1199,7 @@
     {
       "position_code": "FSC3",
       "task_number": 75,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "If necessary, coordinate with agencies about transfer of command back to local jurisdiction.",

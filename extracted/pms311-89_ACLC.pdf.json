@@ -27,7 +27,7 @@
     {
       "position_code": "ACLC",
       "task_number": 1,
-      "category": "Ensure availability, qualifications and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify and order resources required for area command logistics operation.",
@@ -88,7 +88,7 @@
     {
       "position_code": "ACLC",
       "task_number": 5,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine work space requirements, location, and procurement procedures for the area command team.",
@@ -102,7 +102,7 @@
     {
       "position_code": "ACLC",
       "task_number": 6,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish procedures which facilitate communications.",
@@ -180,7 +180,7 @@
     {
       "position_code": "ACLC",
       "task_number": 11,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate and share all functional information for logistics with area command team members.",
@@ -194,7 +194,7 @@
     {
       "position_code": "ACLC",
       "task_number": 12,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assist in developing area command demobilization priorities and procedures.",
@@ -211,7 +211,7 @@
     {
       "position_code": "ACLC",
       "task_number": 13,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assist the Assistant Area Commander, Planning in developing an area command transition plan.",
@@ -225,7 +225,7 @@
     {
       "position_code": "ACLC",
       "task_number": 14,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate effectiveness of current system of expanded dispatch and identify needed improvements.",

@@ -89,7 +89,7 @@
     {
       "position_code": "PIOC",
       "task_number": 5,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate staffing, equipment and supply needs required to manage the section for short and long duration.",
@@ -108,7 +108,7 @@
     {
       "position_code": "PIOC",
       "task_number": 6,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Contact unit public information staff and/or established information center(s).",
@@ -129,7 +129,7 @@
     {
       "position_code": "PIOC",
       "task_number": 7,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish contact with Incident Management Team (IMT) to obtain initial information and review available documentation.",
@@ -148,7 +148,7 @@
     {
       "position_code": "PIOC",
       "task_number": 8,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate with local unit and Incident Commander to gather information in existing contracts or agreements applicable to the incident information function.",
@@ -162,7 +162,7 @@
     {
       "position_code": "PIOC",
       "task_number": 9,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish and maintain positive interpersonal and interagency working relationships.",
@@ -412,7 +412,7 @@
     {
       "position_code": "PIOC",
       "task_number": 23,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop Organizational Chart for complex incident.",
@@ -426,7 +426,7 @@
     {
       "position_code": "PIOC",
       "task_number": 24,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Apply the ICS.",
@@ -445,7 +445,7 @@
     {
       "position_code": "PIOC",
       "task_number": 25,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish/supervise information center.",
@@ -461,7 +461,7 @@
     {
       "position_code": "PIOC",
       "task_number": 26,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish work schedule for information staff.",
@@ -475,7 +475,7 @@
     {
       "position_code": "PIOC",
       "task_number": 27,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Effectively assess incident priorities, scale, and associated needs, develop strategies (staffing and operational) for changing incident complexity.",
@@ -492,7 +492,7 @@
     {
       "position_code": "PIOC",
       "task_number": 28,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assign and monitor preparation and update of information products.",
@@ -510,7 +510,7 @@
     {
       "position_code": "PIOC",
       "task_number": 29,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -528,7 +528,7 @@
     {
       "position_code": "PIOC",
       "task_number": 30,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Complete daily review of staffing requirements.",
@@ -542,7 +542,7 @@
     {
       "position_code": "PIOC",
       "task_number": 31,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop the schedule and assignments based on plans, expected situations, and operations.",
@@ -559,7 +559,7 @@
     {
       "position_code": "PIOC",
       "task_number": 32,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -950,7 +950,7 @@
     {
       "position_code": "PIOC",
       "task_number": 57,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor and document media coverage of incident.",
@@ -966,7 +966,7 @@
     {
       "position_code": "PIOC",
       "task_number": 58,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Adjust outreach tactics based on emerging issues.",

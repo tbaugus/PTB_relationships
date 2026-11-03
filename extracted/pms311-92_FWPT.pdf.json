@@ -27,7 +27,7 @@
     {
       "position_code": "FWPT",
       "task_number": 1,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain and assemble information and materials needed for kit (can be electronic or hard copies). Suggested items:",
@@ -49,7 +49,7 @@
     {
       "position_code": "FWPT",
       "task_number": 2,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Travel for assignment",
@@ -259,7 +259,7 @@
     {
       "position_code": "FWPT",
       "task_number": 14,
-      "category": "Demonstrate knowledge, skills, and abilities in the execution duties in various",
+      "category": "Demonstrate knowledge, skills, and abilities in the execution duties in various operational areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate with Ramp Manager",
@@ -277,7 +277,7 @@
     {
       "position_code": "FWPT",
       "task_number": 15,
-      "category": "Demonstrate knowledge, skills, and abilities in the execution duties in various",
+      "category": "Demonstrate knowledge, skills, and abilities in the execution duties in various operational areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Aircraft and/or airtanker operations",
@@ -295,7 +295,7 @@
     {
       "position_code": "FWPT",
       "task_number": 16,
-      "category": "Demonstrate knowledge, skills, and abilities in the execution duties in various",
+      "category": "Demonstrate knowledge, skills, and abilities in the execution duties in various operational areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ramp operations",
@@ -313,7 +313,7 @@
     {
       "position_code": "FWPT",
       "task_number": 17,
-      "category": "Demonstrate knowledge, skills, and abilities in the execution duties in various",
+      "category": "Demonstrate knowledge, skills, and abilities in the execution duties in various operational areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Hand signals",
@@ -331,7 +331,7 @@
     {
       "position_code": "FWPT",
       "task_number": 18,
-      "category": "Demonstrate knowledge, skills, and abilities in the execution duties in various",
+      "category": "Demonstrate knowledge, skills, and abilities in the execution duties in various operational areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Wing-walking",
@@ -349,7 +349,7 @@
     {
       "position_code": "FWPT",
       "task_number": 19,
-      "category": "Demonstrate knowledge, skills, and abilities in the execution duties in various",
+      "category": "Demonstrate knowledge, skills, and abilities in the execution duties in various operational areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Radio Use",

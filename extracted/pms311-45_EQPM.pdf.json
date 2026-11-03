@@ -90,7 +90,7 @@
     {
       "position_code": "EQPM",
       "task_number": 4,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine resources on hand and when necessary order additional resources.",
@@ -163,7 +163,7 @@
     {
       "position_code": "EQPM",
       "task_number": 8,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Organize assigned personnel to meet the needs of the assignment.",
@@ -270,7 +270,7 @@
     {
       "position_code": "EQPM",
       "task_number": 14,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Complete daily review of staffing requirements.",
@@ -284,7 +284,7 @@
     {
       "position_code": "EQPM",
       "task_number": 15,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop schedule/assignments based on IAP or relevant plan.",
@@ -298,7 +298,7 @@
     {
       "position_code": "EQPM",
       "task_number": 16,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -314,7 +314,7 @@
     {
       "position_code": "EQPM",
       "task_number": 17,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -482,7 +482,7 @@
     {
       "position_code": "EQPM",
       "task_number": 27,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Issue transportation plan/maps to drivers.",
@@ -496,7 +496,7 @@
     {
       "position_code": "EQPM",
       "task_number": 28,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide road condition information to Ground Support Unit Leader.",
@@ -510,7 +510,7 @@
     {
       "position_code": "EQPM",
       "task_number": 29,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide input for the transportation plan.",
@@ -538,7 +538,7 @@
     {
       "position_code": "EQPM",
       "task_number": 31,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate available information and make recommendations to support incident.",
@@ -592,7 +592,7 @@
     {
       "position_code": "EQPM",
       "task_number": 34,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure compliance with applicable health and safety regulations.",
@@ -656,7 +656,7 @@
     {
       "position_code": "EQPM",
       "task_number": 38,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Plan (IMT), host agency).",

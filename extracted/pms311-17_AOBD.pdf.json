@@ -27,7 +27,7 @@
     {
       "position_code": "AOBD",
       "task_number": 1,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine personnel, aircraft, and support equipment needs; order as necessary.",
@@ -41,7 +41,7 @@
     {
       "position_code": "AOBD",
       "task_number": 2,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify existing and ordered aircraft status.",
@@ -55,7 +55,7 @@
     {
       "position_code": "AOBD",
       "task_number": 3,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure pilot and aircraft capabilities meet mission objectives.",
@@ -97,7 +97,7 @@
     {
       "position_code": "AOBD",
       "task_number": 6,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish line of authority and identify decision making process.",
@@ -111,7 +111,7 @@
     {
       "position_code": "AOBD",
       "task_number": 7,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assess organization and adjust structure to meet mission objectives.",
@@ -199,7 +199,7 @@
     {
       "position_code": "AOBD",
       "task_number": 12,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine hours of operational period for air operations.",
@@ -213,7 +213,7 @@
     {
       "position_code": "AOBD",
       "task_number": 13,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -229,7 +229,7 @@
     {
       "position_code": "AOBD",
       "task_number": 14,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -389,7 +389,7 @@
     {
       "position_code": "AOBD",
       "task_number": 24,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Prepare for and participate in preplanning/strategy meetings.",
@@ -405,7 +405,7 @@
     {
       "position_code": "AOBD",
       "task_number": 25,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure aviation expectations are communicated to other functional areas during meetings and briefings.",
@@ -419,7 +419,7 @@
     {
       "position_code": "AOBD",
       "task_number": 26,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Participate in preparation of the Incident Action Plan (IAP) or other relevant plan.",
@@ -439,7 +439,7 @@
     {
       "position_code": "AOBD",
       "task_number": 27,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assist in development and implementation of Incident Demobilization Plan.",
@@ -457,7 +457,7 @@
     {
       "position_code": "AOBD",
       "task_number": 28,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Collect and process incident reports and daily fiscal information per agency standard.",
@@ -478,7 +478,7 @@
     {
       "position_code": "AOBD",
       "task_number": 29,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Gather intelligence and information for future operational planning.",
@@ -522,7 +522,7 @@
     {
       "position_code": "AOBD",
       "task_number": 32,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor flight/duty hour limitations and ensure they are not exceeded.",
@@ -536,7 +536,7 @@
     {
       "position_code": "AOBD",
       "task_number": 33,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Inspect and visit areas of operation to ensure compliance with agency rules, regulations, and procedures.",
@@ -550,7 +550,7 @@
     {
       "position_code": "AOBD",
       "task_number": 34,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).",

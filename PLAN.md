@@ -426,6 +426,38 @@ gap-analysis and acquisition specs on the refreshed corpus (verdicts
 recorded in the PR); `tests/test_corpus_refresh.py` adds offline tests for
 AC-A11/A12, the ISO edition_date rule and AC-G9.
 
+### Follow-up (2026-11-03): full legacy "Behavior:" headings (AC-E10)
+
+The refresh audit left one recorded limitation: `structure/legacy.py` kept
+only the first printed line of a wrapped "Behavior:" heading as the
+category, so 362 of 1,040 distinct legacy (document, position, category)
+values ended mid-sentence (ICT3 "Follow established procedures and/or
+safety procedures relevant to given" lacked "assignment."). Fixed spec-first
+(extraction.spec.md AC-E10 + changelog, grounded in LOFR page 7 and FAL1
+page 12): the parser now appends a heading's continuation lines — printed at
+the heading's own indent, one text row below it, before the first task
+number — to the category. Regression over the whole corpus: 48 legacy
+documents / 1,101 task rows change in `category` only (every new value is
+the old one plus a suffix); task counts, `verbatim_text`, `code_raw`,
+`clarifications` and `page` are byte-identical on all 101 documents. The 11
+headings still without a terminal period (10 unpunctuated, SEMG's ends in a
+colon) are printed that way by NWCG. Spec-checker audit of
+extraction.spec.md AC-E1..E10 on the result: ALL PASS.
+`tests/test_extraction.py` enforces AC-E10 corpus-wide against the PDFs.
+
+Downstream effect on matching: `data/ptb.sqlite`, `data/tier2_candidates.json`
+and `reports/tier2_review_checklist.md` regenerated (1,410 candidates, 547
+probable, 863 rejected, 0 confirmed — unchanged). Because categories feed
+`context.py`'s behavior families, every candidate pair's family sets and
+`category_disjoint` result were recomputed against the pre-fix candidates:
+**0 of 1,410 pairs changed**, so no verdict was touched and the context rule
+was not re-applied. Observed while checking (pre-existing, not caused by this
+fix, left alone): four pairs demoted by the context rule in July
+(6bf15ea4089f2bab, 6ca240c8fdca5d08, 4f79ebd993a3ce7d, a3123c1c0e2cd1e8)
+would not be flagged by today's `CATEGORY_FAMILIES` — their July demotion
+predates a later family-regex change; their stored verdicts are append-only
+and stand.
+
 ## Spec-checker sub-agent (`.claude/agents/spec-checker.md`)
 
 ```markdown

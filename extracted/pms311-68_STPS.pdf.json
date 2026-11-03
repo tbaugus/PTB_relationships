@@ -188,7 +188,7 @@
     {
       "position_code": "STPS",
       "task_number": 10,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine assigned resources ability to complete assignment within time frame.",
@@ -336,7 +336,7 @@
     {
       "position_code": "STPS",
       "task_number": 20,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop Structural Protection Plan as identified in the IRPG using available information and incident management objectives.",
@@ -355,7 +355,7 @@
     {
       "position_code": "STPS",
       "task_number": 21,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish trigger points for contingency plans.",
@@ -371,7 +371,7 @@
     {
       "position_code": "STPS",
       "task_number": 22,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate threat to structures based on current and predicted fire behavior.",
@@ -385,7 +385,7 @@
     {
       "position_code": "STPS",
       "task_number": 23,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide Lookouts, Communications, Escape Routes, Safety Zones (LCES) recommendations related to structural protection planning.",
@@ -399,7 +399,7 @@
     {
       "position_code": "STPS",
       "task_number": 24,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Estimate number of resources required to provide structure protection.",
@@ -415,7 +415,7 @@
     {
       "position_code": "STPS",
       "task_number": 25,
-      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior, weather, and other relevant events.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate structural triage evaluations and decisions.",

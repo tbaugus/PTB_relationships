@@ -89,7 +89,7 @@
     {
       "position_code": "SECM",
       "task_number": 4,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate with Logistics Section Chief and other functional areas to obtain resources to organize work space and keep unit operating.",
@@ -111,7 +111,7 @@
     {
       "position_code": "SECM",
       "task_number": 5,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure security personnel know radio operating procedures.",
@@ -236,7 +236,7 @@
     {
       "position_code": "SECM",
       "task_number": 12,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Organize assigned personnel to meet the needs of the assignment.",
@@ -343,7 +343,7 @@
     {
       "position_code": "SECM",
       "task_number": 18,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Complete daily review of staffing requirements.",
@@ -357,7 +357,7 @@
     {
       "position_code": "SECM",
       "task_number": 19,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop schedule/assignments based on IAP or relevant plan.",
@@ -371,7 +371,7 @@
     {
       "position_code": "SECM",
       "task_number": 20,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -387,7 +387,7 @@
     {
       "position_code": "SECM",
       "task_number": 21,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -519,7 +519,7 @@
     {
       "position_code": "SECM",
       "task_number": 29,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop and implement a security plan.",
@@ -536,7 +536,7 @@
     {
       "position_code": "SECM",
       "task_number": 30,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Modify security plan for personnel and equipment changes and releases.",
@@ -584,7 +584,7 @@
     {
       "position_code": "SECM",
       "task_number": 33,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure established guidelines are followed.",
@@ -601,7 +601,7 @@
     {
       "position_code": "SECM",
       "task_number": 34,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",
@@ -618,7 +618,7 @@
     {
       "position_code": "SECM",
       "task_number": 35,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure investigative packages and chain of evidence are properly transferred to replacement(s) or appropriate agency representative(s).",

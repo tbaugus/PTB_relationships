@@ -96,7 +96,7 @@
     {
       "position_code": "SOF3",
       "task_number": 4,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify the need for and assist in ordering safety officers.",
@@ -110,7 +110,7 @@
     {
       "position_code": "SOF3",
       "task_number": 5,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Recognize functional capabilities of cooperating entities.",
@@ -248,7 +248,7 @@
     {
       "position_code": "SOF3",
       "task_number": 13,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -264,7 +264,7 @@
     {
       "position_code": "SOF3",
       "task_number": 14,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -378,7 +378,7 @@
     {
       "position_code": "SOF3",
       "task_number": 21,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Post safety information on incident bulletin board if appropriate.",
@@ -392,7 +392,7 @@
     {
       "position_code": "SOF3",
       "task_number": 22,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Prepare narrative or special reports as needed.",
@@ -412,7 +412,7 @@
     {
       "position_code": "SOF3",
       "task_number": 23,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Implement a risk analysis.",
@@ -429,7 +429,7 @@
     {
       "position_code": "SOF3",
       "task_number": 24,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review and provide input to the medical plan.",
@@ -445,7 +445,7 @@
     {
       "position_code": "SOF3",
       "task_number": 25,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Conduct periodic inspections of base and camp facilities.",
@@ -464,7 +464,7 @@
     {
       "position_code": "SOF3",
       "task_number": 26,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify and document unsafe conditions and provide this information.",
@@ -479,7 +479,7 @@
     {
       "position_code": "SOF3",
       "task_number": 27,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor vehicle inspections, driver/operator qualifications and equipment records.",
@@ -493,7 +493,7 @@
     {
       "position_code": "SOF3",
       "task_number": 28,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor incident roads to provide for safe use by vehicles.",
@@ -512,7 +512,7 @@
     {
       "position_code": "SOF3",
       "task_number": 29,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review aircraft operations, if appropriate.",
@@ -526,7 +526,7 @@
     {
       "position_code": "SOF3",
       "task_number": 30,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor general welfare of incident personnel.",
@@ -547,7 +547,7 @@
     {
       "position_code": "SOF3",
       "task_number": 31,
-      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior, weather, and other relevant events.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide input into ICS 215A, Incident Safety Analysis for each operations period.",
@@ -668,7 +668,7 @@
     {
       "position_code": "SOF3",
       "task_number": 38,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor air operations activities.",
@@ -714,7 +714,7 @@
     {
       "position_code": "SOF3",
       "task_number": 41,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",

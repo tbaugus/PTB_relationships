@@ -59,7 +59,7 @@
     {
       "position_code": "SOPL",
       "task_number": 3,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assess situation to determine immediate support needs.",
@@ -75,7 +75,7 @@
     {
       "position_code": "SOPL",
       "task_number": 4,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain roles and permissions in the Wildland Fire Decision Support System (WFDSS) necessary to review relevant decision components for a wildfire incident as requested by the host unit.",
@@ -136,7 +136,7 @@
     {
       "position_code": "SOPL",
       "task_number": 7,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish the organizational role of the Strategic Operational Planner in relation to assigned personnel, local fire management organization, Incident Commander and/or Agency Administrator.",
@@ -153,7 +153,7 @@
     {
       "position_code": "SOPL",
       "task_number": 8,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Adhere to local policies for ordering, use and release of resources.",
@@ -261,7 +261,7 @@
     {
       "position_code": "SOPL",
       "task_number": 14,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify jurisdictional boundaries and which authorities/agencies should be involved.",
@@ -278,7 +278,7 @@
     {
       "position_code": "SOPL",
       "task_number": 15,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate short- and long-term fire behavior predictions, fire weather and fire behavior assessments and interpret results to support decision making.",
@@ -296,7 +296,7 @@
     {
       "position_code": "SOPL",
       "task_number": 16,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish and maintain on-going communication on the incident as necessary.",
@@ -314,7 +314,7 @@
     {
       "position_code": "SOPL",
       "task_number": 17,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop the Course of Action for a long-term wildfire incident.",
@@ -357,7 +357,7 @@
     {
       "position_code": "SOPL",
       "task_number": 19,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate consistency between strategic objectives and management requirements as stated in the Wildland Fire Decision Support System, and objectives and requirements for the incident.",
@@ -371,7 +371,7 @@
     {
       "position_code": "SOPL",
       "task_number": 20,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Utilize risk assessment information in developing Course of Action.",
@@ -393,7 +393,7 @@
     {
       "position_code": "SOPL",
       "task_number": 21,
-      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior, weather, and other relevant events.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop risk assessments for the incident based on values, hazards and probability.",
@@ -413,7 +413,7 @@
     {
       "position_code": "SOPL",
       "task_number": 22,
-      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior, weather, and other relevant events.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Consider and document hazards and mitigations in the development of Course of Action.",
@@ -428,7 +428,7 @@
     {
       "position_code": "SOPL",
       "task_number": 23,
-      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior, weather, and other relevant events.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Follow the Risk Management Process in the development of the Management Actions within the Course of Action.",
@@ -486,7 +486,7 @@
     {
       "position_code": "SOPL",
       "task_number": 26,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure the Course of Action is consistent with the risk assessment and addresses safety concerns.",
@@ -552,7 +552,7 @@
     {
       "position_code": "SOPL",
       "task_number": 30,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop and implement a plan for transfer of duties.",

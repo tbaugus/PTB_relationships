@@ -70,7 +70,7 @@
     {
       "position_code": "FAL1",
       "task_number": 3,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine assignments and personal equipment needs.",
@@ -245,7 +245,7 @@
     {
       "position_code": "FAL1",
       "task_number": 13,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Maintain communications with adjoining resources.",
@@ -259,7 +259,7 @@
     {
       "position_code": "FAL1",
       "task_number": 14,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Take control of your work area. Keep area clear during falling operations.",
@@ -273,7 +273,7 @@
     {
       "position_code": "FAL1",
       "task_number": 15,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate fuels, topography, and weather factors throughout entire operational period.",
@@ -290,7 +290,7 @@
     {
       "position_code": "FAL1",
       "task_number": 16,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Recon area of assigned responsibility, consult with supervisor on resource needs and suggest adjustments as necessary.",
@@ -383,7 +383,7 @@
     {
       "position_code": "FAL1",
       "task_number": 21,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop a Job Hazard Analysis or Risk Management Assessment for a chain saw operation.",
@@ -397,7 +397,7 @@
     {
       "position_code": "FAL1",
       "task_number": 22,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify potential hazards and mitigating techniques given various tree species, stand conditions, and indicators of defect.",
@@ -433,7 +433,7 @@
     {
       "position_code": "FAL1",
       "task_number": 24,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Demonstrate proficiency in advanced maintenance and troubleshooting in the field. This may include but is not limited to:",

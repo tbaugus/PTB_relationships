@@ -27,7 +27,7 @@
     {
       "position_code": "ACDR",
       "task_number": 1,
-      "category": "Ensure availability, qualifications and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain necessary area command support resources.",
@@ -83,7 +83,7 @@
     {
       "position_code": "ACDR",
       "task_number": 5,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain Delegation of Authority from Agency Administrator(s).",
@@ -97,7 +97,7 @@
     {
       "position_code": "ACDR",
       "task_number": 6,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish area command operating ground rules (e.g., operating procedures, reporting requirements, shared authorities, reporting time frames, communications flow).",
@@ -111,7 +111,7 @@
     {
       "position_code": "ACDR",
       "task_number": 7,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop, monitor, and refine as necessary area command expectations and roles for the assignment and obtain concurrence of Agency Administrator(s).",
@@ -143,7 +143,7 @@
     {
       "position_code": "ACDR",
       "task_number": 9,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Serve as coach and mentor to Agency Administrator(s), agency staff, and IMT.",
@@ -157,7 +157,7 @@
     {
       "position_code": "ACDR",
       "task_number": 10,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide performance standards to IMTs.",
@@ -171,7 +171,7 @@
     {
       "position_code": "ACDR",
       "task_number": 11,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor and evaluate IMT performance.",
@@ -261,7 +261,7 @@
     {
       "position_code": "ACDR",
       "task_number": 17,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish common understanding of area command responsibilities regarding expanded dispatch, external relationships, military liaison, political contacts, media relations, and MAC (Multi-Agency Coordination) groups.",
@@ -275,7 +275,7 @@
     {
       "position_code": "ACDR",
       "task_number": 18,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide adequate information, direction, and priorities for managing the incident(s) according to agency's requirements.",
@@ -293,7 +293,7 @@
     {
       "position_code": "ACDR",
       "task_number": 19,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review incident wildland fire decision support documentation and incident objectives for compliance with Agency Administrator direction and compatibility among incidents, safety, and cost effectiveness.",
@@ -307,7 +307,7 @@
     {
       "position_code": "ACDR",
       "task_number": 20,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Anticipate and analyze long-term, big-picture potential consequences, and develop mitigation alternatives.",
@@ -321,7 +321,7 @@
     {
       "position_code": "ACDR",
       "task_number": 21,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor and document progress towards incident objectives and prepare for transition.",

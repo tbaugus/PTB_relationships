@@ -368,7 +368,7 @@
     {
       "position_code": "PIO3",
       "task_number": 19,
-      "category": "Supervise effectively, establish work assignments and performance",
+      "category": "Supervise effectively, establish work assignments and performance expectations, monitor performance, provide training opportunities, and give feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Supervise Effectively.",
@@ -389,7 +389,7 @@
     {
       "position_code": "PIO3",
       "task_number": 20,
-      "category": "Supervise effectively, establish work assignments and performance",
+      "category": "Supervise effectively, establish work assignments and performance expectations, monitor performance, provide training opportunities, and give feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Mentor and Train Assigned Resources.",
@@ -405,7 +405,7 @@
     {
       "position_code": "PIO3",
       "task_number": 21,
-      "category": "Supervise effectively, establish work assignments and performance",
+      "category": "Supervise effectively, establish work assignments and performance expectations, monitor performance, provide training opportunities, and give feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish Work Assignments and Set Performance Expectations.",
@@ -425,7 +425,7 @@
     {
       "position_code": "PIO3",
       "task_number": 22,
-      "category": "Supervise effectively, establish work assignments and performance",
+      "category": "Supervise effectively, establish work assignments and performance expectations, monitor performance, provide training opportunities, and give feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide Feedback and Monitor Performance.",
@@ -444,7 +444,7 @@
     {
       "position_code": "PIO3",
       "task_number": 23,
-      "category": "Communicate and assure understanding of work expectations within the chain",
+      "category": "Communicate and assure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish cohesiveness within ICS/Command and General Staff (C&G) personnel.",
@@ -463,7 +463,7 @@
     {
       "position_code": "PIO3",
       "task_number": 24,
-      "category": "Communicate and assure understanding of work expectations within the chain",
+      "category": "Communicate and assure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Demonstrate that you understand IWI protocols.",
@@ -794,7 +794,7 @@
     {
       "position_code": "PIO3",
       "task_number": 42,
-      "category": "Develop appropriate information releases and conduct interviews according to",
+      "category": "Develop appropriate information releases and conduct interviews according to established protocol.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Give interviews that are concise, accurate, timely, well planned, and consistent with key messages.",
@@ -811,7 +811,7 @@
     {
       "position_code": "PIO3",
       "task_number": 43,
-      "category": "Develop appropriate information releases and conduct interviews according to",
+      "category": "Develop appropriate information releases and conduct interviews according to established protocol.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Facilitate positive relationships with media.",
@@ -830,7 +830,7 @@
     {
       "position_code": "PIO3",
       "task_number": 44,
-      "category": "Develop appropriate information releases and conduct interviews according to",
+      "category": "Develop appropriate information releases and conduct interviews according to established protocol.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate with incident personnel to schedule interviews and provide media escort as needed.",
@@ -848,7 +848,7 @@
     {
       "position_code": "PIO3",
       "task_number": 45,
-      "category": "Develop appropriate information releases and conduct interviews according to",
+      "category": "Develop appropriate information releases and conduct interviews according to established protocol.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Establish and maintain appropriate community contacts as needed (trapline).",
@@ -865,7 +865,7 @@
     {
       "position_code": "PIO3",
       "task_number": 46,
-      "category": "Develop appropriate information releases and conduct interviews according to",
+      "category": "Develop appropriate information releases and conduct interviews according to established protocol.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assist with effective community relations in coordination with local unit.",
@@ -984,7 +984,7 @@
     {
       "position_code": "PIO3",
       "task_number": 53,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Follow safety procedures and be aware of incident- specific hazards.",
@@ -1006,7 +1006,7 @@
     {
       "position_code": "PIO3",
       "task_number": 54,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Follow safety procedures specific to the information function.",
@@ -1023,7 +1023,7 @@
     {
       "position_code": "PIO3",
       "task_number": 55,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge while accounting for the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing [e.g., incoming Incident Management Team (IMT), host agency].",
@@ -1041,7 +1041,7 @@
     {
       "position_code": "PIO3",
       "task_number": 56,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge while accounting for the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure continuity of duties when changing roles, including potential resource needs and incident complexities.",

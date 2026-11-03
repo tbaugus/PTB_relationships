@@ -89,7 +89,7 @@
     {
       "position_code": "BCMG",
       "task_number": 4,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate with Facilities Unit Leader to obtain necessary incident facility staffing levels and needed supplies and materials.",
@@ -167,7 +167,7 @@
     {
       "position_code": "BCMG",
       "task_number": 8,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Organize assigned personnel to meet the needs of the unit.",
@@ -274,7 +274,7 @@
     {
       "position_code": "BCMG",
       "task_number": 14,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Complete daily review of staffing requirements.",
@@ -288,7 +288,7 @@
     {
       "position_code": "BCMG",
       "task_number": 15,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop schedule/assignments based on IAP or relevant plan.",
@@ -302,7 +302,7 @@
     {
       "position_code": "BCMG",
       "task_number": 16,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand assignment for operational period.",
@@ -319,7 +319,7 @@
     {
       "position_code": "BCMG",
       "task_number": 17,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -500,7 +500,7 @@
     {
       "position_code": "BCMG",
       "task_number": 28,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Prepare information for briefings and meetings.",
@@ -514,7 +514,7 @@
     {
       "position_code": "BCMG",
       "task_number": 29,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine and monitor current status of incident facilities and relay to appropriate incident personnel.",
@@ -528,7 +528,7 @@
     {
       "position_code": "BCMG",
       "task_number": 30,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Confirm estimated time of arrival of staff, equipment, and supplies.",
@@ -542,7 +542,7 @@
     {
       "position_code": "BCMG",
       "task_number": 31,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate across functional areas.",
@@ -578,7 +578,7 @@
     {
       "position_code": "BCMG",
       "task_number": 33,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide daily inspections of facilities for compliance with applicable safety and health regulations.",
@@ -606,7 +606,7 @@
     {
       "position_code": "BCMG",
       "task_number": 35,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure compliance with applicable health and safety regulations.",
@@ -639,7 +639,7 @@
     {
       "position_code": "BCMG",
       "task_number": 37,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",

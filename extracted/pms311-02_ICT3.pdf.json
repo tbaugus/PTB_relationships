@@ -57,7 +57,7 @@
     {
       "position_code": "ICT3",
       "task_number": 3,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure appropriate functional areas are adequately staffed, with qualified resources, to provide for safe and efficient operations.",
@@ -71,7 +71,7 @@
     {
       "position_code": "ICT3",
       "task_number": 4,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate or establish incident facilities.",
@@ -141,7 +141,7 @@
     {
       "position_code": "ICT3",
       "task_number": 8,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Take command of assigned resources.",
@@ -160,7 +160,7 @@
     {
       "position_code": "ICT3",
       "task_number": 9,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Build an organization which will meet and support incident/tactical objectives.",
@@ -180,7 +180,7 @@
     {
       "position_code": "ICT3",
       "task_number": 10,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure resource check-in and accountability process is established.",
@@ -319,7 +319,7 @@
     {
       "position_code": "ICT3",
       "task_number": 18,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assign personnel to utilize skills and qualifications.",
@@ -333,7 +333,7 @@
     {
       "position_code": "ICT3",
       "task_number": 19,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Re-evaluate and adjust assignments based on changing conditions or situations.",
@@ -347,7 +347,7 @@
     {
       "position_code": "ICT3",
       "task_number": 20,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure performance evaluation system is implemented as appropriate.",
@@ -483,7 +483,7 @@
     {
       "position_code": "ICT3",
       "task_number": 28,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide status updates to supervisor and/or dispatch.",
@@ -497,7 +497,7 @@
     {
       "position_code": "ICT3",
       "task_number": 29,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Communicate by giving specific instructions and asking for feedback.",
@@ -513,7 +513,7 @@
     {
       "position_code": "ICT3",
       "task_number": 30,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Create a single coordinated Incident Action Plan (IAP) or other relevant plan.",
@@ -531,7 +531,7 @@
     {
       "position_code": "ICT3",
       "task_number": 31,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop contingencies.",
@@ -545,7 +545,7 @@
     {
       "position_code": "ICT3",
       "task_number": 32,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide input to strategic plans as needed.",
@@ -597,7 +597,7 @@
     {
       "position_code": "ICT3",
       "task_number": 35,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Using the Fireline Handbook, complete complexity analysis and report to duty officer, dispatch, and or Agency Administrator.",
@@ -614,7 +614,7 @@
     {
       "position_code": "ICT3",
       "task_number": 36,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor, evaluate and document progress towards incident objectives.",
@@ -633,7 +633,7 @@
     {
       "position_code": "ICT3",
       "task_number": 37,
-      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior,",
+      "category": "Prepare clear and concise assessments regarding hazards, hazard behavior, weather, and other relevant events.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain and monitor weather and other environmental factors to anticipate changes in fire behavior or incident status.",
@@ -766,7 +766,7 @@
     {
       "position_code": "ICT3",
       "task_number": 45,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure safety considerations are integrated into all aspects of incident management.",
@@ -796,7 +796,7 @@
     {
       "position_code": "ICT3",
       "task_number": 47,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Using the Fireline Handbook, coordinate an efficient transfer of position duties when mobilizing/ demobilizing.",

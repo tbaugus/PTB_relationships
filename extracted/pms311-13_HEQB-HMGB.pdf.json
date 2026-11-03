@@ -117,7 +117,7 @@
     {
       "position_code": "HEQB",
       "task_number": 5,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assemble personnel.",
@@ -134,7 +134,7 @@
     {
       "position_code": "HEQB",
       "task_number": 6,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Inspect personnel and equipment.",
@@ -153,7 +153,7 @@
     {
       "position_code": "HEQB",
       "task_number": 7,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine assignments and personal equipment needs.",
@@ -232,7 +232,7 @@
     {
       "position_code": "HEQB",
       "task_number": 12,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Organize assigned resources into configurations which will meet incident/tactical objectives.",
@@ -360,7 +360,7 @@
     {
       "position_code": "HEQB",
       "task_number": 19,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Complete daily review of staffing requirements.",
@@ -374,7 +374,7 @@
     {
       "position_code": "HEQB",
       "task_number": 20,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop schedule/assignments based on Incident Action Plan (IAP) or relevant plan.",
@@ -388,7 +388,7 @@
     {
       "position_code": "HEQB",
       "task_number": 21,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand operational period assignments.",
@@ -404,7 +404,7 @@
     {
       "position_code": "HEQB",
       "task_number": 22,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -615,7 +615,7 @@
     {
       "position_code": "HEQB",
       "task_number": 35,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain supplementary information to perform operational assignment.",
@@ -634,7 +634,7 @@
     {
       "position_code": "HEQB",
       "task_number": 36,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Communicate using clear text.",
@@ -648,7 +648,7 @@
     {
       "position_code": "HEQB",
       "task_number": 37,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure tactical plans conform to incident objectives.",
@@ -662,7 +662,7 @@
     {
       "position_code": "HEQB",
       "task_number": 38,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate fuels, topography, and weather factors throughout entire operational period.",
@@ -680,7 +680,7 @@
     {
       "position_code": "HEQB",
       "task_number": 39,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Request, direct, and provide feedback for aerial resources through established chain of command.",
@@ -694,7 +694,7 @@
     {
       "position_code": "HEQB",
       "task_number": 40,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Recon area of assigned responsibility, consult with supervisor on resource needs and suggest adjustments as necessary.",
@@ -708,7 +708,7 @@
     {
       "position_code": "HEQB",
       "task_number": 41,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify road systems and limitations.",
@@ -836,7 +836,7 @@
     {
       "position_code": "HEQB",
       "task_number": 48,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify escape routes and safety zones.",
@@ -872,7 +872,7 @@
     {
       "position_code": "HEQB",
       "task_number": 50,
-      "category": "Effectively advise and assist in resolving human resource issues that occur",
+      "category": "Effectively advise and assist in resolving human resource issues that occur during the incident or event.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Resolve conflict/conduct issues.",
@@ -889,7 +889,7 @@
     {
       "position_code": "HEQB",
       "task_number": 51,
-      "category": "Effectively advise and assist in resolving human resource issues that occur",
+      "category": "Effectively advise and assist in resolving human resource issues that occur during the incident or event.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate the need for critical incident stress management (CISM) during traumatic events.",
@@ -951,7 +951,7 @@
     {
       "position_code": "HEQB",
       "task_number": 55,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify limitations of equipment, and operator capabilities prior to use.",
@@ -971,7 +971,7 @@
     {
       "position_code": "HEQB",
       "task_number": 56,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure equipment and transports are inspected prior to being used and released.",
@@ -987,7 +987,7 @@
     {
       "position_code": "HEQB",
       "task_number": 57,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Notify supervisor of corrective action needed for equipment readiness.",
@@ -1057,7 +1057,7 @@
     {
       "position_code": "HEQB",
       "task_number": 61,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Gather and document critical resource concerns and information that may affect equipment operations.",
@@ -1142,7 +1142,7 @@
     {
       "position_code": "HEQB",
       "task_number": 66,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure fueling and equipment safety precautions are followed.",
@@ -1156,7 +1156,7 @@
     {
       "position_code": "HEQB",
       "task_number": 67,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure operator follows safe loading/unloading and mounting/dismounting procedures and parks equipment and transport in secure area.",
@@ -1170,7 +1170,7 @@
     {
       "position_code": "HEQB",
       "task_number": 68,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review radio communication and hand signals with operators.",
@@ -1186,7 +1186,7 @@
     {
       "position_code": "HEQB",
       "task_number": 69,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure personnel maintain safe distance from equipment while in operation.",
@@ -1219,7 +1219,7 @@
     {
       "position_code": "HEQB",
       "task_number": 71,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide tactical capabilities of helicopter and qualifications of personnel to assignment supervisor.",
@@ -1344,7 +1344,7 @@
     {
       "position_code": "HEQB",
       "task_number": 79,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure turbine power assurance checks are conducted and documented as required by agency.",
@@ -1360,7 +1360,7 @@
     {
       "position_code": "HEQB",
       "task_number": 80,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continuously monitor and document flight and/or duty hours of pilots, mechanics, and fuel service vehicle drivers to ensure agency limitations are not exceeded.",
@@ -1377,7 +1377,7 @@
     {
       "position_code": "HEQB",
       "task_number": 81,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure flight planning, flight following, and resource tracking requirements are met.",
@@ -1396,7 +1396,7 @@
     {
       "position_code": "HEQB",
       "task_number": 82,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure helicopter pilot accurately completes and approves helicopter load calculation (reflecting current aircraft configuration), appropriate flight manual performance charts, and environmental conditions.",
@@ -1416,7 +1416,7 @@
     {
       "position_code": "HEQB",
       "task_number": 83,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Verify helicopter is maintained to FAA and agency standards.",
@@ -1435,7 +1435,7 @@
     {
       "position_code": "HEQB",
       "task_number": 84,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Utilize risk management techniques and Go/No-Go Checklist prior to each flight.",
@@ -1454,7 +1454,7 @@
     {
       "position_code": "HEQB",
       "task_number": 85,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate helispots and unimproved landing sites with pilot in charge; ensure agency landing site standards are met.",
@@ -1468,7 +1468,7 @@
     {
       "position_code": "HEQB",
       "task_number": 86,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure actual helicopter payloads do not exceed the calculated allowable payload.",
@@ -1482,7 +1482,7 @@
     {
       "position_code": "HEQB",
       "task_number": 87,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure pre-flight briefings are conducted and the appropriate PPE is utilized for missions.",
@@ -1496,7 +1496,7 @@
     {
       "position_code": "HEQB",
       "task_number": 88,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure crash rescue/response procedures and equipment are established and communicated to helicopter personnel.",
@@ -1510,7 +1510,7 @@
     {
       "position_code": "HEQB",
       "task_number": 89,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Comply with applicable requirements in the Aviation Transport of HazMat Guide.",
@@ -1524,7 +1524,7 @@
     {
       "position_code": "HEQB",
       "task_number": 90,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Follow agency special use mission safety requirements.",
@@ -1654,7 +1654,7 @@
     {
       "position_code": "HMGB",
       "task_number": 5,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Assemble personnel.",
@@ -1671,7 +1671,7 @@
     {
       "position_code": "HMGB",
       "task_number": 6,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Inspect personnel and equipment.",
@@ -1690,7 +1690,7 @@
     {
       "position_code": "HMGB",
       "task_number": 7,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine assignments and personal equipment needs.",
@@ -1769,7 +1769,7 @@
     {
       "position_code": "HMGB",
       "task_number": 12,
-      "category": "Establish organization structure, reporting procedures, and chain of command",
+      "category": "Establish organization structure, reporting procedures, and chain of command of assigned resources.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Organize assigned resources into configurations which will meet incident/tactical objectives.",
@@ -1897,7 +1897,7 @@
     {
       "position_code": "HMGB",
       "task_number": 19,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Complete daily review of staffing requirements.",
@@ -1911,7 +1911,7 @@
     {
       "position_code": "HMGB",
       "task_number": 20,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Develop schedule/assignments based on Incident Action Plan (IAP) or relevant plan.",
@@ -1925,7 +1925,7 @@
     {
       "position_code": "HMGB",
       "task_number": 21,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure subordinates understand operational period assignments.",
@@ -1941,7 +1941,7 @@
     {
       "position_code": "HMGB",
       "task_number": 22,
-      "category": "Establish work assignments and performance expectations, monitor",
+      "category": "Establish work assignments and performance expectations, monitor performance, and provide feedback.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continually evaluate performance.",
@@ -2152,7 +2152,7 @@
     {
       "position_code": "HMGB",
       "task_number": 35,
-      "category": "Gather, produce, and distribute information as required by established",
+      "category": "Gather, produce, and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain supplementary information to perform operational assignment.",
@@ -2171,7 +2171,7 @@
     {
       "position_code": "HMGB",
       "task_number": 36,
-      "category": "Communicate and ensure understanding of work expectations within the chain",
+      "category": "Communicate and ensure understanding of work expectations within the chain of command and across functional areas.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Communicate using clear text.",
@@ -2185,7 +2185,7 @@
     {
       "position_code": "HMGB",
       "task_number": 37,
-      "category": "Develop and implement plans and gain concurrence of affected agencies and/or",
+      "category": "Develop and implement plans and gain concurrence of affected agencies and/or the public.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure tactical plans conform to incident objectives.",
@@ -2199,7 +2199,7 @@
     {
       "position_code": "HMGB",
       "task_number": 38,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate fuels, topography, and weather factors throughout entire operational period.",
@@ -2217,7 +2217,7 @@
     {
       "position_code": "HMGB",
       "task_number": 39,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Request, direct, and provide feedback for aerial resources through established chain of command.",
@@ -2231,7 +2231,7 @@
     {
       "position_code": "HMGB",
       "task_number": 40,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Recon area of assigned responsibility, consult with supervisor on resource needs and suggest adjustments as necessary.",
@@ -2245,7 +2245,7 @@
     {
       "position_code": "HMGB",
       "task_number": 41,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify road systems and limitations.",
@@ -2373,7 +2373,7 @@
     {
       "position_code": "HMGB",
       "task_number": 48,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify escape routes and safety zones.",
@@ -2409,7 +2409,7 @@
     {
       "position_code": "HMGB",
       "task_number": 50,
-      "category": "Effectively advise and assist in resolving human resource issues that occur",
+      "category": "Effectively advise and assist in resolving human resource issues that occur during the incident or event.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Resolve conflict/conduct issues.",
@@ -2426,7 +2426,7 @@
     {
       "position_code": "HMGB",
       "task_number": 51,
-      "category": "Effectively advise and assist in resolving human resource issues that occur",
+      "category": "Effectively advise and assist in resolving human resource issues that occur during the incident or event.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate the need for critical incident stress management (CISM) during traumatic events.",
@@ -2488,7 +2488,7 @@
     {
       "position_code": "HMGB",
       "task_number": 55,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify limitations of equipment, and operator capabilities prior to use.",
@@ -2508,7 +2508,7 @@
     {
       "position_code": "HMGB",
       "task_number": 56,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure equipment and transports are inspected prior to being used and released.",
@@ -2524,7 +2524,7 @@
     {
       "position_code": "HMGB",
       "task_number": 57,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Notify supervisor of corrective action needed for equipment readiness.",
@@ -2594,7 +2594,7 @@
     {
       "position_code": "HMGB",
       "task_number": 61,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Gather and document critical resource concerns and information that may affect equipment operations.",
@@ -2679,7 +2679,7 @@
     {
       "position_code": "HMGB",
       "task_number": 66,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure fueling and equipment safety precautions are followed.",
@@ -2693,7 +2693,7 @@
     {
       "position_code": "HMGB",
       "task_number": 67,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure operator follows safe loading/unloading and mounting/dismounting procedures and parks equipment and transport in secure area.",
@@ -2707,7 +2707,7 @@
     {
       "position_code": "HMGB",
       "task_number": 68,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review radio communication and hand signals with operators.",
@@ -2723,7 +2723,7 @@
     {
       "position_code": "HMGB",
       "task_number": 69,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure personnel maintain safe distance from equipment while in operation.",
@@ -2756,7 +2756,7 @@
     {
       "position_code": "HMGB",
       "task_number": 71,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Provide tactical capabilities of helicopter and qualifications of personnel to assignment supervisor.",
@@ -2881,7 +2881,7 @@
     {
       "position_code": "HMGB",
       "task_number": 79,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure turbine power assurance checks are conducted and documented as required by agency.",
@@ -2897,7 +2897,7 @@
     {
       "position_code": "HMGB",
       "task_number": 80,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Continuously monitor and document flight and/or duty hours of pilots, mechanics, and fuel service vehicle drivers to ensure agency limitations are not exceeded.",
@@ -2914,7 +2914,7 @@
     {
       "position_code": "HMGB",
       "task_number": 81,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure flight planning, flight following, and resource tracking requirements are met.",
@@ -2933,7 +2933,7 @@
     {
       "position_code": "HMGB",
       "task_number": 82,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure helicopter pilot accurately completes and approves helicopter load calculation (reflecting current aircraft configuration), appropriate flight manual performance charts, and environmental conditions.",
@@ -2953,7 +2953,7 @@
     {
       "position_code": "HMGB",
       "task_number": 83,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Verify helicopter is maintained to FAA and agency standards.",
@@ -2972,7 +2972,7 @@
     {
       "position_code": "HMGB",
       "task_number": 84,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Utilize risk management techniques and Go/No-Go Checklist prior to each flight.",
@@ -2991,7 +2991,7 @@
     {
       "position_code": "HMGB",
       "task_number": 85,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Evaluate helispots and unimproved landing sites with pilot in charge; ensure agency landing site standards are met.",
@@ -3005,7 +3005,7 @@
     {
       "position_code": "HMGB",
       "task_number": 86,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure actual helicopter payloads do not exceed the calculated allowable payload.",
@@ -3019,7 +3019,7 @@
     {
       "position_code": "HMGB",
       "task_number": 87,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure pre-flight briefings are conducted and the appropriate PPE is utilized for missions.",
@@ -3033,7 +3033,7 @@
     {
       "position_code": "HMGB",
       "task_number": 88,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Ensure crash rescue/response procedures and equipment are established and communicated to helicopter personnel.",
@@ -3047,7 +3047,7 @@
     {
       "position_code": "HMGB",
       "task_number": 89,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Comply with applicable requirements in the Aviation Transport of HazMat Guide.",
@@ -3061,7 +3061,7 @@
     {
       "position_code": "HMGB",
       "task_number": 90,
-      "category": "Ensure compliance with all legal and safety requirements relevant to air",
+      "category": "Ensure compliance with all legal and safety requirements relevant to air operations.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Follow agency special use mission safety requirements.",

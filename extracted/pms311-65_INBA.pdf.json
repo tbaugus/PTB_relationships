@@ -84,7 +84,7 @@
     {
       "position_code": "INBA",
       "task_number": 3,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain resources to organize work space and complete assignments (e.g., computer, printer, and cell phone).",
@@ -353,7 +353,7 @@
     {
       "position_code": "INBA",
       "task_number": 19,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Interact and coordinate with agency staff, IMT, and other support units to receive and provide current information.",
@@ -371,7 +371,7 @@
     {
       "position_code": "INBA",
       "task_number": 20,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Serve as incident business liaison.",
@@ -389,7 +389,7 @@
     {
       "position_code": "INBA",
       "task_number": 21,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review incident business reports/documents to ensure agency direction is being met and requested reports are accurate and timely.",
@@ -411,7 +411,7 @@
     {
       "position_code": "INBA",
       "task_number": 22,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Advise Agency Administrator regarding resource needs throughout the assignment (e.g., buying team, payment team).",
@@ -425,7 +425,7 @@
     {
       "position_code": "INBA",
       "task_number": 23,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review incident demobilization plan and provide input to Agency Administrator as necessary.",
@@ -439,7 +439,7 @@
     {
       "position_code": "INBA",
       "task_number": 24,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).",

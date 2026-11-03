@@ -84,7 +84,7 @@
     {
       "position_code": "TNSP",
       "task_number": 4,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain work area, supplies and communications equipment necessary to complete assignment.",
@@ -98,7 +98,7 @@
     {
       "position_code": "TNSP",
       "task_number": 5,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate with the Ground Support Unit for transportation.",
@@ -112,7 +112,7 @@
     {
       "position_code": "TNSP",
       "task_number": 6,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify trainees, coaches, and evaluators who are qualified and available to participate in the training program.",
@@ -132,7 +132,7 @@
     {
       "position_code": "TNSP",
       "task_number": 7,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Order additional Training Specialists if needed.",
@@ -356,7 +356,7 @@
     {
       "position_code": "TNSP",
       "task_number": 21,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Attend Planning Section meetings as appropriate.",
@@ -370,7 +370,7 @@
     {
       "position_code": "TNSP",
       "task_number": 22,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate with sections and units involved with the training program.",
@@ -384,7 +384,7 @@
     {
       "position_code": "TNSP",
       "task_number": 23,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Facilitate individual trainee interviews.",
@@ -402,7 +402,7 @@
     {
       "position_code": "TNSP",
       "task_number": 24,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify trainees from various sources.",
@@ -420,7 +420,7 @@
     {
       "position_code": "TNSP",
       "task_number": 25,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Monitor the quality of the training assignments.",
@@ -439,7 +439,7 @@
     {
       "position_code": "TNSP",
       "task_number": 26,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming IMT, host agency).",

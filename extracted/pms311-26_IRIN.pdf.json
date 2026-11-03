@@ -94,7 +94,7 @@
     {
       "position_code": "IRIN",
       "task_number": 4,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Obtain work materials, data, and equipment necessary to accomplish assigned tasks within specified time frames.",
@@ -112,7 +112,7 @@
     {
       "position_code": "IRIN",
       "task_number": 5,
-      "category": "Ensure availability, qualifications, and capabilities of resources to complete",
+      "category": "Ensure availability, qualifications, and capabilities of resources to complete assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Organize work area.",
@@ -309,7 +309,7 @@
     {
       "position_code": "IRIN",
       "task_number": 17,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Interpret digital infrared data to produce infrared map using recommended map symbols and applicable cartographic principles and digital spatial data layers.",
@@ -325,7 +325,7 @@
     {
       "position_code": "IRIN",
       "task_number": 18,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Gather data, complete and distribute the Infrared Interpreters Daily Log.",
@@ -341,7 +341,7 @@
     {
       "position_code": "IRIN",
       "task_number": 19,
-      "category": "Gather, produce and distribute information as required by established",
+      "category": "Gather, produce and distribute information as required by established guidelines and ensure understanding by recipient.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Utilize recommended data file structure and naming conventions.",
@@ -355,7 +355,7 @@
     {
       "position_code": "IRIN",
       "task_number": 20,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Place Infrared Scanner Order using incident information and IR Scanner Request website and following aircraft ordering procedures.",
@@ -376,7 +376,7 @@
     {
       "position_code": "IRIN",
       "task_number": 21,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Confirm that IR Scanner Request was received, time of scheduled flight, and time and method of data delivery.",
@@ -393,7 +393,7 @@
     {
       "position_code": "IRIN",
       "task_number": 22,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Identify and obtain background digital data from on-line or other data sources.",
@@ -410,7 +410,7 @@
     {
       "position_code": "IRIN",
       "task_number": 23,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Access raw Infrared data from NIROPS data distribution or other site and/or by direct hand-off from flight crew.",
@@ -424,7 +424,7 @@
     {
       "position_code": "IRIN",
       "task_number": 24,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review infrared imagery for imagery issues, note in Infrared Interpreters Log, and report severe problems to flight crew and/or Infrared Coordinator National/Regional.",
@@ -445,7 +445,7 @@
     {
       "position_code": "IRIN",
       "task_number": 25,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Accurately interpret infrared imagery.",
@@ -464,7 +464,7 @@
     {
       "position_code": "IRIN",
       "task_number": 26,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Determine acreage.",
@@ -481,7 +481,7 @@
     {
       "position_code": "IRIN",
       "task_number": 27,
-      "category": "Gather, analyze, and validate information pertinent to the incident or event and",
+      "category": "Gather, analyze, and validate information pertinent to the incident or event and make recommendations for setting priorities.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Review Infrared map and geospatial layers for accuracy, correcting any errors and notifying SITL/GISS of any errors immediately.",
@@ -547,7 +547,7 @@
     {
       "position_code": "IRIN",
       "task_number": 31,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Follow recommended procedures for IRIN.",
@@ -561,7 +561,7 @@
     {
       "position_code": "IRIN",
       "task_number": 32,
-      "category": "Follow established procedures and/or safety procedures relevant to given",
+      "category": "Follow established procedures and/or safety procedures relevant to given assignment.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Follow established safety procedures.",
@@ -579,7 +579,7 @@
     {
       "position_code": "IRIN",
       "task_number": 33,
-      "category": "Transfer position duties while ensuring continuity of authority and knowledge",
+      "category": "Transfer position duties while ensuring continuity of authority and knowledge and taking into account the increasing or decreasing incident complexity.",
       "behavior": null,
       "level": null,
       "verbatim_text": "Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), IRIN, IRCN/IRCR, host agency).",
