@@ -93,6 +93,9 @@ tab_gap, tab_formats = st.tabs(["Gap analysis", "Format-gap report"])
 
 with tab_gap:
     st.caption(gap.DISCLAIMER)
+    # Data currency (gap-analysis.spec.md AC-G9): which NWCG editions this
+    # console's answers describe, read from source_documents each run.
+    st.caption(gap.data_currency(get_connection()).line())
 
     if "completed_tasks" not in st.session_state:
         st.session_state.completed_tasks = []  # list of (position_task_id, label, context)

@@ -67,6 +67,12 @@ VERB_TABLE: dict[str, tuple[int, float]] = {
     "assemble": (3, 0.80), "check": (3, 0.85), "work": (3, 0.60), "keep": (3, 0.70),
     "give": (3, 0.85), "present": (3, 0.75), "deliver": (3, 0.80), "report": (3, 0.80),
     "demonstrate": (3, 0.68),  # skill demonstration unless "knowledge/understanding" (phrase rule)
+    # Added 2026-11-03 (corpus refresh): lead verbs first seen in the September
+    # 2026 Next Gen books (STAM/DECK/COMP "model leadership values", GISS
+    # "plot"/"repair"/"replace" geodatabase products, "transition with
+    # replacement personnel") - all performing-the-work verbs.
+    "model": (3, 0.70), "plot": (3, 0.85), "repair": (3, 0.80), "replace": (3, 0.85),
+    "transition": (3, 0.70),
     # Analyze — break down, diagnose, interpret situations
     "analyze": (4, 0.90), "assess": (4, 0.85), "monitor": (4, 0.75), "determine": (4, 0.80),
     "identify": (4, 0.75), "examine": (4, 0.90), "investigate": (4, 0.85),
