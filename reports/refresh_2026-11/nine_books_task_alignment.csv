@@ -1,0 +1,456 @@
+book,status,similarity,new_number,new_category,new_code,new_text,old_number,old_category,old_code,old_text,old_bullets
+CREP,new,,1,"Leadership Level 2, New Leader (Convey Intent)",O,"A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications.",,,,,
+CREP,new,,2,Prepare and Mobilize,O,Ensure individual readiness.,,,,,
+CREP,new,,3,Build the Team,I,"Consult with Crew Boss, Single Resource (CRWB) personnel to validate readiness of assigned crew(s) and equipment.",,,,,
+CREP,reworded,0.96,4,Perform Crew Representative-Specific Duties,I,Adhere to appropriate crew management guidelines.,10,"Establish organization structure, reporting procedures, and chain of command",I,Adhere to appropriate crew management guides.,0
+CREP,reworded,0.66,5,Perform Crew Representative-Specific Duties,I,Obtain crew information and manifests.,1,Ensure readiness for assignment.,O,Obtain information from assigned resources.,3
+CREP,reworded,0.65,6,Perform Crew Representative-Specific Duties,W,Serve as a liaison or advisor between crew(s) and the Incident Management Team (IMT) and home unit.,9,Establish effective relationships with relevant personnel.,I,Serve as liaison or advisor between crew(s) and supervisor.,0
+CREP,new,,7,Perform Crew Representative-Specific Duties,W,"Provide logistical support, as necessary.",,,,,
+CREP,new,,8,Perform Crew Representative-Specific Duties,W,"Provide support to Finance/Administration Section, as necessary.",,,,,
+CREP,new,,9,Perform Crew Representative-Specific Duties,W,"Provide support to Planning Section, as necessary.",,,,,
+CREP,new,,10,Perform Crew Representative-Specific Duties,W,Make appropriate decisions based on analysis of gathered information.,,,,,
+CREP,new,,11,Perform Crew Representative-Specific Duties,I,Continuously monitor incident environment and communicate critical updates.,,,,,
+CREP,new,,12,Perform Crew Representative-Specific Duties,I,Ensure organizational requirements are met and provide administrative oversight.,,,,,
+CREP,new,,13,Communicate and Coordinate,W,Establish communications and exchange necessary briefings/information with other resources.,,,,,
+CREP,new,,14,Manage Risk,I,"Account for location, health, safety, and welfare of assigned personnel.",,,,,
+CREP,new,,15,Demobilize,W,Prepare for and implement demobilization.,,,,,
+CREP,dropped,,,,,,2,Ensure readiness for assignment.,O,Inform dispatch of resource status and departure time.,0
+CREP,dropped,,,,,,3,Ensure readiness for assignment.,I,Brief assigned crew supervisors.,5
+CREP,dropped,,,,,,4,"Ensure availability, qualifications, and capabilities of resources to complete",O,"Inspect and/or monitor resources to ensure they are in a state of readiness (e.g., rest, repairs, tools, fuel) and consult crew supervisor(s).",0
+CREP,dropped,,,,,,5,"Ensure availability, qualifications, and capabilities of resources to complete",O/R,Request additional Crew Representatives if assigned crews are separated by location or operational period and their Crew Representative needs cannot be met.,0
+CREP,dropped,,,,,,6,"Gather, update, and apply situational information relevant to the assignment.",I,Obtain initial briefing from supervisor.,6
+CREP,dropped,,,,,,7,Establish effective relationships with relevant personnel.,I,Conduct self in a professional manner.,2
+CREP,dropped,,,,,,8,Establish effective relationships with relevant personnel.,I,Establish and maintain positive interpersonal and interagency working relationships.,0
+CREP,dropped,,,,,,11,Understand and comply with ICS concepts and principles.,I,Apply the ICS.,4
+CREP,dropped,,,,,,12,Model leadership values and principles.,I,Exhibit principles of duty.,4
+CREP,dropped,,,,,,13,Model leadership values and principles.,I,Exhibit principles of respect.,4
+CREP,dropped,,,,,,14,Model leadership values and principles.,I,Exhibit principles of integrity.,3
+CREP,dropped,,,,,,15,Ensure relevant information is exchanged during briefings and debriefings.,I,Report to Interagency Resource Representative or home unit dispatch.,1
+CREP,dropped,,,,,,16,Ensure relevant information is exchanged during briefings and debriefings.,I,Inform Planning and Operations Sections of crew capabilities at time of check-in.,0
+CREP,dropped,,,,,,17,Ensure relevant information is exchanged during briefings and debriefings.,I,Coordinate with home unit dispatch prior to disassembly of crew(s).,0
+CREP,dropped,,,,,,18,Ensure documentation is complete and disposition is appropriate.,I/R,Coordinate completion of accident and injury forms and other claims.,0
+CREP,dropped,,,,,,19,Ensure documentation is complete and disposition is appropriate.,I,"Ensure crew supervisor(s) complete personnel evaluations and ICS 214, Unit Log.",1
+CREP,dropped,,,,,,20,Ensure documentation is complete and disposition is appropriate.,I,Report crews’ performance and problems to home unit dispatch.,0
+CREP,dropped,,,,,,21,Ensure documentation is complete and disposition is appropriate.,I,Ensure crew supervisor(s) time reports are retrieved from Time Unit.,1
+CREP,dropped,,,,,,22,Ensure documentation is complete and disposition is appropriate.,I,"Ensure copy of crew performance evaluation, individual time report and other relevant documentation is given to Crew Bosses upon completion of assignment.",0
+CREP,dropped,,,,,,23,Make appropriate decisions based on analysis of gathered information.,I,Represent agency in absence of Interagency Resource Representative to make agency specific decisions.,0
+CREP,dropped,,,,,,24,Take appropriate action based on assessed risks.,I,Apply the Risk Management Process found in the IRPG and Fireline Handbook.,5
+CREP,dropped,,,,,,25,Follow established procedures and/or safety procedures relevant to given,I,Ensure established guidelines are followed.,2
+CREP,dropped,,,,,,26,Provide logistical support as necessary.,I,Advise crew supervisors how to obtain logistical support and/or make necessary arrangements for logistical support.,3
+CREP,dropped,,,,,,27,Provide logistical support as necessary.,I,Facilitate special transportation needs.,0
+CREP,dropped,,,,,,28,Effectively advise and assist in resolving human resource issues that occur,I,"Resolve problems, conflicts, and complaints.",0
+CREP,dropped,,,,,,29,Plan for demobilization and ensure demobilization procedures are followed.,O,Demobilize and check out.,2
+CREP,dropped,,,,,,30,Plan for demobilization and ensure demobilization procedures are followed.,I,Brief Interagency Resource Representative and subordinates on demobilization procedures and responsibilities.,0
+STAM,new,,1,"Leadership Level 2, New Leader (Convey Intent)",O,"A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, an d apply effective communications.",,,,,
+STAM,new,,2,Prepare and Mobilize,O,Ensure individual readiness.,,,,,
+STAM,reworded,0.55,3,Prepare and Mobilize,I,Gather critical information pertinent to the assignment.,2,Ensure readiness for assignment.,O,Obtain complete information from dispatch upon assignment.,8
+STAM,new,,4,Prepare and Mobilize,I,Travel to and check in at assignment.,,,,,
+STAM,new,,5,Prepare and Mobilize,I,"Review Incident Action Plan (IAP) and obtain briefing, objectives, and intent from supervisor.",,,,,
+STAM,new,,6,Build the Team,I,"Assemble, organize, and maintain accountability for assigned resources (personnel and equipment).",,,,,
+STAM,new,,7,Build the Team,I,Brief assigned personnel.,,,,,
+STAM,new,,8,Supervise and Direct Work Assignments,I,Ensure incident objectives and performance standards are met.,,,,,
+STAM,new,,9,Supervise and Direct Work Assignments,R/S,"Adapt and respond to significant changes, deficiencies, or hazardous conditions that affect staging area operations.",,,,,
+STAM,new,,10,Supervise and Direct Work Assignments,O,Model leadership values and principles.,,,,,
+STAM,reworded,0.67,11,Perform Staging Area Manager-Specific Duties,I,Coordinate with relevant personnel.,21,Coordinate interdependent activities.,I,Coordinate with Planning Section.,6
+STAM,reworded,0.76,12,Perform Staging Area Manager-Specific Duties,I,Establish and maintain the staging area.,31,Utilize information to produce outputs.,I,Establish a layout for staging area.,3
+STAM,reworded,0.62,13,Perform Staging Area Manager-Specific Duties,I,Close out or transfer the staging area.,32,Utilize information to produce outputs.,I,Prepare a map of the staging area.,0
+STAM,new,,14,Communicate and Coordinate,I,Ensure clear understanding of expectations and maintain timely co mmunication within and across Incident Command System (ICS) functional areas and chain of command.,,,,,
+STAM,new,,15,Communicate and Coordinate,O,Communicate effectively using multichannel radios (and other methods as approved/directed).,,,,,
+STAM,reworded,0.62,16,Manage Risk,O,Apply the Risk Management Process.,33,Take appropriate action based on assessed risks.,I,Apply the Risk Management Process found in the IRPG and Fireline Handbook.,5
+STAM,new,,17,Manage Risk,R/S,Plan for and support medical emergencies.,,,,,
+STAM,reworded,0.7,18,Manage Risk,I,"Account for location, health, safety, and welfare of assigned personnel.",15,"Ensure the safety, welfare, and accountability of assigned personnel.",I,"Provide for the safety and welfare, of assigned resources.",5
+STAM,new,,19,Document,O,Complete all administrative tasks and documentation in an accurate and timely manner.,,,,,
+STAM,new,,20,Demobilize,I,Prepare for demobilization.,,,,,
+STAM,new,,21,Demobilize,I,Implement demobilization.,,,,,
+STAM,dropped,,,,,,1,Ensure readiness for assignment.,O,Obtain and assemble information and materials needed for kit. Suggested items:,5
+STAM,dropped,,,,,,3,Ensure readiness for assignment.,I,Arrive at incident and check in.,1
+STAM,dropped,,,,,,4,"Ensure availability, qualifications, and capabilities of resources to complete",I,Determine need for assistance by assessing span of control.,5
+STAM,dropped,,,,,,5,"Ensure availability, qualifications, and capabilities of resources to complete",I,Determine and order support needs.,7
+STAM,dropped,,,,,,6,"Gather, update, and apply situational information relevant to the assignment.",I,Obtain initial briefing from Operations Section Chief.,6
+STAM,dropped,,,,,,7,"Gather, update, and apply situational information relevant to the assignment.",I,Obtain information from Incident Action Plans (IAPs) or relevant plans.,8
+STAM,dropped,,,,,,8,Establish effective relationships with relevant personnel.,I,Conduct self in a professional manner.,2
+STAM,dropped,,,,,,9,Establish effective relationships with relevant personnel.,I,Establish and maintain positive interpersonal and interagency working relationships.,0
+STAM,dropped,,,,,,10,"Establish organization structure, reporting procedures, and chain of command",I,Establish staging area procedures.,5
+STAM,dropped,,,,,,11,Understand and comply with ICS concepts and principles.,I,Apply the ICS.,4
+STAM,dropped,,,,,,12,Model leadership values and principles.,I,Exhibit principles of duty.,4
+STAM,dropped,,,,,,13,Model leadership values and principles.,I,Exhibit principles of respect.,4
+STAM,dropped,,,,,,14,Model leadership values and principles.,I,Exhibit principles of integrity.,3
+STAM,dropped,,,,,,16,"Establish work assignments and performance expectations, monitor",I,Complete daily review of staffing requirements.,0
+STAM,dropped,,,,,,17,"Establish work assignments and performance expectations, monitor",I,Develop schedule/assignments based on IAP or relevant plan.,0
+STAM,dropped,,,,,,18,"Establish work assignments and performance expectations, monitor",I,Ensure subordinates understand assignment for operational period.,1
+STAM,dropped,,,,,,19,"Establish work assignments and performance expectations, monitor",I,Continually evaluate performance.,3
+STAM,dropped,,,,,,20,Emphasize teamwork.,I,Establish crew cohesiveness.,4
+STAM,dropped,,,,,,22,Coordinate interdependent activities.,I,Coordinate with Logistics.,8
+STAM,dropped,,,,,,23,Coordinate interdependent activities.,I,Coordinate with Finance/Administration.,4
+STAM,dropped,,,,,,24,Ensure relevant information is exchanged during briefings and debriefings.,I,Brief and keep subordinates informed and updated.,1
+STAM,dropped,,,,,,25,Ensure relevant information is exchanged during briefings and debriefings.,I,Attend briefings and meetings as directed.,2
+STAM,dropped,,,,,,26,Ensure relevant information is exchanged during briefings and debriefings.,I,Participate in functional area briefings and After Action Reviews (AARs).,0
+STAM,dropped,,,,,,27,Ensure documentation is complete and disposition is appropriate.,I,Compile list of resources assigned to staging area.,0
+STAM,dropped,,,,,,28,Ensure documentation is complete and disposition is appropriate.,I,Complete and submit evaluation and documentation forms through supervisor to Documentation Unit as required.,0
+STAM,dropped,,,,,,29,"Gather, produce and distribute information as required by established",I,Provide a copy of staging area layout map to Planning and Logistics Sections.,0
+STAM,dropped,,,,,,30,"Gather, analyze, and validate information pertinent to the incident or event and",I,Determine and report resource deficiencies to Operations Section Chief.,3
+STAM,dropped,,,,,,34,Take appropriate action based on assessed risks.,I,Respond to requests for resource assignments.,2
+STAM,dropped,,,,,,35,Take appropriate action based on assessed risks.,I,Administer dispatch procedures.,4
+STAM,dropped,,,,,,36,Modify approach based on evaluation of incident situation.,R,Take appropriate actions to relocate the staging area.,5
+STAM,dropped,,,,,,37,Modify approach based on evaluation of incident situation.,I,Prepare for weather contingencies or other emergency situations.,0
+STAM,dropped,,,,,,38,Follow established procedures and/or safety procedures relevant to given,I,Ensure established guidelines are followed.,2
+STAM,dropped,,,,,,39,Transfer position duties while ensuring continuity of authority and knowledge,I,"Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",2
+STAM,dropped,,,,,,40,Plan for demobilization and ensure demobilization procedures are followed.,I,Demobilize staging area in timely and orderly manner.,4
+STAM,dropped,,,,,,41,Plan for demobilization and ensure demobilization procedures are followed.,O,Demobilize and check out.,2
+ORDM,new,,1,"Leadership Level 2, New Leader (Convey Intent)",O,"A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications.",,,,,
+ORDM,new,,2,Prepare and Mobilize,O,Ensure individual readiness.,,,,,
+ORDM,new,,3,Prepare and Mobilize,I,Travel to and check in at assignment.,,,,,
+ORDM,new,,4,Prepare and Mobilize,I,"Review Incident Action Plan (IAP) and obtain briefing, objectives, and intent from supervisor.",,,,,
+ORDM,new,,5,Perform Ordering Manager-Specific Duties,I,Develop ordering standards and requirements for incident resources to follow.,,,,,
+ORDM,new,,6,Perform Ordering Manager-Specific Duties,I,Process all order requests in a timely and accurate manner.,,,,,
+ORDM,new,,7,Perform Ordering Manager-Specific Duties,I,"Track resource requests in resource ordering application systems for overhead, equipment, crews, and supplies.",,,,,
+ORDM,new,,8,Communicate and Coordinate,I,Ensure clear understanding of expectations and timely co mmunication within and across Incident Command System (ICS) functional areas and chain of command.,,,,,
+ORDM,new,,9,Communicate and Coordinate,I,"Coordinate with expanded dispatch, Center Manager (CM), and incident procurement personnel as appropriate.",,,,,
+ORDM,new,,10,Document,I,Complete all administrative tasks and documentation in an accurate and timely manner.,,,,,
+ORDM,reworded,0.76,11,Demobilize,I,Reconcile incident supplies and equipment.,20,Plan for demobilization and ensure demobilization procedures are followed.,I,Demobilize supplies and equipment.,2
+ORDM,new,,12,Demobilize,I,Prepare for and implement demobilization.,,,,,
+ORDM,dropped,,,,,,1,Ensure readiness for assignment.,O,Obtain and assemble information and materials needed for kit. Suggested items:,6
+ORDM,dropped,,,,,,2,Ensure readiness for assignment.,O,Obtain complete information from dispatch upon assignment.,8
+ORDM,dropped,,,,,,3,Ensure readiness for assignment.,I,Arrive at incident and check in.,1
+ORDM,dropped,,,,,,4,"Ensure availability, qualifications, and capabilities of resources to complete",I,Coordinate with Supply Unit Leader to obtain needed supplies and materials.,0
+ORDM,dropped,,,,,,5,"Gather, update, and apply situational information relevant to the assignment.",I,Obtain initial briefing from Supply Unit Leader or immediate supervisor.,12
+ORDM,dropped,,,,,,6,Establish effective relationships with relevant personnel.,I,Conduct self in a professional manner.,2
+ORDM,dropped,,,,,,7,Establish effective relationships with relevant personnel.,I,Establish and maintain positive interpersonal and interagency working relationships.,0
+ORDM,dropped,,,,,,8,Understand and comply with ICS concepts and principles.,I,Apply the ICS.,4
+ORDM,dropped,,,,,,9,Ensure relevant information is exchanged during briefings and debriefings.,I,Brief and keep counterparts informed and updated.,4
+ORDM,dropped,,,,,,10,Ensure relevant information is exchanged during briefings and debriefings.,I,Participate in functional area briefings and After Action Reviews (AARs).,0
+ORDM,dropped,,,,,,11,Ensure documentation is complete and disposition is appropriate.,I,Set up and maintain filing system to track resources.,6
+ORDM,dropped,,,,,,12,Ensure documentation is complete and disposition is appropriate.,I,Prepare and submit reports as required by the Supply Unit Leader or immediate supervisor.,0
+ORDM,dropped,,,,,,13,Ensure documentation is complete and disposition is appropriate.,I,Close out resource orders and records with appropriate units.,0
+ORDM,dropped,,,,,,14,"Gather, produce and distribute information as required by established",I,Inform Receiving and Distribution Manager and requestor of orders placed and pending delivery of supplies.,0
+ORDM,dropped,,,,,,15,"Gather, produce and distribute information as required by established",I,Receive written request for supplies and resources from incident personnel.,3
+ORDM,dropped,,,,,,16,Follow established procedures and/or safety procedures relevant to given,I,Establish and implement incident resource ordering system based on direction from Supply Unit Leader.,6
+ORDM,dropped,,,,,,17,Follow established procedures and/or safety procedures relevant to given,I,"Process resource orders and track status (e.g., delivery times, method of delivery, location).",4
+ORDM,dropped,,,,,,18,Follow established procedures and/or safety procedures relevant to given,I,Reconcile resource orders.,4
+ORDM,dropped,,,,,,19,Transfer position duties while ensuring continuity of authority and knowledge,I,"Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",2
+ORDM,dropped,,,,,,21,Plan for demobilization and ensure demobilization procedures are followed.,I,Demobilize and check out.,2
+RCDM,new,,1,"Leadership Level 2, New Leader (Convey Intent)",O,"A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications.",,,,,
+RCDM,new,,2,Prepare and Mobilize,O,Ensure individual readiness.,,,,,
+RCDM,new,,3,Prepare and Mobilize,I,Travel to and check in at assignment.,,,,,
+RCDM,new,,4,Prepare and Mobilize,I,"Review Incident Action Plan (IAP) and obtain briefing, objectives, and intent from supervisor.",,,,,
+RCDM,new,,5,Build the Team,I,"Establish and communicate expectations of the chain of command, reporting procedures, and risk management processes.",,,,,
+RCDM,new,,6,Build the Team,I,Identify assigned resources and maintain accountability.,,,,,
+RCDM,new,,7,Build the Team,I/S,Brief assigned personnel.,,,,,
+RCDM,new,,8,Supervise and Direct Work Assignments,I/S,"Establish and communicate objectives, priorities, work assignments, and performance expectations as applicable.",,,,,
+RCDM,new,,9,Supervise and Direct Work Assignments,I,Monitor performance and provide immediate and regular feedback to assigned personnel as applicable.,,,,,
+RCDM,new,,10,Supervise and Direct Work Assignments,I,"Identify, analyze, and use relevant situational information to make informed decisions and take appropriate actions.",,,,,
+RCDM,reworded,0.86,11,Perform Receiving/Distribution Manager- Specific Duties,I/S,Organize the physical layout of a safe and secure supply area.,5,"Ensure availability, qualifications, and capabilities of resources to complete",I,Organize physical layout of a secure and safe supply area.,4
+RCDM,new,,12,Perform Receiving/Distribution Manager- Specific Duties,I,"Set up and maintain a system for tracking the distribution of consumable, durable, and accountable supplies.",,,,,
+RCDM,new,,13,Perform Receiving/Distribution Manager- Specific Duties,I,"Ensure orders for materials and supplies are filled, prepared, and delivered in a timely manner.",,,,,
+RCDM,new,,14,Perform Receiving/Distribution Manager- Specific Duties,I,Ensure safe operations within the supply area.,,,,,
+RCDM,new,,15,Perform Receiving/Distribution Manager- Specific Duties,I/S,Create and implement a procedure for the collection and shipping of damaged/used items.,,,,,
+RCDM,reworded,0.57,16,Perform Receiving/Distribution Manager- Specific Duties,I,Maintain and provide daily inventory and any other reports as requested by the Supply Unit Leader (SPUL).,25,Ensure documentation is complete and disposition is appropriate.,I,Prepare and submit reports as required by the Supply Unit Leader or immediate supervisor.,0
+RCDM,new,,17,Perform Receiving/Distribution Manager- Specific Duties,I,Maintain relationships with the Ordering Manager (ORDM) and Su pply Unit Leader (SPUL) regarding receipt of ordered supplies and equipment.,,,,,
+RCDM,kept,1.0,18,Communicate and Coordinate,I,Establish and maintain positive interpersonal and interagency working relationships.,8,Establish effective relationships with relevant personnel.,I,Establish and maintain positive interpersonal and interagency working relationships.,0
+RCDM,reworded,0.87,19,Communicate and Coordinate,I,Conduct and/or participate in functional briefings and After Action Reviews (AARs).,23,Ensure relevant information is exchanged during briefings and debriefings.,I,Participate in functional area briefings and After Action Reviews (AARs).,0
+RCDM,new,,20,Manage Risk,I,Apply the Risk Management Process.,,,,,
+RCDM,new,,21,Manage Risk,I/S,Plan for medical emergencies.,,,,,
+RCDM,reworded,0.71,22,Manage Risk,I,"Account for location, health, safety, and welfare of assigned personnel.",14,"Ensure the safety, welfare, and accountability of assigned personnel.",I,Provide for the safety and welfare of assigned resources.,3
+RCDM,new,,23,Manage Risk,R,Submit accident/incident reports with pertinent agency-specific forms through the established chain of command.,,,,,
+RCDM,new,,24,Manage Risk,I/S,Follow transport guidelines for hazardous material shipping.,,,,,
+RCDM,new,,25,Document,I,Complete all administrative tasks and documentation in an accurate and timely manner.,,,,,
+RCDM,reworded,0.68,26,Demobilize,I,Prepare for and implement demobilization of supplies and equipment.,31,Follow established procedures and/or safety procedures relevant to given,I,Establish procedures for distribution of supplies and equipment.,3
+RCDM,reworded,0.57,27,Demobilize,I/S,Prepare for and implement demobilization of personnel.,38,Plan for demobilization and ensure demobilization procedures are followed.,I,Ensure demobilization of resources.,2
+RCDM,dropped,,,,,,1,Ensure readiness for assignment.,O,Obtain and assemble information and materials needed for kit. Suggested items:,6
+RCDM,dropped,,,,,,2,Ensure readiness for assignment.,O,Obtain complete information from dispatch upon assignment.,8
+RCDM,dropped,,,,,,3,Ensure readiness for assignment.,I,Arrive at incident and check in.,1
+RCDM,dropped,,,,,,4,"Ensure availability, qualifications, and capabilities of resources to complete",I,Coordinate with Supply Unit Leader to obtain necessary incident facility staffing levels and needed supplies and materials.,2
+RCDM,dropped,,,,,,6,"Gather, update, and apply situational information relevant to the assignment.",I,Obtain initial briefing from Supply Unit Leader or immediate supervisor.,12
+RCDM,dropped,,,,,,7,Establish effective relationships with relevant personnel.,I,Conduct self in a professional manner.,2
+RCDM,dropped,,,,,,9,"Establish organization structure, reporting procedures, and chain of command",I,Organize assigned personnel to meet the needs of the assignment.,0
+RCDM,dropped,,,,,,10,Understand and comply with ICS concepts and principles.,I,Apply the ICS.,4
+RCDM,dropped,,,,,,11,Model leadership values and principles.,I,Exhibit principles of duty.,4
+RCDM,dropped,,,,,,12,Model leadership values and principles.,I,Exhibit principles of respect.,4
+RCDM,dropped,,,,,,13,Model leadership values and principles.,I,Exhibit principles of integrity.,3
+RCDM,dropped,,,,,,15,"Establish work assignments and performance expectations, monitor",I,Complete daily review of staffing requirements.,0
+RCDM,dropped,,,,,,16,"Establish work assignments and performance expectations, monitor",I,Develop schedule/assignments based on IAP or relevant plan.,0
+RCDM,dropped,,,,,,17,"Establish work assignments and performance expectations, monitor",I,Ensure subordinates understand assignment for operational period.,1
+RCDM,dropped,,,,,,18,"Establish work assignments and performance expectations, monitor",I,Continually evaluate performance.,3
+RCDM,dropped,,,,,,19,Emphasize teamwork.,I,Establish cohesiveness among assigned resources.,4
+RCDM,dropped,,,,,,20,Coordinate interdependent activities.,I,Inform Ordering Manager of receipt of supply and equipment.,2
+RCDM,dropped,,,,,,21,Coordinate interdependent activities.,I,Coordinate with Supply Unit Leader to release excess resources and supplies.,2
+RCDM,dropped,,,,,,22,Ensure relevant information is exchanged during briefings and debriefings.,I,Brief and keep subordinates informed and updated.,0
+RCDM,dropped,,,,,,24,Ensure documentation is complete and disposition is appropriate.,I,Maintain inventory of supplies and equipment.,1
+RCDM,dropped,,,,,,26,Ensure documentation is complete and disposition is appropriate.,I,Reconcile inventory received and shipped.,2
+RCDM,dropped,,,,,,27,"Gather, analyze, and validate information pertinent to the incident or event and",I,Evaluate available information and make recommendations to support incident.,1
+RCDM,dropped,,,,,,28,Take appropriate action based on assessed risks.,I,Manage the receiving and distribution function.,3
+RCDM,dropped,,,,,,29,Follow established procedures and/or safety procedures relevant to given,I,Comply with applicable health and safety regulations.,1
+RCDM,dropped,,,,,,30,Follow established procedures and/or safety procedures relevant to given,I,Establish procedures for receiving supplies and equipment.,2
+RCDM,dropped,,,,,,32,Follow established procedures and/or safety procedures relevant to given,I,Implement security procedures.,1
+RCDM,dropped,,,,,,33,Ensure functionality of equipment.,I,Ensure tools and equipment are serviceable.,2
+RCDM,dropped,,,,,,34,Transfer position duties while ensuring continuity of authority and knowledge,I,"Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",2
+RCDM,dropped,,,,,,35,Plan for demobilization and ensure demobilization procedures are followed.,I,Demobilize supplies and equipment.,5
+RCDM,dropped,,,,,,36,Plan for demobilization and ensure demobilization procedures are followed.,I,Anticipate demobilization of resources.,2
+RCDM,dropped,,,,,,37,Plan for demobilization and ensure demobilization procedures are followed.,I,Demobilize and check out.,2
+COMP,new,,1,"Leadership Level 3, Leader of People (Develop Intent)",O,"Leaders of people have increasing challenges. They accept responsibility, not only for their own actions, but for those of their team. Leaders of people act to develop credibility as leaders: placing the team ahead of themselves, demonstrating trustworthiness, mastering essential technical skills, and instilling the values of the organization in their teams.",,,,,
+COMP,new,,2,Prepare and Mobilize,O,Ensure individual readiness.,,,,,
+COMP,reworded,0.55,3,Prepare and Mobilize,O,Gather critical information pertinent to the assignment.,25,"Gather, analyze, and validate information pertinent to the incident or event and",I,Evaluate available information and make recommendations to support incident.,4
+COMP,new,,4,Prepare and Mobilize,I,Travel to and check in at assignment.,,,,,
+COMP,new,,5,Prepare and Mobilize,I,"Review Incident Action Plan (IAP) and obtain briefing, objectives, and intent from supervisor.",,,,,
+COMP,new,,6,Build the Team,I,Obtain equipment/personnel to complete assigned tasks and organize workspace.,,,,,
+COMP,new,,7,Build the Team,O,Model professionalism and leadership values and principles.,,,,,
+COMP,new,,8,Perform Compensation/Claims Unit Leader- Specific Duties,I,"Identify, analyze, and use relevant situational information to es tablish objectives, make informed decisions, and take appropriate actions.",,,,,
+COMP,new,,9,Perform Compensation/Claims Unit Leader- Specific Duties,I,Establish communications and exchange necessary information with other resources.,,,,,
+COMP,reworded,0.61,10,Perform Compensation/Claims Unit Leader- Specific Duties,I,Establish a system for documentation.,36,Ensure documentation is complete and disposition is appropriate.,O,Establish system for documenting and processing injury/illness claims.,3
+COMP,new,,11,Perform Compensation/Claims Unit Leader- Specific Duties,I,Ensure proper information and documentation are provided to and received from claimant.,,,,,
+COMP,new,,12,Perform Compensation/Claims Unit Leader- Specific Duties,I,Ensure thorough documentation and investigation of actual and po tential claims are completed and provided for agency adjudication.,,,,,
+COMP,new,,13,Perform Compensation/Claims Unit Leader- Specific Duties,I,Gather necessary information and ensure proper documentation and guidance are provided to injured/ill personnel.,,,,,
+COMP,new,,14,Perform Compensation/Claims Unit Leader- Specific Duties,I,Stay informed and report on the status of injured/ill personnel.,,,,,
+COMP,reworded,0.76,15,Communicate and Coordinate,I,Attend and participate in incident briefings and meetings as directed.,18,Ensure relevant information is exchanged during briefings and debriefings.,I,Attend incident operational briefings and meetings as directed.,2
+COMP,new,,16,Manage Risk,O,Ensure compliance with all safety practices and procedures.,,,,,
+COMP,new,,17,Document,I,Complete all administrative tasks and documentation in an accurate and timely manner.,,,,,
+COMP,reworded,0.61,18,Demobilize,I,Plan for incident demobilization and transition.,29,Plan for demobilization and ensure demobilization procedures are followed.,I,Anticipate demobilization of resources.,2
+COMP,new,,19,Demobilize,I,Complete demobilization check-out process before being released from the incident.,,,,,
+COMP,dropped,,,,,,1,"Ensure availability, qualifications, and capabilities of resources to complete",I,Coordinate with Finance/Administration Section Chief and other functional areas to obtain resources.,5
+COMP,dropped,,,,,,2,"Ensure availability, qualifications, and capabilities of resources to complete",I,Organize work area to facilitate unit operations.,3
+COMP,dropped,,,,,,3,"Gather, update, and apply situational information relevant to the assignment.",I,Obtain initial briefing from Finance Section Chief or supervisor.,7
+COMP,dropped,,,,,,4,Establish effective relationships with relevant personnel.,I,Establish and maintain positive interpersonal and interagency working relationships.,0
+COMP,dropped,,,,,,5,"Establish organization structure, reporting procedures, and chain of command",I,Organize assigned personnel to meet the needs of the unit.,0
+COMP,dropped,,,,,,6,Understand and comply with ICS concepts and principles.,I,Coordinate with functional areas within the ICS structure.,0
+COMP,dropped,,,,,,7,Model leadership values and principles.,I,Exhibit principles of duty.,4
+COMP,dropped,,,,,,8,Model leadership values and principles.,I,Exhibit principles of respect.,4
+COMP,dropped,,,,,,9,Model leadership values and principles.,I,Exhibit principles of integrity.,3
+COMP,dropped,,,,,,10,"Ensure the safety, welfare, and accountability of assigned personnel.",I,Provide for the safety and welfare of assigned resources.,3
+COMP,dropped,,,,,,11,"Establish work assignments and performance expectations, monitor",I,Complete daily review of staffing requirements and ensure adequate personnel to meet needs.,0
+COMP,dropped,,,,,,12,"Establish work assignments and performance expectations, monitor",I,Develop schedule/assignments based on Incident Action Plan (IAP) or relevant plan.,0
+COMP,dropped,,,,,,13,"Establish work assignments and performance expectations, monitor",I,Ensure subordinates understand assignment for operational period.,0
+COMP,dropped,,,,,,14,"Establish work assignments and performance expectations, monitor",I,Continually evaluate performance.,3
+COMP,dropped,,,,,,15,Emphasize teamwork.,I,Establish cohesiveness among assigned resources.,4
+COMP,dropped,,,,,,16,Coordinate interdependent activities.,I,Coordinate with other units and sections for completion of work assignments.,2
+COMP,dropped,,,,,,17,Ensure relevant information is exchanged during briefings and debriefings.,I,Brief and keep subordinates informed and updated.,1
+COMP,dropped,,,,,,19,Ensure relevant information is exchanged during briefings and debriefings.,I,"Participate in functional area briefings and conduct After Action Reviews (AARs), as appropriate.",0
+COMP,dropped,,,,,,20,Ensure documentation is complete and disposition is appropriate.,I,Review and approve subordinate time reports.,2
+COMP,dropped,,,,,,21,Ensure documentation is complete and disposition is appropriate.,I,"Submit completed original documents at appropriate time (e.g., each operational period, final package).",2
+COMP,dropped,,,,,,22,Ensure documentation is complete and disposition is appropriate.,O,Compile unit documentation for final incident package.,0
+COMP,dropped,,,,,,23,"Gather, produce, and distribute information as required by established",I,Prepare information for preplanning/strategy meeting.,1
+COMP,dropped,,,,,,24,"Gather, produce, and distribute information as required by established",I,Prepare input to final narrative and transition plan as requested.,0
+COMP,dropped,,,,,,26,Follow established procedures and/or safety procedures relevant to given,I,Ensure established guidelines are followed.,2
+COMP,dropped,,,,,,27,Transfer position duties while ensuring continuity of authority and knowledge,I,"Coordinate and efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team [IMT], host agency).",2
+COMP,dropped,,,,,,28,Transfer position duties while ensuring continuity of authority and knowledge,I,Ensure financial documentation packages are submitted to the processing agency.,0
+COMP,dropped,,,,,,30,Plan for demobilization and ensure demobilization procedures are followed.,I,Ensure demobilization of resources.,2
+COMP,dropped,,,,,,31,Ensure readiness for assignment.,O,Obtain and assemble information and materials needed for kit. Suggested items:,16
+COMP,dropped,,,,,,32,Coordinate interdependent activities.,I,"Provide relevant information to the Time, Cost, and Procurement Units for posting.",0
+COMP,dropped,,,,,,33,Ensure relevant information is exchanged during briefings and debriefings.,I,"Provide input for the ICS 209, Incident Status Summary.",0
+COMP,dropped,,,,,,34,Ensure relevant information is exchanged during briefings and debriefings.,I,Coordinate with Safety Officer and Medical Unit on injury/accident trends.,0
+COMP,dropped,,,,,,35,Ensure relevant information is exchanged during briefings and debriefings.,I,Identify and communicate issues of concern to supervisor.,4
+COMP,dropped,,,,,,37,Ensure documentation is complete and disposition is appropriate.,I,Review paperwork for accuracy and ensure case files are completed and transmitted to the appropriate administrative processing agency.,0
+COMP,dropped,,,,,,38,"Gather, produce, and distribute information as required by established",O,Provide information to personnel on injury/illness documentation requirements and procedures.,0
+COMP,dropped,,,,,,39,"Gather, produce, and distribute information as required by established",I,Coordinate with incident/agency units and medical facilities to obtain and exchange information.,10
+COMP,dropped,,,,,,40,"Gather, produce, and distribute information as required by established",I,Provide information to claimant on claim filing requirements.,0
+COST,new,,1,"Leadership Level 3, Leader of People (Develop Intent)",O,"Leaders of people have increasing challenges. They accept responsibility, not only for their own actions, but for those of their team. Leaders of people act to develop credibility as leaders: placing the team ahead of themselves, demonstrating trustworthiness, mastering essential technical skills, and instilling the values of the organization in their teams.",,,,,
+COST,new,,2,Prepare and Mobilize,O,Ensure individual readiness.,,,,,
+COST,new,,3,Prepare and Mobilize,I,Gather critical information pertinent to the assignment.,,,,,
+COST,new,,4,Prepare and Mobilize,I,Travel to and check in at assignment.,,,,,
+COST,reworded,0.71,5,Build the Team,I,Obtain briefing from incident supervisor.,4,"Gather, update, and apply situational information relevant to the assignment.",I,Obtain initial briefing from Finance Section Chief or supervisor.,7
+COST,kept,1.0,6,Build the Team,I,Establish and maintain positive interpersonal and interagency working relationships.,5,Establish effective relationships with relevant personnel.,I,Establish and maintain positive interpersonal and interagency working relationships.,0
+COST,reworded,0.73,7,Build the Team,O,Participate in operational briefings as directed.,14,Ensure relevant information is exchanged during briefings and debriefings.,I,Attend incident operational briefings and meetings as directed.,2
+COST,kept,1.0,8,Perform Cost Unit Leader-Specific Duties,I,Organize work area to facilitate unit operations.,3,"Ensure availability, qualifications, and capabilities of resources to complete",I,Organize work area to facilitate unit operations.,2
+COST,new,,9,Perform Cost Unit Leader-Specific Duties,I,Utilize incident cost system to analyze and validate data.,,,,,
+COST,reworded,0.98,10,Perform Cost Unit Leader-Specific Duties,I,Track costs in accordance with established cost share agreement(s).,23,"Administer and/or apply agency policy, contracts and agreements.",I,Track costs in accordance with established cost share agreements.,0
+COST,new,,11,Perform Cost Unit Leader-Specific Duties,I,Coordinate with incident cost centers to gather on- and off-site cost information,,,,,
+COST,new,,12,Perform Cost Unit Leader-Specific Duties,I,Provide information to the Incident Management Team (IMT) and relevant agencies.,,,,,
+COST,new,,13,Perform Cost Unit Leader-Specific Duties,I,Ensure cost-management measures are in place as outlined in applicable agency guidelines.,,,,,
+COST,new,,14,Perform Cost Unit Leader-Specific Duties,I,Maintain situational awareness to make appropriate cost adjustments.,,,,,
+COST,new,,15,Communicate and Coordinate,I,"Follow established processes and chain of command for collecting, producing, and distributing information.",,,,,
+COST,reworded,0.93,16,Communicate and Coordinate,I,Coordinate with other units and sections to complete work assignments.,11,Coordinate interdependent activities.,I,Coordinate with other units and sections for completion of work assignments.,2
+COST,kept,1.0,17,Communicate and Coordinate,O,Participate in functional area briefings and After Action Reviews (AARs).,15,Ensure relevant information is exchanged during briefings and debriefings.,I,Participate in functional area briefings and After Action Reviews (AARs).,0
+COST,new,,18,Manage Risk,I,Ensure compliance with all safety practices and procedures for yourself and those around you.,,,,,
+COST,new,,19,Document,I,Document rationales for cost estimate methodologies.,,,,,
+COST,new,,20,Document,I,Complete all administrative tasks and documentation in an accurate and timely manner.,,,,,
+COST,new,,21,Demobilize,I,Coordinate an efficient transfer of command.,,,,,
+COST,new,,22,Demobilize,I,Prepare for and implement demobilization.,,,,,
+COST,dropped,,,,,,1,Ensure readiness for assignment.,O,Obtain and assemble information and materials needed for kit.,0
+COST,dropped,,,,,,2,Ensure readiness for assignment.,I,Coordinate with Finance/Administration Section Chief and other functional areas to obtain resources.,5
+COST,dropped,,,,,,6,Understand and comply with ICS concepts and principles.,I,Apply the ICS.,4
+COST,dropped,,,,,,7,Model leadership values and principles.,I,Exhibit principles of duty.,4
+COST,dropped,,,,,,8,Model leadership values and principles.,I,Exhibit principles of respect.,4
+COST,dropped,,,,,,9,Model leadership values and principles.,I,Exhibit principles of integrity.,3
+COST,dropped,,,,,,10,Emphasize teamwork.,I,Establish cohesiveness among assigned resources.,4
+COST,dropped,,,,,,12,Ensure relevant information is exchanged during briefings and debriefings.,I,"Provide input for the ICS 209, Incident Status Summary.",0
+COST,dropped,,,,,,13,Ensure relevant information is exchanged during briefings and debriefings.,I,Provide daily cost estimates to appropriate agency personnel.,0
+COST,dropped,,,,,,16,Ensure documentation is complete and disposition is appropriate.,I,"Document incident costs according to direction, timeframes, and regulations.",0
+COST,dropped,,,,,,17,Ensure documentation is complete and disposition is appropriate.,I,Finalize cost documentation.,1
+COST,dropped,,,,,,18,Ensure documentation is complete and disposition is appropriate.,I,"Submit completed original documents at appropriate time (e.g., each operational period, final package).",2
+COST,dropped,,,,,,19,Ensure documentation is complete and disposition is appropriate.,I,Compile unit documentation for final incident package.,0
+COST,dropped,,,,,,20,"Gather, produce and distribute information as required by established",I,Prepare information for preplanning/strategy meeting.,1
+COST,dropped,,,,,,21,"Gather, produce and distribute information as required by established",I,Prepare input to final narrative and transition plan as requested.,0
+COST,dropped,,,,,,22,"Administer and/or apply agency policy, contracts and agreements.",I,Assist with the development of cost share agreements.,0
+COST,dropped,,,,,,24,"Gather, analyze, and validate information pertinent to the incident or event",I,Verify incident resources with Planning Section.,0
+COST,dropped,,,,,,25,"Gather, analyze, and validate information pertinent to the incident or event",I,Provide appropriate information for cost containment effort.,0
+COST,dropped,,,,,,26,"Gather, analyze, and validate information pertinent to the incident or event",I,Ensure resources are entered and tracked in the applicable cost reporting program.,5
+COST,dropped,,,,,,27,Utilize information to produce outputs.,I,Ensure cost packages are completed and distributed in accordance with agency policy.,0
+COST,dropped,,,,,,28,Utilize information to produce outputs.,I,Ensure accruals are reported in accordance with agency policy.,0
+COST,dropped,,,,,,29,Follow established procedures and/or safety procedures relevant to given,I,Ensure established guidelines are followed.,2
+COST,dropped,,,,,,30,Transfer position duties while ensuring continuity of authority and knowledge,I,"Coordinate an efficient transfer of position duties when mobilizing/demobilizing (e.g., incoming Incident Management Team (IMT), host agency).",1
+COST,dropped,,,,,,31,Transfer position duties while ensuring continuity of authority and knowledge,I,Ensure financial documentation packages are submitted to processing agency.,0
+COST,dropped,,,,,,32,Plan for demobilization and ensure demobilization procedures are followed.,I,Demobilize and check out.,2
+GISS,new,,1,"Leadership Level 1, Follower (Provide Action)",O,"Followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communications skills.",,,,,
+GISS,new,,2,Prepare and Mobilize,O,Ensure individual readiness.,,,,,
+GISS,reworded,0.75,3,Prepare and Mobilize,O,"Secure required software (e.g., ArcGIS Pro) and suggested hardware, including laptop, mouse, power strip, mobile device, external monitor, and mobile internet hotspot.",2,Ensure individual readiness for assignment.,O,"Secure required hardware including laptop, mouse, power strip, mobile device, and suggested hardware including external monitor, mobile internet hot spot.",0
+GISS,reworded,0.79,4,Prepare and Mobilize,O,Ensure appropriate account credentials.,5,Ensure individual readiness for assignment.,O,Ensure appropriate account credentials. Refer to PMS 936-1.,0
+GISS,new,,5,Prepare and Mobilize,O,Gather critical information pertinent to the assignment.,,,,,
+GISS,reworded,0.61,6,Prepare and Mobilize,I,Travel to and check in at assignment.,7,Travel to and check in at assignment.,I,Check in at incident.,0
+GISS,new,,7,Prepare and Mobilize,I,Obtain initial briefing from Situation Unit Leader (SITL) or other incident supervisor.,,,,,
+GISS,kept,1.0,8,Prepare and Mobilize,I,"Obtain information for ordering or securing equipment and supplies (e.g., plotter, paper, ink, mobile devices).",9,Gather logistical information.,I,"Obtain information for ordering or securing equipment and supplies (e.g., plotter, paper, ink, mobile devices).",0
+GISS,new,,9,Prepare and Mobilize,I,Obtain briefing from previous shift/assignment position as necessary.,,,,,
+GISS,reworded,0.99,10,Prepare and Mobilize,W,Support a minimum of one Type 1 or Type 2 wildfire incident on- site.,6,Ensure individual readiness for assignment.,W,Support a minimum of one Type 1 or Type 2 wildfire incident onsite.,0
+GISS,reworded,0.8,11,Perform Geographic Information System Specialist-Specific Duties,I/S,"Copy the NWCG Standards for Geospatial Operations, PMS 936 incident directory to hard drive, network attached storage (NAS), or Microsoft SharePoint/OneDrive, and rename files and folders for incident.",11,"Prepare GeoOps incident directory,",O,"Copy GeoOps incident directory to hard drive, network attached storage (NAS) or SharePoint for OneDrive. Rename files and folders for incident.",0
+GISS,reworded,0.75,12,Perform Geographic Information System Specialist-Specific Duties,I/S,"Fully populate the NWCG Standards for Geospatial Operations, PMS 936 File Namer with required data elements.",10,Gather Incident Information data elements required to populate the National,O,Fully populate the GeoOps File Namer with required data elements.,0
+GISS,reworded,0.71,13,Perform Geographic Information System Specialist-Specific Duties,I/S,Configure the ArcGIS Pro Project Template for the incident and set an appropriate coordinate system.,12,"Prepare GeoOps incident directory,",O,Configure the ArcGIS Pro Project Template for incident.,0
+GISS,reworded,0.96,14,Perform Geographic Information System Specialist-Specific Duties,I/S,"Populate the base_data folder with data relevant to fire area including, but not limited to, 24K topographic map and aerial imagery.",13,"Populate Base Data folders, https://www.nwcg.gov/publications/pms936-",O,Populate base data folder with data relevant to fire area including (but not limited to) 24K topographic map and aerial imagery.,0
+GISS,reworded,0.74,15,Perform Geographic Information System Specialist-Specific Duties,I,Create Edit Project using the ArcGIS Pro Project Template and populate the DynamicTextUpdate table.,14,"Create and prepare an Edit Project,",O,"Create Edit Project using the Pro Project template, set an appropriate coordinate system, populate the DynamicTextUpdate table, and name per GeoOps.",0
+GISS,reworded,0.6,16,Perform Geographic Information System Specialist-Specific Duties,I,Create Offline Copy of National Incident Feature Service (NIFS).,15,"Create an Offline Copy, https://www.nwcg.gov/publications/pms936-1/data-",O,Create Offline copy of NIFS.,0
+GISS,reworded,0.57,17,Perform Geographic Information System Specialist-Specific Duties,I,Repair Event Layers to Offline Copy.,16,"Apply Layer Files, https://www.nwcg.gov/publications/pms936-1/data-",O,Add template layer and repair feature paths to Offline Copy.,0
+GISS,reworded,0.56,18,Perform Geographic Information System Specialist-Specific Duties,I,Configure Feature Templates for all Event Layers and save as a group layer file.,17,"Configure Feature Templates, https://www.nwcg.gov/publications/pms936-",O,"Configure the Event Point, Line and Polygon feature class Feature Templates and save as a group layer file with appropriate name.",0
+GISS,reworded,0.68,19,Perform Geographic Information System Specialist-Specific Duties,I,Set up the Incident Web Map using current National Interagency Fire Center ArcGIS Online Organization (NIFC Org) web map templates and share with the appropriate Mobile Edit group.,18,"Create and Share Web Maps, https://www.nwcg.gov/publications/pms936-",I,Set up the Basic Web Map Workflow using current NIFC web map templates. Share into the appropriate Mobile Editing group.,0
+GISS,reworded,0.63,20,Perform Geographic Information System Specialist-Specific Duties,I,"Process, convert, and import incoming data from sources outside the National Incident Feature Service (NIFS) and work with the Situation Unit Leader (SITL) or other incident supervisor to approve new data.",19,"Secure incident information, https://www.nwcg.gov/publications/pms936-1/edit-",I,Process/convert/import incoming data from sources outside NIFS. Work with SITL to approve new data.,0
+GISS,reworded,0.73,21,Perform Geographic Information System Specialist-Specific Duties,I,"Store incident data per NWCG Standards for Geospatial Operations, PMS 936 file structure and naming conventions.",20,"Secure incident information, https://www.nwcg.gov/publications/pms936-1/edit-",I,Always store incident data per GeoOps file structure and naming conventions.,0
+GISS,kept,1.0,22,Perform Geographic Information System Specialist-Specific Duties,I,Sync Offline Copy before and after each edit session.,21,"Edit incident data, https://www.nwcg.gov/publications/pms936-1/edit-incident-",I,Sync Offline Copy before and after each edit session.,0
+GISS,reworded,0.99,23,Perform Geographic Information System Specialist-Specific Duties,I,"Edit Event Polygon, Event Line, and Event Point features and at tributes; calculate polygon acres, line length, and point latitude and longitude.",22,"Edit incident data, https://www.nwcg.gov/publications/pms936-1/edit-incident-",I,"Edit Event Polygon, Event Line, and Event Point features and attributes. Calculate polygon acres, line length, and point latitude and longitude.",0
+GISS,reworded,0.74,24,Perform Geographic Information System Specialist-Specific Duties,W,Calculate acres burned by ownership/jurisdiction/protection.,24,"Perform common incident analysis,",I,Calculate acres burned by ownership.,0
+GISS,kept,1.0,25,Perform Geographic Information System Specialist-Specific Duties,I,Calculate line lengths by feature category.,25,"Perform common incident analysis,",I,Calculate line lengths by feature category.,0
+GISS,kept,1.0,26,Perform Geographic Information System Specialist-Specific Duties,W,Calculate percent containment.,26,"Perform common incident analysis,",I,Calculate percent containment.,0
+GISS,reworded,0.63,27,Perform Geographic Information System Specialist-Specific Duties,W,Populate the Progression Geodatabase (GDB).,23,"Populate Progression GDB, https://www.nwcg.gov/publications/pms936-1/edit-",I,Populate the Progression GDB following the GISS Workflow.,0
+GISS,new,,28,Perform Geographic Information System Specialist-Specific Duties,I,Back up the Offline Copy of National Incident Feature Service (NIFS).,,,,,
+GISS,new,,29,Perform Geographic Information System Specialist-Specific Duties,I,Replace the Master Incident Geodatabase (GDB).,,,,,
+GISS,new,,30,Perform Geographic Information System Specialist-Specific Duties,I,Create a Master Project.,,,,,
+GISS,kept,1.0,31,Perform Geographic Information System Specialist-Specific Duties,I,Use dynamic text to populate map elements from the DynamicTextTable and Map View metadata.,29,"Create and prepare a Master Map Project,",I,Use Dynamic Text to populate map elements from the DynamicTextTable and Map View Metadata.,0
+GISS,kept,1.0,32,Perform Geographic Information System Specialist-Specific Duties,I,Use definition queries to display only the Event Features appropriate for the intended map audience.,30,"Create and prepare a Master Map Project,",I,Use definition queries to display only the Event features appropriate for the intended map audience.,0
+GISS,reworded,0.58,33,Perform Geographic Information System Specialist-Specific Duties,I,Create a single-page Incident Action Plan (IAP) or Operations Map.,31,"Create Incident Map Products,",W/RX,Create a single-page IAP or Operations Map following GeoOps and the GISS Workflow.,0
+GISS,reworded,0.67,34,Perform Geographic Information System Specialist-Specific Duties,I,Create a multi-page map using a Map Series that includes an index page or vicinity map.,32,"Create Incident Map Products,",W,Create a multi-page IAP or Operations Maps using a Map Series following GeoOps and the GISS Workflow. Include an index page map.,0
+GISS,reworded,0.63,35,Perform Geographic Information System Specialist-Specific Duties,I,Demonstrate the use of label lines for Division and Branch labeling in a Map Series.,33,"Create Incident Map Products,",W,"Demonstrate the use of Annotation, https://www.nwcg.gov/publications/pms936-1/create- incident/labeling-and-annotation, for Division and Branch labeling in a Map Series.",0
+GISS,new,,36,Perform Geographic Information System Specialist-Specific Duties,I,Create a Briefing Map.,,,,,
+GISS,reworded,0.58,37,Perform Geographic Information System Specialist-Specific Duties,I,Create a Transportation Map.,37,"Create Incident Map Products,",I,Create a Transportation Map following GeoOps and the GISS Workflow.,0
+GISS,new,,38,Perform Geographic Information System Specialist-Specific Duties,W,Create an Ownership Map.,,,,,
+GISS,reworded,0.56,39,Perform Geographic Information System Specialist-Specific Duties,W,Create a Progression Map.,58,Communicate following ICS concepts and principles.,I,Conduct self in a professional manner.,0
+GISS,reworded,0.76,40,Perform Geographic Information System Specialist-Specific Duties,I,Create an Air Operations Map that includes a coordinate point table.,39,"Create Incident Map Products,",I,Create an Air Operations Map following GeoOps and the GISS Workflow. Include a coordinate point table.,0
+GISS,new,,41,Perform Geographic Information System Specialist-Specific Duties,I,Create a Public Information Map.,,,,,
+GISS,new,,42,Perform Geographic Information System Specialist-Specific Duties,W,Create a Suppression Repair Map.,,,,,
+GISS,new,,43,Perform Geographic Information System Specialist-Specific Duties,I,"Create a specialized map (e.g., areas of special concern, ev acuation, Facilities, Strategic Operations, Structure Triage, Accountable Property).",,,,,
+GISS,new,,44,Perform Geographic Information System Specialist-Specific Duties,I,"Export, name, and file geospatial portable document format (PDF) maps in the products folder.",,,,,
+GISS,new,,45,Perform Geographic Information System Specialist-Specific Duties,I,"Effectively utilize large format plotters (e.g., printing maps and multi-panel maps, maintenance, troubleshooting).",,,,,
+GISS,reworded,0.75,46,Perform Geographic Information System Specialist-Specific Duties,I,Back up map projects in the backups folder.,45,Export and back up,I,Back up and name map projects in backup folder per GeoOps.,0
+GISS,reworded,0.57,47,Perform Geographic Information System Specialist-Specific Duties,I,"Post maps to the appropriate file sharing locations (e.g., National Interagency Fire Center [NIFC] File Share, FireNet) and create Quick Response (QR) codes to link to the appropriate folder for incident use.",46,"Post digital map products, https://www.nwcg.gov/publications/pms936-",I,Post maps to appropriate FTP and/or web sites. Develop QR codes to link to appropriate folder for incident use.,0
+GISS,reworded,0.97,48,Perform Geographic Information System Specialist-Specific Duties,I,Back up the incident directory to a secondary physical drive.,47,"Back Up Incident Directory, https://www.nwcg.gov/publications/pms936-",I,Back up incident directory to a secondary physical drive.,0
+GISS,reworded,0.95,49,Perform Geographic Information System Specialist-Specific Duties,I,"Download and back up external incident data sources, hosted feature services, and data collection forms.",48,"Back up external data, https://www.nwcg.gov/publications/pms936-1/backup-",I,"Download and back up external incident data sources, custom hosted feature services, data collection forms.",0
+GISS,new,,50,Communicate and Coordinate,I,Maintain awareness of changing responsibilities and expectations.,,,,,
+GISS,reworded,0.68,51,Communicate and Coordinate,I,Communicate to the Situation Unit Leader (SITL) or other in cident supervisor when map and task requests are made outside the Incident Command System (ICS) chain of command.,53,Communicate following ICS concepts and principles.,I,Communicate to SITL when map and task requests are made outside the ICS chain of command.,0
+GISS,new,,52,Communicate and Coordinate,I,Establish and maintain positive interpersonal and interagency working relationships.,,,,,
+GISS,kept,1.0,53,Communicate and Coordinate,I,Demonstrate critical thinking and decision-making skills.,57,Communicate following ICS concepts and principles.,I,Demonstrate critical thinking and decision-making skills.,0
+GISS,new,,54,Communicate and Coordinate,I,Communicate and exchange technical information with incident personnel inside and outside the Situation Unit.,,,,,
+GISS,reworded,0.79,55,Communicate and Coordinate,I,Conduct and/or participate in After Action Reviews (AARs).,55,Communicate following ICS concepts and principles.,I,Participate in an After-Action Review (AAR).,0
+GISS,new,,56,Document,I,Complete all administrative tasks and documentation in an accurate and timely manner.,,,,,
+GISS,reworded,0.89,57,Document,I,Prepare maps and other documents for the incident do cumentation package as required by the Document Unit Leader (DOCL).,61,"Complete, authorize, ensure timeliness of, and route as required,",I,Prepare maps and other documents for the incident documentation package as required by the DOCL.,0
+GISS,reworded,0.8,58,Document,I,Provide inputs to the GISS section of team transition plan for use by the incoming team.,50,Transfer.,I,Assist GISS lead to write GISS section of team transition plan for use by incoming team.,0
+GISS,new,,59,Demobilization,I,"Transfer online content to the incoming team or local unit (e.g., non-National Incident Feature Service [NIFS] data embedded in w eb maps/applications, incident-specific web maps/applications, hosted feature services, FireNet content, other incident data or products not contained in the incident directory structure).",,,,,
+GISS,new,,60,Demobilization,I,Prepare for and implement demobilization.,,,,,
+GISS,dropped,,,,,,1,Ensure individual readiness for assignment.,O,"Read and demonstrate understanding of the NWCG Standards for Geospatial Operations PMS 936 (GeoOps), https://www.nwcg.gov/publications/pms936 and NWCG GISS Workflow PMS 936-1, https://www.nwcg.gov/publications/pms936-1.",0
+GISS,dropped,,,,,,3,Ensure individual readiness for assignment.,O,Have required software installed (ArcGIS Pro and FTP client).,0
+GISS,dropped,,,,,,4,Ensure individual readiness for assignment.,O,Pack gear bag with supplies for 14 days for expected weather at camp.,0
+GISS,dropped,,,,,,8,Travel to and check in at assignment.,I,"Obtain initial briefing from Situation Unit Leader (SITL). Cover the following: Schedule and attendance expectations for Planning Section meetings. Priorities, standards, time limits for completion, and methods of communication to accomplish role in assigned tasks. Time frames for inputs into Incident Action Plan (IAP) or other relevant plan and creating and updating incident mapping displays. Needs for personnel and facilities. Location of work area.",0
+GISS,dropped,,,,,,27,"Perform common incident analysis,",I,Backup Offline Copy and replace the Master Incident GDB following GISS Workflow.,0
+GISS,dropped,,,,,,28,"Create and prepare a Master Map Project,",I,Create a master project following the GISS Workflow and GeoOps.,0
+GISS,dropped,,,,,,34,"Create Incident Map Products,",W,Create a Briefing Map following GeoOps and the GISS Workflow.,0
+GISS,dropped,,,,,,35,"Create Incident Map Products,",W,Create a Situation Map following GeoOps and the GISS Workflow.,0
+GISS,dropped,,,,,,36,"Create Incident Map Products,",W,"Create a specialized, non-operations map used during the planning cycle by non-operations positions. Potential examples include Areas of Special Concerns, strategic planning, ownership, evacuation, fire behavior, etc. Follow GeoOps and the GISS Workflow.",0
+GISS,dropped,,,,,,38,"Create Incident Map Products,",W,Create a Progression Map following GeoOps and the GISS Workflow.,0
+GISS,dropped,,,,,,40,"Create Incident Map Products,",I,Create a Public Information Officer (PIO) Map following GeoOps and the GISS Workflow.,0
+GISS,dropped,,,,,,41,"Create Incident Map Products,",W,Create a Suppression Repair Map or Dashboard following GeoOps and the GISS Workflow.,0
+GISS,dropped,,,,,,42,Export and back up,I,"Demonstrate the creation and production of map products that can be used digitally in the field (Avenza, FieldMaps, etc.)",0
+GISS,dropped,,,,,,43,Export and back up,W,Print maps using large format plotters at a size needed for briefings or other meetings. Demonstrate ability to perform basic troubleshooting and maintenance of plotter.,0
+GISS,dropped,,,,,,44,Export and back up,I,Save and name geospatial PDF in products folder per GeoOps. Optimize PDF as necessary.,0
+GISS,dropped,,,,,,49,Transfer.,I,"Transfer online content to incoming team or local unit. This includes non-NIFS data embedded in web maps/apps, incident specific web maps/apps, services, FireNet content, as well as any other incident data or products not contained in the incident directory structure.",0
+GISS,dropped,,,,,,51,Exchange technical information.,I,"Communicate field data collection procedures to Field Observers (FOBS), Resource Advisors (READs), and other incident staff.",0
+GISS,dropped,,,,,,52,Communicate following ICS concepts and principles.,I,"Maintain awareness of the changing responsibilities and expectations throughout the assignment. Communicate when expectations exceed capacity, and work with SITL to adjust expectations or augment resources.",0
+GISS,dropped,,,,,,54,Communicate following ICS concepts and principles.,I,Participate in functional area (section) meetings.,0
+GISS,dropped,,,,,,56,Communicate following ICS concepts and principles.,I,Demonstrate skills that establish and maintain a positive team climate.,0
+GISS,dropped,,,,,,59,"Complete, authorize, ensure timeliness of, and route as required,",I,Perform assigned GISS duties within the constraints and deadlines of typical incident conditions. Communicate with GISS lead or SITL if deadlines cannot be met.,0
+GISS,dropped,,,,,,60,"Complete, authorize, ensure timeliness of, and route as required,",I,"Properly uses General Message form, ICS 213.",0
+GISS,dropped,,,,,,62,Demobilize.,I,Communicate with SITL and/or GISS lead to confirm your last shift and to understand the check-out process for the incident.,0
+GISS,dropped,,,,,,63,Demobilize.,I,Complete demobilization checkout process before being released from the incident.,0
+DECK,new,,1,"Leadership Level 2, New Leader (Convey Intent)",O,"A new leader begins transitioning from a follower to a leader of small groups to achieve a common goal. They begin to implement team cohesion, accept responsibility for self and team, and apply effective communications.",,,,,
+DECK,new,,2,Prepare and Mobilize,I,Gather critical information pertinent to the assignment.,,,,,
+DECK,new,,3,Prepare and Mobilize,I,Travel to and check in at assignment.,,,,,
+DECK,new,,4,Prepare and Mobilize,I,"Review Incident Action Plan (IAP) and obtain briefing, objectives, and intent from supervisor.",,,,,
+DECK,kept,1.0,5,Build the Team,O,Establish and maintain positive interpersonal and interagency working relationships.,5,Establish effective relationships with relevant personnel.,I,Establish and maintain positive interpersonal and interagency working relationships.,0
+DECK,new,,6,Build the Team,I,"Establish and communicate chain of command, reporting pr ocedures, risk management processes, and radio frequency management.",,,,,
+DECK,new,,7,Build the Team,O,"Use Incident Command System (ICS) terminology, organization, and command structure.",,,,,
+DECK,new,,8,Build the Team,O,Model leadership values and principles.,,,,,
+DECK,new,,9,Supervise and Direct Work Assignments,I,"Establish and communicate objectives, priorities, work assignments, and performance expectations.",,,,,
+DECK,new,,10,Supervise and Direct Work Assignments,I,Ensure daily operational objectives and performance standards are met.,,,,,
+DECK,new,,11,Supervise and Direct Work Assignments,O,"Identify, analyze, and use relevant situational information to make informed decisions and take appropriate actions.",,,,,
+DECK,new,,12,Perform Deck Coordinator-Specific Duties,O,Coordinate with Helibase Manager (HEBM) on helibase layout and operations.,,,,,
+DECK,new,,13,Perform Deck Coordinator-Specific Duties,I,Promote and maintain the safety of deck operations.,,,,,
+DECK,new,,14,Perform Deck Coordinator-Specific Duties,I,Manage the deck.,,,,,
+DECK,new,,15,Communicate and Coordinate,O,Communicate effectively using multichannel radios.,,,,,
+DECK,new,,16,Communicate and Coordinate,O,"Coordinate movement of all aircraft, vehicles, equipment, and personnel on the deck.",,,,,
+DECK,new,,17,Communicate and Coordinate,O,Maintain communications and exchange necessary information w ith other resources.,,,,,
+DECK,reworded,0.73,18,Communicate and Coordinate,O,Conduct and/or participate in After Action Reviews (AARs).,15,Ensure relevant information is exchanged during briefings and debriefings.,I,Participate in briefings and After Action Review (AAR).,0
+DECK,reworded,0.62,19,Manage Risk,O,Apply the Risk Management Process.,22,Take appropriate action based on assessed risks.,I,Apply the Risk Management Process found in the IRPG and Fireline Handbook.,5
+DECK,reworded,0.56,20,Manage Risk,I,Ensure own and others’ safety and welfare.,10,"Ensure the safety, welfare, and accountability of assigned personnel.",I,Provide for the safety and welfare of assigned resources.,4
+DECK,new,,21,Manage Risk,O,Plan for aircraft and/or medical emergencies.,,,,,
+DECK,new,,22,Manage Risk,R,Respond to aircraft and/or medical emergencies.,,,,,
+DECK,new,,23,Document,O,Complete all administrative tasks and documentation in an accurate and timely manner.,,,,,
+DECK,new,,24,Demobilize,I,Transition with replacement personnel.,,,,,
+DECK,new,,25,Demobilize,I,Prepare for and implement demobilization.,,,,,
+DECK,dropped,,,,,,1,"Ensure availability, qualifications, and capabilities of resources to complete",I,Ensure radio communications for deck personnel are adequate.,0
+DECK,dropped,,,,,,2,"Ensure availability, qualifications, and capabilities of resources to complete",I,"Ensure personnel are trained and qualified in the use of extinguishers, crash-rescue and evacuation kits.",1
+DECK,dropped,,,,,,3,"Gather, update, and apply situational information relevant to the assignment.",I,Obtain initial briefing from assignment supervisor.,6
+DECK,dropped,,,,,,4,Establish effective relationships with relevant personnel.,I,Conduct self in a professional manner.,2
+DECK,dropped,,,,,,6,"Establish organization structure, reporting procedures, and chain of command",I,Ensure deck personnel understand their responsibilities.,0
+DECK,dropped,,,,,,7,Model leadership values and principles.,I,Exhibit principles of duty.,4
+DECK,dropped,,,,,,8,Model leadership values and principles.,I,Exhibit principles of respect.,4
+DECK,dropped,,,,,,9,Model leadership values and principles.,I,Exhibit principles of integrity.,3
+DECK,dropped,,,,,,11,"Establish work assignments and performance expectations, monitor",I,Monitor assigned personnel to ensure duties are correctly performed.,0
+DECK,dropped,,,,,,12,Emphasize teamwork.,I,Establish cohesiveness among assigned resources.,4
+DECK,dropped,,,,,,13,Ensure relevant information is exchanged during briefings and debriefings.,O,Ensure hand signals are understood by everyone on the deck.,0
+DECK,dropped,,,,,,14,Ensure relevant information is exchanged during briefings and debriefings.,I,Brief subordinates on daily activities and anticipated problems or timeframes.,0
+DECK,dropped,,,,,,16,Ensure documentation is complete and disposition is appropriate.,O,Ensure passenger/cargo manifests are totaled and summarized at the end of the operational period.,1
+DECK,dropped,,,,,,17,"Gather, produce and distribute information as required by established",O,"Assist Helibase Manager in developing the Helibase Facilities, Hazard, and Flight Route Map.",2
+DECK,dropped,,,,,,18,"Gather, produce and distribute information as required by established",O,Assist Helibase Manager in completing the Daily Helicopter Operations Briefing/Debriefing Checklist.,0
+DECK,dropped,,,,,,19,"Gather, produce and distribute information as required by established",O,"Ensure load calculations for helispots to be used are properly completed, updated, and posted.",1
+DECK,dropped,,,,,,20,"Gather, produce and distribute information as required by established",O,Ensure helicopter display board is accurate.,0
+DECK,dropped,,,,,,21,Communicate and ensure understanding of work expectations within the chain,I,Coordinate with Take-Off and Landing Coordinator and Aircraft Base Radio Operator before and during daily operations.,0
+DECK,dropped,,,,,,23,"Anticipate, recognize and mitigate unsafe situations.",I,Anticipate and correct potential actions or conditions that would affect safety.,4
+DECK,dropped,,,,,,24,Follow established procedures and/or safety procedures relevant to given,I,Ensure dust abatement needs are met.,4
+DECK,dropped,,,,,,25,Follow established procedures and/or safety procedures relevant to given,I,Ensure adequate personnel for deck operations.,0
+DECK,dropped,,,,,,26,Follow established procedures and/or safety procedures relevant to given,I,Ensure adequate personal protective equipment (PPE) for assigned personnel and individuals being transported.,0
+DECK,dropped,,,,,,27,Follow established procedures and/or safety procedures relevant to given,I,"Ensure vehicle traffic, and parking and staging areas are kept separate from flight operations and overflights by departing and arriving helicopters.",3
+DECK,dropped,,,,,,28,Follow established procedures and/or safety procedures relevant to given,I,Ensure crash-rescue requirements are understood by assigned personnel.,2
+DECK,dropped,,,,,,29,Follow established procedures and/or safety procedures relevant to given,I,Ensure safe and efficient manifesting of personnel and cargo.,3
+DECK,dropped,,,,,,30,Follow established procedures and/or safety procedures relevant to given,I,Ensure fueling is performed according to standards and procedures.,0
+ATIM,new,,1,"Leadership Level 1, Follower (Provide Action)",O,"Followers have several responsibilities: to become competent in basic job skills, take initiative, learn from others, ask questions, and develop communication skills.",,,,,
+ATIM,new,,2,Prepare and Mobilize,O,Review local Airtanker Base Operations Plan (ABOP) and obtain briefing from base manager.,,,,,
+ATIM,kept,1.0,3,Build the Team,O,Establish and maintain positive interpersonal and interagency working relationships.,5,Establish effective relationships with relevant personnel.,I,Establish and maintain positive interpersonal and interagency working relationships.,3
+ATIM,new,,4,Perform Aircraft Timekeeper-Specific Duties,I,Communicate updates regarding changing conditions to relevant pe rsonnel and implement further instructions provided by the base manager.,,,,,
+ATIM,new,,5,Perform Aircraft Timekeeper-Specific Duties,O,Ensure daily operational objectives and performance standards are met.,,,,,
+ATIM,new,,6,Perform Aircraft Timekeeper-Specific Duties,O,Maintain and manage real-time communications using multiple devices and platforms.,,,,,
+ATIM,new,,7,Perform Aircraft Timekeeper-Specific Duties,O,Provide daily administrative support for base operations.,,,,,
+ATIM,new,,8,Perform Aircraft Timekeeper-Specific Duties,I,"Record, compile, and distribute relevant contract and cost data.",,,,,
+ATIM,new,,9,Communicate and Coordinate,O,Demonstrate strong verbal communication skills.,,,,,
+ATIM,new,,10,Communicate and Coordinate,I,Gather and disseminate operational information with resources.,,,,,
+ATIM,new,,11,Communicate and Coordinate,O,Participate in After Action Reviews (AARs).,,,,,
+ATIM,new,,12,Manage Risk,O,Apply the Risk Management Process.,,,,,
+ATIM,new,,13,Document,I,Complete all administrative tasks and documentation in an accurate and timely manner.,,,,,
+ATIM,new,,14,Demobilize,O,Prepare for and implement demobilization.,,,,,
+ATIM,dropped,,,,,,1,Preparedness for assignment and appropriate travel activities.,O,Obtain and assemble information and materials needed for assignment.,0
+ATIM,dropped,,,,,,2,Preparedness for assignment and appropriate travel activities.,O,Travel for assignment.,1
+ATIM,dropped,,,,,,3,"Gather, update, and apply situational information relevant to the assignment.",I,Obtain initial briefing from Airtanker/Fixed-Wing Base Manager or supervisor.,5
+ATIM,dropped,,,,,,4,Establish effective relationships with relevant personnel.,I,Demonstrate professionalism.,3
+ATIM,dropped,,,,,,6,Establish effective relationships with relevant personnel.,I,Demonstrates knowledge of agency policy and appropriate behavior while on assignment.,0
+ATIM,dropped,,,,,,7,Understand and comply with ICS concepts and principles.,I,Follow chain of command.,0
+ATIM,dropped,,,,,,8,Understand and comply with ICS concepts and principles.,I,Follow safety guidelines.,4
+ATIM,dropped,,,,,,9,Understand and comply with ICS concepts and principles.,I,Decision making.,1
+ATIM,dropped,,,,,,10,Understand and comply with ICS concepts and principles.,I,Coordinate with Airtanker/Fixed-Wing Base Manager.,2
+ATIM,dropped,,,,,,11,Understand and comply with ICS concepts and principles.,I,Timekeeping operations.,10
+ATIM,dropped,,,,,,12,"Coordinate and manage the use of multiple frequencies, radios, and telephones.",I,Maintain radio or message links with appropriate incident functions.,2
+ATIM,dropped,,,,,,13,"Coordinate and manage the use of multiple frequencies, radios, and telephones.",I,"Verify radio frequencies daily with supervisor, dispatch, GACC, and IAP.",1
+ATIM,dropped,,,,,,14,Ensure functionality of equipment.,I,Check assigned equipment prior to daily operations.,1
+ATIM,dropped,,,,,,15,Follow established procedures and/or safety procedures relevant to given,O,Review and understand emergency response plans.,1
+ATIM,dropped,,,,,,16,Follow established procedures and/or safety procedures relevant to given,O,Notify Airtanker/Fixed-Wing Base Manager immediately of any overdue or missing aircraft.,0
+ATIM,dropped,,,,,,17,Ensure relevant information is exchanged during briefings and debriefings.,I,Attend briefings and meetings as directed.,2
