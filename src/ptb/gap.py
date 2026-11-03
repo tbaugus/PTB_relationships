@@ -427,20 +427,28 @@ def closest_positions(
                 ):
                     derivation = "direct"
 
+                if derivation is None and kind == "prerequisite_position":
+                    val_pos_id = ctx.code_to_id.get(value)
+                    if val_pos_id is not None and val_pos_id in prereq_chain_set and val_pos_id not in held_ids:
+                        derivation = "implied_by"
+                        derivation_position = ctx.positions[prereq_root[val_pos_id]]["code"]
+
                 if derivation is None:
-                    if kind == "prerequisite_position":
-                        val_pos_id = ctx.code_to_id.get(value)
-                        if val_pos_id is not None and val_pos_id in prereq_chain_set and val_pos_id not in held_ids:
+                    # Rule 4 by requirement text: the same (kind, value) sits in
+                    # the requirement set of a held qualification or of any
+                    # position in its chain. For prerequisite_position this is
+                    # the only route for codes with no `positions` row (FFT2,
+                    # EDRC, EMT — requirements pages but no task book), which
+                    # prereq_edges cannot reach; without it an ENGB holder was
+                    # re-demanded FFT2 although ENGB -> FFT1 -> FFT2 (found by
+                    # the 2026-11-03 spec-checker audit, AC-G2).
+                    for owner_pos_id in held_ids | prereq_chain_set:
+                        owner_reqs = ctx.requirements_by_position.get(owner_pos_id, [])
+                        if any(r["kind"] == kind and r["value"] == value for r in owner_reqs):
+                            root_id = prereq_root.get(owner_pos_id, owner_pos_id)
                             derivation = "implied_by"
-                            derivation_position = ctx.positions[prereq_root[val_pos_id]]["code"]
-                    else:
-                        for owner_pos_id in held_ids | prereq_chain_set:
-                            owner_reqs = ctx.requirements_by_position.get(owner_pos_id, [])
-                            if any(r["kind"] == kind and r["value"] == value for r in owner_reqs):
-                                root_id = prereq_root.get(owner_pos_id, owner_pos_id)
-                                derivation = "implied_by"
-                                derivation_position = ctx.positions[root_id]["code"]
-                                break
+                            derivation_position = ctx.positions[root_id]["code"]
+                            break
 
                 if derivation is None and kind == "prerequisite_position":
                     val_pos_id = ctx.code_to_id.get(value)
