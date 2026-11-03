@@ -88,6 +88,10 @@ Invariants (enforced in schema.spec.md and tests):
 
 ## Phases
 
+> Counts inside Phases 0-6 describe the corpus as acquired 2026-07-09.
+> The corpus was refreshed on 2026-11-02 — see "Corpus refresh" after Phase 6
+> for the current counts and the drift that refresh recorded.
+
 ### Phase 0 — Specs (before any code) — **DONE 2026-07-09, pending your review**
 Six specs written in `specs/` with acceptance criteria and worked examples grounded
 in 5 downloaded fixtures (FFT1, ENGB, CRWB, FIRB = Next Gen format; LOFR = legacy
@@ -349,6 +353,73 @@ against report.py's own list, added after a spec-checker audit round caught
 **This was the last phase in this PLAN.** No further phases are planned;
 future work is the candidate-facing app layer described in "Future expansion
 hooks" below, which is out of scope for this build.
+
+### Corpus refresh — **DONE 2026-11-03** (branch `corpus-refresh`)
+
+The first re-acquisition since 2026-07-09 (counts quoted inside Phases 1-6
+above describe the July corpus; this section describes the current one).
+
+**Measured drift (NWCG, as of 2026-11-02):**
+- 10 catalog books republished: CREP, STAM, ORDM, RCDM, COMP, COST, GISS,
+  DECK, ATIM as **September 2026 Next Gen** editions (they were 2009/2022/
+  2025 legacy-format books; task counts fell, e.g. STAM 41 → 21, CREP 30 →
+  15), FAL2 January → July 2026.
+- The combined legacy `pms311-30_FEMO-FOBS.pdf` was withdrawn (its versioned
+  S3 URL returns NoSuchKey) and replaced by `pms311-30_FOBS.pdf` and the new
+  `pms311-71_FEMO.pdf` (both September 2026 Next Gen, 15 tasks each). The
+  old book is recorded under the manifest's `retired[]` with
+  `superseded_by`; no archived copy was used.
+- New: `pms311-112_REAF.pdf` (July 2025) — REAF leaves the "requirements but
+  no PTB" list (six codes remain); companion standards PMS 350-12/-43/-44/
+  -47/-48/-71/-93/-112. PMS 350-16/-30/-77/-85 (cited by STAM/FOBS/GISS/
+  DECK) have no publication page yet → `pending`.
+- NWCG renamed its S3 keys between editions (`pms-311-16.pdf` →
+  `pms311-16.pdf`); the catalog lists CREP twice (identical content; the
+  second link is kept as `alternate_urls`); the `pms310-1` publications page
+  links only an unrelated flyer, so PMS 310-1 stays a web-scraped source.
+- Two unchanged books disagree with the catalog's "Date Published" column
+  (EQTR prints September 2024 vs catalog 2016-09; FELB June 2024 vs
+  2024-07): the printed edition is used and the conflict recorded on the
+  entry (`edition_date_conflict`).
+- The Google Doc PDF export's hash changed while the DOCX did not (export
+  nondeterminism; nothing re-extracted). 10 of 116 qualification-requirement
+  pages changed wording only ("Completion and Certification of NWCG Position
+  Task Book for X"; FEMO's now cites PMS 311-71).
+
+**What changed in the build:** acquisition.spec.md gained a "Corpus refresh"
+section and AC-A10..A12 (identity by (role, PMS number), `edition_date` /
+`edition_date_source` / `page_count` per document, `retired[]`,
+`--verify-urls`). extraction: `EDITION_DATE_RE` made case-insensitive (seven
+legacy books with "October 2018"-style months had null edition dates — a
+parser miss), stale extracted JSON for retired books removed, and two Next
+Gen parser fixes forced by the September 2026 template (grid-header
+detection right of the CODE column; row assignment by the table's own
+horizontal rulings instead of nearest number) — the second also corrected a
+pre-existing mis-parse of FAL3 #15-17 (verified against the page). schema:
+`source_documents.edition_date` populated for every row as ISO `YYYY-MM`
+(manifest fallback for the NTFT draft's DOCX modified date 2026-06-22).
+gap-analysis: AC-G9 — a "Data as of:" line in `format_report()` and
+`app.py`. blooms.py: five verbs added for new objective texts.
+
+**Current corpus (`data/ptb.sqlite`):** 101 source_documents (100 NWCG: 51
+Next Gen + 49 Legacy; 1 NTFT), 121 positions, 2,473 distinct tasks, 4,062
+position_tasks, 2,125 position_requirements, 11 position_implications.
+Manifest: 262 documents (102 ptb incl. the two Google Doc exports, 44
+companion standards, 116 requirement pages), 1 retired, 7 pending.
+INV-7 exceptions unchanged (PSC3 #17/#39, PSCC #39, FSCC #26).
+
+**Matching re-run:** 1,411 candidate pairs (incl. 3 seeds); 1,238 kept their
+text-keyed verdict, 114 stored verdicts now describe texts no longer in the
+corpus (kept; append-only), 173 new pairs adjudicated by Claude (46
+equivalent, 40 subsumes, 87 related_not_equivalent), then the 2026-07-12
+context rule applied to the new pairs only (37 demoted; every pre-refresh
+verdict untouched). Final: 548 tier-2 probable, 863 tier-3 rejected, **0
+confirmed** — human review of the regenerated checklist/sheet still pending.
+
+**Checks:** spec-checker audits of extraction, schema, matching,
+gap-analysis and acquisition specs on the refreshed corpus (verdicts
+recorded in the PR); `tests/test_corpus_refresh.py` adds offline tests for
+AC-A11/A12, the ISO edition_date rule and AC-G9.
 
 ## Spec-checker sub-agent (`.claude/agents/spec-checker.md`)
 
