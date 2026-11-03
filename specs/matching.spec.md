@@ -244,6 +244,26 @@ that targets exactly the cross-boundary pairs the 0.80 cut misses.
 
 ## Changelog
 
+- 2026-11-03 (F2 ntft-bridge, volume rule and refresh re-run): the 0.60 run
+  on the 2026-11-02 corpus yielded 228 bridge candidates (under the 400 cap),
+  so **the final bridge threshold is 0.60** and `CANDIDATE_THRESHOLD_NTFT`
+  and the method string are unchanged. 228 bridge verdicts were adjudicated
+  by Claude (43 equivalent, 29 subsumes, 156 related_not_equivalent). After
+  the corpus refresh merged (2026-11-03 corpus-refresh entry below: 12 task
+  books replaced,
+  FEMO/FOBS split, REAF added), the bridge was re-run on the refreshed DB:
+  still 228 candidates, of which 216 carried their text-keyed verdict
+  across the rebuild and 12 were new (3 equivalent, 1 subsumes, 8
+  related_not_equivalent, adjudicated against the existing bridge
+  precedents for the same NTFT texts); 12 earlier bridge verdicts now
+  describe NWCG texts no longer in the corpus (kept — the store is
+  append-only). Final bridge table: 228 rows — 71 probable on
+  `reports/ntft_review_sheet.xlsx` (69 rows unchanged from the pre-refresh
+  sheet, 4 dropped with the republished COMP/DECK/ORDM/RCDM wording, 3
+  added), 157 tier-3 rejected, 0 confirmed (human review pending). The
+  tier-2 layer is unaffected: 1,410 rows, 547 probable, 863 rejected,
+  identical to the refresh result.
+
 - 2026-11-03 (corpus refresh re-run): the pipeline in "Re-running the
   pipeline" was exercised end to end for the first time, after the
   2026-11-02 refresh replaced 12 positions' task books (10 republished as
@@ -278,7 +298,8 @@ that targets exactly the cross-boundary pairs the 0.80 cut misses.
   context rule, and reviewed on a separate sheet
   (`reports/ntft_review_sheet.xlsx`). The tier-2 threshold (0.80), its
   artifact, and the default pipeline are unchanged. Final bridge threshold:
-  recorded below once the volume rule has been applied.
+  recorded in the 2026-11-03 (F2 ntft-bridge, volume rule and refresh
+  re-run) entry above.
 
 - 2026-07-12 (context rule, SME-calibrated): added rubric rule 6 — **category
   framing governs over wording**: a candidate pair whose two sides' task-book
