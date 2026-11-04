@@ -135,6 +135,7 @@ class GapReq:
     kind: str
     value: str
     detail: str | None = None
+    alternatives: list[str] = field(default_factory=list)  # members of an unsatisfied alt_group
 
 
 @dataclass(frozen=True)
@@ -243,8 +244,8 @@ def _build_context(conn: sqlite3.Connection) -> _GapContext:
     prereq_edges: dict[int, set[int]] = {}
     for pos_id, reqs in requirements_by_position.items():
         for req in reqs:
-            if req["kind"] != "prerequisite_position":
-                continue
+            if req["kind"] != "prerequisite_position" or req["alt_group"] is not None:
+                continue  # alternatives: holding the position proves one of them, not which
             target_id = code_to_id.get(req["value"])
             if target_id is not None:
                 prereq_edges.setdefault(pos_id, set()).add(target_id)
@@ -410,6 +411,15 @@ def closest_positions(
             satisfied_requirements: list[SatisfiedReq] = []
             info_requirements: list[InfoRequirement] = []
 
+            # Alternative groups (gap-analysis.spec.md "Alternative groups"): members
+            # sharing an alt_group are evaluated together - any one satisfies the
+            # group; an unsatisfied group is one gap, "A / B".
+            group_members: dict[tuple[str, int], list] = {}
+            for req in ctx.requirements_by_position.get(pos_id, []):
+                if req["alt_group"] is not None:
+                    group_members.setdefault((req["kind"], req["alt_group"]), []).append(req)
+            group_outcome: dict[tuple[str, int], SatisfiedReq | GapReq] = {}
+
             for req in ctx.requirements_by_position.get(pos_id, []):
                 kind, value, detail = req["kind"], req["value"], req["detail"]
                 if kind in _INFO_KINDS:
@@ -459,12 +469,34 @@ def closest_positions(
                         derivation = "conferred_by"
                         derivation_position = ctx.positions[conferred_root[val_pos_id]]["code"]
 
+                outcome: SatisfiedReq | GapReq
                 if derivation is not None:
-                    satisfied_requirements.append(
-                        SatisfiedReq(kind=kind, value=value, derivation=derivation, derivation_position=derivation_position)
-                    )
+                    outcome = SatisfiedReq(kind=kind, value=value, derivation=derivation, derivation_position=derivation_position)
                 else:
-                    gaps_requirements.append(GapReq(kind=kind, value=value, detail=detail))
+                    outcome = GapReq(kind=kind, value=value, detail=detail)
+
+                group_key = (kind, req["alt_group"]) if req["alt_group"] is not None else None
+                if group_key is None:
+                    (satisfied_requirements if derivation is not None else gaps_requirements).append(outcome)
+                    continue
+                prior = group_outcome.get(group_key)
+                # keep the first satisfying member, but let a direct credential
+                # displace an implied/conferred one so the report names what is held
+                if not isinstance(prior, SatisfiedReq) or (
+                    isinstance(outcome, SatisfiedReq) and outcome.derivation == "direct" and prior.derivation != "direct"
+                ):
+                    group_outcome[group_key] = outcome
+                members = group_members[group_key]
+                if req is not members[-1]:
+                    continue  # decide once every member has been evaluated
+                final = group_outcome[group_key]
+                if isinstance(final, SatisfiedReq):
+                    satisfied_requirements.append(final)
+                else:
+                    codes = [m["value"] for m in members]
+                    gaps_requirements.append(
+                        GapReq(kind=kind, value=" / ".join(codes), detail=detail, alternatives=codes)
+                    )
 
             results.append(
                 PositionGap(

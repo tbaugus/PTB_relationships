@@ -500,6 +500,12 @@
         "FBAN",
         "LTAN"
       ],
+      "attaches_to_alternatives": [
+        [
+          "FBAN",
+          "LTAN"
+        ]
+      ],
       "extra_fields": {
         "required_experience": "≥X validated modeling products delivered.",
         "physical_fitness": "Light.",

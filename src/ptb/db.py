@@ -121,6 +121,7 @@ CREATE TABLE position_requirements(
   value TEXT NOT NULL,
   detail TEXT,
   source TEXT NOT NULL,
+  alt_group INTEGER,  -- rows of one position+kind sharing a value are "any one of" alternatives
   UNIQUE (position_id, kind, value)
 );
 
@@ -592,6 +593,15 @@ def load_enhanced_position_requirements(
 
             for prereq_code in position.attaches_to or []:
                 _insert("prerequisite_position", prereq_code, None)
+            # "A / B" anchors: stamp each group's members with a shared alt_group
+            # (1..n per position) so gap analysis treats them as either/or.
+            for group_no, group in enumerate(position.attaches_to_alternatives or [], start=1):
+                for code in group:
+                    conn.execute(
+                        """UPDATE position_requirements SET alt_group = ?
+                           WHERE position_id = ? AND kind = 'prerequisite_position' AND value = ?""",
+                        (group_no, position_id, code),
+                    )
 
             ef = position.extra_fields or {}
 

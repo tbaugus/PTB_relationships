@@ -39,6 +39,9 @@ class Position(BaseModel):
     provisional_code: bool = False
     requirements_text: str | None = None
     attaches_to: list[str] | None = None
+    # Groups of alternative anchors ("A / B" in the source): each inner list
+    # is an "any one of" set whose members also appear in attaches_to.
+    attaches_to_alternatives: list[list[str]] | None = None
     extra_fields: dict = Field(default_factory=dict)
 
 
