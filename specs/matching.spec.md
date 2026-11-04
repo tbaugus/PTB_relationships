@@ -244,6 +244,34 @@ that targets exactly the cross-boundary pairs the 0.80 cut misses.
 
 ## Changelog
 
+- 2026-11-04 (F2 ntft-bridge, human review ingested): the 71-row bridge
+  sheet came back fully decided — 32 Confirm, 39 Reject, 0 Not sure —
+  reviewed jointly by Tabitha Baugus and a colleague (LBR). Ingested with
+  `review_sheet.py ingest reports/ntft_review_sheet_reviewed_2026-11-04.xlsx`
+  (the reviewed workbook is kept in the repo as the review record; the
+  blank export it was filled from is archived as
+  `reports/archive/ntft_review_sheet_blank_2026-11-03.xlsx`). This is the
+  first write to `data/confirmations.json`: 71 entries, each with
+  `human_reviewed_at` 2026-11-04 and the reviewer string; the 38 reviewer
+  notes travel with their entries (37 of the 39 rejections cite the
+  situational-awareness context as what makes the NWCG task different; the
+  CFMD/FBAN rejection records that fire-behavior analysis is an operational
+  discipline in which modelling is one input). Resulting table: 32
+  `confirmed` bridge rows (26 of them UAIS #14, ASOP #1 or GEOL #1 briefing
+  and AAR intakes), 39 `rejected` with `human_reviewed_at`, 0 bridge
+  probable left; tier-2 is untouched at 547 probable / 863 rejected.
+  AC-B5 holds (every confirmed row has `human_reviewed_at`). AC-B6 holds:
+  `gap.py --qual CRWB --qual FFT1 --course S-230` now reports UAIS #14
+  satisfied via the confirmed CRWB #29 equivalence. Two consequential
+  changes: (1) the AC-M4 test that asserted zero confirmed rows is rewritten
+  to the durable invariant — every confirmed row has `human_reviewed_at`
+  and a matching 'confirm' decision in `data/confirmations.json`; (2)
+  `match.method_string()` and `candidates_to_json()` now read the
+  sentence-transformers version from package metadata
+  (`match.library_version()`) instead of importing the library, so applying
+  verdicts, ingesting a sheet and exporting one no longer load torch; only
+  candidate generation does. Method strings are byte-identical.
+
 - 2026-11-03 (F2 ntft-bridge, volume rule and refresh re-run): the 0.60 run
   on the 2026-11-02 corpus yielded 228 bridge candidates (under the 400 cap),
   so **the final bridge threshold is 0.60** and `CANDIDATE_THRESHOLD_NTFT`
