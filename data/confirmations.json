@@ -1,0 +1,468 @@
+{
+ "confirmations": [
+  {
+   "pair_key": "53ebcf2b77a89990",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "a777e29601f82143",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "Fire behavior analysis is an operational discipline. The Fire Behavior Analyst (FBAN) is an incident management position under NWCG: the person on a Type 1/2 incident who integrates weather forecasts, fuels, topography, observed fire behavior, and modeling tools to tell the incident commander what the fire is likely to do over the next operational period. Modeling is one input among several. A lot of the work is field observation, judgment, and communicating risk to line supervisors. The related position (Long Term Fire Analyst, LTAN) does the same thing on a longer time horizon. The credential path runs through S-490/S-590, prerequisites in fire operations, and task-book sign-off."
+  },
+  {
+   "pair_key": "bad71d52909d6e59",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "71c3ffcf7dc283c5",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "b28facc01e16629c",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "ada1d802a0132c93",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "0d45e41ac38b1d7f",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "00620830ce7eef07",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "33215c77f9318379",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "f514f184ee5a0399",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "d5c71264cfebef97",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "c0c79cb19093c280",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "f935cf2093f8c791",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "b9a128ef7b88e6de",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "943d65fc082d9672",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "68bfe2878577a8ba",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "060cef3c0d130345",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "d6899f3ea0d06f75",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "bf2167ad5565c37d",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "bd3e99f3afb673a7",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "e1da6174469b36b3",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "2f4be4ec126f2f38",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "afac9ee69d8c61f4",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "a7142d9fcca0f50f",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "dcc0102d9cc864e2",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "2393b945cfad403f",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "4cccef8933fd7b14",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "18a61cd5ddaf6715",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "3b761c55cea342d9",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "66c9bb11819e70be",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "4df85b7d5aba8071",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "144f33700c39da60",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "8086eeb58dec4ee1",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "6aafc98f95ca3609",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "dbe5e7e9b7954b85",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "0b51a7385027ad42",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "3f45860dd438597a",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "cd9dd954ae80e53e",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "99a46c277a5eb7a4",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "cb5b8fe7ac852855",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "39a40280c5dc0af2",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "4b4db2858f94001d",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "26041a7f6cb5d75f",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "af7efc79fc6c52f0",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "6fe53141787940de",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "fb9d7f9ef1b10f02",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "558eba2da3c481c5",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "39d2ce9de2017a6c",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "44e75fb1c5c2ee78",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "f15d7e27413f46ad",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "68b649f2a6fce6c6",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "4e79fe8fb9ea141d",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "c222e428032934ad",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "83cb50f2079debb7",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "d6cd8a998967154f",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "5b99f3dadfd6132c",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "28fe3a5436318bd9",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "640bcfaab8c0b892",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "d18f7f338cc86cce",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "556c26279a3adf2d",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "6da6e2ef8c69551d",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "ba8d3aa600e734b3",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "7acf551457bc6569",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "b0fea411701efeff",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "7a142c3550489162",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "bd11664874e0bbe8",
+   "decision": "confirm",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)"
+  },
+  {
+   "pair_key": "f2b52e0962535aad",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "3083b29bfdfca723",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "7d6f2a7f487d0760",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "e9faa3f0754f4d6d",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  },
+  {
+   "pair_key": "c1250de95dd050e0",
+   "decision": "reject",
+   "human_reviewed_at": "2026-11-04",
+   "reviewer": "Tabitha Baugus (reviewed jointly with colleague LBR)",
+   "note": "I think the situational awareness context makes this task different."
+  }
+ ]
+}

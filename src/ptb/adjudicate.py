@@ -39,6 +39,14 @@ If any candidate pair has no adjudication verdict, apply() writes
 data/pending_adjudication.json (the full pair context Claude needs to
 adjudicate), makes NO database changes, and exits with code 2. See
 "Re-running the pipeline" in specs/matching.spec.md.
+
+NTFT bridge layer (F2 ntft-bridge, specs/matching.spec.md "NTFT bridge
+candidates"): when data/ntft_candidates.json exists, apply() also loads it,
+requires each of its verdicts in data/adjudications.json to carry
+"bridge": "ntft" (and each tier-2 verdict NOT to), and writes its rows with
+match.method_string(bridge="ntft") so the two layers stay distinguishable in
+task_equivalences.method. Same status rules: the adjudicator never writes
+'confirmed'; only data/confirmations.json does.
 """
 
 from __future__ import annotations
@@ -47,6 +55,7 @@ import argparse
 import json
 import sqlite3
 import sys
+from collections import Counter
 from dataclasses import dataclass
 from datetime import date
 from pathlib import Path
@@ -58,6 +67,7 @@ from ptb import match  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 ADJUDICATIONS_PATH = REPO_ROOT / "data" / "adjudications.json"
+NTFT_CANDIDATES_PATH = match.DEFAULT_NTFT_CANDIDATES_PATH
 CONFIRMATIONS_PATH = REPO_ROOT / "data" / "confirmations.json"
 PENDING_PATH = REPO_ROOT / "data" / "pending_adjudication.json"
 CHECKLIST_PATH = REPO_ROOT / "reports" / "tier2_review_checklist.md"
@@ -127,6 +137,32 @@ def load_candidates(path: Path = match.DEFAULT_CANDIDATES_PATH) -> dict:
         return json.load(f)
 
 
+def load_bridge_candidates(path: Path = NTFT_CANDIDATES_PATH) -> dict | None:
+    """The NTFT bridge artifact, or None when the bridge has not been run."""
+    path = Path(path)
+    if not path.exists():
+        return None
+    with open(path, encoding="utf-8") as f:
+        payload = json.load(f)
+    if payload.get("bridge") != "ntft":
+        raise ValueError(f"{path} is not an NTFT bridge artifact (missing \"bridge\": \"ntft\")")
+    return payload
+
+
+def load_all_candidates(
+    candidates_path: Path = match.DEFAULT_CANDIDATES_PATH,
+    ntft_candidates_path: Path = NTFT_CANDIDATES_PATH,
+) -> list[dict]:
+    """Tier-2 candidates followed by bridge candidates (if any), each dict
+    carrying a "bridge" key (None for tier 2) so consumers can tell the
+    layers apart without re-reading the files."""
+    out = [{**c, "bridge": None} for c in load_candidates(candidates_path)["candidates"]]
+    bridge = load_bridge_candidates(ntft_candidates_path)
+    if bridge is not None:
+        out.extend({**c, "bridge": "ntft"} for c in bridge["candidates"])
+    return out
+
+
 # ---------------------------------------------------------------------------
 # Applying verdicts -> task_equivalences rows
 # ---------------------------------------------------------------------------
@@ -137,11 +173,15 @@ def build_rows(
     adjudications: dict[str, dict],
     confirmations: dict[str, dict],
     method: str,
+    bridge: str | None = None,
 ) -> tuple[list[EquivalenceRow], list[dict]]:
     """Map candidates + verdicts (+ confirmations) to DB rows.
 
     Returns (rows, pending) where pending is the list of candidates that
-    have no adjudication verdict yet.
+    have no adjudication verdict yet. `bridge` names the layer these
+    candidates belong to; a verdict's "bridge" tag must agree (AC-B3), so a
+    tier-2 verdict can never be silently reused for a bridge pair or vice
+    versa.
     """
     rows: list[EquivalenceRow] = []
     pending: list[dict] = []
@@ -149,8 +189,13 @@ def build_rows(
     for cand in candidates:
         verdict = adjudications.get(cand["pair_key"])
         if verdict is None:
-            pending.append(cand)
+            pending.append({**cand, "bridge": bridge})
             continue
+        if verdict.get("bridge") != bridge:
+            raise ValueError(
+                f"verdict for pair_key {cand['pair_key']} is tagged bridge={verdict.get('bridge')!r} "
+                f"but the candidate belongs to layer bridge={bridge!r}"
+            )
 
         a, b = cand["a"], cand["b"]
         if not a["task_id"] < b["task_id"]:
@@ -293,6 +338,9 @@ def generate_checklist(
         lines.append(f"- **Adjudication note:** {r.adjudication_note}")
         if cand.get("seed_reason"):
             lines.append(f"- **Seeded:** {cand['seed_reason']}")
+        if cand.get("bridge"):
+            lines.append(f"- **Bridge:** {cand['bridge']} (one NTFT-standard side, one NWCG side; "
+                         f"reviewed on reports/{cand['bridge']}_review_sheet.xlsx)")
         lines.append("")
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -313,19 +361,43 @@ def apply(
     confirmations_path: Path = CONFIRMATIONS_PATH,
     checklist_path: Path = CHECKLIST_PATH,
     pending_path: Path = PENDING_PATH,
+    ntft_candidates_path: Path | None = None,
 ) -> dict:
     """Apply all verdicts to the DB and regenerate the checklist.
 
     Returns stats. If any candidate lacks a verdict, writes pending_path,
     changes nothing in the DB, and returns with stats['pending'] > 0.
+    The NTFT bridge layer is included when its file exists; its rows carry
+    the bridge method string. ntft_candidates_path=None means "the bridge
+    artifact that belongs with candidates_path": data/ntft_candidates.json
+    when candidates_path is the shipped tier-2 artifact, nothing otherwise
+    (a caller applying a custom candidate set, e.g. the fixture-corpus
+    tests, never gets the real corpus's bridge pairs mixed in).
     """
+    if ntft_candidates_path is None:
+        if Path(candidates_path).resolve() == Path(match.DEFAULT_CANDIDATES_PATH).resolve():
+            ntft_candidates_path = NTFT_CANDIDATES_PATH
+        else:
+            ntft_candidates_path = Path(candidates_path).with_name("__no_bridge__.json")
     payload = load_candidates(candidates_path)
-    candidates = payload["candidates"]
+    candidates = [{**c, "bridge": None} for c in payload["candidates"]]
     adjudications = load_adjudications(adjudications_path)
     confirmations = load_confirmations(confirmations_path)
 
-    method = match.method_string()
-    rows, pending = build_rows(candidates, adjudications, confirmations, method)
+    rows, pending = build_rows(candidates, adjudications, confirmations, match.method_string())
+
+    bridge_payload = load_bridge_candidates(ntft_candidates_path)
+    bridge_candidates: list[dict] = []
+    bridge_rows: list[EquivalenceRow] = []
+    if bridge_payload is not None:
+        bridge_candidates = [{**c, "bridge": "ntft"} for c in bridge_payload["candidates"]]
+        bridge_rows, bridge_pending = build_rows(
+            bridge_candidates, adjudications, confirmations,
+            match.method_string(bridge="ntft"), bridge="ntft",
+        )
+        pending.extend(bridge_pending)
+        candidates = candidates + bridge_candidates
+        rows = sorted(rows + bridge_rows, key=lambda r: (r.task_a_id, r.task_b_id))
 
     if pending:
         with open(pending_path, "w", encoding="utf-8", newline="\n") as f:
@@ -356,6 +428,14 @@ def apply(
             "tier3_rejected": sum(1 for r in rows if r.tier == 3),
             "checklist": str(checklist_path),
         }
+        if bridge_payload is not None:
+            stats["ntft_bridge"] = {
+                "rows": len(bridge_rows),
+                "probable": sum(1 for r in bridge_rows if r.status == "probable"),
+                "confirmed": sum(1 for r in bridge_rows if r.status == "confirmed"),
+                "rejected_by_human": sum(1 for r in bridge_rows if r.tier == 2 and r.status == "rejected"),
+                "tier3_rejected": sum(1 for r in bridge_rows if r.tier == 3),
+            }
     finally:
         conn.close()
     return stats
@@ -410,12 +490,25 @@ def status(
     adjudications = load_adjudications(adjudications_path)
     confirmations = load_confirmations(confirmations_path)
     keys = [c["pair_key"] for c in payload["candidates"]]
-    return {
+    result = {
         "candidates": len(keys),
         "adjudicated": sum(1 for k in keys if k in adjudications),
         "pending": sum(1 for k in keys if k not in adjudications),
         "human_reviewed": sum(1 for k in keys if k in confirmations),
     }
+    bridge = load_bridge_candidates()
+    if bridge is not None:
+        bkeys = [c["pair_key"] for c in bridge["candidates"]]
+        result["ntft_bridge"] = {
+            "candidates": len(bkeys),
+            "adjudicated": sum(1 for k in bkeys if k in adjudications),
+            "pending": sum(1 for k in bkeys if k not in adjudications),
+            "human_reviewed": sum(1 for k in bkeys if k in confirmations),
+            "by_relation": dict(sorted(Counter(
+                adjudications[k]["relation"] for k in bkeys if k in adjudications
+            ).items())),
+        }
+    return result
 
 
 if __name__ == "__main__":

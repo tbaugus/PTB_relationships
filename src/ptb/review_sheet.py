@@ -26,6 +26,17 @@ works in Google Sheets):
       context rule - see src/ptb/context.py). Re-ingesting a corrected sheet
       is safe: the newest decision for a pair wins.
 
+  py src/ptb/review_sheet.py export --bridge ntft
+      NTFT bridge layer (F2 ntft-bridge, specs/matching.spec.md "NTFT bridge
+      candidates"): writes reports/ntft_review_sheet.xlsx with one row per
+      bridge status='probable' pair (rows whose task_equivalences.method
+      contains "ntft-bridge"), sorted by score, with three extra columns:
+      NWCG position code(s), NTFT position code(s), NTFT task level. The
+      decision column allows exactly Confirm / Reject / Not sure. The default
+      export never lists bridge rows, and the bridge export never lists
+      tier-2 rows. `ingest` is shared: it keys on Pair ID and accepts either
+      sheet.
+
 Never hand-edit data/confirmations.json; this script and `promote` are the
 two sanctioned writers (PLAN.md: don't hand-edit generated artifacts).
 """
@@ -46,6 +57,8 @@ from ptb.blooms import LEVEL_NAMES  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_SHEET_PATH = REPO_ROOT / "reports" / "tier2_review_sheet.xlsx"
+NTFT_SHEET_PATH = REPO_ROOT / "reports" / "ntft_review_sheet.xlsx"
+NTFT_LABEL = "NTFT standard"  # == gap.DRAFT_LABEL; honesty contract wording
 
 RELATION_PLAIN = {
     "equivalent": "Same task",
@@ -54,6 +67,7 @@ RELATION_PLAIN = {
 }
 
 DECISIONS = ["Confirm", "Reject", "Unlikely", "Not sure"]
+BRIDGE_DECISIONS = ["Confirm", "Reject", "Not sure"]  # docs/F2_ntft_bridge.md
 
 HEADERS = [
     "#", "Pair ID (do not edit)", "Claude's call", "Task A",
@@ -63,6 +77,11 @@ HEADERS = [
     "YOUR DECISION", "YOUR NOTES (optional)",
 ]
 DECISION_COL = 13  # 1-based index of "YOUR DECISION"
+
+# Bridge sheet: the standard columns plus the three F2 extras, decision last.
+BRIDGE_EXTRA_HEADERS = ["NWCG position code(s)", "NTFT position code(s)", "NTFT task level"]
+BRIDGE_HEADERS = HEADERS[:DECISION_COL - 1] + BRIDGE_EXTRA_HEADERS + HEADERS[DECISION_COL - 1:]
+BRIDGE_DECISION_COL = DECISION_COL + len(BRIDGE_EXTRA_HEADERS)
 
 
 def _occurrences_label(side: dict) -> str:
@@ -99,11 +118,96 @@ def _load_prior_decisions(prefill_path) -> dict:
     return out
 
 
+def _official_by_code(conn: sqlite3.Connection) -> dict[str, int]:
+    return {
+        r["code"]: r["official"]
+        for r in conn.execute(
+            """SELECT p.code, sd.official FROM positions p
+               JOIN source_documents sd ON sd.id = p.source_document_id"""
+        )
+    }
+
+
+def _level_by_position_task(conn: sqlite3.Connection) -> dict[tuple[str, int], str | None]:
+    return {
+        (r["code"], r["task_number"]): r["level"]
+        for r in conn.execute(
+            """SELECT p.code, pt.task_number, pt.level FROM position_tasks pt
+               JOIN positions p ON p.id = pt.position_id WHERE pt.level IS NOT NULL"""
+        )
+    }
+
+
+def _bridge_columns(cand: dict, official: dict[str, int], levels: dict) -> list:
+    """NWCG code(s), NTFT code(s), NTFT task level for one bridge pair."""
+    nwcg, ntft, lvls = [], [], []
+    for side in ("a", "b"):
+        for o in cand[side]["occurrences"]:
+            if official[o["position"]] == 0:
+                ntft.append(f"{o['position']} #{o['task_number']}")
+                lvl = levels.get((o["position"], o["task_number"]))
+                if lvl:
+                    lvls.append(lvl)
+            else:
+                nwcg.append(f"{o['position']} #{o['task_number']}")
+    return ["; ".join(nwcg), "; ".join(ntft), "; ".join(dict.fromkeys(lvls)) or "unknown"]
+
+
+def _bridge_instructions(n_rows: int, threshold: float) -> list[tuple[str, str]]:
+    """(text, style) lines for the NTFT bridge sheet's Instructions tab."""
+    return [
+        ("What this is", "bold"),
+        (f"Each row pairs one task from an NWCG position task book with one task from an "
+         f"{NTFT_LABEL} position task book. The NTFT positions (Novel Thinking Fire Tech: "
+         "detection, autonomy, robotics, modeling, sensors, geospatial) are NOT NWCG-official "
+         "positions; this review only decides whether a task a firefighter has already "
+         "demonstrated in an NWCG position is the same demonstrated work as an NTFT task.", "arial"),
+        ("A computer flagged pairs whose wording is similar (similarity at or above "
+         f"{threshold:.2f}, deliberately looser than the NWCG-to-NWCG review because the two "
+         "sets of books are written in different vocabularies), and an AI assistant made a "
+         "first call on each pair. Nothing counts until a person confirms it. That person is you.", "arial"),
+        ("", "arial"),
+        ("How to review (Review tab)", "bold"),
+        ("Read Task A and Task B in each row, then fill in the YELLOW decision column "
+         "(notes optional). Exactly three values are allowed:", "arial"),
+        ('  - "Confirm" = you agree with Claude\'s call in column C. For "Same task" rows, a '
+         "firefighter signed off on one has genuinely demonstrated the other. For "
+         '"Task A includes Task B" rows, someone who did the bigger task (A) deserves credit '
+         "for the smaller one (B) - but NOT the other way around.", "arial"),
+        ('  - "Reject" = different requirements; never give credit across them.', "arial"),
+        ('  - "Not sure" (or leave blank) = skip it; the pair stays unconfirmed and can be '
+         "reviewed later.", "arial"),
+        ("", "arial"),
+        ("The golden rule", "bold"),
+        ("When in doubt, Not sure. A wrong Confirm could credit someone with work they have not "
+         "done; a wrong Reject only makes someone demonstrate a task again. Watch especially "
+         "for shared nouns hiding different jobs: operating a platform, sensor, or model is "
+         "not supervising people, and supervising people is not operating equipment.", "arial"),
+        ("", "arial"),
+        ("Extra columns on this sheet", "bold"),
+        ('  - "NWCG position code(s)" / "NTFT position code(s)": which books each side of the '
+         "pair comes from, with the task number.", "arial"),
+        ('  - "NTFT task level": the NTFT book\'s own progression tier for that task '
+         "(Aspirant, Beginner, Journey, Expert). A Journey/Expert NTFT task matched to a basic "
+         "NWCG task deserves extra skepticism.", "arial"),
+        ('  - "Tier": "Check context first" (orange) flags positions from different worlds or '
+         "very different thinking levels. Category names differ between the two sets of books "
+         "by design, so that alone is not a reason to reject.", "arial"),
+        ("", "arial"),
+        ("Practical notes", "bold"),
+        (f"  - {n_rows} pairs, sorted most-similar first.", "arial"),
+        ("  - Row 2 of the Review tab is a worked EXAMPLE - leave it alone.", "arial"),
+        ("  - Do not edit column B (Pair ID) - it is how your answers get matched back.", "arial"),
+    ]
+
+
 def export(
     db_path: Path | str = db.DEFAULT_DB_PATH,
     candidates_path: Path = match.DEFAULT_CANDIDATES_PATH,
-    out_path: Path = DEFAULT_SHEET_PATH,
+    out_path: Path | None = None,
     prefill_path: Path | str | None = None,
+    bridge: str | None = None,
+    ntft_candidates_path: Path = adjudicate.NTFT_CANDIDATES_PATH,
 ) -> dict:
     from openpyxl import Workbook
     from openpyxl.styles import Alignment, Font, PatternFill
@@ -112,7 +216,21 @@ def export(
 
     from ptb import context
 
-    payload = adjudicate.load_candidates(candidates_path)
+    if bridge not in (None, "ntft"):
+        raise ValueError(f"unknown bridge {bridge!r}")
+    if out_path is None:
+        out_path = NTFT_SHEET_PATH if bridge == "ntft" else DEFAULT_SHEET_PATH
+
+    if bridge == "ntft":
+        payload = adjudicate.load_bridge_candidates(ntft_candidates_path)
+        if payload is None:
+            raise FileNotFoundError(f"{ntft_candidates_path} not found; run `py src/ptb/match.py --ntft-bridge` first")
+        method_filter = "AND method LIKE '%ntft-bridge%'"
+        headers, decisions, decision_col = BRIDGE_HEADERS, BRIDGE_DECISIONS, BRIDGE_DECISION_COL
+    else:
+        payload = adjudicate.load_candidates(candidates_path)
+        method_filter = "AND method NOT LIKE '%ntft-bridge%'"
+        headers, decisions, decision_col = HEADERS, DECISIONS, DECISION_COL
     by_ids = {(c["a"]["task_id"], c["b"]["task_id"]): c for c in payload["candidates"]}
     blooms = {o["normalized_text"]: o for o in json.load(
         open(REPO_ROOT / "data" / "blooms.json", encoding="utf-8"))["objectives"]}
@@ -121,9 +239,11 @@ def export(
     conn = db.connect(db_path)
     try:
         rows = conn.execute(
-            """SELECT * FROM task_equivalences WHERE status = 'probable'
+            f"""SELECT * FROM task_equivalences WHERE status = 'probable' {method_filter}
                ORDER BY similarity_score DESC, task_a_id, task_b_id"""
         ).fetchall()
+        official = _official_by_code(conn) if bridge else {}
+        levels = _level_by_position_task(conn) if bridge else {}
     finally:
         conn.close()
 
@@ -138,7 +258,11 @@ def export(
     # ---- Instructions tab -------------------------------------------------
     ws = wb.active
     ws.title = "Instructions"
-    lines = [
+    if bridge == "ntft":
+        lines = [(text, bold if style == "bold" else arial)
+                 for text, style in _bridge_instructions(len(rows), payload["threshold"])]
+    else:
+        lines = [
         ("What this is", bold),
         ("Wildland-fire position task books from different positions often ask for the same "
          "demonstrated work in slightly different words. A computer flagged pairs of task "
@@ -186,7 +310,7 @@ def export(
 
     # ---- Review tab -------------------------------------------------------
     ws = wb.create_sheet("Review")
-    for col, header in enumerate(HEADERS, start=1):
+    for col, header in enumerate(headers, start=1):
         c = ws.cell(row=1, column=col, value=header)
         c.font = bold
         c.alignment = wrap
@@ -203,6 +327,22 @@ def export(
         "Standard", "Remember", "Remember",
         "Confirm", "clearly the same",
     ]
+    if bridge == "ntft":
+        # Real pair (RESL #13 / UAIS #14, tier-2 candidate 63a46f41daf7dac2);
+        # it sits in the tier-2 layer, so it never appears as a live row on
+        # this sheet. (Earlier builds cited GISS #55, whose wording changed in
+        # the September 2026 GISS edition.)
+        example = [
+            "EX", "EXAMPLE", "Same task",
+            "Participate in After Action Reviews (AARs).",
+            "RESL #13 (Resources Unit Leader) - Communicate and Coordinate",
+            "Participate in the after-action review.",
+            "UAIS #14 (UAS Aerial Ignition Specialist) - COMPETENCY: Communicate effectively.",
+            0.805, "Same activity, same participant role; wording only.",
+            "Standard", "Apply", "Apply",
+            "RESL #13", "UAIS #14", "Beginner",
+            "Confirm", "clearly the same",
+        ]
     for col, value in enumerate(example, start=1):
         c = ws.cell(row=2, column=col, value=value)
         c.font = arial
@@ -224,31 +364,42 @@ def export(
             round(r["similarity_score"], 3), r["adjudication_note"],
             tier,
             LEVEL_NAMES.get(feats["bloom_a"]), LEVEL_NAMES.get(feats["bloom_b"]),
-            dec, note or None,
         ]
+        if bridge == "ntft":
+            values += _bridge_columns(cand, official, levels)
+        values += [dec, note or None]
         for col, value in enumerate(values, start=1):
             c = ws.cell(row=i + 2, column=col, value=value)
             c.font = arial
             c.alignment = wrap
-            if col >= DECISION_COL:
+            if col >= decision_col:
                 c.fill = yellow
             elif col == 10 and tier != "Standard":
                 c.fill = orange
 
-    dv = DataValidation(type="list", formula1='"' + ",".join(DECISIONS) + '"', allow_blank=True)
-    dv.error = "Please choose Confirm, Reject, Unlikely, or Not sure."
+    dv = DataValidation(type="list", formula1='"' + ",".join(decisions) + '"', allow_blank=True)
+    dv.error = "Please choose one of: " + ", ".join(decisions) + "."
     dv.errorTitle = "Invalid decision"
     ws.add_data_validation(dv)
-    dv.add(f"M3:M{len(rows) + 2}")
+    dcol = get_column_letter(decision_col)
+    dv.add(f"{dcol}3:{dcol}{len(rows) + 2}")
 
-    widths = [5, 18, 20, 45, 40, 45, 40, 10, 50, 16, 11, 11, 14, 30]
+    widths = [5, 18, 20, 45, 40, 45, 40, 10, 50, 16, 11, 11]
+    if bridge == "ntft":
+        widths += [22, 22, 14]
+    widths += [14, 30]
     for col, w in enumerate(widths, start=1):
         ws.column_dimensions[get_column_letter(col)].width = w
     ws.freeze_panes = "A3"
 
+    out_path = Path(out_path)
     out_path.parent.mkdir(parents=True, exist_ok=True)
     wb.save(out_path)
-    return {"probable_pairs": len(rows), "prefilled_decisions": prefilled, "sheet": str(out_path)}
+    result = {"probable_pairs": len(rows), "prefilled_decisions": prefilled, "sheet": str(out_path)}
+    if bridge:
+        result["bridge"] = bridge
+        result["allowed_decisions"] = decisions
+    return result
 
 
 def ingest(
@@ -261,8 +412,8 @@ def ingest(
 ) -> dict:
     from openpyxl import load_workbook
 
-    payload = adjudicate.load_candidates(candidates_path)
-    known_keys = {c["pair_key"] for c in payload["candidates"]}
+    # Either sheet (tier-2 or NTFT bridge) may be ingested; keys are global.
+    known_keys = {c["pair_key"] for c in adjudicate.load_all_candidates(candidates_path)}
     adjudications = adjudicate.load_adjudications()
 
     wb = load_workbook(sheet_path, data_only=True)
@@ -349,11 +500,13 @@ if __name__ == "__main__":
     p_ex = sub.add_parser("export", help="write reports/tier2_review_sheet.xlsx")
     p_ex.add_argument("--prefill", default=None,
                       help="previously filled sheet whose decisions/notes carry over")
+    p_ex.add_argument("--bridge", default=None, choices=["ntft"],
+                      help="export the NTFT bridge layer to reports/ntft_review_sheet.xlsx instead")
     p_in = sub.add_parser("ingest", help="read a filled sheet and apply decisions")
     p_in.add_argument("sheet", help="path to the filled .xlsx downloaded from Google Sheets")
     p_in.add_argument("--reviewer", default="SME")
     args = parser.parse_args()
     if args.command == "export":
-        print(json.dumps(export(prefill_path=args.prefill), indent=2))
+        print(json.dumps(export(prefill_path=args.prefill, bridge=args.bridge), indent=2))
     else:
         print(json.dumps(ingest(args.sheet, reviewer=args.reviewer), indent=2))

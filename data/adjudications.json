@@ -10920,6 +10920,1956 @@
    "note": "A \"ESTABLISH communications and exchange necessary information\" vs B \"MAINTAIN communications and exchange necessary information with other resources\": establishing vs maintaining (rules 2, 5). Related only.",
    "adjudicated_at": "2026-11-03",
    "adjudicator": "claude-fable-5.1 (session 2026-11-03, corpus refresh; rubric specs/matching.spec.md)"
+  },
+  {
+   "pair_key": "53ebcf2b77a89990",
+   "relation": "equivalent",
+   "note": "UAIS#14 \"PARTICIPATE in the after-action review\" vs \"CONDUCT AND/OR PARTICIPATE in AARs\": the NWCG disjunction is satisfied by participation alone and either arm entails participating, so each satisfies the other (rule 3; tier-2 precedent for this exact NWCG text vs \"participate in AARs\"). NTFT category \"Communicate effectively\" vs NWCG \"Communicate and Coordinate\" frame the same behavior; rule 6 not triggered.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "a777e29601f82143",
+   "relation": "subsumes",
+   "note": "CFMD#4 \"VALIDATE model output against OBSERVED fire progression AND QUANTIFY error/uncertainty\" vs FBAN/LTAN#12 \"MONITOR fire behavior to VALIDATE projections and forecasts\": same validate-prediction-against-observation action and object (fire-behavior projections); the NTFT task adds explicit error/uncertainty quantification (rule 2). NTFT side subsumes; an FBAN validation does not by itself demonstrate the quantification, so no credit flows NWCG -> NTFT. Reviewer: the cross-domain context (computational modeling vs fire behavior analysis) is the real question.",
+   "subsumer_normalized_text": "validate output against observed fire progression and quantify error/uncertainty",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "173e503cabb28cf0",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs RXB1#38 \"evaluate and document the fire effects of the prescribed fire during ignition\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "1b91200333ef910b",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#1 \"OBTAIN AND REVIEW the firing/burn plan and ignition sequence\" (a receiving/consumer task on assuming the role) vs FIRB#6 \"DETERMINE the Firing Plan\": authoring, directing, implementing, evaluating, or auditing the plan is a different action level or object from obtaining and reviewing it before operating (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "998c3970d209f1ce",
+   "relation": "related_not_equivalent",
+   "note": "AIML#7 \"RECOGNIZE trigger points and EXECUTE the contingency/abort plan\" vs CRWB/ENGB/FIRB \"DEVELOP and communicate contingency plans and trigger points\": establishing/ensuring/evaluating trigger points is a planning or oversight action; recognizing one in the field and executing the abort is execution (rules 1-2; consistent with the tier-2 verdict AIML#7 vs STPS#21). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "bad71d52909d6e59",
+   "relation": "subsumes",
+   "note": "UAIS#14 \"PARTICIPATE in the after-action review\" vs RXB1#18 \"CONDUCT an AAR\": conducting an AAR entails participating in one, never the reverse (rules 1-2; tier-2 precedent \"conduct AARs\" subsumes \"conduct and/or participate\"). The NWCG task subsumes the NTFT task; no credit flows from participation to conducting.",
+   "subsumer_normalized_text": "conduct an after action reviews (aar)",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "71c3ffcf7dc283c5",
+   "relation": "subsumes",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs ICT5#3 \"obtain briefing, OBJECTIVES, AND LEADER'S INTENT from supervisor/Duty Officer/dispatch\": same obtain-initial-briefing act and the objective is common to both; the NWCG task additionally requires obtaining leader's intent (rule 2; tier-2 precedent: the objectives-and-intent text subsumes the plain briefing text). NWCG side subsumes, so an NWCG holder's briefing covers the NTFT task but not the reverse.",
+   "subsumer_normalized_text": "obtain briefing, objectives, and leader's intent from supervisor/duty officer/dispatch",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "7d9f76e30f61f7d7",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#7 \"complete VERIFICATION-AND-VALIDATION documentation\" (a software-engineering artifact demonstrating correct autonomy behavior before field reliance) vs FAL1#12 \"complete required documentation\": incident position documentation is a different object; completing an NWCG position's required paperwork does not demonstrate producing V&V documentation (rule 2; the tier-2 \"complete required documentation\" equivalences are within the same object). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "c6dcecb55823ed83",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"OBTAIN the mission objective and briefing\" (receiving) vs ACDR#15 \"prepare and facilitate area command briefings\": giving, preparing, scheduling, or organizing briefings - or developing the mission itself - is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "c60e2e5193fe7db9",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"OBTAIN the mission objective and briefing\" (receiving) vs ACPC#6 \"prepare and facilitate area command briefings\": giving, preparing, scheduling, or organizing briefings - or developing the mission itself - is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "17ad95e6dec5fa99",
+   "relation": "related_not_equivalent",
+   "note": "AIML#7 \"RECOGNIZE trigger points and EXECUTE the contingency/abort plan\" vs OPBD#46 \"ENSURE contingency plans and trigger points are developed and communicated\": establishing/ensuring/evaluating trigger points is a planning or oversight action; recognizing one in the field and executing the abort is execution (rules 1-2; consistent with the tier-2 verdict AIML#7 vs STPS#21). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "b28facc01e16629c",
+   "relation": "subsumes",
+   "note": "AIML#8 \"CONDUCT the ignition briefing AND INTEGRATE ignition into the incident air operations plan\" vs RXB1#17 \"conduct pre-ignition briefing utilizing the briefing checklist in the Prescribed Fire Plan\": the same conduct-the-ignition-briefing act (the checklist is a format constraint); the NTFT task additionally requires integrating ignition into the air operations plan (rule 2). NTFT side subsumes; no credit flows RXB1 -> AIML. Reviewer: the question is whether a ground pre-ignition briefing is the same object as an aerial-ignition briefing.",
+   "subsumer_normalized_text": "conduct the ignition briefing and integrate ignition into the incident air operations plan",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "ada1d802a0132c93",
+   "relation": "subsumes",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs ENGB#6/FIRB#4 \"obtain briefing, objectives, AND INTENT from supervisor\": same obtain-initial-briefing act and the objective is common to both; the NWCG task additionally requires obtaining leader's intent (rule 2; tier-2 precedent: the objectives-and-intent text subsumes the plain briefing text). NWCG side subsumes, so an NWCG holder's briefing covers the NTFT task but not the reverse.",
+   "subsumer_normalized_text": "obtain briefing, objectives, and intent from supervisor",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "01cb0d8fddd8e681",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#1 \"obtain the REQUIREMENT and SAFETY CONSTRAINTS\" (the software requirement and its safety envelope on assuming the role) vs INVF#4 \"obtain safety equipment necessary for assignment\": safety equipment, safety zones, safety plans, or procedural compliance are different objects and actions (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "0d45e41ac38b1d7f",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs ACPC#1 \"obtain briefing from Area Commander\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "8c9402f73b6d8064",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#1 \"OBTAIN AND REVIEW the firing/burn plan and ignition sequence\" (a receiving/consumer task on assuming the role) vs RXB1#38 \"evaluate and document fire effects during ignition\": authoring, directing, implementing, evaluating, or auditing the plan is a different action level or object from obtaining and reviewing it before operating (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "00620830ce7eef07",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs ACLC#2 \"obtain initial briefing from Area Commander\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "1346739685450195",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#2 \"establish DATA STANDARDS, projections, and versioning for the incident\" (geospatial data governance) vs PIO3#32 \"prepare updates/fact sheets for the incident\": information products, performance standards, objectives, or recommendations are different objects; shared \"standards/information\" wording only (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "33215c77f9318379",
+   "relation": "subsumes",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs FELB#2 \"participate in briefing and obtain objectives AND INTENT from supervisor\": same obtain-initial-briefing act and the objective is common to both; the NWCG task additionally requires obtaining leader's intent (rule 2; tier-2 precedent: the objectives-and-intent text subsumes the plain briefing text). NWCG side subsumes, so an NWCG holder's briefing covers the NTFT task but not the reverse.",
+   "subsumer_normalized_text": "participate in briefing and obtain objectives and intent from supervisor",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "f514f184ee5a0399",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs AOBD#4/STAM#6 \"obtain initial briefing from Operations Section Chief\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "6e306e5509f73e35",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#1 \"OBTAIN AND REVIEW the firing/burn plan and ignition sequence\" (a receiving/consumer task on assuming the role) vs FBAN#11 \"provide feedback on firing plans and burn operations\": authoring, directing, implementing, evaluating, or auditing the plan is a different action level or object from obtaining and reviewing it before operating (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "d5c71264cfebef97",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs DPRO#6 \"obtain initial briefing from Situation Unit Leader\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "c0c79cb19093c280",
+   "relation": "subsumes",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs ICT5#3 \"obtain briefing, OBJECTIVES, AND LEADER'S INTENT from supervisor/Duty Officer/dispatch\": same obtain-initial-briefing act; command product priorities are the objectives a geospatial lead is briefed on, and the NWCG task additionally requires leader's intent (rule 2; tier-2 precedent: the objectives-and-intent text subsumes the plain briefing text). NWCG side subsumes.",
+   "subsumer_normalized_text": "obtain briefing, objectives, and leader's intent from supervisor/duty officer/dispatch",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "f935cf2093f8c791",
+   "relation": "subsumes",
+   "note": "UAIS#14 \"PARTICIPATE in the after-action review\" vs \"CONDUCT AARs\" (ATBM/FWBM/ICCI/ICT3/RXMG): conducting an AAR entails participating in one, never the reverse (rules 1-2; tier-2 precedent \"conduct AARs\" subsumes \"conduct and/or participate\"). The NWCG task subsumes the NTFT task; no credit flows from participation to conducting.",
+   "subsumer_normalized_text": "conduct after action reviews (aar)",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "979b8aa81a2d192b",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST ignition rate and pattern\" (operating the aerial ignition platform) vs DIVS#35 \"ASSESS fire behavior and ADJUST TACTICS\": a Division Supervisor adjusting division tactics is supervisory decision-making over people and resources; the NTFT task is operator-level control of a device. Operating a platform is not supervising people even with the shared \"adjust ... fire behavior\" wording (rule 1; F2 caution). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "b9a128ef7b88e6de",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs ACAC#1 \"obtain initial briefing from Area Commander on expectations, concerns, and constraints\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "9cef42f93b3eb0ee",
+   "relation": "related_not_equivalent",
+   "note": "AIML#3 \"ASSESS HOLDING CAPABILITY and define contingency trigger points\" (for an aerial ignition operation) vs CRWB/ENGB/FIRB \"develop and COMMUNICATE CONTINGENCY PLANS and trigger points\": the shared element is defining trigger points, but each side carries a requirement the other lacks (holding-capability assessment for ignition vs contingency-plan development/communication or oversight), and the trigger points govern different operations (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "92a454116bcad513",
+   "relation": "related_not_equivalent",
+   "note": "AIML#3 \"ASSESS HOLDING CAPABILITY and define contingency trigger points\" (for an aerial ignition operation) vs STPS#21 \"establish trigger points for contingency plans\": the shared element is defining trigger points, but each side carries a requirement the other lacks (holding-capability assessment for ignition vs contingency-plan development/communication or oversight), and the trigger points govern different operations (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "943d65fc082d9672",
+   "relation": "equivalent",
+   "note": "UAIS#14 \"participate in the after-action review\" vs FSC3/LSC3/PSC3 \"participate in after-incident review per agency policy\": the legacy-format \"after-incident review\" is the same end-of-assignment review event as the AAR, same participant action level; \"per agency policy\" only governs scheduling (rule 3). Flag for the reviewer: confirm only if your agency treats the after-incident review as the AAR.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "85f6777f88d8cb98",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs FEMO/FOBS#17 \"recognize and report atmospheric characteristics that influence fire behavior\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "68bfe2878577a8ba",
+   "relation": "equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs ACPC#1 \"obtain briefing from Area Commander\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; \"command product priorities\" names the content a geospatial lead receives in that briefing, and the NWCG briefer or stated content reflects org-chart placement, not a different act (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Rule 6 not triggered (same onboarding step under different category taxonomies). Reviewer: judge whether an NWCG assignment briefing demonstrates receiving command's geospatial product priorities.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "060cef3c0d130345",
+   "relation": "subsumes",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs ENGB#6/FIRB#4 \"obtain briefing, objectives, AND INTENT from supervisor\": same obtain-initial-briefing act; command product priorities are the objectives a geospatial lead is briefed on, and the NWCG task additionally requires leader's intent (rule 2; tier-2 precedent: the objectives-and-intent text subsumes the plain briefing text). NWCG side subsumes.",
+   "subsumer_normalized_text": "obtain briefing, objectives, and intent from supervisor",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "d6899f3ea0d06f75",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs ACAC#1 \"obtain initial briefing from Area Commander on expectations, concerns, and constraints\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "bf2167ad5565c37d",
+   "relation": "subsumes",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs ATGS/HLCO#8 \"obtain a mission briefing for an initial attack incident AND RECORD the information on a mission record\": same obtain-the-mission-briefing act (both aviation mission briefings); the NWCG task adds a recording/compilation step (rule 2). NWCG side subsumes.",
+   "subsumer_normalized_text": "obtain a mission briefing for an initial attack incident and record the information on a mission record or similar form",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "0665bd960cd9f09f",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs INVF#22 \"gather and record fire behavior observations for origin and cause\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "bd3e99f3afb673a7",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs TNSP#8 \"obtain initial briefing from Planning Section Chief\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "e1da6174469b36b3",
+   "relation": "subsumes",
+   "note": "UAIS#14 \"participate in the after-action review\" vs FAL1/HEQB/HMGB \"participate in functional area briefings AND CONDUCT AARs\": the NWCG task is conjunctive - it requires AAR participation (or conduct, which entails participation) PLUS briefings/debriefing - so completing it satisfies the NTFT task but not vice versa (rule 2; tier-2 precedent: conjunctive briefing-and-AAR texts subsume the plain AAR text). NWCG side subsumes.",
+   "subsumer_normalized_text": "participate in functional area briefings and conduct after action reviews (aar)",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "8106f38746205d12",
+   "relation": "related_not_equivalent",
+   "note": "FDSO#6 \"execute the ESCALATION AND DISSEMINATION WORKFLOW for confirmed detections to dispatch/command\" vs ICT5#15 \"communicate with dispatch throughout the operational period(s)\": a detection-system escalation workflow is a specific object; general dispatch communication, administration, or standing up expanded dispatch is a different act (rules 1-2); shared \"dispatch\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "633c7b23e5e586f1",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs FEMO/FOBS#15 \"monitor and record fire behavior data\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "2f4be4ec126f2f38",
+   "relation": "subsumes",
+   "note": "UAIS#14 \"participate in the after-action review\" vs ACDP/IADP \"participate in briefings AND/OR AARs\": the NWCG text is disjunctive and can be satisfied by briefings alone, so completing it does not demonstrate AAR participation; completing the NTFT task does satisfy the disjunction (rule 2; tier-2 precedent: plain conjunctive texts subsume this disjunctive list). NTFT side subsumes - no credit flows NWCG -> NTFT.",
+   "subsumer_normalized_text": "participate in the after-action review",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "afac9ee69d8c61f4",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs INBA#5 \"obtain initial briefing from Agency Administrator or designee\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "0e1245ced6aef2b5",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"obtain the mission OBJECTIVE and briefing\" (the initial assignment briefing on assuming the role) vs ENGB#17 \"participate in operational briefings\": recurring attendance at operational-period or coordination briefings is a different object from receiving one's assignment briefing and mission objective (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "25fa234ed39d105f",
+   "relation": "subsumes",
+   "note": "UAIS#14 \"participate in the after-action review\" vs COMP#19 \"participate in functional area briefings AND CONDUCT AARs, as appropriate\": the NWCG task is conjunctive - it requires AAR participation (or conduct, which entails participation) PLUS briefings/debriefing - so completing it satisfies the NTFT task but not vice versa (rule 2; tier-2 precedent: conjunctive briefing-and-AAR texts subsume the plain AAR text). NWCG side subsumes.",
+   "subsumer_normalized_text": "participate in functional area briefings and conduct after action reviews (aar), as appropriate",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "da734a9360ec1b1a",
+   "relation": "related_not_equivalent",
+   "note": "AIML#1 \"DEVELOP an ignition plan integrating crewed and uncrewed assets, holding resources, and contingencies\" vs RXB1#25 \"COMMUNICATE operational activities among resources (ignition, holding, monitoring)\": planning vs ongoing communication (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "a7142d9fcca0f50f",
+   "relation": "equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs AOBD#4/STAM#6 \"obtain initial briefing from Operations Section Chief\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; \"command product priorities\" names the content a geospatial lead receives in that briefing, and the NWCG briefer or stated content reflects org-chart placement, not a different act (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Rule 6 not triggered (same onboarding step under different category taxonomies). Reviewer: judge whether an NWCG assignment briefing demonstrates receiving command's geospatial product priorities.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "1d0bc9dbad8a78ce",
+   "relation": "related_not_equivalent",
+   "note": "AIML#3 \"ASSESS HOLDING CAPABILITY and define contingency trigger points\" (for an aerial ignition operation) vs OPBD#46 \"ENSURE contingency plans and trigger points are developed and communicated\": the shared element is defining trigger points, but each side carries a requirement the other lacks (holding-capability assessment for ignition vs contingency-plan development/communication or oversight), and the trigger points govern different operations (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "32067c193749de64",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#1 \"OBTAIN AND REVIEW the firing/burn plan and ignition sequence\" (a receiving/consumer task on assuming the role) vs FIRB#8 \"IMPLEMENT the Firing Plan\": authoring, directing, implementing, evaluating, or auditing the plan is a different action level or object from obtaining and reviewing it before operating (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "1a2415d6bd161e91",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"obtain the mission OBJECTIVE and briefing\" (the initial assignment briefing on assuming the role) vs ICCI#28 \"participate in briefings\": recurring attendance at operational-period or coordination briefings is a different object from receiving one's assignment briefing and mission objective (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "d4e9449257a8c82c",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs RXB1#33 \"monitor prescription parameters to warrant ignition\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "dcc0102d9cc864e2",
+   "relation": "equivalent",
+   "note": "RSEN#1 \"obtain the product requirement and briefing from the Situation Unit / command\" vs DPRO#6 \"obtain initial briefing from Situation Unit Leader\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's unit leader (for DPRO/IRIN literally the same briefer, the Situation Unit Leader); \"product requirement\" names the briefing content a remote-sensing specialist receives (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Reviewer: judge whether an NWCG unit briefing demonstrates receiving a remote-sensing product requirement.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "2393b945cfad403f",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs IRIN#6 \"obtain initial briefing from Situation Unit Leader or supervisor\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "6da435d300f72fa7",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs FBAN/LTAN \"evaluate fuel conditions and topography for influences on fire behavior\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "4cccef8933fd7b14",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs PETL#2 \"obtain initial briefing from Agency Administrator\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "18d352ad7319e89a",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#4 \"apply SAFETY-CRITICAL SOFTWARE PRACTICES\" (engineering discipline for autonomy code) vs PETL/PETM \"ENSURE safety procedures are followed\": incident safety procedures, plans, and risk management are a different object from software safety practices; shared \"safety\" noun only (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "7779e0e58413a9f9",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"obtain the mission OBJECTIVE and briefing\" (the initial assignment briefing on assuming the role) vs LSCC#26 \"participate in operational period briefing\": recurring attendance at operational-period or coordination briefings is a different object from receiving one's assignment briefing and mission objective (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "dd0f61de394161fd",
+   "relation": "subsumes",
+   "note": "UAIS#14 \"participate in the after-action review\" vs DECK#15 \"participate in briefings AND AAR\": the NWCG task is conjunctive - it requires AAR participation (or conduct, which entails participation) PLUS briefings/debriefing - so completing it satisfies the NTFT task but not vice versa (rule 2; tier-2 precedent: conjunctive briefing-and-AAR texts subsume the plain AAR text). NWCG side subsumes.",
+   "subsumer_normalized_text": "participate in briefings and after action review (aar)",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "18a61cd5ddaf6715",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs INVF#6/INVL#4 \"obtain briefing from assignment supervisor\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "f7274c27024435f4",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs RXMG#36 \"collect, analyze, and summarize post-burn fire effects data\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "3b761c55cea342d9",
+   "relation": "subsumes",
+   "note": "UAIS#14 \"participate in the after-action review\" vs EDSD#17 \"participate in and/or conduct briefings AND/OR AARs\": the NWCG text is disjunctive and can be satisfied by briefings alone, so completing it does not demonstrate AAR participation; completing the NTFT task does satisfy the disjunction (rule 2; tier-2 precedent: plain conjunctive texts subsume this disjunctive list). NTFT side subsumes - no credit flows NWCG -> NTFT.",
+   "subsumer_normalized_text": "participate in the after-action review",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "e75c83ac78b73c67",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"obtain the mission OBJECTIVE and briefing\" (the initial assignment briefing on assuming the role) vs STCR/STEN/STEQ/TFLD#25 \"attend operational briefings and meetings as directed\": recurring attendance at operational-period or coordination briefings is a different object from receiving one's assignment briefing and mission objective (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "6b4cb29bc4e27a18",
+   "relation": "related_not_equivalent",
+   "note": "FDSO#6 \"execute the ESCALATION AND DISSEMINATION WORKFLOW for confirmed detections to dispatch/command\" vs STAM#35 \"administer dispatch procedures\": a detection-system escalation workflow is a specific object; general dispatch communication, administration, or standing up expanded dispatch is a different act (rules 1-2); shared \"dispatch\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "4df85b7d5aba8071",
+   "relation": "equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs TNSP#8 \"obtain initial briefing from Planning Section Chief\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; \"command product priorities\" names the content a geospatial lead receives in that briefing, and the NWCG briefer or stated content reflects org-chart placement, not a different act (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Rule 6 not triggered (same onboarding step under different category taxonomies). Reviewer: judge whether an NWCG assignment briefing demonstrates receiving command's geospatial product priorities.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "144f33700c39da60",
+   "relation": "subsumes",
+   "note": "UAIS#14 \"participate in the after-action review\" vs TNSP#14 \"participate in functional area briefings AND section AARs\": the NWCG task is conjunctive - it requires AAR participation (or conduct, which entails participation) PLUS briefings/debriefing - so completing it satisfies the NTFT task but not vice versa (rule 2; tier-2 precedent: conjunctive briefing-and-AAR texts subsume the plain AAR text). NWCG side subsumes.",
+   "subsumer_normalized_text": "participate in functional area briefings and section after action reviews (aar)",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "abcecc90b9fab42f",
+   "relation": "related_not_equivalent",
+   "note": "AIML#1 \"DEVELOP an ignition plan integrating crewed and uncrewed assets\" vs DIVS#33 \"DIRECT a firing/ignition plan using aerial ignition resources\": authoring the plan vs directing its execution (rule 1; consistent with the tier-2 verdict AIML#1 vs AIML#4). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "8086eeb58dec4ee1",
+   "relation": "subsumes",
+   "note": "UAIS#14 \"participate in the after-action review\" vs INVF/SOFC \"participate in briefings AND AARs\": the NWCG task is conjunctive - it requires AAR participation (or conduct, which entails participation) PLUS briefings/debriefing - so completing it satisfies the NTFT task but not vice versa (rule 2; tier-2 precedent: conjunctive briefing-and-AAR texts subsume the plain AAR text). NWCG side subsumes.",
+   "subsumer_normalized_text": "participate in briefings and after action reviews (aar)",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "b4db36d5f851ebf6",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#2 \"derive and validate software REQUIREMENTS with operational SMEs\" vs RXB2#15 \"assemble and validate the readiness, availability, and qualifications of Prescribed Fire Plan personnel and equipment\": validating a requirements specification with end users is a different act and object from validating personnel/equipment readiness or organizational compliance; shared \"validate/requirements\" wording only (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "6aafc98f95ca3609",
+   "relation": "equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs DPRO#6 \"obtain initial briefing from Situation Unit Leader\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; \"command product priorities\" names the content a geospatial lead receives in that briefing, and the NWCG briefer or stated content reflects org-chart placement, not a different act (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Rule 6 not triggered (same onboarding step under different category taxonomies). Reviewer: judge whether an NWCG assignment briefing demonstrates receiving command's geospatial product priorities.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "dbe5e7e9b7954b85",
+   "relation": "subsumes",
+   "note": "UAIS#14 \"participate in the after-action review\" vs BCMG/EQPM \"participate in functional area briefings AND unit AARs\": the NWCG task is conjunctive - it requires AAR participation (or conduct, which entails participation) PLUS briefings/debriefing - so completing it satisfies the NTFT task but not vice versa (rule 2; tier-2 precedent: conjunctive briefing-and-AAR texts subsume the plain AAR text). NWCG side subsumes.",
+   "subsumer_normalized_text": "participate in functional area briefings and unit after action reviews (aar)",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "411544aa0f7021d7",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"obtain the mission OBJECTIVE and briefing\" (the initial assignment briefing on assuming the role) vs ATIM/FAL1/HEQB/HMGB/STAM \"attend briefings and meetings as directed\": recurring attendance at operational-period or coordination briefings is a different object from receiving one's assignment briefing and mission objective (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "b9b2c15d37943b57",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#7 \"complete VERIFICATION-AND-VALIDATION documentation\" (a software-engineering artifact demonstrating correct autonomy behavior before field reliance) vs AOBD#23 \"complete and maintain appropriate documentation\": incident position documentation is a different object; completing an NWCG position's required paperwork does not demonstrate producing V&V documentation (rule 2; the tier-2 \"complete required documentation\" equivalences are within the same object). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "0b51a7385027ad42",
+   "relation": "equivalent",
+   "note": "RSEN#1 \"obtain the product requirement and briefing from the Situation Unit / command\" vs IRIN#6 \"obtain initial briefing from Situation Unit Leader or supervisor\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's unit leader (for DPRO/IRIN literally the same briefer, the Situation Unit Leader); \"product requirement\" names the briefing content a remote-sensing specialist receives (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Reviewer: judge whether an NWCG unit briefing demonstrates receiving a remote-sensing product requirement.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "5984bbcaa2312cf7",
+   "relation": "equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs ORDM#5/RCDM#6 \"obtain initial briefing from Supply Unit Leader or immediate supervisor\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; \"command product priorities\" names the content a geospatial lead receives in that briefing, and the NWCG briefer or stated content reflects org-chart placement, not a different act (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Rule 6 not triggered (same onboarding step under different category taxonomies). Reviewer: judge whether an NWCG assignment briefing demonstrates receiving command's geospatial product priorities.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "075a931bfbc35224",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs ICT4#34 \"obtain, monitor, and document fire weather forecasts\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "31b5aac98d78cdd6",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"obtain the mission OBJECTIVE and briefing\" (the initial assignment briefing on assuming the role) vs SOPL#10 \"participate in briefings as necessary\": recurring attendance at operational-period or coordination briefings is a different object from receiving one's assignment briefing and mission objective (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "3f45860dd438597a",
+   "relation": "equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs ACLC#2 \"obtain initial briefing from Area Commander\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; \"command product priorities\" names the content a geospatial lead receives in that briefing, and the NWCG briefer or stated content reflects org-chart placement, not a different act (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Rule 6 not triggered (same onboarding step under different category taxonomies). Reviewer: judge whether an NWCG assignment briefing demonstrates receiving command's geospatial product priorities.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "cd9dd954ae80e53e",
+   "relation": "subsumes",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs FELB#2 \"participate in briefing and obtain objectives AND INTENT from supervisor\": same obtain-initial-briefing act; command product priorities are the objectives a geospatial lead is briefed on, and the NWCG task additionally requires leader's intent (rule 2; tier-2 precedent: the objectives-and-intent text subsumes the plain briefing text). NWCG side subsumes.",
+   "subsumer_normalized_text": "participate in briefing and obtain objectives and intent from supervisor",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "e97bcee301f85b60",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#1 \"OBTAIN AND REVIEW the firing/burn plan and ignition sequence\" (a receiving/consumer task on assuming the role) vs DIVS#32 \"prepare for and conduct burnout/ignition operations\": authoring, directing, implementing, evaluating, or auditing the plan is a different action level or object from obtaining and reviewing it before operating (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "99a46c277a5eb7a4",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs SITL#2 \"obtain initial briefing and information from Planning Section Chief\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "cb5b8fe7ac852855",
+   "relation": "subsumes",
+   "note": "UAIS#14 \"participate in the after-action review\" vs COML/FACL/FDUL/GSUL/SITL/SPUL \"participate in functional area briefings AND CONDUCT unit AARs\": the NWCG task is conjunctive - it requires AAR participation (or conduct, which entails participation) PLUS briefings/debriefing - so completing it satisfies the NTFT task but not vice versa (rule 2; tier-2 precedent: conjunctive briefing-and-AAR texts subsume the plain AAR text). NWCG side subsumes.",
+   "subsumer_normalized_text": "participate in functional area briefings and conduct unit after action reviews (aar)",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "220a6d9c3d6cdab8",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"OBTAIN the mission objective and briefing\" (receiving) vs PSC3#44 \"identify who needs to attend operational period briefings\": giving, preparing, scheduling, or organizing briefings - or developing the mission itself - is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "e26f36ce434a74e7",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"OBTAIN the mission objective and briefing\" (receiving) vs RAMP#12 \"participate in and/or conduct operational briefings\": giving, preparing, scheduling, or organizing briefings - or developing the mission itself - is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "7fca23245c0ab16d",
+   "relation": "related_not_equivalent",
+   "note": "CFMD#4 \"validate output against observed fire progression and quantify error\" vs RXMG#50 \"identify the impacts of multiple prescribed fires\": different object (model validation vs program-level impact identification) (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "5bb2c926d846f465",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"OBTAIN the mission objective and briefing\" (receiving) vs UASM#11 \"develop and implement the mission based on operational and data objectives\": giving, preparing, scheduling, or organizing briefings - or developing the mission itself - is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "b3ef479c12168f41",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs ICT3#37 \"obtain and monitor weather and environmental factors\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "c971971ce1cd19e3",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#4 \"apply SAFETY-CRITICAL SOFTWARE PRACTICES\" (engineering discipline for autonomy code) vs SOFC#27 \"develop a safety action plan\": incident safety procedures, plans, and risk management are a different object from software safety practices; shared \"safety\" noun only (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "b3f717e58e75e774",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#1 \"obtain the REQUIREMENT and SAFETY CONSTRAINTS\" (the software requirement and its safety envelope on assuming the role) vs HEQB/HMGB#63 \"identify and establish safety zones for equipment\": safety equipment, safety zones, safety plans, or procedural compliance are different objects and actions (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "39a40280c5dc0af2",
+   "relation": "equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs ACAC#2 \"obtain initial briefings from Assistant Area Commanders (Logistics and Planning) on expectations, concerns and constraints\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; \"command product priorities\" names the content a geospatial lead receives in that briefing, and the NWCG briefer or stated content reflects org-chart placement, not a different act (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Rule 6 not triggered (same onboarding step under different category taxonomies). Reviewer: judge whether an NWCG assignment briefing demonstrates receiving command's geospatial product priorities.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "705e3231a97e7a69",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"OBTAIN the mission objective and briefing\" (receiving) vs AOBD#7 \"assess organization and adjust structure to meet mission objectives\": giving, preparing, scheduling, or organizing briefings - or developing the mission itself - is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "a5921c0760ff2a5d",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#14 \"PARTICIPATE in the after-action review\" vs CORD/EDSP \"CONDUCT briefings and/or AARs\": the NWCG disjunction can be met by conducting briefings only (no AAR), and the NTFT task is participation, which never satisfies a conduct requirement (rules 1-2). Neither contains the other; related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "4b4db2858f94001d",
+   "relation": "equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs DIVS#2 \"obtain initial briefing from Branch Director, Operations Section Chief, or Incident Commander\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; \"command product priorities\" names the content a geospatial lead receives in that briefing, and the NWCG briefer or stated content reflects org-chart placement, not a different act (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Rule 6 not triggered (same onboarding step under different category taxonomies). Reviewer: judge whether an NWCG assignment briefing demonstrates receiving command's geospatial product priorities.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "c31d964509562f27",
+   "relation": "related_not_equivalent",
+   "note": "CFMD#4 \"VALIDATE output against observed progression\" vs LTAN#10 \"ASSESS long term fire spread and behavior\": assessing/predicting is a different action from validating a prediction after the fact (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "5bcaea74dba31524",
+   "relation": "related_not_equivalent",
+   "note": "CFMD#4 \"validate output ... quantify error\" vs FEMO/FOBS#15 \"monitor and record fire behavior data\": data collection vs validation of a model against that data (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "26041a7f6cb5d75f",
+   "relation": "equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs SITL#2 \"obtain initial briefing and information from Planning Section Chief\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; \"command product priorities\" names the content a geospatial lead receives in that briefing, and the NWCG briefer or stated content reflects org-chart placement, not a different act (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Rule 6 not triggered (same onboarding step under different category taxonomies). Reviewer: judge whether an NWCG assignment briefing demonstrates receiving command's geospatial product priorities.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "af7efc79fc6c52f0",
+   "relation": "subsumes",
+   "note": "UAIS#14 \"participate in the after-action review\" vs HEBM#27 \"participate in functional area briefings AND after actions reviews\": the NWCG task is conjunctive - it requires AAR participation (or conduct, which entails participation) PLUS briefings/debriefing - so completing it satisfies the NTFT task but not vice versa (rule 2; tier-2 precedent: conjunctive briefing-and-AAR texts subsume the plain AAR text). NWCG side subsumes.",
+   "subsumer_normalized_text": "participate in functional area briefings and after actions reviews (aar)",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "046d1fb3ec8c987e",
+   "relation": "related_not_equivalent",
+   "note": "CFMD#4 vs INVF#22 \"gather and record fire behavior observations relevant to fire origin and cause\": investigative observation gathering vs model validation (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "c7d58758ccc1fb75",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"obtain the mission OBJECTIVE and briefing\" (the initial assignment briefing on assuming the role) vs FWPT#20 \"attend briefings and meetings\": recurring attendance at operational-period or coordination briefings is a different object from receiving one's assignment briefing and mission objective (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "eeb3dfd62fe68fe0",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#1 \"OBTAIN AND REVIEW the firing/burn plan and ignition sequence\" (a receiving/consumer task on assuming the role) vs DIVS#33 \"direct a firing/ignition plan using aerial ignition resources\": authoring, directing, implementing, evaluating, or auditing the plan is a different action level or object from obtaining and reviewing it before operating (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "6fe53141787940de",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs ACDR#2 \"obtain initial briefing from Agency Administrator(s) on expectations, concerns, and constraints\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "ee572ff2c6020f88",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#4 \"apply SAFETY-CRITICAL SOFTWARE PRACTICES\" (engineering discipline for autonomy code) vs IRIN#32 \"follow established safety procedures\": incident safety procedures, plans, and risk management are a different object from software safety practices; shared \"safety\" noun only (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "49fa4f785bd13e9a",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs FAL3#23 \"receive a briefing, ask clarifying questions, and voice concerns related to SAW OPERATION specifications\": a saw-operation task briefing is a different object from the assignment briefing on command product priorities (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "2299a8665d8b2b70",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#4 \"ensure DATA SECURITY and accountability across the incident\" vs PIO3#40 \"prepare and disseminate information to incident personnel\": securing data vs disseminating public information (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "64ecf6be91e20f84",
+   "relation": "related_not_equivalent",
+   "note": "AIML#8 \"conduct the ignition briefing and integrate ignition into the incident air operations plan\" vs ACAC#17 \"provide an area aviation plan to incidents and interested parties\": conducting/directing the operation, oversight of the air operations section, area-level aviation planning, attending briefings, or ongoing resource communication is a different action level or object from giving the ignition briefing and planning its air-ops integration (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "6006b96407f1230a",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#2 \"establish DATA STANDARDS, projections, and versioning for the incident\" (geospatial data governance) vs DMOB/RESL#3 \"ensure incident objectives and performance standards are met\": information products, performance standards, objectives, or recommendations are different objects; shared \"standards/information\" wording only (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "79945f76c2d3f0a4",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"OBTAIN the mission objective and briefing\" (receiving) vs DIVS#16 \"provide subordinates tactical briefings\": giving, preparing, scheduling, or organizing briefings - or developing the mission itself - is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "fb9d7f9ef1b10f02",
+   "relation": "equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs INVF#6/INVL#4 \"obtain briefing from assignment supervisor\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; \"command product priorities\" names the content a geospatial lead receives in that briefing, and the NWCG briefer or stated content reflects org-chart placement, not a different act (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Rule 6 not triggered (same onboarding step under different category taxonomies). Reviewer: judge whether an NWCG assignment briefing demonstrates receiving command's geospatial product priorities.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "eb480c17bd51b9ca",
+   "relation": "related_not_equivalent",
+   "note": "RBFE#5 \"PERFORM maintenance and repair and apply safety LOCKOUT procedures\" (on a robotic platform) vs PETL/PETM \"ENSURE safety procedures are followed\": performer vs oversight, and lockout is a specific equipment procedure (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "311576abf3d0684b",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#3 \"develop a PERCEPTION OR PLANNING MODULE to the requirement\" (software) vs PETL#25 \"develop required plans\" (incident planning documents): \"planning\" is a homonym here - a planning module is autonomy software, not an incident plan (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "578cd3b722c90719",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#4 \"apply SAFETY-CRITICAL SOFTWARE PRACTICES\" (engineering discipline for autonomy code) vs ICT3#45 \"ensure safety considerations are integrated into all aspects of incident management\": incident safety procedures, plans, and risk management are a different object from software safety practices; shared \"safety\" noun only (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "09099be58d5b365d",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#7 \"complete VERIFICATION-AND-VALIDATION documentation\" (a software-engineering artifact demonstrating correct autonomy behavior before field reliance) vs RXB1#19 \"complete documentation as appropriate\": incident position documentation is a different object; completing an NWCG position's required paperwork does not demonstrate producing V&V documentation (rule 2; the tier-2 \"complete required documentation\" equivalences are within the same object). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "558eba2da3c481c5",
+   "relation": "equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs IRIN#6 \"obtain initial briefing from Situation Unit Leader or supervisor\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; \"command product priorities\" names the content a geospatial lead receives in that briefing, and the NWCG briefer or stated content reflects org-chart placement, not a different act (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Rule 6 not triggered (same onboarding step under different category taxonomies). Reviewer: judge whether an NWCG assignment briefing demonstrates receiving command's geospatial product priorities.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "39d2ce9de2017a6c",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs DIVS#2 \"obtain initial briefing from Branch Director, Operations Section Chief, or Incident Commander\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "44e75fb1c5c2ee78",
+   "relation": "subsumes",
+   "note": "UAIS#14 \"participate in the after-action review\" vs ATGS/COST/DIVS/DPRO/HLCO/IRIN \"participate in functional area briefings AND AARs\": the NWCG task is conjunctive - it requires AAR participation (or conduct, which entails participation) PLUS briefings/debriefing - so completing it satisfies the NTFT task but not vice versa (rule 2; tier-2 precedent: conjunctive briefing-and-AAR texts subsume the plain AAR text). NWCG side subsumes.",
+   "subsumer_normalized_text": "participate in functional area briefings and after action reviews (aar)",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "15c52fcfa29052fa",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"OBTAIN the mission objective and briefing\" (receiving) vs ATGS/HLCO#10 \"conduct a mission safety briefing for pilot\": giving, preparing, scheduling, or organizing briefings - or developing the mission itself - is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "f15d7e27413f46ad",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs DECK/FEMO/FOBS/MXMS/RTCM \"obtain initial briefing from assignment supervisor\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "68b649f2a6fce6c6",
+   "relation": "subsumes",
+   "note": "UAIS#14 \"PARTICIPATE in the after-action review\" vs AOBD/ASGS \"CONDUCT functional area briefings AND AAR\": conducting an AAR entails participating in one, never the reverse (rules 1-2; tier-2 precedent \"conduct AARs\" subsumes \"conduct and/or participate\"). The NWCG task subsumes the NTFT task; no credit flows from participation to conducting.",
+   "subsumer_normalized_text": "conduct functional area briefings and after action review (aar)",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "4ef1eb3d222a5287",
+   "relation": "related_not_equivalent",
+   "note": "RSEN#9 \"BRIEF command on PRODUCT capabilities and limitations\" vs HEQB/HMGB#55 \"identify limitations of EQUIPMENT and operator capabilities prior to use\": briefing command on remote-sensing products vs identifying heavy-equipment limits before use (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "4c3e78470ff7b7e7",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#11 \"BRIEF ground firing crews on UAS ignition timing, pattern, and abort signals\" vs UASP#18 \"EXECUTE UAS operations ... per FAA/interagency policy and PMS 515\": briefing ground crews is a specific communication act; executing UAS operations is the flight operation itself (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "4e79fe8fb9ea141d",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs ICCI#10 \"obtain initial briefing from current Incident Commander\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "8b4cd33969ee0686",
+   "relation": "related_not_equivalent",
+   "note": "CFMD#4 \"validate output against observed fire progression and quantify error/uncertainty\" vs SOPL#15 \"evaluate short- and long-term fire behavior predictions ... and interpret results to support decision making\": SOPL evaluates and interprets predictions for decisions; CFMD validates its own model against observation with error quantification. Overlapping nouns, different act (interpretation for decision support vs quantitative validation) (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "2b99e837c4755388",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#2 \"verify PLATFORM/AUTONOMY readiness and complete pre-mission checks\" (operator-level technical checks on the autonomous platform and its software stack) vs UASM#6 \"assemble and validate readiness of the CREW, equipment, vehicles, and aircraft\" (supervisory readiness validation of a UAS module): validating a module's crew and aircraft does not demonstrate autonomy-stack pre-mission checks, and operating a platform is not supervising people (rules 1-2; F2 caution). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "c222e428032934ad",
+   "relation": "equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs ACDR#2 \"obtain initial briefing from Agency Administrator(s) on expectations, concerns, and constraints\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; \"command product priorities\" names the content a geospatial lead receives in that briefing, and the NWCG briefer or stated content reflects org-chart placement, not a different act (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Rule 6 not triggered (same onboarding step under different category taxonomies). Reviewer: judge whether an NWCG assignment briefing demonstrates receiving command's geospatial product priorities.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "2a6439ab0f619171",
+   "relation": "related_not_equivalent",
+   "note": "SNTK#2 \"verify tools, hardware, and communications equipment\" (checking one's own kit on assuming the role) vs SOFC#55 \"ENSURE tools and equipment are inspected and operations are conducted in a safe manner\": performer check vs safety-officer oversight (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "da044c340a0d888f",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#1 \"OBTAIN AND REVIEW the firing/burn plan and ignition sequence\" (a receiving/consumer task on assuming the role) vs RXB1#17 \"conduct pre-ignition briefing\": authoring, directing, implementing, evaluating, or auditing the plan is a different action level or object from obtaining and reviewing it before operating (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "c4fc4a9a9b5d979e",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"obtain the mission OBJECTIVE and briefing\" (the initial assignment briefing on assuming the role) vs PIO3/PIOC \"participate in briefings and meetings as assigned\": recurring attendance at operational-period or coordination briefings is a different object from receiving one's assignment briefing and mission objective (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "d1c249f7c1cea2df",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"OBTAIN the mission objective and briefing\" (receiving) vs SEMG#7 \"conduct daily briefing with all contract and government personnel\": giving, preparing, scheduling, or organizing briefings - or developing the mission itself - is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "1ddd508d994727ca",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"obtain the mission OBJECTIVE and briefing\" (the initial assignment briefing on assuming the role) vs TNSP#12 \"attend operational period briefings and present program status\": recurring attendance at operational-period or coordination briefings is a different object from receiving one's assignment briefing and mission objective (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "83cb50f2079debb7",
+   "relation": "equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs COML/FACL/FDUL/GSUL/SPUL#4 \"obtain initial briefing from Logistics Section Chief/supervisor\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; \"command product priorities\" names the content a geospatial lead receives in that briefing, and the NWCG briefer or stated content reflects org-chart placement, not a different act (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Rule 6 not triggered (same onboarding step under different category taxonomies). Reviewer: judge whether an NWCG assignment briefing demonstrates receiving command's geospatial product priorities.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "d6cd8a998967154f",
+   "relation": "equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs SECM#7 \"obtain initial briefing from Logistics Section Chief/ supervisor\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; \"command product priorities\" names the content a geospatial lead receives in that briefing, and the NWCG briefer or stated content reflects org-chart placement, not a different act (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Rule 6 not triggered (same onboarding step under different category taxonomies). Reviewer: judge whether an NWCG assignment briefing demonstrates receiving command's geospatial product priorities.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "1b2a6a437bba0266",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs FBAN#9 \"create fire behavior forecasts\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "679f8c15f16a73c3",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"obtain the mission OBJECTIVE and briefing\" (the initial assignment briefing on assuming the role) vs COMT#9 \"participate in briefings and meetings\": recurring attendance at operational-period or coordination briefings is a different object from receiving one's assignment briefing and mission objective (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "4edae88bf21cfe64",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#2 \"establish DATA STANDARDS, projections, and versioning for the incident\" (geospatial data governance) vs PIO3#40 \"prepare and disseminate information to incident personnel\": information products, performance standards, objectives, or recommendations are different objects; shared \"standards/information\" wording only (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "373198b7e6df26b9",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#2 \"establish DATA STANDARDS, projections, and versioning for the incident\" (geospatial data governance) vs SITL#28 \"evaluate available information and make recommendations\": information products, performance standards, objectives, or recommendations are different objects; shared \"standards/information\" wording only (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "28fe3a5436318bd9",
+   "relation": "subsumes",
+   "note": "AIML#8 \"conduct the ignition briefing AND INTEGRATE IGNITION INTO THE INCIDENT AIR OPERATIONS PLAN\" vs HEBM#33 \"participate in air operations planning\": integrating the ignition element into the air operations plan is participation in air operations planning, plus the briefing (rule 2). NTFT side subsumes; a helibase manager's planning participation does not demonstrate the ignition integration or briefing.",
+   "subsumer_normalized_text": "conduct the ignition briefing and integrate ignition into the incident air operations plan",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "82042624447d16a3",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command PRODUCT PRIORITIES\" (the initial assignment briefing) vs RAMP#12 \"participate in and/or conduct operational briefings\": recurring attendance at operational-period briefings is a different object from receiving one's assignment briefing and product priorities (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "581e58d1af513867",
+   "relation": "related_not_equivalent",
+   "note": "FDSO#6 \"execute the ESCALATION AND DISSEMINATION WORKFLOW for confirmed detections to dispatch/command\" vs EDSP#3 \"establish expanded dispatch operations\": a detection-system escalation workflow is a specific object; general dispatch communication, administration, or standing up expanded dispatch is a different act (rules 1-2); shared \"dispatch\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "755bce31db833b6e",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"OBTAIN the mission objective and briefing\" (receiving) vs BCMG/COML/FACL/FDUL/GSUL/SPUL \"prepare information for briefings and meetings\": giving, preparing, scheduling, or organizing briefings - or developing the mission itself - is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "0590abcca009da9d",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs FBAN/LTAN#12 \"monitor fire behavior to validate projections\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "640bcfaab8c0b892",
+   "relation": "subsumes",
+   "note": "UAIS#14 \"PARTICIPATE in the after-action review\" vs ICT4#23 \"CONDUCT AARs using the IRPG\": conducting an AAR entails participating in one, never the reverse (rules 1-2; tier-2 precedent \"conduct AARs\" subsumes \"conduct and/or participate\"). The NWCG task subsumes the NTFT task; no credit flows from participation to conducting.",
+   "subsumer_normalized_text": "conduct after action reviews (aar) using the irpg",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "89748ea8f505a39b",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#1 \"obtain the REQUIREMENT and SAFETY CONSTRAINTS\" (the software requirement and its safety envelope on assuming the role) vs ICT4#42 \"ensure safety information is included in plan of action\": safety equipment, safety zones, safety plans, or procedural compliance are different objects and actions (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "01e825d512056fdc",
+   "relation": "related_not_equivalent",
+   "note": "FDSO#1 \"obtain the PLATFORM briefing and area of responsibility\" (a technical briefing on the detection platform and coverage area on assuming the role) vs ICCI#28 \"participate in briefings\": recurring participation in, or conduct of, incident briefings is a different object and, for conduct, a different action level (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "f9205c047d805f90",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 \"OBTAIN the briefing and command product priorities\" (receiving) vs DIVS#16 \"provide subordinates tactical briefings\": giving, preparing, scheduling, or documenting briefings is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "bc3a436281f0dd05",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#7 \"complete VERIFICATION-AND-VALIDATION documentation\" (a software-engineering artifact demonstrating correct autonomy behavior before field reliance) vs SOPL#13 \"ensure required documentation is completed, maintained and approved\": incident position documentation is a different object; completing an NWCG position's required paperwork does not demonstrate producing V&V documentation (rule 2; the tier-2 \"complete required documentation\" equivalences are within the same object). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "1b1306066b80cbfa",
+   "relation": "related_not_equivalent",
+   "note": "AIML#8 \"conduct the ignition briefing and integrate ignition into the incident air operations plan\" vs DIVS#32 \"prepare for and conduct burnout/ignition operations\": conducting/directing the operation, oversight of the air operations section, area-level aviation planning, attending briefings, or ongoing resource communication is a different action level or object from giving the ignition briefing and planning its air-ops integration (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "d347cc3c8eb471d5",
+   "relation": "related_not_equivalent",
+   "note": "SNTK#2 \"verify tools, hardware, and communications equipment\" (own kit) vs COMT#19 \"test components of communications equipment to ensure the INCIDENT'S SYSTEMS are operational\": checking personal equipment vs testing the incident communications system; each has scope the other lacks (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "d18f7f338cc86cce",
+   "relation": "subsumes",
+   "note": "UAIS#14 \"participate in the after-action review\" vs FAL3#25 \"participate in debriefing, AARs, AND information sharing\": the NWCG task is conjunctive - it requires AAR participation (or conduct, which entails participation) PLUS briefings/debriefing - so completing it satisfies the NTFT task but not vice versa (rule 2; tier-2 precedent: conjunctive briefing-and-AAR texts subsume the plain AAR text). NWCG side subsumes.",
+   "subsumer_normalized_text": "participate in debriefing, after action reviews (aar), and information sharing",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "184ae41285624356",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs RXMG#50 \"identify the impacts of multiple prescribed fires\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "3b3952c3cc8521f0",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#2 \"derive and validate software REQUIREMENTS with operational SMEs\" vs HEBM#2 \"assess personnel qualifications and aircraft capabilities\": validating a requirements specification with end users is a different act and object from validating personnel/equipment readiness or organizational compliance; shared \"validate/requirements\" wording only (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "13e2998937a097d9",
+   "relation": "related_not_equivalent",
+   "note": "RSEN#7 \"interpret IMAGERY for fuels condition, burn severity, or active perimeter\" vs INVF#29 \"identify wildland fire burn pattern macro and micro indicators\" (on-scene origin-and-cause investigation): different object and method (rule 2); shared \"burn\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "584244b43e44df60",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#8 \"REPORT mission progress and debrief outcomes\" (giving the debrief) vs RXMG#22 \"OBTAIN status debriefings from command personnel\" (receiving them): opposite directions of the same exchange (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "31f098106cfe6aef",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#7 \"SET AND ADJUST the DISPENSING RATE to the firing plan and holding capacity\" (operating the aerial ignition device) vs FIRB#6 \"DETERMINE the Firing Plan\": device operation under a plan vs authoring the plan (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "53db5cb2b3841067",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"OBTAIN the mission objective and briefing\" (receiving) vs OSCC#26 \"present effective operational period briefing(s)\": giving, preparing, scheduling, or organizing briefings - or developing the mission itself - is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "fce14d7c9f5270c5",
+   "relation": "related_not_equivalent",
+   "note": "AIML#9 \"lead the AFTER-ACTION REVIEW and document outcomes against the plan\" vs ICT4#28 \"develop a plan of action\": review of outcomes vs authoring the plan (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "3758de853f1e6070",
+   "relation": "related_not_equivalent",
+   "note": "FDSO#1 \"obtain the PLATFORM briefing and area of responsibility\" (a technical briefing on the detection platform and coverage area on assuming the role) vs SOPL#10 \"participate in briefings as necessary\": recurring participation in, or conduct of, incident briefings is a different object and, for conduct, a different action level (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "b6ee248449ce97a0",
+   "relation": "related_not_equivalent",
+   "note": "AIML#8 \"conduct the ignition briefing and integrate ignition into the incident air operations plan\" vs UASP#8 \"attend incident briefings, coordinate with other aviation units, and obtain IAPs\": conducting/directing the operation, oversight of the air operations section, area-level aviation planning, attending briefings, or ongoing resource communication is a different action level or object from giving the ignition briefing and planning its air-ops integration (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "b1baf9cb5417e479",
+   "relation": "equivalent",
+   "note": "RSEN#1 \"obtain the product requirement and briefing from the Situation Unit / command\" vs ORDM#5/RCDM#6 \"obtain initial briefing from Supply Unit Leader or immediate supervisor\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's unit leader (for DPRO/IRIN literally the same briefer, the Situation Unit Leader); \"product requirement\" names the briefing content a remote-sensing specialist receives (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Reviewer: judge whether an NWCG unit briefing demonstrates receiving a remote-sensing product requirement.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "c77751b073da8317",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"obtain the mission OBJECTIVE and briefing\" (the initial assignment briefing on assuming the role) vs ACLC#9 \"participate in briefing with Agency Administrator(s)\": recurring attendance at operational-period or coordination briefings is a different object from receiving one's assignment briefing and mission objective (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "3aa6d92dcaf5ecb7",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"obtain the mission OBJECTIVE and briefing\" (the initial assignment briefing on assuming the role) vs SOFF#4 \"attend briefings and review the operational plan\": recurring attendance at operational-period or coordination briefings is a different object from receiving one's assignment briefing and mission objective (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "4877e64bfb8a9f32",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"OBTAIN the mission objective and briefing\" (receiving) vs ASGS#24 \"give and receive briefing to/from subordinates\": giving, preparing, scheduling, or organizing briefings - or developing the mission itself - is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "3688129ae24b5feb",
+   "relation": "related_not_equivalent",
+   "note": "AIML#8 \"conduct the ignition briefing and integrate ignition into the incident air operations plan\" vs OSCC#8 \"ensure air operations section meets operational needs\": conducting/directing the operation, oversight of the air operations section, area-level aviation planning, attending briefings, or ongoing resource communication is a different action level or object from giving the ignition briefing and planning its air-ops integration (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "a02226528dccc39c",
+   "relation": "related_not_equivalent",
+   "note": "AIML#4 \"brief and supervise MIXED CREWED/UNCREWED ignition resources\" vs DIVS#32 \"prepare for and conduct burnout/ignition operations\": a Division Supervisor conducting burnout operations supervises ground and conventional aerial resources; the NTFT competence is supervising uncrewed ignition assets alongside crewed ones, which conventional burnout conduct does not demonstrate (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "c98b42f6f5e93def",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 \"OBTAIN the briefing and command product priorities\" (receiving) vs PSCC#20 \"schedule and conduct operational period briefings\": giving, preparing, scheduling, or documenting briefings is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "2deadfa144fecd98",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#12 \"DECONFLICT with crewed aviation and other UAS AND REPORT PROGRESS to FIRB / burn boss\" vs UASP#18 \"execute UAS operations ... per FAA/interagency policy and PMS 515\": policy-compliant UAS operation includes airspace deconfliction, but not the ignition-specific progress reporting to the firing boss; neither side contains the other (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "89d851b49962ab20",
+   "relation": "related_not_equivalent",
+   "note": "AIML#7 \"RECOGNIZE trigger points and EXECUTE the contingency/abort plan\" vs ICT3#39 \"EVALUATE trigger points\": establishing/ensuring/evaluating trigger points is a planning or oversight action; recognizing one in the field and executing the abort is execution (rules 1-2; consistent with the tier-2 verdict AIML#7 vs STPS#21). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "ff41cfe3da605d0b",
+   "relation": "related_not_equivalent",
+   "note": "AIML#9 \"lead the after-action review and document outcomes against the plan\" vs SOFC#41 \"review and approve relevant plans\": a retrospective AAR vs pre-operation plan approval (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "da9c40074a7736eb",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"OBTAIN the mission objective and briefing\" (receiving) vs ACDR#15 \"prepare and facilitate area command briefings\": giving, preparing, scheduling, or organizing briefings - or developing the mission itself - is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "bc42afc4d1715b2b",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command PRODUCT PRIORITIES\" (the initial assignment briefing) vs ENGB#17 \"participate in operational briefings\": recurring attendance at operational-period briefings is a different object from receiving one's assignment briefing and product priorities (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "6da6e2ef8c69551d",
+   "relation": "subsumes",
+   "note": "GEOL#8 \"CONDUCT the after-action review AND ENSURE DATA DISPOSITION\" vs RXB1#18 \"conduct an AAR\": same conduct-the-AAR act; the NTFT task adds the geospatial data-disposition requirement (rule 2). NTFT side subsumes; a burn boss's AAR does not demonstrate data disposition, so no credit flows RXB1 -> GEOL.",
+   "subsumer_normalized_text": "conduct the after-action review and ensure data disposition",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "8b90ab63ba5596ce",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#3 \"SUPERVISE and task GISS and RSEN personnel\" vs GISS#59 \"PERFORM assigned GISS duties ... communicate with GISS lead or SITL if deadlines cannot be met\": supervisor vs performer of the same work (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "599c0573190d463b",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"OBTAIN the mission objective and briefing\" (receiving) vs PSCC#20 \"schedule and conduct operational period briefings\": giving, preparing, scheduling, or organizing briefings - or developing the mission itself - is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "0efc317811b9e3ea",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#1 \"OBTAIN AND REVIEW the firing/burn plan and ignition sequence\" (a receiving/consumer task on assuming the role) vs STCR/STEN/STEQ/TFLD#39 \"prepare for and direct a firing operation\": authoring, directing, implementing, evaluating, or auditing the plan is a different action level or object from obtaining and reviewing it before operating (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "b00573ee62dcaaa6",
+   "relation": "related_not_equivalent",
+   "note": "RSEN#7 \"interpret IMAGERY for fuels condition...\" vs PETM#13 \"evaluate fuels and hazards\" (field evaluation for prevention/education): different method and object (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "4884fed1bf740795",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#4 \"apply SAFETY-CRITICAL SOFTWARE PRACTICES\" (engineering discipline for autonomy code) vs CRWB#32 \"provide input into the risk management process\": incident safety procedures, plans, and risk management are a different object from software safety practices; shared \"safety\" noun only (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "ef90ba7a61b4d35a",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#2 \"establish DATA STANDARDS, projections, and versioning for the incident\" (geospatial data governance) vs ICT3#43 \"validate and revise incident objectives\": information products, performance standards, objectives, or recommendations are different objects; shared \"standards/information\" wording only (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "0829edfde2e7f2ed",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#2 \"verify platform/autonomy readiness and complete pre-mission checks\" vs DOCL/EDSD/ENGB/EQTR/INCM/PTRC \"ensure individual readiness\" (the person's own fitness, gear, and paperwork): different object (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "da94de916261d32b",
+   "relation": "related_not_equivalent",
+   "note": "SNTK#2 \"verify tools, hardware, and communications equipment\" vs RCDM#33 \"ENSURE tools and equipment are serviceable\": performer verification vs oversight of serviceability (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "74adaa059515a1dc",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs INVF#32 \"track wildfire spread using burn pattern indicators\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "ba8d3aa600e734b3",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs HRSP#13 \"obtain briefing from immediate supervisor and Incident Commander within the first operational period\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "efadac680cc70e7a",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"OBTAIN the mission objective and briefing\" (receiving) vs LOFR#33 \"conduct briefings with assisting, cooperating and non-governmental agencies\": giving, preparing, scheduling, or organizing briefings - or developing the mission itself - is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "54dab50a9282ca35",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" (one's own assignment briefing) vs ACDR#3 \"obtain initial briefings from EACH INCIDENT COMMANDER on current incident status\": an Area Commander collecting status from subordinate incidents is a different object (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "5fff5644fdb29a13",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs FEMO/FOBS#21 \"document first order fire effects\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "7acf551457bc6569",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs COMT#5 \"obtain initial briefing from the Communications Unit Leader or immediate supervisor\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "daedee5461710838",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command PRODUCT PRIORITIES\" (the initial assignment briefing) vs ICCI#28 \"participate in briefings\": recurring attendance at operational-period briefings is a different object from receiving one's assignment briefing and product priorities (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "22b3bcdd17831bde",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs RXB2#32 \"coordinate the monitoring of smoke impacts and adjust accordingly\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "0ced1691fa0e83d7",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#4 \"ensure data security and accountability\" vs SCKN#6 \"continually gather critical information relevant to the incident\": governance of data vs information gathering (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "607a2b91d42b99fb",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#7 \"set and adjust the dispensing rate to the firing plan\" (operating the device) vs FIRB#8 \"IMPLEMENT the Firing Plan\" (the Firing Boss directing the firing operation and its resources): operating an ignition platform is not directing the firing operation, even though both act under the same plan (rule 1; F2 caution). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "fc8c8c2de27590cf",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"OBTAIN the mission objective and briefing\" (receiving) vs CORD/EDSP#11 \"conduct daily briefings\": giving, preparing, scheduling, or organizing briefings - or developing the mission itself - is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "160ed2a1f3a51248",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command PRODUCT PRIORITIES\" (the initial assignment briefing) vs STCR/STEN/STEQ/TFLD#25 \"attend operational briefings and meetings as directed\": recurring attendance at operational-period briefings is a different object from receiving one's assignment briefing and product priorities (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "4192d36e400c1a68",
+   "relation": "related_not_equivalent",
+   "note": "CFMD#4 vs FEMO/FOBS#17 \"recognize and report atmospheric characteristics that influence fire behavior\": observation/reporting vs model validation (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "b0fea411701efeff",
+   "relation": "subsumes",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs ATGS/HLCO#9 \"obtain a mission briefing for an extended attack incident AND COMPILE a cockpit kit\": same obtain-the-mission-briefing act (both aviation mission briefings); the NWCG task adds a recording/compilation step (rule 2). NWCG side subsumes.",
+   "subsumer_normalized_text": "obtain a mission briefing for an extended attack incident and compile an appropriate cockpit kit of pertinent documents and identify the key components",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "996d6e6d3fc66aa7",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command PRODUCT PRIORITIES\" (the initial assignment briefing) vs SOFF#4 \"attend briefings and review the operational plan\": recurring attendance at operational-period briefings is a different object from receiving one's assignment briefing and product priorities (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "fef8dfcb15370be2",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 \"OBTAIN the briefing and command product priorities\" (receiving) vs LOFR#33 \"conduct briefings with assisting, cooperating and non-governmental agencies\": giving, preparing, scheduling, or documenting briefings is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "a36546a77c49870e",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#1 \"obtain the REQUIREMENT and SAFETY CONSTRAINTS\" (the software requirement and its safety envelope on assuming the role) vs PETL/PETM \"ensure safety procedures are followed\": safety equipment, safety zones, safety plans, or procedural compliance are different objects and actions (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "65340893c3ab1d33",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command PRODUCT PRIORITIES\" (the initial assignment briefing) vs SOPL#10 \"participate in briefings as necessary\": recurring attendance at operational-period briefings is a different object from receiving one's assignment briefing and product priorities (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "efb36b28749cc929",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command PRODUCT PRIORITIES\" (the initial assignment briefing) vs ATIM/FAL1/HEQB/HMGB/STAM \"attend briefings and meetings as directed\": recurring attendance at operational-period briefings is a different object from receiving one's assignment briefing and product priorities (rules 2, 5). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "7a142c3550489162",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs LSCC#5 \"obtain initial briefing from Agency Administrator and/or outgoing IC\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "d8585ef7204a67ad",
+   "relation": "related_not_equivalent",
+   "note": "AIML#8 \"conduct the ignition briefing and integrate ignition into the incident air operations plan\" vs DIVS#33 \"direct a firing/ignition plan using aerial ignition resources\": conducting/directing the operation, oversight of the air operations section, area-level aviation planning, attending briefings, or ongoing resource communication is a different action level or object from giving the ignition briefing and planning its air-ops integration (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "9a50cce0ad765f55",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 \"OBTAIN the briefing and command product priorities\" (receiving) vs BCMG/COML/FACL/FDUL/GSUL/SPUL \"prepare information for briefings and meetings\": giving, preparing, scheduling, or documenting briefings is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "bb1f6756c88424d0",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 \"OBTAIN the briefing and command product priorities\" (receiving) vs CORD/EDSP#11 \"conduct daily briefings\": giving, preparing, scheduling, or documenting briefings is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "0ee4f43eb336ca37",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#1 \"OBTAIN AND REVIEW the firing/burn plan and ignition sequence\" (a receiving/consumer task on assuming the role) vs RXB1#30 \"review the Prescribed Fire Plan for completeness\": authoring, directing, implementing, evaluating, or auditing the plan is a different action level or object from obtaining and reviewing it before operating (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "bd11664874e0bbe8",
+   "relation": "subsumes",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs MXMS/RTCM#18 \"receive briefing from MXMS AND ENSURE assignments and expectations for the operational period are understood\": same receive-the-briefing act; the NWCG task adds an explicit confirmation-of-understanding step (rule 2). NWCG side subsumes.",
+   "subsumer_normalized_text": "receive briefing from mxms and ensure assignments and expectations for the operational period are understood",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "f2b52e0962535aad",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs BCMG#5 \"obtain initial briefing from Facilities Unit Leader or immediate supervisor\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "284636777385f0cc",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#2 \"establish DATA STANDARDS, projections, and versioning for the incident\" (geospatial data governance) vs COMP/EQPM/RCDM \"evaluate available information and make recommendations to support incident\": information products, performance standards, objectives, or recommendations are different objects; shared \"standards/information\" wording only (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "16d10c629bbd11ac",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#4 \"apply SAFETY-CRITICAL SOFTWARE PRACTICES\" (engineering discipline for autonomy code) vs ICT4#42 \"ensure safety information is included in plan of action\": incident safety procedures, plans, and risk management are a different object from software safety practices; shared \"safety\" noun only (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "087aaa48a644927d",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"OBTAIN the mission objective and briefing\" (receiving) vs ACPC#6 \"prepare and facilitate area command briefings\": giving, preparing, scheduling, or organizing briefings - or developing the mission itself - is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "3083b29bfdfca723",
+   "relation": "equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs COMT#5 \"obtain initial briefing from the Communications Unit Leader or immediate supervisor\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; \"command product priorities\" names the content a geospatial lead receives in that briefing, and the NWCG briefer or stated content reflects org-chart placement, not a different act (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Rule 6 not triggered (same onboarding step under different category taxonomies). Reviewer: judge whether an NWCG assignment briefing demonstrates receiving command's geospatial product priorities.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "fd2d94ae73872cef",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#2 \"verify PLATFORM/AUTONOMY readiness and complete pre-mission checks\" vs ENGB/FFT1/FIRB \"assemble and validate readiness of crew, equipment, and vehicles\": ground-crew readiness validation does not cover an autonomous platform's software/pre-mission checks; different object and action level (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "0eafc1e1931f8519",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#1 \"OBTAIN AND REVIEW the firing/burn plan and ignition sequence\" (a receiving/consumer task on assuming the role) vs RXMG#36 \"collect and summarize post-burn fire effects data\": authoring, directing, implementing, evaluating, or auditing the plan is a different action level or object from obtaining and reviewing it before operating (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "947ae07f8137ab60",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 \"OBTAIN the mission objective and briefing\" (receiving) vs RXB2#23 \"conduct organizational briefing at the beginning of each operational period\": giving, preparing, scheduling, or organizing briefings - or developing the mission itself - is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "f6f537fb163b7a2c",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs LTAN#10 \"assess long term fire spread and behavior\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "fcd4235b32e63cf3",
+   "relation": "related_not_equivalent",
+   "note": "FDSO#1 \"obtain the PLATFORM briefing and area of responsibility\" (a technical briefing on the detection platform and coverage area on assuming the role) vs CORD/EDSP#11 \"conduct daily briefings\": recurring participation in, or conduct of, incident briefings is a different object and, for conduct, a different action level (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "9ecae43ef3518035",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 \"OBTAIN the briefing and command product priorities\" (receiving) vs PIOC#11 \"prepare briefing materials for Incident Commander and Agency Administrator\": giving, preparing, scheduling, or documenting briefings is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "924a2e04193e44c1",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 \"OBTAIN the briefing and command product priorities\" (receiving) vs ACAC/ACDR/ACLC/ACPC \"maintain a log of strategic decisions and significant events\": giving, preparing, scheduling, or documenting briefings is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "8efbe9c0ea125d01",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 \"OBTAIN the briefing and command product priorities\" (receiving) vs RXB2#23 \"conduct organizational briefing at the beginning of each operational period\": giving, preparing, scheduling, or documenting briefings is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "6e4482ba14bafe1f",
+   "relation": "related_not_equivalent",
+   "note": "AIML#4 \"brief and SUPERVISE mixed crewed/uncrewed ignition resources\" vs RXB1#25 \"COMMUNICATE operational activities among resources (ignition, holding, monitoring)\": communication among resources vs supervising uncrewed ignition assets (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "0efdeee1b1ded8a8",
+   "relation": "related_not_equivalent",
+   "note": "AIML#8 \"conduct the ignition briefing and integrate ignition into the incident air operations plan\" vs RXB1#25 \"communicate operational activities among resources (ignition, holding, monitoring)\": conducting/directing the operation, oversight of the air operations section, area-level aviation planning, attending briefings, or ongoing resource communication is a different action level or object from giving the ignition briefing and planning its air-ops integration (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "b73de606d43bd85c",
+   "relation": "related_not_equivalent",
+   "note": "RSEN#9 \"brief command on product capabilities and limitations\" vs SOF3#40 \"evaluate equipment capabilities for appropriate use\": briefing vs evaluating, products vs equipment (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "0709d9ea3c97fb61",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 \"OBTAIN the briefing and command product priorities\" (receiving) vs PSC3#44 \"identify who needs to attend operational period briefings\": giving, preparing, scheduling, or documenting briefings is a different action level from receiving one's assignment briefing (rule 1). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "1c79a08d15c3a194",
+   "relation": "related_not_equivalent",
+   "note": "RBFE#5 \"perform maintenance and repair and apply safety LOCKOUT procedures\" vs IRIN#32 \"follow established safety procedures\" (incident safety): a lockout/tagout procedure on robotic equipment is a different object from incident safety procedures, and the NTFT task also requires the maintenance work (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "cc2d13b3bf16f6dd",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs FBAN#7 \"use modeling programs to develop fire behavior outputs\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "8ff99604661c8ff9",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#1 \"OBTAIN AND REVIEW the firing/burn plan and ignition sequence\" (a receiving/consumer task on assuming the role) vs INVF#15 \"document and present common ignition sources at an arson scene\": authoring, directing, implementing, evaluating, or auditing the plan is a different action level or object from obtaining and reviewing it before operating (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "c2d3c93e779d5802",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs INVF#15 \"document and present common ignition sources at an arson scene\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "32f5150f0b02382a",
+   "relation": "related_not_equivalent",
+   "note": "SNTK#6 \"PERFORM preventive maintenance on field hardware\" vs ASGS#41 \"ENSURE maintenance requirements for aircraft and equipment are met\": performing maintenance vs ensuring it is done, and sensor hardware vs aircraft (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "7d6f2a7f487d0760",
+   "relation": "equivalent",
+   "note": "GEOL#1 \"obtain the briefing and command product priorities\" vs INBA#5 \"obtain initial briefing from Agency Administrator or designee\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; \"command product priorities\" names the content a geospatial lead receives in that briefing, and the NWCG briefer or stated content reflects org-chart placement, not a different act (rule 3; tier-2 precedent treats briefer alternatives and content qualifiers as phrasing). Rule 6 not triggered (same onboarding step under different category taxonomies). Reviewer: judge whether an NWCG assignment briefing demonstrates receiving command's geospatial product priorities.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "682693f81f2b1d70",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 \"ADJUST the UAS IGNITION RATE AND PATTERN in response to observed fire behavior\" (operating the ignition platform) vs FBAN#8 \"interpret and communicate fire behavior model outputs\": observing, documenting, forecasting, or analyzing fire behavior is a different action from operating an ignition device on the basis of it (rules 1-2); shared \"fire behavior\" noun only. Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "b5126a97290fc7a8",
+   "relation": "related_not_equivalent",
+   "note": "FDSO#1 \"obtain the PLATFORM briefing and area of responsibility\" (a technical briefing on the detection platform and coverage area on assuming the role) vs ACLC#9 \"participate in briefing with Agency Administrator(s)\": recurring participation in, or conduct of, incident briefings is a different object and, for conduct, a different action level (rules 1-2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "e9faa3f0754f4d6d",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs COML/FACL/FDUL/GSUL/SPUL#4 \"obtain initial briefing from Logistics Section Chief/supervisor\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "c1250de95dd050e0",
+   "relation": "equivalent",
+   "note": "ASOP#1 \"obtain the mission objective and briefing\" vs SECM#7 \"obtain initial briefing from Logistics Section Chief/ supervisor\": both are the assume-the-assignment behavior of obtaining the initial briefing from one's supervisor; an NWCG initial briefing conveys the assignment objective, and the named briefer (or stated briefing content) reflects org-chart placement, not a different act (rule 3; tier-2 precedent: briefer alternatives and content qualifiers are phrasing). NTFT category \"Assume position responsibilities\" vs NWCG \"Gather situational information\" frame the same onboarding step; rule 6 not triggered. Reviewer: the one judgement is whether an NWCG assignment briefing demonstrates obtaining an autonomous-systems MISSION objective.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "75590a76ed8876e5",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#2 \"derive and validate software REQUIREMENTS with operational SMEs\" vs RXB1#8 \"ensure compliance with organizational structure and reporting requirements in the Prescribed Fire Plan\": validating a requirements specification with end users is a different act and object from validating personnel/equipment readiness or organizational compliance; shared \"validate/requirements\" wording only (rule 2). Related only.",
+   "adjudicated_at": "2026-11-02",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-02, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "8c983a298432ff36",
+   "relation": "related_not_equivalent",
+   "note": "ASOP#1 obtains its own mission objective and briefing (one-time intake on assignment); COST#7 attends operational briefings as directed (recurring attendance). Different action and scope (rules 1, 3); matches the bridge precedent for 'participate in operational briefings'.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "5579b87326a07ef5",
+   "relation": "related_not_equivalent",
+   "note": "CFMD#4 validates model output against observed progression and quantifies error; FEMO#8 reports observed fire behavior through the period. Reporting observations is an input to validation, not the validation itself (rule 1 action differs; rule 3 object differs).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "558055e40d77a9bd",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 adjusts ignition rate/pattern (an ignition action); FOBS#11 reports atmospheric characteristics (an observation/reporting action). Shared fire-behavior theme only (rule 1 action differs, rule 3 object differs).",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "84724c192479b27e",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 adjusts ignition in response to fire behavior; FEMO#8 reports fire behavior through the period. Acting on observations vs reporting them (rule 1); same precedent as UAIS#9 vs 'gather and record fire behavior observations'.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "66c9bb11819e70be",
+   "relation": "subsumes",
+   "note": "RCDM#19 'conduct and/or participate in functional briefings and after action reviews' is satisfied by participating in AARs (and/or convention) but additionally requires functional briefings; UAIS#14 covers only AAR participation. Conjunctive briefing-and-AAR texts subsume plain AAR participation (rules 1-3; bridge precedent for 'participate in functional area briefings and after action reviews').",
+   "subsumer_normalized_text": "conduct and/or participate in functional briefings and after action reviews (aar)",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "292418b2068bac15",
+   "relation": "related_not_equivalent",
+   "note": "ASWE#4 applies safety-critical software engineering practices to autonomy code; COMP#16 ensures compliance with incident safety practices and procedures. Different object and scope (rule 3); same verdict as ASWE#4 vs 'ensure safety procedures are followed'.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "6b4f86d770f87bfc",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#1 obtains its own briefing and command product priorities on assignment; COST#7 attends operational briefings as directed. Intake vs recurring attendance (rules 1, 3); matches precedent for 'participate in operational briefings'.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "5b99f3dadfd6132c",
+   "relation": "equivalent",
+   "note": "Both obtain the initial briefing/product requirement from the Situation Unit or command on assignment. 'or other incident supervisor' and '/ command' are phrasing for the same briefing source (rule 4); same verdict as RSEN#1 vs 'obtain initial briefing from situation unit leader or supervisor'.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "6f4fa91200ec4671",
+   "relation": "related_not_equivalent",
+   "note": "UAIS#9 adjusts ignition in response to fire behavior; FEMO#7 reports weather and atmospheric characteristics. Acting vs reporting, different object (rules 1, 3); same as UAIS#9 vs FOBS#11.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "f67485e35533672b",
+   "relation": "related_not_equivalent",
+   "note": "RBFE#5 performs platform maintenance/repair with lockout procedures; COMP#16 ensures compliance with all incident safety practices. Different action and object (rules 1, 3); same verdict as RBFE#5 vs 'ensure safety procedures are followed'.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "556c26279a3adf2d",
+   "relation": "equivalent",
+   "note": "Both obtain the initial briefing from the assigning supervisor on assignment; the named source (SITL or other incident supervisor) and 'mission objective' are phrasing for the same intake briefing (rule 4). Same verdict as ASOP#1 vs 'obtain initial briefing from situation unit leader or supervisor'.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
+  },
+  {
+   "pair_key": "ef5a2d479d97a0bf",
+   "relation": "related_not_equivalent",
+   "note": "GEOL#2 establishes geospatial data standards, projections and versioning; ORDM#5 develops resource-ordering standards. Both set standards but for different objects (rule 3); related only.",
+   "adjudicated_at": "2026-11-03",
+   "adjudicator": "claude-fable-5.1 (session 2026-11-03, ntft-bridge, rubric specs/matching.spec.md)",
+   "bridge": "ntft"
   }
  ]
 }

@@ -100,7 +100,16 @@ def structure_enhanced(docx_path: str, pdf_path: str | None = None) -> dict:
         if i < len(section) and isinstance(section[i], Paragraph):
             text = section[i].text.strip()
             if text.startswith("Attaches to:"):
-                attaches_to = [t.strip() for t in text[len("Attaches to:") :].split("+") if t.strip()]
+                # "+" joins required anchors; "/" (e.g. CFMD "FBAN / LTAN")
+                # lists alternative anchors. Both become one entry per code
+                # so every value resolves to a positions.code (F2 AC-B4;
+                # schema.spec.md changelog 2026-11-02).
+                attaches_to = [
+                    t.strip()
+                    for part in text[len("Attaches to:") :].split("+")
+                    for t in part.split("/")
+                    if t.strip()
+                ]
                 i += 1
             elif text.startswith("No NWCG anchor"):
                 i += 1
