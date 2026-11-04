@@ -200,11 +200,25 @@ def test_ac_m4_no_unreviewed_confirmed_rows(real_conn):
     assert bad == 0
 
 
-def test_ac_m4_phase4_output_has_no_confirmed_rows_at_all(real_conn):
-    # Stronger, per the run instructions: Claude never promotes; the human does.
-    assert real_conn.execute(
-        "SELECT COUNT(*) FROM task_equivalences WHERE status='confirmed'"
-    ).fetchone()[0] == 0
+def test_ac_m4_every_confirmed_row_traces_to_a_human_decision(real_conn):
+    # Claude never promotes; the human does. Until the first review sheet was
+    # ingested (F2, 2026-11-04) this asserted zero confirmed rows; the durable
+    # invariant is that every confirmed row has human_reviewed_at AND a
+    # matching 'confirm' decision in data/confirmations.json.
+    confirmations = adjudicate.load_confirmations()
+    confirmed_keys = {k for k, v in confirmations.items() if v["decision"] == "confirm"}
+    rows = real_conn.execute(
+        """SELECT ta.normalized_text, tb.normalized_text, e.human_reviewed_at
+           FROM task_equivalences e
+           JOIN tasks ta ON ta.id = e.task_a_id JOIN tasks tb ON tb.id = e.task_b_id
+           WHERE e.status = 'confirmed'"""
+    ).fetchall()
+    assert rows, "expected the ingested review sheet to have produced confirmed rows"
+    for text_a, text_b, reviewed_at in rows:
+        pair_key = match.pair_key(text_a, text_b)
+        assert reviewed_at, f"{pair_key} confirmed without human_reviewed_at"
+        assert pair_key in confirmed_keys, f"{pair_key} confirmed with no human decision on file"
+        assert confirmations[pair_key]["human_reviewed_at"] == reviewed_at
 
 
 def test_ac_m4_confirmations_loader_requires_timestamp(tmp_path):
