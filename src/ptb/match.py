@@ -103,6 +103,15 @@ GROUNDED_SEED_PAIRS: list[tuple[str, str, str]] = [
 ]
 
 
+def library_version() -> str:
+    """Installed sentence-transformers version, read from package metadata so
+    that applying verdicts, ingesting a review sheet or exporting one never
+    imports torch (only candidate generation needs the model)."""
+    from importlib.metadata import version
+
+    return version("sentence-transformers")
+
+
 def method_string(bridge: str | None = None) -> str:
     """The task_equivalences.method value for tier-2/3 rows (AC-M5, AC-M6).
 
@@ -112,8 +121,6 @@ def method_string(bridge: str | None = None) -> str:
     "ntft-bridge; cosine>=<NTFT cut>" so the two layers are distinguishable
     in the table (AC-B7) without a schema change.
     """
-    import sentence_transformers
-
     if bridge is None:
         cut = f"cosine>={CANDIDATE_THRESHOLD:.2f}"
     elif bridge == "ntft":
@@ -122,7 +129,7 @@ def method_string(bridge: str | None = None) -> str:
         raise ValueError(f"unknown bridge {bridge!r}; known: {BRIDGES}")
     return (
         f"embedding+adjudication: {MODEL_NAME}@{MODEL_REVISION[:12]} "
-        f"(sentence-transformers {sentence_transformers.__version__}), "
+        f"(sentence-transformers {library_version()}), "
         f"{cut}, "
         f"claude rubric per specs/matching.spec.md"
     )
@@ -299,13 +306,12 @@ def candidates_to_json(candidates: list[Candidate], task_count: int, bridge: str
     """Serializable artifact. Deliberately timestamp-free: byte-stable on
     rerun over an unchanged corpus (AC-M6). A bridge artifact carries the
     same schema plus a top-level "bridge" tag and its own threshold."""
-    import sentence_transformers
 
     return {
         **({"bridge": bridge} if bridge else {}),
         "model": MODEL_NAME,
         "model_revision": MODEL_REVISION,
-        "sentence_transformers_version": sentence_transformers.__version__,
+        "sentence_transformers_version": library_version(),
         "threshold": CANDIDATE_THRESHOLD_NTFT if bridge == "ntft" else CANDIDATE_THRESHOLD,
         "distinct_tasks": task_count,
         "candidate_count": len(candidates),
