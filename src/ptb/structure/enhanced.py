@@ -66,6 +66,22 @@ def _find_page(verbatim_text: str, page_index: list[tuple[int, str]]) -> int:
     return 1
 
 
+def parse_attaches_to(text: str) -> tuple[list[str], list[list[str]]]:
+    """Parse an "Attaches to:" line. "+" joins anchors that are all required;
+    "/" lists alternatives for one anchor (CFMD "FBAN / LTAN"). Returns the
+    flat code list (every value resolves to a positions.code; F2 AC-B4) and
+    the alternative groups (schema.spec.md changelog 2026-11-04)."""
+    body = text.split(":", 1)[1] if ":" in text else text
+    flat: list[str] = []
+    groups: list[list[str]] = []
+    for part in body.split("+"):
+        codes = [t.strip() for t in part.split("/") if t.strip()]
+        flat.extend(codes)
+        if len(codes) > 1:
+            groups.append(codes)
+    return flat, groups
+
+
 def structure_enhanced(docx_path: str, pdf_path: str | None = None) -> dict:
     doc = Document(docx_path)
     blocks = list(_iter_block_items(doc))
@@ -96,20 +112,12 @@ def structure_enhanced(docx_path: str, pdf_path: str | None = None) -> dict:
         section = blocks[start_i + 1 : end_i]
 
         attaches_to: list[str] = []
+        attaches_to_alternatives: list[list[str]] = []
         i = 0
         if i < len(section) and isinstance(section[i], Paragraph):
             text = section[i].text.strip()
             if text.startswith("Attaches to:"):
-                # "+" joins required anchors; "/" (e.g. CFMD "FBAN / LTAN")
-                # lists alternative anchors. Both become one entry per code
-                # so every value resolves to a positions.code (F2 AC-B4;
-                # schema.spec.md changelog 2026-11-02).
-                attaches_to = [
-                    t.strip()
-                    for part in text[len("Attaches to:") :].split("+")
-                    for t in part.split("/")
-                    if t.strip()
-                ]
+                attaches_to, attaches_to_alternatives = parse_attaches_to(text)
                 i += 1
             elif text.startswith("No NWCG anchor"):
                 i += 1
@@ -175,6 +183,7 @@ def structure_enhanced(docx_path: str, pdf_path: str | None = None) -> dict:
                 "provisional_code": False,
                 "requirements_text": facts.get("Prerequisite"),
                 "attaches_to": attaches_to,
+                "attaches_to_alternatives": attaches_to_alternatives,
                 "extra_fields": {
                     "required_experience": facts.get("Required experience"),
                     "physical_fitness": facts.get("Physical fitness"),

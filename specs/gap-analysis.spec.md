@@ -52,6 +52,18 @@ A course/prerequisite requirement is **satisfied** when:
 5. **conferred:** position_implications grants it from a held qualification.
    Derivation: `conferred_by: <position>`.
 
+**Alternative groups** (schema.spec.md `position_requirements.alt_group`,
+2026-11-04): requirement rows of one position and kind that share a non-NULL
+`alt_group` are evaluated together. The group is **satisfied** as soon as any
+member is satisfied under rules 3–5, and is reported once, as that member
+(`satisfied_requirements` carries the member's value and derivation). An
+unsatisfied group is reported once in `gaps_requirements` with `value` = the
+members joined by " / " in source order (the source's own wording, e.g.
+"FBAN / LTAN") and `alternatives` = the member list; a row with no group has
+`alternatives: []`. Alternative groups contribute no prerequisite-chain
+edges for rule 4: holding the position proves one of the alternatives was
+held, not which, so neither is implied.
+
 Nothing satisfied under rules 1–5 is a **gap**. Nothing in a gap list may be
 satisfiable under rules 1–5 (no re-demanding).
 
@@ -158,6 +170,16 @@ in the ranking for this profile, and LOFR must show near-zero satisfaction.
       newest NWCG edition shown is `2026-09`.
 
 ## Changelog
+
+- 2026-11-04 (prerequisite alternative groups): added the "Alternative
+  groups" rule above and the `alternatives` field on `gaps_requirements`
+  entries (additive; empty for ordinary rows). Motivation: F2 AC-B4 split
+  CFMD's source anchor "FBAN / LTAN" into two rows that were then both
+  demanded, while the source and the FireCorps F1 pathway (which displays
+  "FBAN" with alternative "LTAN") read it as either. With the group, a
+  candidate holding FBAN or LTAN sees no CFMD prerequisite gap; a candidate
+  holding neither sees one gap, "FBAN / LTAN", not two. Prerequisite-chain
+  edges from CFMD to FBAN/LTAN are no longer created.
 
 - 2026-11-03 (spec-checker audit on the refreshed corpus, two forced
   fixes): (1) **Rule 4 for prerequisites without a task book.** `gap.py`

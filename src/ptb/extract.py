@@ -274,6 +274,7 @@ def build_enhanced_document(docx_entry: dict, pdf_entry: dict) -> ExtractedDocum
             provisional_code=p["provisional_code"],
             requirements_text=p["requirements_text"],
             attaches_to=p["attaches_to"],
+            attaches_to_alternatives=p.get("attaches_to_alternatives") or None,
             extra_fields={k: v for k, v in p["extra_fields"].items() if v not in (None, {}, [])},
         )
         for p in result["positions"]

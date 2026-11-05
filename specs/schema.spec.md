@@ -83,6 +83,9 @@ position_requirements(
   value TEXT NOT NULL,                  -- 'S-230' | 'FFT1' | free text
   detail TEXT,                          -- JSON: e.g. {"source_provider": ..., "approx_cost": ...}
   source TEXT NOT NULL,                 -- e.g. 'PMS 310-1 (Oct 2025)' | 'enhanced_gdoc UAIS section'
+  alt_group INTEGER,                    -- NULL: required on its own. Rows of one position and kind
+                                        -- sharing a non-NULL alt_group are an "any one of" group
+                                        -- (source wrote them as "A / B"); gap-analysis.spec.md
   UNIQUE (position_id, kind, value)
 );
 
@@ -155,6 +158,20 @@ Future app-phase tables (`candidates`, `candidate_completions`,
       raises an IntegrityError (constraints actually enforce).
 
 ## Changelog
+
+- 2026-11-04 (prerequisite alternative groups): `position_requirements`
+  gains a nullable `alt_group INTEGER`. Rows of the same position and kind
+  that share a non-NULL `alt_group` are alternatives: the requirement is met
+  when any one of them is. This replaces the "conservative reading" caveat
+  in the 2026-11-02 (F2 AC-B4) entry below, under which CFMD's "FBAN /
+  LTAN" loaded as two independently required rows. Source of truth: the
+  enhanced_gdoc parser now emits `Position.attaches_to_alternatives`
+  (list of code groups, one per "/"-joined anchor) alongside the flat
+  `attaches_to`; `load_enhanced_position_requirements()` numbers each group
+  1..n per position and stamps its members. Only CFMD carries a group
+  today (FBAN, LTAN). The PMS 310-1 requirements loader never sets
+  `alt_group` (no NWCG page expresses alternative prerequisites). The
+  `UNIQUE (position_id, kind, value)` constraint is unchanged.
 
 - 2026-11-02 (corpus refresh): (1) `source_documents.edition_date` is now
   populated for every row and stored as ISO-8601 `YYYY-MM` (or
